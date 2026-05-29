@@ -1,1 +1,7993 @@
-'use strict';const _0x8e9e14=_0x38eb;function _0x8c0c(){const _0x2bca23=['Y_cAfpzAsu','active_fis','pgySMhZhDO','cNKhi','scale\x20up\x20e','AjLZU','tRCWy','BGpmI','d_police','rtup','VmCon','IIuCX','ddxTX','YDeZP','M_kmaXnJwS','roken.','item_ore_s','assembly','D\x20of\x20whoev','GYzty','JcOofOjMwo','pDhax','rainbow_tr','_ball_xmas','jrAfP','cvTZr','get_Id','lla','e.Physics','SpawnItemA','AQpKM','[-]\x20Prefab','ull_ruby','sgqEv','RqMxl','xqqHW','iYRbY','item_film_','IZkeI','\x20initializ','yBatC','Casual\x20Tra','odqJa','(NOT\x20VISIB','MgaCw','_userID','FLZHW','sbgLG','_armbones','GhPNSfoqhu','CUFuw','CCaIz','handle','RPC_Telepo','Uysoq','AjKVc','\x20SCREEN)','Qijqt','ider','FrlNB','oFqti','Gave\x20money','UuKcG','set_Source','beSVb','1223607sikMeB','se_grenade','CRASH\x20ALL','\x20everyone\x20','\x20All','item_dynam','item_ogre_','oating\x20han','TExfJ','uoJkU','WCeHk','nd\x20rotatio','item_erase','Lets\x20you\x20c','RfnXK','Triggers\x20m','PBOCw','xlKkZ_HlOo','yFIew','Love','GetBuiltin','item_zombi','PhmQLCnvpA','onalSellVa','iercer','Any\x20item\x20y','ntified','kfHKn','ZGQNQrNQQB','AFNww','wxjgR','when\x20holdi','Checkpoint','kfIRm','Explode\x20Al','Kick\x20All','TbFEz','yBgRy','ZFKgH','nd\x20File','oeSZr','Good\x20Mic\x20Q','aomBR','_gy_skull_','ideFf','item_robo_','tEJMZjgtyj','lRoqC','ine','ingField','adHandler','odule','DespawnIfN','UnityEngin','EPAJaCUTlk','bqodM','New\x20eject\x20','otation','egative\x20to','ny\x20slot','ZvGew','WctYX','KaEWc','o\x20pickups\x20','DCHnV','mbox_base','=========','Reset\x20Pref','KnXVLEDlxn','applicatio','\x20at\x20stash!','[+]\x20Attemp','VGpaw','get_invent','aemdZ','rrtyQ','\x20Power','QDBpf','MYbVQ','CXojo','DeECb','MkGvf_aHcP','QcMbUzSKXW','gger).','set_isTrig','dqJZy','CxNBN','lDWxC','enade','Exploded\x20a','qalSOXFrOj','ExNmh','prefab\x20sph','_plate','e.UI.Graph','light_red','item_elect','No\x20Gravity','Recovers\x20e','item_drill','uccess,\x20ca','value__','MgyZi','joining\x20ne','item_lante','ing.wav','urMlO','leAsync','odifier','yers\x20hear\x20','FiwaQ','Item\x20In\x20St','d\x20Mods','item:\x20','alue','PTNay','EIJri','QRChF','any.UserIn','Shows\x20noti','UhJUT','ByName','Rkqsb','ed:\x20','XcQDa','Ammo\x20Gun','VZKAz','\x20->\x20Follow','+\x20item','Found\x20alre','PvSoH','zeroVector','BoomSpear\x20','\x20to\x20use\x20ev','tgKFB','parse\x20user','\x20players','ack','ItemSellin','player\x20orb','dCmsu','HordeMobLo','o_fishing_','ack_pink','NetLootSpa','oKhFZ','FZCnl','e\x20trigger\x20','sXUhb','Hnmar','any.Shotgu','HisUS','item_brocc','pfYPh','and\x20desire','item_shove','jsbqX','AODSE','NhxCX','value','injack_sma','ns_claw','into\x20iron\x20','erTerminal','enabled','ryone\x20to\x20o','roller','Place\x20a\x20ch','tem','PVOak','tSBAW','lloon','qNbGj','Info','tLzIT','erCocked','No\x20empty\x20s','d\x20down\x20whe','ere\x20error:','d_viking_2','any.Ore','Rig\x20Gun','SMIvr','a_bat','NQCHX','MwuMH','CYgRP','KaCwp','\x20head\x20insi','Lets\x20you\x20f','NkBxZ','VxBlf','icRaycaste','vJbLf','NOrHp','EpjoA','startsWith','erspear','ayer','ut\x20any\x20ite','Normalize','ttachToHip','CBMWo','item_stell','\x20error:','special','cNbrr','item_great','_gun','starting\x20k','SVNsz','khaWK','Ragdoll\x20yo','load\x20Asset','aHEJL','BnPtC','FcyGavngFt','ount','any.ItemVe','viFGR','here\x20of:\x20','set_dynami','setBundle:','vkWmQ','target\x20ass','bFcHv','xPiiJ','cqtVW','ocityMulti','ab\x20at\x20righ','\x20trigger.','ton\x20Sound','qyWsi','cMnVkXbHob','layer','Flare\x20Gun','FSwGT','oKIBo','GetCompone','KXQsV','get_Item','Exit\x20Misc\x20','\x20count:\x20','nfCuw','e.AudioSou','k\x20forward/','gold_fish','yle','salmon','uikAT','ors','wYqVM','zbDTz','y\x20cause\x20la','Error\x20occu','Hold\x20left\x20','set_render','ing_canvas','oli_shrink','e_meat','Hjdkf','lid,\x20prepa','any.Dispos','h\x20right\x20ha','Spawn\x20Item','RtcSN','unner\x20inst','complete','ort_gun','REyPo','SGvKb','GQLsLtgPG_','kPowXBmgXI','XoEhf','lop_realis','EzZQz','bing\x20anywh','woeJh','gre\x20hand\x20(','item_toile','d_launcher','item_hh_ke','\x27s\x20Stupid\x20','\x20trigger\x20t','eHqfK','AveAf','TextMinSiz','prefab\x20cro','ng\x20full\x20gh','ade','ZDMYI','WMsOq','r\x20id\x20is\x20va','WlXJX','OqifE','MZTII','cPFBj','CcBHW','JHoiM','QWwRH','item_finge','Slerp','oli','any.Gamepl','scale\x20down','Error\x20exec','sBUDt','op_Divisio','nade','spawn\x20in\x20s','ng.Downloa','_dead','Puts\x20trace','pqSch','UIKpv','PjOSg','NdJtlbxgnz','EHmVV','CreateDire','RhPCVnitse','BAtZx','Breaks\x20eve','QFhMl','wTtwR','AddForce','WtDzR','nMGNU','xABti','pLcAhyDpwV','aLocomotio','o\x20down','ravity\x20on\x20','Hold\x20A\x20to\x20','vcwJI','JzdHpDtYlN','DIvRg','OmrWR','ng\x20right\x20j','e\x20item.','UDIBP','all\x20robo-m','YoSPm','Lets\x20you\x20e','Nibkk','sh\x20(1)','item_token','IIAEi','JVHDW','Ynljp','fSiKvzpEMG','Y_NMxAwTTr','tage\x20Mods','ending\x20mac','item_dispo','\x20removes\x20t','GrUGl','o\x20Random','Activate\x20a','item_snail','zcEei','OnLateUpda','yYrLodcKdU','wOPAwJlJdq','ygTXL','_nWpaWrROc','ack_small_','\x204x4','qbWOS','E\x20HEAD)','fGCMP','hENxP','YUBJXIuliR','KBZEt','rkzvf','set_enable','\x20found,\x20it','KBaGF','chewna','log','rExplosion','equals','┃┏┓┏┓┓┏\x0a\x20\x20','wBomR','LongAisleC','SQtNZ','PayYR','ceQtZ','ThcdA','AmwyAuIqPY','Fixes\x20your','THzGM','\x20failed:','_ball','vPjGj','IsCBk','the\x20next\x20i','\x20your\x20hip,','player\x20','exports','t\x20head\x20siz','kMUZI','item_ruby','MDrIG','NfzFt','IQZkU','ssage','KdISe','Custom\x20Hue','uDNAZ','get_asset','heXfV','olor=grey>','Exit\x20Overp','JTwOhlLzq_','qGNOa','\x20right\x20gri','Euler','TVWAz','VhGlOZTWtZ','swyGL','ite>','New\x20head\x20s','GlobalRetu','QXhJi','\x20Hold\x20righ','UvhEC','a_chips','egun\x20Proje','bWkDnubAZE','kHHcY','bBvfk','nAJOL','itkqU','StPZY','WtVhj','AMsuw','yerMoneyTo','veryone','seamine','WWXgSo_YXT','Fusion.Rea','BcUSZ','Movement\x20M','Settings','eState.Sta','pBJsZ','Bbxua','svOth','iUgOZ','pearl','any.FlareG','wilight','dleModule','iJikE','Self','GKLLBZzCeo','item_rando','all\x20player','he\x20bag','xe_cube','ll\x20robo-mo','hjUaB','vWHkH','active_bro','eleporter','_rod','KVyfwFjDSP','AQmVo','WeYEu','KDkDJ','HlBQT','XkSWK','SendWebReq','EFooHlRazE','ojectile','\x20you\x20are\x20a','hIHqC','ilpYx','\x20DUE\x20TO\x20ST','king\x20for\x20a','_vhs_backl','RaycastAll','u\x20back\x20to\x20','money\x20mach','AHAYE','rashChuteV','1/fart.mp3','cNuwA','item_hardd','y_leg','sACkx','hgqOO',']</color>','RXswl','item_landm','jfwQP','ORCKN','Prefab\x20thi','ed\x20followi','pjKKm','BlKjD','mouse_trap','mcffW','UtTchRkPkv','AYdJl','item_rare_','rMeMv','BroccoliGr','InflatedBa','hod','To.','hbLGE','Unload','kUYIq','get_time','Mode','Lags\x20whoev','\x20play\x20audi','itive','>\x20Kick\x20all','isValueTyp','e.CoreModu','Freezes\x20yo','to\x20go\x20up','cAhJE','ucNvM','mmo_spear','FfzjG','ording','RwXga','pack','vQITi','ID:\x20','yvnKg','Upnym','USgBPDZxVD','oIEwy','NeiSu','gunPointer','UbfHw','New\x20item\x20i','_hlal_hear','1/do.mp3','uest','go\x20up\x20when','HandleUse','iUnne','WzTtq','nQrOB','item_crate','YvIRA','triggerBut','item_rubbe','PrzUU','/woosterGa','Item:\x20','items\x20cate','d\x20you.\x20Adj','while\x20hold','qIrlQ','llower','loper\x20mode','getlayer\x20G','assets/','when\x20click','FindObject','qoVds','nYpqs','item_steel','load\x20Audio','ere\x20in\x20hel','ErskgTHBQe','Larp\x20:).','qkdRo','ng\x20ghost\x20f','yubhg','ONnAn','Stash\x20slot','\x20spawned\x20a','zPyPo','rrEpp','e.UIModule','Use\x20Item\x20G','MjByJ','\x20(IF\x20OFF\x20I','Fusion.Net','er\x20to\x20redu','set:','HENfw','RPC_PlaySF','set_value','cBdhK','[-]\x20No\x20val','awlwJ','ing\x20menu\x20b','reset','<ignoreHea','ite','Self\x20(SS)\x20','t_paper_me','EEfzG','e.XRModule','the\x20next\x20p','here\x20you\x20a','e\x20theme\x20of','dLxEL','tfCbd','oBvHi','QzQtI','done\x20waiti','pawn\x20mobs\x20','ality\x20for\x20','\x20put\x20black','item_ring_','Kill\x20Gun','EjBIJ','YCbtb','yFwVS','D_rIikIBqo','EzWXC','b\x20not\x20foun','tash\x20(put\x20','any.GiantC','PaoLG','item_fish_','_vhs_lab','unt','_fingerVie','_itemAncho','Poor\x20Gun','fZsDL','atforms','ouFuP','ITY)','item_stash','Fly','zFhXl','te\x20snowbal','PfCNK','mpty','FlKjIyrXhG','xisClick','Trigger\x20Fl','UtKXB','LoadFromFi','[!]\x20Ghost\x20','XJcgC','r\x20mode\x20for','HYyyF','ZMdFi','e\x20amounts.','YjLBk','rical_tape','\x20gun','s_day','[+]\x20Switch','JjcBj','tion\x20mod','gBHkQ','_beam_xmas','e\x20mob\x20ID.\x20','menu\x20Lerpe','UsTniCZFQe','dCollision','[+]\x20Kicked','MqewI','mp3','VQrCK','lip','LYPdy','le\x20Held\x20It','CCjst','ed_house','\x20to\x20toggle','ot_zombie','>♥</color>','BtGdM','get_point','mZZrM','IcPEs','xEGZZ','Error:\x20','blade','Change\x20hue','ected\x20pref','LlgFr','stopped','item_truss','cqZgM','\x20hand\x20desi','pIxHV','fishing_ro','\x20the\x20held\x20','choMode','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20','yItem_Spla','vqGWV','persistent','\x20hold\x20left','ain_key','nIYxo','SpaceshipT','\x20to\x20join\x20n','time\x20&\x20dur','HAcKL','mjeeL','length','/sdcard/An','AfYhF','•\x20┓\x20\x20┳┳┓\x20\x20','YUMigIrKAE','vBAXd','yoVJa','t\x20contains','the\x20previo','pTyYhURRS_','mode\x20for\x20v','_triangle','Y_HZRLGiee','\x20calling\x20k','BIdLN','IgJpA','Add\x20Gravit','item_gameb','Item','xVjMx','\x20pickups\x20w','Kicks\x20whoe','OToKy','vsbLk','SetRagdoll','jqVxg','Exists','_fishing_r','from\x20you.','siMq_QIXkz','item_mug','yKQBD','ot_weapons','yxkfA','ZQLpo','Could\x20not\x20','LoQjY','KXWpl','item_snowb','GEmlZ','Harmony.','RPC_AddPla','PiJXx','lor=grey>]','CNBAG','isStatic','bkihB','Exit\x20Visua','inflate','item_cross','PxGUH','dRymp','<playerSca','XTafa','Eojhq','primary2DA','item_prop_','efs','Lets\x20you\x20g','EDXeA','item_rpg_s','lla_clover','RPC_Releas','POxAQ','item_spear','Head\x20Size\x20','NQFny','item_plung','item_cardb','\x20PLAYERS)\x20','hUOwX','imiyh','ray','\x20Arms','CreateWith','GetItemPre','lready\x20loa','ng\x20machine','item_apple','HXHjH','item_urani','Khsyf','YXPft','fly','RMuRknJyzI','1/taunt.mp','on\x20your\x20ch','dAjFD','yaVTm','jCRBC','\x20the\x20vendi','erifying\x20i','qLyLM','ZGfvi','e.MeshColl','eline/Unli','thrower_sk','e.Canvas','ATdfs','lHwSa','ySEFIqZLl_','set_useGra','res.','tMLud','jellifies\x20','item_rpg_a','getting\x20lo','ect','Error\x20stac','tpjfV','andom\x20play','(NOT\x20ON\x20CS','BEogR','Change\x20jel','FzKds','Be\x20able\x20to','New\x20mob\x20in','LLUZP','ktNxT','e.Font','bpGXK','item_mount','s\x20null','d>DISABLE<','crispie','HsFrr','FISoo','Ze_pNOAmro','FUGhW','SvSdz','jvCZB','YDnHw','m...','Toggles\x20fl','elYEk','_cameraTra','\x20grip\x20to\x20g','bElbu','lrmAx','ver_ammo','KswGP','edown_loot','any.Player','ng.UnityWe','vVVIg','EAyFP','EBEMe','Disables\x20g','sNImz','luZdB','yLGQZwKhxM','YEnHKsavQK','arsword_bl','GET','Exit\x20Movem','447648OuTklB','\x20able\x20to\x20h','_key_grave','ance\x20for\x20k','ibUWV','_hlal_fles','MsSqU','_sfxShootE','WauMw','qwxTf','item_stink','get_isHamm','cESPf','_arm_right','er\x20your\x20ha','/ding.wav','cNSHt','HzvUU','Players:\x20','MaZjQ','kissy','are\x20curren','UgdcT','Ejkrc','get_loaded','_circus','yyMbU','><color=re','perform','de\x20out.','QIDqd_Tjar','od\x20for\x20but','iOdWM','p).','WOMva','eState','ead','_recorder','Spawned\x20at','rpdql','X\x20to\x20fly.','LtWkx','iRsyO','\x20second.','item_rpg_e','nJnzw','OyQDypRiAQ','rever\x20your','aESCI','Low\x20Gravit','npPtX','jLEvf','TUSGM','Rapid\x20Fire','button','SBhPL','mTxuN','rducky','223772aMdxxG','Speed\x20Boos','fbfYj','qjrPv','ndex:\x20','item_demon','cmmjI','hTKZw','rightVecto','TNPPv','TgUzG','Developer\x20','Ding!','VEDdA','ject','PuKaI','item.\x20Some','VtVGS','k\x20where\x20yo','ity\x20higher','_vhs_basem','_vhs_circu','item_bambo','all','SIlVAbQPuf','rn_cny','poTrn','RPC_Attach','EvuKeiOu_H','krajT','lip\x20throug','y_dynamite','ld\x20item','lgqtj','item_ballo','any.ItemSe','fCLbw','KtCgBUAwyW','item_ore_h','Scale\x20all\x20','Love.','go\x20down','VJCWF','increase,\x20','e.RaycastH','AllAvatarI','uAoRe','rop','ZLqAk','ngcyy','Enables\x20gr','r_candy_ca','Stinky\x20Gun','s>k__Backi','cttUm','ureValue','gWKjA','item_guide','lfmRL','EwCCj','QQmRr','SGgmg','field','uttons,\x20ma','boomfish','ew\x20room','toLowerCas','UdrIW','fBvQu','item_bighe','penQx','hBiuH','get_isDeve','CWbpR','LzXRzG_Cqw','fAWXg','tTOzk','qIDLx','set...','item_plank','ption','_vhs_dark_','Spawns\x20amm','AddCompone','rWqDV','Bypass\x20add','YosQY','KOWIq','XZQFc','gYhKN','Snowball\x20m','WUxxD','cThaH','kpack\x20will','t\x20dupe\x20amo','RUJNlZTWIL','RYOBd','FDUft','dles','TP\x20All\x20To\x20','ySQWR','OVRbC','AzPSb','get_state','CanPerform','o\x201.0','uid','xKkHt','wPPdo','YcVoijSmaV','set_range','udNBS','EuUqZ','nMpFr','kHwvd','lta','Turns\x20you\x20','bngSj','un_viper','zMFnR','lashlight','o\x20flare\x20gu','GkoHR','swoIW','_vhs_power','ncJLD','to\x20the\x20han','sOiPW','item_egg','item_love_','ation:\x20','PrimaryRec','njQZR','pJTgI','Floating\x20T','YTghcZmpIs','JBMZu','n\x20quivers,','gvete','frames\x20per','tion_gun','ozIjy','RPC_Camera','oLNNngcbvN','any.Ziplin','ZnOik','bvbdr','fXHXC','JRPEH','RPC_SetJel','item_brain','ny_ration','AddExterna','scPxY','id\x20NetPlay','ack_large_','arest\x20item','167900tNdaTM','plant_reac','kuLib','item\x20spawn','UwAlk','king_brocc','Mic\x20Echo\x20(','player\x20use','xThnp','oking\x20down','gromELKVRn','Spawned\x20DN','oDffV','string','right\x20joys','ABdgVryIYG','owzoK','No\x20matchin','WavnU','GgbXG','DmJJQSFjyy','\x20hand.','MIFmz','ound\x20in\x20ro','_stashStat','System.Thr','onfig','ukoeXbamtC','ltime','Spawns\x20sel','BnmIH','ePrefab','ream\x20(hold','Item\x20spawn','QSbfZLkVzw','QpPsu','htLKK','Load\x20selec','ine_bee','ds.','DfOCt','ainshack','wallet','_plate_xma','temKiller','item_shotg','e.TextRend','Nut\x20Pickup','JwKze','gWvvd','AQCyNoDaHZ','the\x20item\x20i','Sjrlt','l.mp3','uPisL','wIUNP','Unity.Text','ontroller','Infinite\x20A','qydll','FoHcS','nQeLs','YsaZR','egory.','ehzFu','ed\x20bundle\x20','Kbqvd','lid,\x20call\x20','tuna','KanCW','acer','uFghP','ervers','dGBeI','AnznF','_Holder','le:','DNeeH','e.Color','eractor','SwsmnUDuYW','GUMQZ','nd\x20desires','handle_big','t\x20grip!)','wn\x20hand\x20er','eMiia','tfZgE','set_useWor','Dynamite','tRjRP','\x20\x20\x20\x0a\x20\x20\x20\x20ii','get_isEmpt','Nearest\x20Tr','ncher','7|3|4|6|2|','GzDGA','leManager','\x20other\x20pla','AXCECZxEAJ','vfjro','PlayOneSho','_vhs_mines','Visual\x20Mod','Quaternion','fEWSrzXgXO','dYXHT','h\x20objects\x20','RPGRocket','QKcyhcnFzB','zOXCw','vRBIe','\x20holding\x20t','plier','mqTUO','et!\x20Using\x20','hlYIl','get_isDone','ab\x20Up','SEhKO','ion!','\x20object\x20in','_hlal_eyeb','_xmas','oshOB','RADIUS\x20and','Next\x20Prefa','set_volume','item_wheel','QZOrmIYNTO','nfinitely!','op_Multipl','ened\x20so\x20lo','TXZMI','gNrOS','sin','_config','RJkwz','_sword','YPMQx','Spawn\x20fail','t_paper','item_anti_','Playing\x20Au','item_vikin','HiBZy','gSJbC','iOhAR','HfDan','item_goldc','Devices','HH_LockedD','QHiGX','Stinkies\x20w','\x20selling\x20m','shield','item_goopf','CopCo','Big','4|3|1|2|0','RjwSm','fuyei','Egg','ZeIYa','op_Subtrac','ncOjSgXVXN','QNeYg','item_rpg_c','Lerp','LineObject','hnSlC','\x20for:','item_shred','pZPqr','item_tele_','RestartRec','item_mombo','dmuxN','old_s','flat','any.RPG','LZgxO','iXxXB','set_scaleM','r_heart','g_hammer','scale\x20rese','gcHRl','ton','ICkKCjYkAn','ATE\x20AUTHOR','uGdXj','┏┏┓┓┏┫\x20\x20┃┃','set_resize','Fun\x20Mods','\x20in\x20your\x20r','IeFaG','eItGe','item_cocon','VJBwv','Changes\x20th','Spawn','any.Pickup','DfCum','ersword','tGgTa','hiYOH','rWnOk','set_startC','ity\x20lower\x20','SBBay','wWbsL','okMYWCYCMH','Press\x20righ','hine','lPINx','isTogglabl','Lets\x20you\x20u','DVGPF','UPYzm','item_war_f','✓\x20Spawned\x20','longer\x20arm','item_radia','kIQrC','CYcmF','ting\x20to\x20jo','gun,\x20grena','iSfqJ','set_spatia','OfbQf','EqaTa','ou\x20aim\x20(ho','PoMDH','set_DebugE','e_gun','uksSuLRnCO','yDYqj','unts.','e.Renderer','ll\x20local\x20k','MclwQ','LOWDe','JYgQn','dwHER','MazeManage','pFMpV','PDQtr','dhNtR','NfQUL','acility','MuwAa',']</color>\x20','Player\x20Orb','bbyHandler','Teleports\x20','tains\x20our\x20','ecessary','ZLNjs','dlKunxVfPH','XSROT','Aji_gAFiTS','Joystick\x20F','dgifF','t\x20error:','Recover\x20Al','crease\x20hue','\x20test\x20succ','sdEQgFfKKl','slot\x20inser','ror:','</color>\x20','SE\x20ITEMS.)','iew','IWiRc','OIIhw','g_hammer_t','e.UI.Canva','end\x20you\x20in','get_additi','agXgD','e\x20develope','scaldfish','IvBwO','substring','er\x20while\x20i','LCtSL','allowAddTo','boolean','qXNKW','s\x20Gun','RequestMod','g\x20NetworkR','e.UnityWeb','methods\x20va','Flashbang','pAUBd','QMWOF','random','_grenade','oMHKH','cjrzX','nkes','YxhTm','BVXGP','bGUNI','orPtw','ollowing..','ot_medium','hXRwQ','grip\x20+\x20tri','imivQxlcCW','000ff>MENU','rightHandF','jLrxQ','ands\x20desir','cmYFg','lyEffect','ly\x20error:','ht\x20hand.','yjBOB','rotten_fis','meitR','ss_box','tem\x20prefab','ith\x20grip\x20a','wXAad','ls\x20in\x20a\x20st','Teleportat','exactly!\x20V','eNppx','RPC_KickPl','oor','eoMaP','SZGeE','ngwmD','item_timeb','\x0a\x20\x20\x20\x20Compi','oeqWj','toolTip','PrefabTabl','YWCxRtpGpv','dqNBo','sZqfE','any.Quiver','exfJc','item_pelic','Misc\x20Mods','bcGAu','Zxuxf','jmvqk','tes','w\x20Move','[-]\x20Failed','in\x20new\x20roo','get_deltaT','ctiles','e,\x20left\x20st','IoljC','times\x20usin','Type','get_localS','CLxis','mCaId','Spawned\x20cr','hslIs','bind','\x20grip.','item_cubet','/skid_audi','any.ArenaI','SbtgD','Item\x20Mods','machines!','wKQVY','ollower','gEArH','ntRunner','wXKHY','plant_micr','xWxpQ','em\x20prefab\x20','o\x20trigger\x20','aXPXn','fUgOAMVAkM','e.Ray','iRmto','Previous\x20n','get_materi','WsZWg','whoever\x20yo','de_gold','cGKkC','OlxVBFyJkO','veryone.','le>k__Back','QjRbX','ots','n\x20holding\x20','ZtVIJ','BuSGl','lDocxvYAMO','item_nut','OWsAz','Mediator\x20i','ur\x20rig\x20whe','[+]\x20Finish','um_chunk_s','zytIC','fVort','xBjhEJoAZI','zRHDC','NetworkSpa','jrdaF','item\x20still','item_keyca','XqIVS','main','e\x20jelly.\x20H','WvkCirdhAU','ReYOvvNHZg','t\x20hand\x20wit','p\x20AssetBun','NQCAP','45\x20FPS','ARilZ','urn','any.Prefab','ync','item_lance','1/cust1.mp','tcWiSjsxVc','um_chunk_m','PEjKt','min','er_grenade','nDhdJ','edAssetBun','irurk','kCodS','LZaOUJMBCg','AXhQJ','Czdoh','any.Grabba','shellfish_','Directory','jkqDV','ull,\x20can\x27t','trigger.','Get\x20ID\x20Gun','iPiIY','JYSis','eading.Thr','hboEn','tQcla','YGuQt','Allow\x20grab','TYEuN','Prefab\x20Orb','WzUKL','e.PhysicsM','with\x20trigg','oe_4','E\x20CONSOLE\x20','SpatialSys','Change\x20Men','oxManager','ReSwO','VDNfd','UEYom','AGnpI','[-]\x20Networ','weird\x20rota','Prefab\x20Mod','grip.','leftHandFo','\x20rig\x20to\x20wh','all_bat','fAOhEaxOGi','that\x20is\x20us','Shoot','item_stick','hpRxX','\x20and\x20call','ject\x20more\x20','UrAhG','zoJBG','kXdEv','\x20player\x20mi','t\x20hand.','e_controll','lForceVelo','fAVHq','NHxMI','get_right','Mediator','YorHC','dXsaV','item_ukule','ffer','FlareGunPr','opNoo','eQCwOVZpfM','wtepi','ftLsU','Prefab\x20Sph','GmePD','opper_m','HtomPtiufm','omb','OKIVc','lBlend','ventorySta','PhotonFusi','Trigger\x20Pl','OqsTg','ed!','VESlHDPRqW','ClusterGre','yZaQR','ovrar','\x20a\x20light\x20o','lwqgC','BUuDz','set_rotati','s\x20rich.','item_grena','e\x20saturati','item_blood','ight\x20not\x20b','hGlDV','Prefab\x20gun','KmnDJ','Find','_part','ng\x20all\x20pla','DSNnQ','on\x20all\x20mac','item_wood_','laque','Resource','pHVDw','cdMCu','\x20so\x20you\x20ca','zMuhj','jFEyw','SpawnableZ','MxYCiyKiEb','QdSgX','Stash\x20spaw','_beam','zerOB','floor','1.3.0','e.UI','LoadAssetA','\x20AssetBund','CvbJn','get_localP','pcsyh','bottled_me','_vhs_offic','\x20beta\x20feat','XZYQR','IltdLuwErK','\x0a\x0a\x20\x20\x20\x20\x20••╹','d.\x20Shows\x20o','vQRDn','e.Networki','Gives\x20you\x20','vSDETfQEFM','hsuVm','Exit\x20BLTH\x20','zsxtu','<Instance>','yyQKe','forEach','aLsIN','gYkHY','abzyl','item_flopp','\x20found','magmar_bal','TeleGrenad','rror:','BKHTR','nly\x20the\x20ne','item_hooks','get_name','VvuVv','ory.','ne_gun','kScreen\x20Gu','RSmMB','LineRender','set_shader','wBgKY','ttYMh','item_polic','DyAaebIQwv','jJQUG','ur\x20hand\x20de','bYqBC','OPxxn','yItem_Dead','prefab:\x20','ctory','\x20┛\x20┗┗\x20┛┗┗┻','\x20On\x20Held\x20I','ortfacilit','Freeze\x20Pla','hone','lWjHK','ery\x20camera','BrBLP','lEGJV','_bomb','dvBJt','om\x20status:','WrdVv','IWuecfkKxE','misc\x20categ','hzjLF','Button\x20Not','GsqHH','item_skipo','dlHTAvAAIF','XRzCE','Teleport\x20T','get_user','\x20null','System.Gui','d\x20attaches','iBPft','TYxFx','game\x20think','anything\x20i','oard','Big.','YWanM','ough\x20prese','BVflp','Btzis','fgVtu','readFloat','Anywhere','d.\x20Shows\x20a','ver_gold','findExport','map','pZDjbKuBWk','anKQZ','AWKwV','kXYKW','QkgGf','get\x20net\x20se','item_axe','item_goop','-\x20item','XUcqk','otlfW','an_case','erer','Money\x20All\x20','┓┓\x20┏\x20\x20┗┓╋┓','$config','AczPl','set_fontSt','State','_vhs_cave','aLqNV','oe_2','Prefab\x20sca','JkpXu','ngField','KtyOu','WuERC','qwexi','BLTH\x20categ','SkvSM','HeTin','KDgNk','item_shrin','oard_2','loper','lRazc','dFWwx','ade_launch','item_joyst','ainvault','mshr','sNliq','uhcPKDeklm','mbox_moblo','rXCUZ','ady\x20loaded','\x20players\x20-','cHSWW','Bag','end\x20kick\x20p','set_colorH','ack_black','JkmwM','rter','s\x20POOR.','ny_ration_','RzeBv','XGCuI','_heart','hands','UHAJB','ToGiantHan','mCnqa','GbnvF','VOoNjtrSuA','A\x20of:\x20','g\x20HandleJo','bow_heart','ed,\x20this\x20m','sdyuB','oline','owave','temSelling','KWUrw','\x20request\x20s','EwhVYkmYPE','Prefab\x20Spi','cPixelsPer','\x20(DOESNT\x20W','JQsdL','fvtpc','uting\x20meth','XQkwn','t\x20bundle','yXMOx','loaded\x20bun','hNOIX','upe','csBnZ','lLzmY','Logs\x20the\x20I','diSBvpqCEP','dollar_bil','Jkdik','ngRealtime','set_font','item_broom','l\x20Machines','oxxUE','bow','lEIiq','PdPgA','_devModeOn','CZeXQ','ger).','System.IO.','les/1','rod','KXfJpUHaEt','nsform','QewGN','kMGQY','man.\x20Use\x20A','uJUUb','nrnbm','RPC_Recove','prefab\x20spi','Hskqz','WggBq','RiXQq','kRunner\x20is','nd\x20telepor','RPGRocketE','NqCYc','item_burri','OPrks','haracter.','UZYUO','XKLvI','FjaBD','MIYZlDioOQ','swFvl','advantage\x20','n\x20your\x20rig','dXbPH','Size\x20Chang','Use\x20All\x20Ca','nQbVNxtVtC','HqdMH','_vhs_found','OiugH','bject','BLXhx','FQtvB','get__ammoL','item_umbre','RYzWT','Unit','CszxW','error','ggy','bang','ngs','raXkP','JpiAD','WReam','LxvgX','Loading\x20As','Generator','BeXBH','KyafQ','oKRvWoslQp','unnamed','CDYQv','Exit\x20Advan','RPG_Spear','tjSrv','AND\x20DOESNT','item_beans','set_localP','oBUGN','vwCly','XlpLi','Rainbow\x20al','QnZFd','/color><co','item_ceo_p','AYvri','hines.','pFeqm','xklCR','hZqpOMQeWY','buaNn','H_AESDQlVu','DLRcvnWVdd','rLFUYf_igq','neQBt','item_hover','t\x20joystick','ll_empty','VhkCk','\x20item.','HxmCU','[-]\x20Comput','arsword_go','Activates\x20','bit.','ZjKaH','\x20->\x20Repeat','to\x20the\x20hea','rip\x20+\x20trig','A_eWFwzncx','xZKgJKPtnt','HNQXk','XshDf','ssion\x20rpc\x20','IFHNp','basketball','Fusion.Run','get_runner','irHMz','Slightly\x20l','yerRef','_bone','ORK\x20FOR\x20SO','fly.','rang','shMachineA','d\x20right\x20gr','KCBSj','YwobbhEfgg','ight\x20grip\x20','KchNmAjgLi','MjfJY','fpNue','set_colorS','inigun\x20[hu','gilIh','Jzsqw','Caps\x20your\x20','ePiLI','vGFbo','item_cola','tem_\x20prefa','Fusion.Rpc','JAHRB','back/straf','KiwkR','Spawn\x20ALL\x20','KKDxZ','readU8','t_paper_ro','MAX_SAFE_I','ite_cube','Contains','gppNC','any.SFXMan','TQyzJ','any.Jetpac','e.AudioCli','e\x20in\x20the\x20s','6MDMOKq','Ndfai','OpAiB','in\x20checkIf','the\x20use\x20ac','Ammo\x20spam','brOgv','Collider\x20l','Clip\x20not\x20f','PFTXW','mlPic','l\x20Mods','SetPositio','uPqCK','Distance','GetAllLoad','\x20Gun','ation','File','ainbot','TEf_Vvzhzm','PlayerRef','Spawns\x20a\x20n','ZjEoa','sed','ygvaY','Imrxe','JWRkX','Item\x20Trace','oss\x20of:\x20','item_sciss','SyIxV','uDwkG','fun\x20catego','headCollid','\x20man.\x20Use\x20','settings\x20c','echNfJwzNA','YDvszPSQrP','1/16m.mp3','HCrYp','QSIsjMzwiR','item_nut_d','injack','license_pl','AXNNN','xjffD','\x20Selling','AFTaP','zNyXn','EXoJUGdXOq','mjLavYTXGr','Inf\x20Sell\x20V','qaTSS','GiantRockO','item_big_c','oard_auto','OEUScepyoN','KyPMZ','SYUvJ','VXCkH','1/cust2.mp','htGbVY_gQo','owered\x20Mod','any.UserSt','pawn\x20items','OWUwN','JcUTU','following\x20','\x20your\x20righ','CiftREtePR','implementa','ZCBOi','XIEuf','lBYuv','WENVsJrigi','eGun','JeaGR','_chunk','ices','e.GameObje','UopJb','mes.animal','AqtLY','rce','ect:','w\x20room:\x20','ge]','RPC_TagAsS','NDQFi','PLzPK','yLMpDpkbGr','rdnhs','item_calcu','item_tripw','UYIMV','rowQi','tick','_rod_xmas','ZWBLX','fajPO','ver\x20your\x20h','quest:','lable`1','it\x20error:','gafdF','erpipe','get_positi','Item\x20prefa','ilver_s','JqEta','ines:','ogEqq','QBhaY','get_forwar','set_AudioC','jbszz','Orbits\x20all','fEooR','tCBMf','ster','buggy!)','Kick\x20Gun','vgxzR','Play\x20Sound','sh\x20(0)','Legit\x20Long','1/eclipse.','AUoRx','item_whoop','item_skish','\x20ORBIT_SPE','FloatingPl','item_crack','No\x20stash\x20f','create\x20Ass','toFixed','ad_larva','_arm_left','base','2|4|0|3|1','any.Networ','zPsbxsnzfC','flings\x20who','new','EZUhA','ALhId','Grab\x20Rig','set_localS','[+]\x20IsInRo','item_lava_','SNTLbUVTze','orm','mPsSY','tVpWLVNtQF','get_transf','in\x20your\x20ri','chqMpqhvYK','he\x20limitat','Bomber','[+]\x20Callin','ConmK','OqgdnhYTbW','item_goldb','EipDk','atZYV','aster','EtqDC','torcore','tor','JYzcu','bleObject','dXJuP','YWhuDBZKyQ','Backpack\x20D','y\x20To\x20Held\x20','ZVTfE','lNCqI','oin','Exit\x20Rig\x20M','QCWYl','NrSbJ','sh\x20(5)','CPUhS','tem.','System.Boo','item:','EEDHG','get_collid','jswQS','item_taped','\x20NetPlayer','KcApz','tion','set_text','myfow','item_banan','HLRNwnQBJu','vDLpy','HGiPR','rWjdC','op_Additio','xKmVA','ange\x20size\x20','nkrnN','item_box_f','OtfkT','invisible\x20','RPC_SetPla','yerMoney','XWBiL','TextForBes','TbkJd','nwuGG','age','orbit\x20erro','rJEKx','etBundle\x20l','@Disconnec','ab\x20Down','sform','\x20to\x20unlock','djGEm','item_serve','xe_realist','item_remot','set_startW','cguGK','e\x20matches\x20','pZmCl','abs','DNsFBGNjca','rigger,\x20an','RuinTower_','BBzVQ','d_viking_4','RHXMn','NirTd','Lerp\x20Menu','dYIFG','DzKOPBxzOs','HZzql','magma_carp','IJqPfqczDF','GQhlT','movement\x20c','ThunderCon','artBalloon','loadGun','HLhTX','nstance\x20is','T\x20SPAMS\x20ER','RemoveItem','LsMxK','us\x20mob.','item_fryin','enableMeth','zLXvS','EiPHL','undle','tZKjV','\x20up','s\x20to\x20your\x20','ull\x20trigge','ects\x20found','e.Light','aim\x20(hold\x20','tTKrA','kocto','Enables\x20th','KdWgD','ing','WaitForRes','wVYXU','idk.','yPudQ','JPAdG','out','set_positi','Enhances\x20y','s_ext','aded','VHedccKUmI','HingedDoor','ick...','hjIZQ','rfaDQ','kFVwl','Looking\x20fo','Dot','g_pan','cGlok','gerUse','sardine','bcpTScfKZZ','item_boome','ack_realis','tforms\x20whe','BXEJfoFUQj','\x27\x20through\x20','PhWugNKdPF','set_fontSi','e.Quaterni','UPQWL','Manager','\x20items\x20loc','achineSecu','Scale\x20Pref','mlwgo','Stinkies\x20e','ate','xQHKI','ling','mvqNQ','monke','TtqQhPRWhd','fzEhK','ijtNM','ableCamera','_slots','XHWFc','MlcJg','tXRNode','crease\x20sca','any','you\x20to\x20whe','UfgOi','_vhs_grave','JzaHn','DCNJB','KNiRr','set_linear','cers','gWIOOvqviF','oJPPCzuJMs','AMYMF','Quiver','domain','aints','city','72\x20FPS','oMotb','zdmgP','Custom\x20Sat','joystick\x20f','into\x20super','uration','RPC_AddFor','nyFnDZtUuG','ispenser','nOmdW','Platforms','Uses\x20an\x20it','FPS\x20at\x2060\x20','SPgYr','RYbPE','heAsi','UOtBAwDqIr','wnFlags','KaUet','get\x20prefab','fxHIS','lue','RflBzTdKzV','glowworm','SEudiEqiQy','op\x20categor','item_speci','JRQyM','dle','OCwMZ','ME\x20CAMERAS','Cleaning\x20u','Rocket\x20Lau','eageS','TPtks','tjHPo','Exit\x20Setti','item_glows','xXwEm','pNIbh','n\x20your\x20hea','_vhs_lobby','dex:\x20','_candy_can','qqzLP','ld\x20grip,\x20p','Right\x20Hand','ted\x20item_\x20','Pillar_Arc','get_view','RPC_Explod','tive','any.NetPla','r).','iUwrJ','jiZIk','item_megap','XrInput','item_porta','CxGrm','_friend','item_compa','bTyAhlXcnK','secondaryB','get_Descri','trim','prefab\x20int','UmngK','Attach\x20eve','CtihQXqHdJ','push','UevRe','Uh\x20item\x20or','GDTHO','e.Vector3','Up\x20And\x20Dow','tiQzX','gxVmd','BDZDX','\x204x4\x20(ABOV','aImCO','item_flipf','essed...','ere','xrrtB','trigger\x20to','uwINk','ransform','\x20name.','d_candy_ca','KHBpj','re\x20player','arest\x20play','in\x20kickAll','filter','FlyingSwar','ED\x20in\x20code','Tripwire','cuJOR','yer','oFMre','pYZML','WDXui','dcaLj','set_color','HpPaJ','UoEdQ','kYVWj','ish','disableMet','HAIIC','_vhs_fores','_cloudServ','lWKqA','Nuke','BnwMU','468429zOvCIQ','System.Nul','VUpMP','yer\x20in\x20Men','1/hl2amb.m','nes','Explodes\x20e','ur\x20charact','dEGTv','RQTKt','set_localR','Teleport\x20G','ulCYHXzHbC','_pistol','SRVXs','oqWiY','eusgk','XkxwW','isPrimitiv','[+]\x20Found\x20','hqhVZqMYiQ','e.Resource','item_boomb','sync','pear','jUodD','t\x20from\x20all','old\x20right\x20','any.Partic','crappie','on-item\x20pr','RPGRocketS','Lets\x20you\x20s','.\x20May\x20be\x20b','LGUtK','item_arena','ImpulseGre','AssetBundl','d\x20of\x20it.','in_bomb','Grip\x20spawn','vJylE','item_bait_','evCZn','ZwKUX','xlVnJ','set_endCol','Spawns\x20ite','sTnVQ','own.\x20Flatt','LePfB','GetDeviceA','DataPath','fab','omotion\x20in','<color=gre','Returns\x20yo','WMRaq','EUoUj','MlMbH','aSpDo','get\x20method','fWPWp','suneMYmFIc','Fusion.Pla','trYGs','Makes\x20play','kPrefabShe','tGpHoIMtRP','CzNzo','ures.','hoHHv','t\x20failed,\x20','ed\x20yet','_teleport','sperm\x20erro','achine.Sta','dRdGl','Prefab\x20DNA','pOEUC','mBygw','1/cust3.mp','oard_3','UZetL','XlNYt','VNbJo','olver,\x20RPG','Overpowere','_neon','item_pinea','de,\x20etc.)\x0a','XPPBC','item_d20','isEnum','get_length','rVuec','Controller','JzWbN','yGkgp','JOJIl','e_baton','class','ip\x20slots','[+]\x20Ghost\x20','SpawnItem','iWxnq','other\x20play','skKyT','le\x20reset\x20t','sionRPCs','clover','ive','d.\x20Shows\x20e','_rod_with_','yers\x20aroun','ll\x20items.','Spam\x20Start','ntroller','_vhs_dam_s','get_IsInRo','icking...','Previous\x20i','item_robot','hrZOW','SrKRJqmSsH','NsZsE','item_popco','ng\x20spawn','cgHLq','LbqKXoPmpJ','add','Shoot\x20Flar','@NextPage','cxusDKlymk','lRzzSSbDHx','sires.','e\x20amount\x20n','bcXMQ','MBzOy','invoke','Rich\x20Gun','ZfFHr','y_whole','wvuGS','dHandlerBu','tash\x20error','u\x20Theme','nkeItem','ndle','High\x20Punch','temsOverri','baAlh','ner\x20lol.','ngY_rMrrOd','item_pumpk','gvbPI','on_heart','lOXHQ','get_Curren','t\x20stash\x20po','\x20\x20\x20┏┓\x20\x20\x20\x20\x20','xis','item_hamme','d\x20Menu','get_instan','plant_secu','Universal\x20','Allows\x20the','lIgkK','andom\x20room','ISX_MkcEEE','Loading\x20as','prefab\x20spa','GdFzr','JIiNs','oard_4','QTJKN','e`1','YYmfc','ressed','kfnXb','lable','WBQrn','idth','MeshPro','achines.','KYgQX','item_basic','Instance','get_realti','yer\x20','Company/fi','\x20sells\x20for','CZYTz','sutta','tainers\x20he','GXCQs','chocolateb','Render\x20Pip','p\x20Gun:\x20','VBQAu','PXHnJ','s_fac','QgLww','reference','QYOZa','cmbbo','LhGfG','\x20etc.','Every\x20item','Egg\x20Launch','Ejswp','jDLyI','ound:','qlevW','FYShFbwTQZ','ChristmasB','ull','uWOTwAUfYM','Spiral:\x20','if\x20it\x20isn\x27','Harmony','opper_l','vDTzS','ull!','t\x20in\x20bags,','eIRhV','[-]\x20CloudS','nebula_fis','EBQvToaXmw','head\x20size\x20','\x20the\x20item,','BTuQs','ionManager','uNeHa','qpZLa','ng\x20','get_linear','bRzur','WUupa','e.Rigidbod','tkypP','e.PlayerPr','Makes\x20the\x20','FfgwF','MIbXcShlnH','\x20stash:\x20','System.Str','PmeEE','vnFHI','XYFCY','ager','FloatingSm','light','\x20powerful.','mLiDY','d_viking_1','iiASP','QZUjD','set_player','aSiMh','QdrTX','aSPRY','LBQYC','qZxNC','item_baseb','y_cheese','get_Player','overloads','BE_HVPNbkM','fjoYRHCigt','qoMwWMVkSg','een>ENABLE','ugMmk','cJLsO','Zero\x20Gravi','ValueType','ITpBBfKrIL','_01','set_isKine','ory','hkbXbHQSVB','aXhnfviCMa','YWHMU','rred\x20at:','item_ore_c','ell','r\x20hand\x20des','jSbOa','Bundle\x20nam','any.Comput','ral\x20orbit\x20','_sfxShoot','ead\x20Size','g\x20your\x20sta','LE\x20ON\x20YOUR','bHrTSqpfuJ','Body_Poop','edQZr','tZbQd','RrpCS','hMKKVYTSWc','ufZLppesNo','isNull','ox_fishing','d\x20Size\x20Amo','y>[</color','starfish','GorillaLoc','StickyAnch','Error\x20chec','BVmUn','TRFFT','item_stapl','sable_came','sh\x20(4)','ohjHm','GetHandInt','category.','eIliA','Makes\x20grav','ce\x20lag.','kAWLa','\x20\x20\x20\x20\x20\x20\x20┛\x20\x20','get_isLoad','System.Obj','item_frien','SpawnDeleg','BufsA','wcVRS','create\x20ass','le\x20of\x20held','Change\x20Mob','prefab\x20DNA','l_bait_but','BLmWS','\x20quivers,\x20','MoyTh','Launcher','qKpie','\x20lol.','yerName','boot','item\x20orbit','dfcrU','nkXOB','TryGetFeat','uccrZ','FiuZRjFhMR','FHkoY','er\x20objects','_vhs_megal','item_picka','ble_telepo','position.','item_','atform','OnvEt','ian_drum','dJQAp','xe_cny','stance\x20not','JojgS','kills\x20whoe','ing\x20to\x20con','e.Collider','Prev\x20Item','mob\x20catego','eBh_pNVdyq','he\x20trigger','set','SpawnMobAs','get_allowA','FroxU','onNetworki','dioClip\x20\x27','nUsages','\x20primary\x20t','awned','hot_sword','ayer:','nblVN','QvEmN','me:','WNQZp','xFiwu','NN_xXzFZBF','is\x20is\x20the\x20','item_pisto','onger\x20arms','JbQEy','item_bubbl','ver','UKBgE','hands\x20desi','EKdio','nzRbj','DzhPk','fHAEhWMSSA','nter','Jelly\x20Gun','SetJumpVel','sdnKE','Field','item_zipli','item_pipe','get','ukNaW','un_ammo','BqsnL','QWgOZ','ger','ZZYJb','cmVuc','XGvBh','gAsdy','odon_lake','vSbso','ckItem','item_backp','ntInParent','bVUwz','OfType','set_sizeDe','yJKuc','ick_inv_y','JltKruNqcB','ot_big','item_large','uxHFA','From\x20Machi','Tp_EZaASB_','isGeneric','eckpoint\x20w','pple','item_flame','set_downlo','zzmKF','Grenade','EtPYF','mznVq','ppingConfi','hing_rod','Sleep','get_active','hSqgO','d_viking_3','KickPlayer','item_impul','ldSpace','item_needl','order','gMswMplghK','\x20and\x20X\x20to\x20','\x20of\x20held\x20i','er_dispens','to\x20the\x20gro','UtpKH','item_quive','tlKeZ','VEUsz','ategory.','u\x20hold\x20the','mZglx','agFrG','\x20doesn\x27t\x20s','item_tramp','identityQu','Refs','Vehicle_Bu','_banana','Spawned:\x20','aracter.','Get\x20Hand\x20P','RgQat','yftDU','-\x20prefab','QkfpS','ear\x20your\x20b','Button\x20obj','JxIIn','ick','WiusM','NULdV','er.','success!','Heart_Gun','refab.','eyZSC','set_name','ng!','om!','parameterC','QoNHv','RPC_UseJet','ly\x20around\x20','FfmiM','eFwNB','1/vineboom','get_grabba','\x20make\x20your','Destroy','Mnrwg','PWPQj','ct\x20Dupe\x20Am','DkLoF','GetMobPref','item_upsid','grip\x20to\x20go','CreatePrim','mlZQk','item_alpha','Spawns\x20nut','kScreen\x20Se','aUOgq','\x20Gun:\x20','NPZOi','pad','FUghj','pctzC','JCylXSCskY','us\x20item.','dsZlEFghzp','[-]\x20Error\x20','aNDJl','tick.','PZXNf','ers.','dEKMePXnag','sBIUp','sYDDa','Grind\x20ores','where\x20you\x20','name','Prefab:\x20','llingMachi','m\x20ID','aturation','alKFl','on.\x20Hold\x20r','XZDSl','PvDoQ','oneVector','ick\x20Y\x20up/d','fWVJK','sWLtN','ceil','\x20from\x20all\x20','Spawned\x20sp','type','_playerRig','LJgld','pSkzs','dvAgw','item_clust','CZuah','get_layer','he\x20item\x20in','item\x20even\x20','SfmGsONeTc','current\x20se','NoPga','QzISD','MRBwk','ight\x20hand.','e.Material','ore.\x20(righ','fxhgCC_PBa','HdoCe','PmXTd','Item\x20Orbit','Networked','BvBJy','SWbOT','fields','cSfbq','ceYEj','_head','Vector3','\x20Join\x20room','t:\x20','_instance','EoSCe','fications\x20','ust\x20ORBIT_','OnBeforeSp','\x20crates\x20in','olor','item_hawai','get_constr','xuVkL','upVector','cyeAN','tic','set_intens','gNhbB','ur\x20in\x20game','RandomPres','OniuB','qrmmR','mZtfD','jxCQY','a\x20speed\x20bo','<color=red','om.','workTransf','FPS\x20at\x2072\x20','KDhGk','Landmine','Invisible','yUCSS','BqqownaXxS','tUPVH','KjHSI','able\x20to\x20ch','FPS\x20at\x2045\x20','ii\x27s\x20Stupi','ll\x20machine','CKgPN','Cycles\x20to\x20','method','gNmJDTxOBZ','Makes\x20you\x20','Change\x20Ite','UFteJ','[-]\x20No\x20Net','rXGMz','MyVmM','e.RectTran',')\x20This\x20mod','0|5|1','xwbTD','CBSUjSaUHi','find','ers\x20not\x20be','item_disc','TbytF','MSWwl','already\x20ac','1/feelgood','PRABZ','GjXBT','Prefab\x20lol','rityKeypad','Spawned\x20in','ubSga','xqPODzIRaT','item_chakr','bodyCollid','\x20developer','UI/Default','item_revol','UYepk','osition','get_hasAmm','plant_supp','rXYbM','\x20right\x20han','set_alignm','WJvwi','bcCuSOPi_c','WMMnA','pddgf','e\x20error:','ever\x20your\x20','get_Count','cale','MvilY','ShGgv','n\x20pressing','rzslb','SJNaj','ing\x20A.','EeLjJ','GunLine','yTTMf','unt.\x20(ONLY','PdhOsMNaSO','BAxqz','spawnNetwo','cal\x20player','isArray','ost\x20cycle:','Ragdoll','\x20ID','e.LineRend','\x20item\x20you\x20','m\x20(eg.\x20Rev','10EAlYsq','get_assetB','\x20any\x20item\x20','qYyry','qpXCz','tjZApPjwjq','lust_vial','RPC_SetIte','_halloween','g\x20already-','ound.','odon','workObject','tFit','Lets\x20you\x20p','ase\x20game!','Ejaax','Vehicle','EmSGO','visual\x20cat','ms\x20where\x20y','meras','r_pad','t\x20selling\x20','eGEbb','CbJWz','DNpMx','Fix\x20Mic','gravity_gr','Changes\x20yo','dle\x20found','meSinceSta','nTrLe','_gy_skull','any.Revolv','set_endWid','alloc','e.AssetBun','kKamZ','XjVGu','item_ore_g','qLQIY','loKBr','ndingMachi','ent','cHNIB','primaryBut','YvyOc','AUFJx','set_Bitrat','e.XR.Commo','zVVte','1577465UyyTfw','\x20the\x20room.','n\x20buy\x20any\x20','ntjvo','lean','aaGCY','2|6|0|5|4|','ljYbH','kScreen\x20Al','vkpWX','vity','parse\x20of\x20g','jAOKI','Move','Stinky\x20All','res','gVDAm','IXCRKSvKPk','FTqAR','yVBrVktJFp','Fling\x20Gun','</color><c','uCiGH','sKKVo','get_devOwn','sVFFX','stack','ew\x20ogre\x20an','\x20stash\x20slo','get_global','you\x20to\x20a\x20r','Stash\x20Allo','includes','Change\x20sat','Spawns\x20pla','ttachToBac','scanner','JBtTW','UZcMP','kzolm','d_boomeran','ing\x20trigge','ght\x20hand.','JkvxU','_lightbulb','eringModul','\x20target\x20as','item_pinat','shMachineV','NtCIf','e_basement','inHCl','ut_shell','uivfk','salmonster','cPcpM','pvQNN','ZjGKl','YmhGR','pGkZS','Xopat','Photon\x20Mic','spMmt','DdKhQ','s\x20you\x20from','MAnPhiRqcF','get_LocalP','Blind/Blac','Duplicator','xndkG','tinky','VgqGj','your\x20back,','Spams\x20star','gMachineCo','QBVCW','kauQv','GaCKa','IKePf','jdrvZ','Qjygz','igxSVAmPpP','ROInt','oXfrmoYnmW','dYJCqABrjW','de_koi','bRequest','nfhyB','_HXsAiCgtJ','now','ity','ent\x20Mods','erever\x20you','Opens\x20the\x20','Exit\x20Fun\x20M','ire_explos','ExplosiveE','jLhHu','OoDOZ','Despawn','e\x20button\x20s','gFnnE','item_flash','ox_neon','ilver_m','_vhs','CicqYzFlWx','vtXhw','FRpwa','shMachineT','ocoa','NQHEr','\x20300k.','Break\x20Game','YgNBI','item_sawbl','Found\x20load','items','_shotgun','WEquS','tion\x20on\x20th','xLQmj','Nafdg','XuvNn','wEwrR','Inf\x20Sell:\x20','on\x20Sounds','set_parent','Noclip','orHSV','rident','Key','FUAIM','\x20action\x20on','em,\x20(flare','get__curre','lerPz','wdxTg','beetle','\x20lag.','Ugqyk','EbFlw','lator','onylabs.or','[+]\x20Join\x20r','module','QYeEC','saSdb','wnling','kGnjkkaYpk','VxmTV','ash???','PyekK','New\x20jelly\x20','ted\x20non-it','Nut\x20spam','_projectil','Cycles\x20thr','NNhFW','[+]\x20Tracki','XCKAS','Velocity','ack_with_f','TMPNn','60\x20FPS','JEyJc','KGzBF','Unloading\x20','item_metal','large','sScaler','NTEGER','item_scann','cjnmv','und.','Zehmn','ou\x20dump\x20ou','\x20point\x20for','omZFB','\x20FOR\x20OTHER','_vhs_lake','olVjL','Ammo\x20Picku','al_fishing','SlenderMon','diamond_ja','n_body','image','t\x20grip\x20to\x20','\x20test\x20fail','ing\x20to\x20pla','ukGzv','JtecX','InflatedHe','All','kimgu','Sets\x20your\x20','rab\x20your\x20r','HandleTrig','get_IsMine','forest','d_bones','FHBvS','Prefab\x20Gun','┛┗┗┻┣┛┗┗┻\x20','deSbh','OqNeDUhosm','535134aZPBeX','pohub','JOHnP','t\x20in\x20the\x20b','jeMTI','Failed\x20to\x20','oAsZw','EQDFp','e.AudioMod','um_chunk_l','item_troph','Player\x20obj','OFURo','_allowGrab','ed\x20with\x20th','mmo_egg','item_rpg','ires.','Stash\x20is\x20n','XGJcT','im\x20(hold\x20g','item_turke','hasvalue','yTXwN','l\x20items','WePqxEKMJy','IvRtW','CmToE','DkzEV','very\x20selli','sByType','MBVAC','get_ammoLo','HordeMobCo','corlib','HWjkt','dtgOm','em\x20Tracer','Nut\x20Gun','ZUYCZ','uCMjvwdBFZ','AttTp','OsYYV','iZvna','fUhEr','SetActive','BGnax','Ffdsf','oaGyr','jrOiX','\x20prefab','led\x20','avity\x20on\x20t','DqefQGegfJ','item_quest','yellowcake','ral','inRandomPr','l_dragon','d\x20item','Spawn\x20Mobs','all\x20machin','xqQzG','essful,\x20th','pBfqkiezek','nBTHr','Generator\x20','any.RoboMo','buttonText','Makes\x20punc','Fusion','wsLsW','Fullbright','e.Shader','itIyj','aTTpr','item_shiel','b\x20Mods','em\x20spawned','Clip\x20at\x20pa','gFBAt','Text\x20Test','efab','@PreviousP','et\x20load\x20re','zTNMn','grenade','rity','DQWaZ','auzcX','yihTe','parameters','Prev\x20Prefa','sOfType','hXQLV','\x20on\x20your\x20c','gJjoN','ith\x20filena','ng_termina','vtzUR','CbQLZ','ost.','der','wnGroup','e\x20the\x20righ','ded\x20sellin','s:\x20','/massets/d','_vhs_mount','hizSQ','StashGrena','se\x20items\x20i','EEKWE','\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20','AcCgv','.Observabl','VVAPP','xvopA','mmo','light_mega','dles...','dDNKc','wUWhr','VtfNw','HandleKeyP','Next\x20non-i','Local\x20Butt','GuMPW','MZwel','d\x20text','zmvzu','ded\x20bundle','VFELD','UhRDw','LcZLPfjPaV','Change\x20Eje','uality\x20(Ph','\x20hear\x20what','BiSDU','d\x20size\x20amo','ctionsUtil','sh\x20(2)','YQECM','item_footb','TP\x20ALL\x20Gun','gUSYe','GMThm','item_salmo','yiRvb','WmpoR','VXsaq','back,\x20or\x20h','xqnNl','item_cola_','toString','ncannon','kiMjb','troller','erKIF','BkSDA','jYzXt','\x20stay\x20in\x20t','Give\x20Money','AntiGravit','nJTxK','GetEnumera','Shader','Iron\x20Man','iOJZo','ry.','hydracarp','GPiEZ','e\x20item\x20ID.','EnqAHGJceQ','item_rope','2DAudioMgr','call','oli_grenad','Nearest\x20It','TGqqB','item_saddl','kManager','oystick.','ohyyl','Prefab\x20Cro','OduZrFsXqL','item_drago','mqVmI','zHcgiUtSgZ','gyRKf','MbJwoDdpvy','nqiWl','item_arrow','_vhs_haunt','sSoVmNJnmo','IRelY','wvFkp','SellingMac','ab\x20Scale','Change\x20Hea','HHMuo','ipline','Bomb','g\x20machine.','okVSr','\x20in\x20the\x20ro','jysgv','35CxRJYI','_disable','cHjrd','jwRIw','rab\x20on\x20any','zEUzN','FdweX','Gay\x20All','instance\x20i','Negative\x20H','carp','opper_s','WFmdy','existing\x20b','tly\x20holdin','dFCNk','Mods','EioVv','GetData','lsXcx','lla_squirr','ton\x20\x27','qYRIkbLQkw','any.App','order\x20is\x20n','ry\x20single\x20','bXdCT','QszYe','sVvYv','item_money','ofECl','IkFVK','Hit','gHYiY','https://mo','Right\x20stic','Bundle:','BxssG','item_paper','de_launche','Rapid\x20fire','CENfa','VlzMI','UWaIi','Jelly\x20Time','Advantage\x20','makes\x20whoe','item_there','ck\x20player','yard','Drop\x20Items','poUHO','Asset\x20load','KqMXr','item_pogos','dragonfish','get_rotati','JvDMc','old_m','bleItem','+\x20prefab','cPaPj','the\x20main\x20c','card','Items\x20in\x20a','dBkoAVaPtB','HiQpz','ize\x20amount','><color=#8','item_jetpa','IQULjCHPVI','Stash\x20Dupe','th\x20A.','item_wyrmp','QRgZZ','WCXMm','watCJ','dHFGR','e.Object','le_gold','uwrYU','yZkLX','Menu\x20Quest','ihdps','AdoFc','t\x20to\x20it\x20wi','System.Int','hXdcz','e.Time','e.BoxColli','iPfmm','.ctor','rightHandT','very\x20explo','any.MobID','Zjrgy','hxKbS','QiFQV','ducIE','ime','ltKYrwDrfy','NextPage','BTvTn','kHandy','DQOJX','item_butch','pdseX','VamGf','EjectItem','><color=gr','sh\x20(3)','LHgJd','aternion','slice','hoever\x20you','Nuvme','GKnsa','azpTz','jMitlyhMGs','IaVojaeVwS','correct\x20bu','hed_Broken','RBVOI','Xswjd','Change\x20Sou','iWkCS','our\x20mic\x20qu','TbGzw','item_heart','\x20fix\x20mic','\x20bags,\x20etc','item_telep','witch\x20menu','XaYzB','q_mVNEaOIB','HmESq','item_crowb','deOkF','pallet','ccoli','e.UI.Text','ss\x20error:','ApkgI','Arial.ttf','set_constr','ain','BfNYg','Oivnt','LebQAplLmu','ehNgR','split','uvlnS','hmQXn','ack_green','th:','rMGti','DfhZw','any.AppSta','GjyPM','item_hatch','ip\x20to\x20go\x20u','Parse','ansform','\x20to\x20reduce','ErKjZ','BUmLm','oton\x20Mic)','oad\x20reques','ECRJu','KCYgu','n\x20the\x20menu','AohKZ','r_board','jiJCr','_hlal_brai','OFEzd','sTkXo','in_pie','HandleJoin','BdSbr','MRazI','u\x20Scale','YJjyi','_vhs_dam_f','\x20LET\x20YOU\x20U','item_unide','Orbit\x20lol.','rig\x20catego','RBNOW','rgUz_dNtlY','oard_drago','item_paint','wDwEl','OnPlayerLe','Next\x20Item','/GiantCont','UcppJ','bundle:','fv_OIhYVdL','XJaaFs_raj','n_head','ggClustere','hot','wimUx','Spawns\x20whi','\x20&\x20duratio','time','object','seDSk','not\x20null,\x20','_sources','any.AutoRe','vQpCW','VHegg','lEtLR','TMPro.Text','SjXQg','any.StashM','leftHandTr','stAve','dhvfg','rkPrefab\x20e','Custom\x20Sca','e\x20hue.\x20Hol','fishsword','UKFdD','YwMkU','obgyYDTSH_','ScaffoldTr','ZTILp','Explosion_','Klsdy','uRABV','ule','radar','rs\x20on\x20your','XrInput\x20Na','t\x20of\x20a\x20bac','RyILT','eft','jXzvS','fgJQq','nutfish','oe_3','Wvpqk','EJrenGMdOI','zWRIwnfkdT','\x20id:\x20','SpawnPicku','jPwaC','oMbxK','tRGen','ervices\x20is','rive','e\x20cleanup\x20','SFuCC','Bundle\x20con','tash\x20slots','lJkGW','lziNM','.mp3','heal','item_trees','gnvbn','YdYhG','1/stupid.m','[+]\x20Gettin','k__Backing','ing\x20everyo','LEMYh','cmIhf','Disconnect','Change\x20But','FcSEp','thrower','pUSCa','AnimalComp','any.NetSes','ext','_isUsed','SetParent','HGjLj','JUNyFiasFj','mNTwR','View','_rod_radar','RPC_StartI','QISXd','neControll','\x20the\x20menu.','uUych','get_sellVa','item_cutie','any.Backpa','crease\x20sat','DVoex','OnTriggerE','RPG','gory.','OAbtM','_vhs_hell','success\x20ki','HMNGE','AcXmb','High\x20Gravi','vfDBG','wcSEI','QqgeT','give\x20money','ods','oney\x20payou','ing\x20right\x20','KOCGC','hroRo','OitYjfgdTb','><color=wh','Svlvq','AoVyL','VtbAB','uRyuB','QmATI','eKqas','spicy_salm','1/daisybel','mob_prefab','toISOStrin','@GlobalRet','UdcWZ','UpgfN','QFtXYB_JBS','cbgMORQpdl','utPdU','item_clapp','YnlHm','1|3','item_ac_co','bGjNN','Gay\x20Gun','ltrYu','Spoof\x20deve','droid/data','yAcEb','matic','gun','sgMXraRcWj','reel','UnZxg','Spawn\x20item','aKbOv','clam_hooks','epCmU','h\x20mod\x20more','CKIZp','Noclip\x20V2','\x20BLTH','old_l','ELwJN','m\x20on\x20your\x20','instance','neView','\x20Held\x20Item','HoarZ','error:','name\x20chang','get_gameOb','g\x20to\x20be\x20pu','QHLME','Next\x20item_','mlNpl','VPhsy','pop','oard_box','bleItemPre','Hold\x20right','jcjEs','GWACW','with\x20name:','get_player','rPmvm','prefab\x20gun','\x20objects','ZcQFl','PDZAx','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','onke\x20items','e.XR.Input','UQeVj','ZcSFH','xhEzY','Moves\x20your','BqYCFCefEE','nVwCi','NRLgh','utton\x20soun','==========','RORS\x20IN\x20TH','LcIkn','overload','tErdc','forwardVec','HeadSize','dupe\x20amoun','yers,\x20kick','9NQDEZj','TyoXI','mMVJh','WyLBX','EGgNj','RPC_Startu','grip\x20to\x20de','aKqGW','idBody','XcWbI','item_radio','AutoDestro','shell','ayItemEqui','buoy','aqmbY','r\x20bundle\x20w','any.Gorill','gvpWJ','rpc\x20kick\x20s','tLEpv','PreviousPa','item_flare','ult','IdRtB','se\x20any\x20mov','cos','jvVsu','MoveNext','into\x20flare','eMachine','ovIlk','GCsyX','item_hot_c','[+]\x20Starti','YRKpa','es!','item_table','Recovered\x20','ot_small','tePrimitiv','RPC_SetCol','Long\x20Arms','QEEfg','ilver_l','\x20\x20\x20┗┗\x20┛\x20\x20┗','Rig\x20Mods','InNewRoom:','ifications','equippingC','Exit\x20Prefa','wnFsbUFFdg','yoXWp','gripButton','InHierarch','utton','ne...','downVector','le:\x20','_vhs_sewer','ack_white','zMjDI','Mobs','xYyPQ','item_fishi','vGAIT','SIKDsODdRV','Exit\x20Item\x20','set_layer','WriteAllBy','ioygz'];_0x8c0c=function(){return _0x2bca23;};return _0x8c0c();}(function(_0x1f98e4,_0x5dffa2){const _0x405699=_0x38eb,_0x4648b2=_0x1f98e4();while(!![]){try{const _0x5ee97b=-parseInt(_0x405699(0x945))/(0x1c4a+-0x1b10+-0x139*0x1)+-parseInt(_0x405699(0x3f7))/(0x3b8+0x3*-0xc5e+0x2164)+-parseInt(_0x405699(0x77c))/(-0x9c+-0x941+0x1*0x9e0)*(parseInt(_0x405699(0x35a))/(-0x1347+0x143c+-0xf1))+parseInt(_0x405699(0xc29))/(0x42*-0x16+-0x9*-0x2cc+-0x137b)+parseInt(_0x405699(0xcf8))/(-0x1108+0x17*-0x10b+-0x85*-0x4f)*(parseInt(_0x405699(0xdc7))/(-0x15b*0x2+-0x20f*-0x2+-0x161))+-parseInt(_0x405699(0x320))/(0x2e+0x2*0x11bf+-0x23a4)*(-parseInt(_0x405699(0xf5a))/(0x89*-0x9+0x2521+-0x2047*0x1))+parseInt(_0x405699(0xbf5))/(0x32*0x69+-0x1d*-0x13d+-0x3861)*(parseInt(_0x405699(0xfe2))/(0xb89+-0x438+-0x746));if(_0x5ee97b===_0x5dffa2)break;else _0x4648b2['push'](_0x4648b2['shift']());}catch(_0x47beb0){_0x4648b2['push'](_0x4648b2['shift']());}}}(_0x8c0c,-0x1c145*0x3+0xfdba*-0x8+0x113a4d*0x1));Il2Cpp[_0x8e9e14(0x690)]={'exports':{}},Il2Cpp[_0x8e9e14(0x690)][_0x8e9e14(0x151)]={'il2cpp_init':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x6dc)+'Z'),'il2cpp_init_utf16':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x503)+'G'),'il2cpp_shutdown':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x8a6)+'v'),'il2cpp_set_config_dir':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x54c)+'A'),'il2cpp_set_data_dir':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x75f)+'m'),'il2cpp_set_temp_dir':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xd11)+'v'),'il2cpp_set_commandline_arguments':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xd7e)+'p'),'il2cpp_set_commandline_arguments_utf16':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x31c)+'T'),'il2cpp_set_config_utf16':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x863)+'r'),'il2cpp_set_config':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x7c2)+'A'),'il2cpp_set_memory_callbacks':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xddd)+'I'),'il2cpp_memory_pool_set_region_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xfb5)+'G'),'il2cpp_memory_pool_get_region_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x896)+'C'),'il2cpp_get_corlib':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x52e)+'x'),'il2cpp_add_internal_call':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x722)+'C'),'il2cpp_resolve_icall':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x591)+'H'),'il2cpp_alloc':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x2e9)+'O'),'il2cpp_free':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xffe)+'X'),'il2cpp_array_class_get':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xebc)+'A'),'il2cpp_array_length':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x28e)+'B'),'il2cpp_array_get_byte_length':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xe84)+'L'),'il2cpp_array_new':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x7af)+'L'),'il2cpp_array_new_specific':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x165)+'Y'),'il2cpp_array_new_full':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x464)+'k'),'il2cpp_bounded_array_class_get':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x121)+'h'),'il2cpp_array_element_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x22d)+'j'),'il2cpp_assembly_get_image':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa54)+'v'),'il2cpp_class_for_each':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x478)+'H'),'il2cpp_class_enum_basetype':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x1010)+'r'),'il2cpp_class_is_inited':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x841)+'q'),'il2cpp_class_is_generic':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa2a)+'d'),'il2cpp_class_is_inflated':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xdb1)+'n'),'il2cpp_class_is_assignable_from':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xaa1)+'y'),'il2cpp_class_is_subclass_of':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x1ba)+'Y'),'il2cpp_class_has_parent':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x59a)+'M'),'il2cpp_class_from_il2cpp_type':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xf9c)+'_'),'il2cpp_class_from_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x376)+'J'),'il2cpp_class_from_system_type':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x8e1)+'X'),'il2cpp_class_get_element_class':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x9c6)+'M'),'il2cpp_class_get_events':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x419)+'U'),'il2cpp_class_get_fields':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xfaf)+'K'),'il2cpp_class_get_nested_types':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x790)+'B'),'il2cpp_class_get_interfaces':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x7b5)+'u'),'il2cpp_class_get_properties':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x1da)+'y'),'il2cpp_class_get_property_from_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x6ed)+'M'),'il2cpp_class_get_field_from_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x5f3)+'v'),'il2cpp_class_get_methods':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x7ae)+'W'),'il2cpp_class_get_method_from_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xbbd)+'M'),'il2cpp_class_get_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x45a)+'C'),'il2cpp_type_get_name_chunked':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xe08)+'D'),'il2cpp_class_get_namespace':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x112a)+'x'),'il2cpp_class_get_parent':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xe3d)+'L'),'il2cpp_class_get_declaring_type':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x3a4)+'A'),'il2cpp_class_instance_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x4fa)+'q'),'il2cpp_class_num_fields':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x829)+'A'),'il2cpp_class_is_valuetype':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x8a8)+'n'),'il2cpp_class_value_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x12d)+'a'),'il2cpp_class_is_blittable':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x75d)+'c'),'il2cpp_class_get_flags':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xc7a)+'W'),'il2cpp_class_is_abstract':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x80a)+'K'),'il2cpp_class_is_interface':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xcbe)+'n'),'il2cpp_class_array_element_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x86f)+'O'),'il2cpp_class_from_type':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x2a2)+'G'),'il2cpp_class_get_type':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x5fc)+'r'),'il2cpp_class_get_type_token':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x577)+'F'),'il2cpp_class_has_attribute':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xbd9)+'x'),'il2cpp_class_has_references':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x8e9)+'K'),'il2cpp_class_is_enum':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x70a)+'S'),'il2cpp_class_get_image':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x5a6)+'Q'),'il2cpp_class_get_assemblyname':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x2d9)+'s'),'il2cpp_class_get_rank':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x429)+'O'),'il2cpp_class_get_data_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x12c)+'o'),'il2cpp_class_get_static_field_data':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xf01)+'j'),'il2cpp_stats_dump_to_file':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xaf4)+'k'),'il2cpp_stats_get_value':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x1121)+'Y'),'il2cpp_domain_get':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x111e)+'V'),'il2cpp_domain_assembly_open':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xb7c)+'E'),'il2cpp_domain_get_assemblies':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x447)+'s'),'il2cpp_raise_exception':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xdba)+'d'),'il2cpp_exception_from_name_msg':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa73)+'r'),'il2cpp_get_exception_argument_null':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x86c)+'A'),'il2cpp_format_exception':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x74a)+'f'),'il2cpp_format_stack_trace':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x49c)+'s'),'il2cpp_unhandled_exception':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa53)+'w'),'il2cpp_native_stack_trace':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x17a)+'G'),'il2cpp_field_get_flags':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x703)+'A'),'il2cpp_field_get_from_reflection':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x5af)+'r'),'il2cpp_field_get_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x7c7)+'A'),'il2cpp_field_get_parent':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xbb2)+'S'),'il2cpp_field_get_object':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x8c9)+'i'),'il2cpp_field_get_offset':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xe2b)+'E'),'il2cpp_field_get_type':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x61a)+'G'),'il2cpp_field_get_value':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xc7c)+'I'),'il2cpp_field_get_value_object':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa5e)+'N'),'il2cpp_field_has_attribute':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x736)+'E'),'il2cpp_field_set_value':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xdb6)+'v'),'il2cpp_field_static_get_value':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xf8d)+'v'),'il2cpp_field_static_set_value':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xb55)+'R'),'il2cpp_field_set_value_object':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x819)+'v'),'il2cpp_field_is_literal':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x5ed)+'p'),'il2cpp_gc_collect':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xda5)+'F'),'il2cpp_gc_collect_a_little':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xd20)+'A'),'il2cpp_gc_start_incremental_collection':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xc3c)+'F'),'il2cpp_gc_disable':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x9cb)+'o'),'il2cpp_gc_enable':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x291)+'S'),'il2cpp_gc_is_disabled':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x412)+'f'),'il2cpp_gc_set_mode':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x1026)+'Q'),'il2cpp_gc_get_max_time_slice_ns':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x62b)+'H'),'il2cpp_gc_set_max_time_slice_ns':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xab5)+'h'),'il2cpp_gc_is_incremental':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x6ab)+'S'),'il2cpp_gc_get_used_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xc3a)+'q'),'il2cpp_gc_get_heap_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x304)+'g'),'il2cpp_gc_wbarrier_set_field':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x8a2)+'x'),'il2cpp_gc_has_strict_wbarriers':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x6c1)+'V'),'il2cpp_gc_set_external_allocation_tracker':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x7d7)+'H'),'il2cpp_gc_set_external_wbarrier_tracker':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xac7)+'i'),'il2cpp_gc_foreach_heap':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x959)+'E'),'il2cpp_stop_gc_world':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x9ef)+'r'),'il2cpp_start_gc_world':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x813)+'d'),'il2cpp_gc_alloc_fixed':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xad3)+'j'),'il2cpp_gc_free_fixed':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x147)+'Q'),'il2cpp_gchandle_new':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xf4d)+'f'),'il2cpp_gchandle_new_weakref':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xbea)+'H'),'il2cpp_gchandle_get_target':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x5d5)+'z'),'il2cpp_gchandle_free':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xcf7)+'c'),'il2cpp_gchandle_foreach_get_target':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x73a)+'x'),'il2cpp_object_header_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x4cb)+'k'),'il2cpp_array_object_header_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x4e3)+'p'),'il2cpp_offset_of_array_length_in_array_object_header':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x816)+'Q'),'il2cpp_offset_of_array_bounds_in_array_object_header':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xf11)+'m'),'il2cpp_allocation_granularity':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xdb4)+'V'),'il2cpp_unity_liveness_allocate_struct':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x10f2)+'o'),'il2cpp_unity_liveness_calculation_from_root':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa1f)+'W'),'il2cpp_unity_liveness_calculation_from_statics':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x7ba)+'O'),'il2cpp_unity_liveness_finalize':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x9c1)+'c'),'il2cpp_unity_liveness_free_struct':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x984)+'O'),'il2cpp_method_get_return_type':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x103c)+'I'),'il2cpp_method_get_declaring_type':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x580)+'g'),'il2cpp_method_get_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x160)+'z'),'il2cpp_method_get_from_reflection':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xfa1)+'h'),'il2cpp_method_get_object':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xee1)+'X'),'il2cpp_method_is_generic':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x10f1)+'c'),'il2cpp_method_is_inflated':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x738)+'Q'),'il2cpp_method_is_instance':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xe5b)+'U'),'il2cpp_method_get_param_count':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x10cb)+'K'),'il2cpp_method_get_param':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x3e9)+'Z'),'il2cpp_method_get_class':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xc6a)+'f'),'il2cpp_method_has_attribute':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x4b4)+'z'),'il2cpp_method_get_flags':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x74b)+'y'),'il2cpp_method_get_token':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x195)+'m'),'il2cpp_method_get_param_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x18a)+'g'),'il2cpp_property_get_flags':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x631)+'I'),'il2cpp_property_get_get_method':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xf1f)+'L'),'il2cpp_property_get_set_method':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x7a2)+'A'),'il2cpp_property_get_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x243)+'h'),'il2cpp_property_get_parent':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x34e)+'O'),'il2cpp_object_get_class':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x10ba)+'w'),'il2cpp_object_get_size':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xb4f)+'q'),'il2cpp_object_get_virtual_method':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xba8)+'P'),'il2cpp_object_new':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xbfa)+'m'),'il2cpp_object_unbox':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x1018)+'k'),'il2cpp_value_box':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x64e)+'d'),'il2cpp_monitor_enter':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xb09)+'l'),'il2cpp_monitor_try_enter':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xfa3)+'C'),'il2cpp_monitor_exit':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xfd2)+'Y'),'il2cpp_monitor_pulse':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x8ca)+'j'),'il2cpp_monitor_pulse_all':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xe3e)+'o'),'il2cpp_monitor_wait':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xe4d)+'r'),'il2cpp_monitor_try_wait':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa52)+'f'),'il2cpp_runtime_invoke':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xb4d)+'q'),'il2cpp_runtime_invoke_convert_args':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x120)+'x'),'il2cpp_runtime_class_init':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x16f)+'h'),'il2cpp_runtime_object_init':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x406)+'P'),'il2cpp_runtime_object_init_exception':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x3b9)+'q'),'il2cpp_runtime_unhandled_exception_policy_set':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xf10)+'z'),'il2cpp_string_length':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xd2d)+'U'),'il2cpp_string_chars':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x3e1)+'u'),'il2cpp_string_new':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x259)+'W'),'il2cpp_string_new_len':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x111)+'O'),'il2cpp_string_new_utf16':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x951)+'m'),'il2cpp_string_new_wrapper':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa1c)+'J'),'il2cpp_string_intern':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x401)+'C'),'il2cpp_string_is_interned':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x669)+'m'),'il2cpp_thread_current':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x989)+'Y'),'il2cpp_thread_attach':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x681)+'v'),'il2cpp_thread_detach':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xc93)+'c'),'il2cpp_is_vm_thread':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x4fc)+'j'),'il2cpp_current_thread_walk_frame_stack':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x7a5)+'D'),'il2cpp_thread_walk_frame_stack':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xc81)+'b'),'il2cpp_current_thread_get_top_frame':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa6d)+'V'),'il2cpp_thread_get_top_frame':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x40b)+'d'),'il2cpp_current_thread_get_frame_at':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x1034)+'p'),'il2cpp_thread_get_frame_at':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x37f)+'W'),'il2cpp_current_thread_get_stack_depth':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x8d8)+'O'),'il2cpp_thread_get_stack_depth':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x8e7)+'i'),'il2cpp_override_stack_backtrace':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x8b7)+'E'),'il2cpp_type_get_object':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x1033)+'X'),'il2cpp_type_get_type':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xd38)+'S'),'il2cpp_type_get_class_or_element_class':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x12f)+'J'),'il2cpp_type_get_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x289)+'l'),'il2cpp_type_is_byref':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x588)+'r'),'il2cpp_type_get_attrs':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa5a)+'U'),'il2cpp_type_equals':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xff8)+'I'),'il2cpp_type_get_assembly_qualified_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xebd)+'O'),'il2cpp_type_get_reflection_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xe8d)+'x'),'il2cpp_type_is_static':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xaef)+'Y'),'il2cpp_type_is_pointer_type':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x90f)+'U'),'il2cpp_image_get_assembly':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xbcb)+'U'),'il2cpp_image_get_name':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xe8e)+'u'),'il2cpp_image_get_filename':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x59b)+'I'),'il2cpp_image_get_entry_point':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xeaa)+'l'),'il2cpp_image_get_class_count':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xff3)+'W'),'il2cpp_image_get_class':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x33e)+'w'),'il2cpp_capture_memory_snapshot':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa5f)+'x'),'il2cpp_free_captured_memory_snapshot':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x739)+'J'),'il2cpp_set_find_plugin_callback':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa72)+'U'),'il2cpp_register_log_callback':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x136)+'R'),'il2cpp_debugger_set_agent_options':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xc7d)+'I'),'il2cpp_is_debugger_attached':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x460)+'Y'),'il2cpp_register_debugger_agent_transport':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x6cc)+'s'),'il2cpp_debug_foreach_method':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x19c)+'P'),'il2cpp_debug_get_method_info':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x3c7)+'J'),'il2cpp_unity_install_unitytls_interface':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x1fe)+'l'),'il2cpp_custom_attrs_from_class':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xe0d)+'M'),'il2cpp_custom_attrs_from_method':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x7a1)+'F'),'il2cpp_custom_attrs_from_field':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xa3a)+'t'),'il2cpp_custom_attrs_get_attr':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x31b)+'j'),'il2cpp_custom_attrs_has_attr':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x81e)+'M'),'il2cpp_custom_attrs_construct':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x916)+'m'),'il2cpp_custom_attrs_free':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x9ca)+'o'),'il2cpp_class_set_userdata':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0xb74)+'C'),'il2cpp_class_get_userdata_offset':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x9de)+'i'),'il2cpp_set_default_thread_affinity':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x372)+'C'),'il2cpp_unity_set_android_network_up_state_func':()=>Il2Cpp[_0x8e9e14(0xcba)][_0x8e9e14(0x67f)+_0x8e9e14(0x105b)](_0x8e9e14(0x663)+'m')};const API_URL=_0x8e9e14(0xde9)+_0x8e9e14(0xcb8)+'g',version=_0x8e9e14(0x620);let boardMaterial=null,buttonClickDelay=0x1ca5*-0x1+-0x1512*0x1+0x31b7,menu=null,reference=null,referenceCollider=null,leftPrimary=![],leftSecondary=![],rightPrimary=![],rightSecondary=![],leftGrab=![],rightGrab=![],leftTrigger=![],rightTrigger=![],leftStick=![],rightStick=![],devEnabled=![],stashDupeEnabled=![],backpackDupeEnabled=![],flySpeed=-0x11*0x199+-0x22d+0x2f*0xa0,prefabListIndex=0x269e*0x1+-0x6aa+-0x1ff4,sellingmachineSpawns=[],QuiverClass=null,BackpackItemClass=null,stashAllowMoves=![],stashQOLFix=![],allowPutGBO=![],infAmmo=!![],gunColor=[-0x1*0x188e+0xe7*-0x1d+0x32b9+0.08,-0xafb*0x3+-0x1ecd+0x3fbe+0.08,-0x1*0x2374+-0x15c6+0xb72*0x5+0.08,0x6f+0x26bb+-0x272a+0.75],localButtonSounds=!![],negativeHeadSize=![],deltaTime=0x1*-0x449+-0x2215+0x265e,time=-0x2c9*-0x1+0xcc9*-0x3+-0x11c9*-0x2,frameCount=-0x20f+0x25b5+-0x23a6,ejectDupeValues=[0x33a+-0x1cc+0x1*-0x16d,-0xfbf+-0x3b*-0x2c+0x59d,-0x127a+-0x37*-0x7a+-0x18b*0x5,-0x10bd+0x25a*0x2+-0x119*-0xb,0x1557+-0x2481+-0x1*-0xf43,-0x111f+0x1*-0x2b3+0x16f*0xe,-0x247+0x134f+-0x10a4,-0x14ce+0x2148+0x5fd*-0x2],ejectDupeAmount=0x21a8+0x1*0xfeb+-0x3192,ejectDupeIndex=0x16ec+-0x19*-0x86+0x2402*-0x1,buttonSound=-0x4*0x553+-0x13af+0x23*0x12d,LerpMenu=![],menuscale=0x23db+0x1*-0x1602+-0xdd9+0.9,headSizeValues=[0x1d0e+0xe35+-0x2b42,-0x1ddc+-0x1*0x2082+0x3e60,-0x2d1+-0x192c+0x1c02,-0x3*0x44b+-0x1f3e+0x2c29,-0x12e9+0x1dba+-0x1*0xac2,0xb*-0x2f1+0x1ee6+0x189,0x14f7+-0x1644+0x166,-0x5*0x437+0x588+0x11*0xed,-0x1f86+0x1*0x2006+-0x80],headSizeAmount=-0x5e*-0x11+0x1567+-0x1ba4,headSizeIndex=-0x2230+0xc5*0x3+0x1fe1,soundFileFiles=[_0x8e9e14(0x7b9)+'3',_0x8e9e14(0xb37)+_0x8e9e14(0xecb),_0x8e9e14(0x7fb)+_0x8e9e14(0x25d),_0x8e9e14(0x1e1),_0x8e9e14(0x1a9),_0x8e9e14(0x996)+'3',_0x8e9e14(0xf0a)+_0x8e9e14(0x42c),_0x8e9e14(0x7a3),_0x8e9e14(0xbc4)+_0x8e9e14(0xecb),_0x8e9e14(0x5a5)+'3',_0x8e9e14(0x2da)+'3',_0x8e9e14(0xed0)+'p3',_0x8e9e14(0x949)+'p3'],soundFileIndex=-0x1*-0xeda+-0x19fe+0xb24,previousGhostKey=![],previousInvisKey=![],previousSoundKey=![],previousNoclipKey=![],perviousTeleportKey=![],perviousShootKey=![],perviousSpawnKey=![],previoussaaakey=![],previousASCIIkey=![],isGhostFollowingActive=![],currentPlayerIndex=-0xde0+-0x374+-0x1*-0x1154,lastSwitchTime=0x17d0+-0x6a9*-0x5+0x391d*-0x1,netPlayers=[],roomJoinAttempted=![],waitingForRoom=![],roomCheckInterval=null,walkPos=null,walkNormal=null,cachedGhostPos={'head':null,'leftHand':null,'rightHand':null},closePosition=null,tagGunDelay=0x33*-0x89+-0x26b+-0x2*-0xedb,idGunDelay=0x22bb+-0xa0d*-0x2+-0x36d5,splashDelay=-0x131d*0x1+-0x1*-0x960+0x9bd,lagGunDelay=-0x19a6+0x1e62+-0x4bc,scaleVal=-0x1b66+0x1*0x21f3+0x1*-0x68d,hueVal=-0x1a32+-0xe01*0x1+0x2833,satVal=-0xb9e+-0x18e8+0x2486,hue=0x1c9*0x13+-0x2*-0x4cd+-0x2b85,jellywowes=-0xbf6*0x1+0x13b4+-0x7b9,lastTime=0x19d8+0x82*0x12+-0x22fc,oldSlide=null,leftPlatform=null,rightPlatform=null,fullbirhgtobject=null,lightEnabled=![],checkpoint=null,visualizer=[],audioManager=null,mylittleSphere=null,lineRenderHolder=null,isLineRenderQueued=![],linePool=[],handTextObj=null,lvT=null,rvT=null,buttonNotifications=!![],highPunchPower=![],bgColor=[0x1c37+-0x16*0x49+0x6*-0x3a8,0xff3+-0x2*-0xff9+-0xff7*0x3+0.5,-0x380*0xb+-0x385*-0x1+0x22fb,0x5*0x6d3+0x19f+-0x1*0x23bd],textColor=[0x1634+-0x27*0xab+0x3da,0x2*-0x517+0x4*0x34c+-0x302+0.7450981,0x147b+0x19f0+-0x2e6b+0.4901961,0x13c*0x1a+-0xb*0x1a2+-0xe21],buttonColor=[-0x125f+0x1*0x1909+-0x6aa+0.666,0xf73+0x70b+-0x2*0xb3f+0.333,-0x1b68+-0x1*-0x1b86+-0x1e,0x2*-0x1121+0xa1f+0x1824],buttonPressedColor=[-0x31*-0x25+0x2367+-0x2*0x153e+0.333,-0x1d*-0x41+0x209c+-0x27f9+0.15,-0x1ac4+-0x779*-0x2+0xbd2,0x1*-0x662+0xd0e+-0x6ab],menuName=_0x8e9e14(0xbad)+_0x8e9e14(0x9e8),themeIndex=0x1c40+-0x1010+-0xc30,buttonIndex=0x2224+-0x215a+-0xca,currentNotification='',notifactionResetTime=-0xe5e+-0x2*0xa4e+0x22fa;const itemIDs=[_0x8e9e14(0xf16)+'la',_0x8e9e14(0xb44)+_0x8e9e14(0x26d),_0x8e9e14(0x485)+_0x8e9e14(0xc11)+_0x8e9e14(0x103a),_0x8e9e14(0x2d3),_0x8e9e14(0x968)+_0x8e9e14(0x952),_0x8e9e14(0x968)+_0x8e9e14(0xc9f),_0x8e9e14(0xdb8),_0x8e9e14(0xdb8)+_0x8e9e14(0x65f),_0x8e9e14(0xdb8)+_0x8e9e14(0x6bb),_0x8e9e14(0xdb8)+_0x8e9e14(0xc55),_0x8e9e14(0xdb8)+_0x8e9e14(0x98f),_0x8e9e14(0x687),_0x8e9e14(0xae8)+_0x8e9e14(0x106b),_0x8e9e14(0xae8)+_0x8e9e14(0x6b4),_0x8e9e14(0xae8)+_0x8e9e14(0xe60),_0x8e9e14(0xae8)+_0x8e9e14(0x3f5)+_0x8e9e14(0x807),_0x8e9e14(0xae8)+_0x8e9e14(0x3f5)+_0x8e9e14(0x750),_0x8e9e14(0xae8)+_0x8e9e14(0x3f5)+_0x8e9e14(0x9b3),_0x8e9e14(0xae8)+_0x8e9e14(0x1071),_0x8e9e14(0xae8)+_0x8e9e14(0x8a4)+_0x8e9e14(0xb96),_0x8e9e14(0xae8)+_0x8e9e14(0x130)+_0x8e9e14(0x807),_0x8e9e14(0xae8)+_0x8e9e14(0xf96),_0x8e9e14(0xae8)+_0x8e9e14(0xccb)+_0x8e9e14(0x3d2),_0x8e9e14(0x96f)+_0x8e9e14(0xcb3),_0x8e9e14(0x96f)+_0x8e9e14(0x2d8),_0x8e9e14(0x96f)+_0x8e9e14(0x8e8),_0x8e9e14(0x96f)+_0x8e9e14(0x63d)+'l',_0x8e9e14(0x96f)+_0x8e9e14(0x1b8),_0x8e9e14(0x96f)+_0x8e9e14(0x8a1),_0x8e9e14(0x96f)+_0x8e9e14(0xf66),_0x8e9e14(0x96f)+_0x8e9e14(0xa78),_0x8e9e14(0x96f)+_0x8e9e14(0x421),_0x8e9e14(0x37c)+'on',_0x8e9e14(0x37c)+_0x8e9e14(0x9e1),_0x8e9e14(0x370)+_0x8e9e14(0x1070)+_0x8e9e14(0x6ec),_0x8e9e14(0x840)+'a',_0x8e9e14(0x840)+_0x8e9e14(0x16d),_0x8e9e14(0xa4e)+_0x8e9e14(0x5d4),_0x8e9e14(0xa00)+_0x8e9e14(0x2a0)+'od',_0x8e9e14(0x729),_0x8e9e14(0x7b3)+'up',_0x8e9e14(0x39f)+_0x8e9e14(0x805),_0x8e9e14(0x607)+_0x8e9e14(0xbfb),_0x8e9e14(0x95b)+'ox',_0x8e9e14(0x95b)+_0x8e9e14(0xa75),_0x8e9e14(0x95b)+_0x8e9e14(0xc90),_0x8e9e14(0x8a3)+_0x8e9e14(0x759),_0x8e9e14(0x849)+'an',_0x8e9e14(0x3f0)+_0x8e9e14(0x7ca),_0x8e9e14(0x107a)+_0x8e9e14(0xda9)+'e',_0x8e9e14(0x107a)+_0x8e9e14(0x10e4)+_0x8e9e14(0x522),_0x8e9e14(0x6e1),_0x8e9e14(0x6e1)+_0x8e9e14(0xbfd),_0x8e9e14(0xacc)+_0x8e9e14(0x4e2),_0x8e9e14(0x6fd)+'to',_0x8e9e14(0xe30)+_0x8e9e14(0x7e6),_0x8e9e14(0xe30)+_0x8e9e14(0x10a7),_0x8e9e14(0xe30)+_0x8e9e14(0x4c3),_0x8e9e14(0x7d9)+_0x8e9e14(0xcb7),_0x8e9e14(0x2c9)+_0x8e9e14(0xf3a),_0x8e9e14(0x2c9)+_0x8e9e14(0xe85)+_0x8e9e14(0xce3),_0x8e9e14(0x2c9)+_0x8e9e14(0xe85)+_0x8e9e14(0xe8f),_0x8e9e14(0x731)+_0x8e9e14(0x612),_0x8e9e14(0xbcc)+'a',_0x8e9e14(0xf13)+'er',_0x8e9e14(0xb6f)+_0x8e9e14(0x5aa),_0x8e9e14(0x4bd)+_0x8e9e14(0xc5d),_0x8e9e14(0x769),_0x8e9e14(0xd91)+_0x8e9e14(0xcd2),_0x8e9e14(0x90e)+_0x8e9e14(0x3f1),_0x8e9e14(0x90e)+_0x8e9e14(0x6b8)+_0x8e9e14(0xecc),_0x8e9e14(0x801)+'er',_0x8e9e14(0x1e8),_0x8e9e14(0x2b6)+_0x8e9e14(0x6e4),_0x8e9e14(0x2b6)+_0x8e9e14(0x6c4),_0x8e9e14(0xe4f)+'ar',_0x8e9e14(0x567)+_0x8e9e14(0xcab),_0x8e9e14(0xeeb)+_0x8e9e14(0x1119),_0x8e9e14(0x9a1),_0x8e9e14(0x35f)+_0x8e9e14(0x481),_0x8e9e14(0xbc0),_0x8e9e14(0x124)+_0x8e9e14(0xa7f)+'ra',_0x8e9e14(0xdb2)+_0x8e9e14(0x1083),_0x8e9e14(0x1045),_0x8e9e14(0x1045)+_0x8e9e14(0x99d),_0x8e9e14(0xfe7)+_0x8e9e14(0x218),_0x8e9e14(0xfe7)+_0x8e9e14(0x774),_0x8e9e14(0x3da),_0x8e9e14(0x1042)+_0x8e9e14(0x24f),_0x8e9e14(0xfee)+'r',_0x8e9e14(0xfc6)+_0x8e9e14(0xf20),_0x8e9e14(0x110e)+_0x8e9e14(0xe73),_0x8e9e14(0x233)+_0x8e9e14(0x39a),_0x8e9e14(0x233)+_0x8e9e14(0xa9b),_0x8e9e14(0x233)+_0x8e9e14(0x627)+_0x8e9e14(0x158),_0x8e9e14(0x233)+_0x8e9e14(0xdd1),_0x8e9e14(0x233)+_0x8e9e14(0x13c),_0x8e9e14(0x233)+_0x8e9e14(0xf24)+_0x8e9e14(0xe91),_0x8e9e14(0x233)+_0x8e9e14(0x962),_0x8e9e14(0x233)+_0x8e9e14(0x301),_0x8e9e14(0x233)+_0x8e9e14(0xce2)+_0x8e9e14(0xc7e),_0x8e9e14(0x233)+_0x8e9e14(0x6dd)+'l',_0x8e9e14(0x233)+_0x8e9e14(0xdfe),_0x8e9e14(0x233)+_0x8e9e14(0xea7),_0x8e9e14(0x233)+_0x8e9e14(0x10d8),_0x8e9e14(0x233)+_0x8e9e14(0xda2),_0x8e9e14(0x233)+_0x8e9e14(0x334),_0x8e9e14(0x233)+_0x8e9e14(0x7a8)+_0x8e9e14(0x8b2),_0x8e9e14(0x233)+_0x8e9e14(0x86e),_0x8e9e14(0x233)+_0x8e9e14(0xa29)+'h',_0x8e9e14(0x233)+_0x8e9e14(0xeb9),_0x8e9e14(0x233)+_0x8e9e14(0xfb7)+_0x8e9e14(0x891),_0x8e9e14(0x233)+_0x8e9e14(0x538)+'h',_0x8e9e14(0x233)+_0x8e9e14(0x10da),_0x8e9e14(0x233)+_0x8e9e14(0xc5f),_0x8e9e14(0x233)+_0x8e9e14(0x511),_0x8e9e14(0x233)+_0x8e9e14(0x179),_0x8e9e14(0x233)+_0x8e9e14(0x5b3)+_0x8e9e14(0x492),_0x8e9e14(0x233)+_0x8e9e14(0xf09)+'on',_0x8e9e14(0x233)+_0x8e9e14(0x43b),_0x8e9e14(0x233)+_0x8e9e14(0xd2f),_0x8e9e14(0xf9a)+_0x8e9e14(0xd5a)+_0x8e9e14(0xa93)+_0x8e9e14(0x4b3),_0x8e9e14(0xaf8)+_0x8e9e14(0xed9),_0x8e9e14(0xaf8)+_0x8e9e14(0x2e5)+_0x8e9e14(0xa1e),_0x8e9e14(0xaf8)+_0x8e9e14(0x2e5)+_0x8e9e14(0xfc1),_0x8e9e14(0xf70)+_0x8e9e14(0xf1e),_0x8e9e14(0xc8f)+_0x8e9e14(0x718),_0x8e9e14(0xc8f)+_0x8e9e14(0xa42),_0x8e9e14(0xc8f)+_0x8e9e14(0xd6f),_0x8e9e14(0xc8f)+_0x8e9e14(0x1041),_0x8e9e14(0x922)+_0x8e9e14(0x10f4)+_0x8e9e14(0xb96),_0x8e9e14(0x63b)+'y3',_0x8e9e14(0x63b)+'y5',_0x8e9e14(0xd87)+_0x8e9e14(0x371),_0x8e9e14(0xa8b)+_0x8e9e14(0x10fa),_0x8e9e14(0x87b)+_0x8e9e14(0x89e),_0x8e9e14(0x296)+'oy',_0x8e9e14(0x8f6)+_0x8e9e14(0x7dd),_0x8e9e14(0x81f)+'ar',_0x8e9e14(0x48c)+_0x8e9e14(0x82e),_0x8e9e14(0x688),_0x8e9e14(0x493)+_0x8e9e14(0x93d),_0x8e9e14(0x10b1)+_0x8e9e14(0x481),_0x8e9e14(0x605)+'de',_0x8e9e14(0x605)+_0x8e9e14(0x57e),_0x8e9e14(0x605)+_0x8e9e14(0xdee)+'r',_0x8e9e14(0x393)+_0x8e9e14(0xc51)+'g',_0x8e9e14(0x9e7)+_0x8e9e14(0x38d)+'ne',_0x8e9e14(0x1ab)+_0x8e9e14(0xec4),_0x8e9e14(0xe66)+'et',_0x8e9e14(0xb91)+_0x8e9e14(0xaab),_0x8e9e14(0xe47)+_0x8e9e14(0x7ca),_0x8e9e14(0xe47)+_0x8e9e14(0x10b2),_0x8e9e14(0xe47)+_0x8e9e14(0xa0a)+'ox',_0x8e9e14(0x10fb)+'y',_0x8e9e14(0x642)+_0x8e9e14(0xe91),_0x8e9e14(0x642)+_0x8e9e14(0xac0),_0x8e9e14(0xf7b)+_0x8e9e14(0xc97),_0x8e9e14(0x73c)+_0x8e9e14(0xb4a),_0x8e9e14(0xb05)+_0x8e9e14(0xfe3),_0x8e9e14(0xe0c)+'ck',_0x8e9e14(0x6a7)+_0x8e9e14(0xb26),_0x8e9e14(0x6a7)+_0x8e9e14(0xaee),_0x8e9e14(0x596)+'rd',_0x8e9e14(0x5a4),_0x8e9e14(0x1b1)+_0x8e9e14(0x1012),_0x8e9e14(0x1b1)+_0x8e9e14(0x41d),_0x8e9e14(0x104a)+_0x8e9e14(0x373),_0x8e9e14(0xaf1)+_0x8e9e14(0xb1b),_0x8e9e14(0x812)+_0x8e9e14(0x276)+'d',_0x8e9e14(0x3db)+_0x8e9e14(0xd4e),_0x8e9e14(0x909)+_0x8e9e14(0x65a),_0x8e9e14(0xcd1)+_0x8e9e14(0x14b),_0x8e9e14(0xcd1)+_0x8e9e14(0xfb8),_0x8e9e14(0xcd1)+_0x8e9e14(0x103f),_0x8e9e14(0xcd1)+_0x8e9e14(0x422)+'s',_0x8e9e14(0xcd1)+_0x8e9e14(0x194),_0x8e9e14(0xcd1)+_0x8e9e14(0x7de),_0x8e9e14(0xcd1)+_0x8e9e14(0x290),_0x8e9e14(0x4a7)+_0x8e9e14(0x53a),_0x8e9e14(0xde4)+_0x8e9e14(0xf1e),_0x8e9e14(0x2fe)+_0x8e9e14(0x27e),_0x8e9e14(0x2a3),_0x8e9e14(0xb07)+'e',_0x8e9e14(0x589),_0x8e9e14(0x7a6)+_0x8e9e14(0x389),_0x8e9e14(0xfe8)+_0x8e9e14(0x6bc),_0x8e9e14(0xa62)+_0x8e9e14(0xa23),_0x8e9e14(0xa62)+_0x8e9e14(0x5f2),_0x8e9e14(0xa62)+_0x8e9e14(0xdd2),_0x8e9e14(0xc1d)+_0x8e9e14(0xf2a),_0x8e9e14(0xc1d)+_0x8e9e14(0xe01),_0x8e9e14(0xc1d)+_0x8e9e14(0x4a9),_0x8e9e14(0x380)+_0x8e9e14(0xa63),_0x8e9e14(0xfb1)+_0x8e9e14(0xf86),_0x8e9e14(0xfb1)+_0x8e9e14(0xc91),_0x8e9e14(0xfb1)+_0x8e9e14(0x7e9),_0x8e9e14(0xe86)+_0x8e9e14(0x10e3),_0x8e9e14(0xded)+_0x8e9e14(0x1d5),_0x8e9e14(0x551)+_0x8e9e14(0x68c),_0x8e9e14(0xaa5)+'xe',_0x8e9e14(0xaa5)+_0x8e9e14(0xaad),_0x8e9e14(0xaa5)+_0x8e9e14(0x18e),_0x8e9e14(0xaa5)+_0x8e9e14(0x85c)+'ic',_0x8e9e14(0xc58)+_0x8e9e14(0x1099),_0x8e9e14(0x99e)+_0x8e9e14(0xaf7),_0x8e9e14(0xada),_0x8e9e14(0xac9)+_0x8e9e14(0xd32),_0x8e9e14(0x3a9),_0x8e9e14(0x2c8)+'er',_0x8e9e14(0xdfd)+_0x8e9e14(0x7dd),_0x8e9e14(0x64d)+_0x8e9e14(0x9a9),_0x8e9e14(0x9c3)+'rn',_0x8e9e14(0x90b)+_0x8e9e14(0xaa6)+_0x8e9e14(0x6b6),_0x8e9e14(0x2bd)+_0x8e9e14(0xc4d),_0x8e9e14(0x9df)+_0x8e9e14(0x96c),_0x8e9e14(0x9df)+_0x8e9e14(0xe78),_0x8e9e14(0x9df)+_0x8e9e14(0x7a7),_0x8e9e14(0x9df)+_0x8e9e14(0x1082)+'ll',_0x8e9e14(0xd2e)+_0x8e9e14(0xc16),_0x8e9e14(0xd2e)+_0x8e9e14(0x100d)+_0x8e9e14(0x10af),_0x8e9e14(0xd2e)+_0x8e9e14(0xe75)+'n',_0x8e9e14(0xd2e)+_0x8e9e14(0x471)+_0x8e9e14(0x371),_0x8e9e14(0xd2e)+_0x8e9e14(0x325)+'h',_0x8e9e14(0xd2e)+_0x8e9e14(0x1e0)+'t',_0x8e9e14(0xd2e)+_0x8e9e14(0x322)+_0x8e9e14(0xdf8),_0x8e9e14(0xd2e)+_0x8e9e14(0xc92),_0x8e9e14(0xd2e)+_0x8e9e14(0x1a3)+_0x8e9e14(0x584),_0x8e9e14(0xd2e)+_0x8e9e14(0x36e)+_0x8e9e14(0xc21),_0x8e9e14(0xd2e)+_0x8e9e14(0x694),_0x8e9e14(0xd2e)+_0x8e9e14(0x36f)+_0x8e9e14(0x251),_0x8e9e14(0xd2e)+_0x8e9e14(0x36f)+_0x8e9e14(0x894),_0x8e9e14(0xd2e)+_0x8e9e14(0x36f)+_0x8e9e14(0xa0f),_0x8e9e14(0xd2e)+_0x8e9e14(0xe7e)+_0x8e9e14(0x4f1),_0x8e9e14(0xd2e)+_0x8e9e14(0x9bb)+_0x8e9e14(0x43f),_0x8e9e14(0xd2e)+_0x8e9e14(0x3ab)+_0x8e9e14(0xcf1),_0x8e9e14(0xd2e)+_0x8e9e14(0x940)+'t',_0x8e9e14(0xd2e)+_0x8e9e14(0x70c)+_0x8e9e14(0x78d),_0x8e9e14(0xd2e)+_0x8e9e14(0x8c3)+_0x8e9e14(0xdf8),_0x8e9e14(0xd2e)+_0x8e9e14(0xdb9)+_0x8e9e14(0x263),_0x8e9e14(0xd2e)+_0x8e9e14(0xef3),_0x8e9e14(0xd2e)+_0x8e9e14(0x234),_0x8e9e14(0xd2e)+_0x8e9e14(0xcdd),_0x8e9e14(0xd2e)+_0x8e9e14(0x8fa),_0x8e9e14(0xd2e)+_0x8e9e14(0xaa4)+_0x8e9e14(0xc00),_0x8e9e14(0xd2e)+_0x8e9e14(0xaa4)+_0x8e9e14(0xae5),_0x8e9e14(0xd2e)+_0x8e9e14(0x45d),_0x8e9e14(0xd2e)+_0x8e9e14(0xd64)+_0x8e9e14(0xe58),_0x8e9e14(0xd2e)+_0x8e9e14(0xd64)+_0x8e9e14(0x78f),_0x8e9e14(0xd2e)+_0x8e9e14(0xd64)+_0x8e9e14(0x420),_0x8e9e14(0xd2e)+_0x8e9e14(0xd64)+_0x8e9e14(0x6a8),_0x8e9e14(0xd2e)+_0x8e9e14(0x628)+'e',_0x8e9e14(0xd2e)+_0x8e9e14(0x628)+_0x8e9e14(0xc5b),_0x8e9e14(0xd2e)+_0x8e9e14(0x3d6)+_0x8e9e14(0x572)+_0x8e9e14(0x6c8),_0x8e9e14(0xd2e)+_0x8e9e14(0x3d6)+_0x8e9e14(0x3f8)+_0x8e9e14(0x824),_0x8e9e14(0xd2e)+_0x8e9e14(0x3d6)+_0x8e9e14(0x9ea)+_0x8e9e14(0xd4f),_0x8e9e14(0xd2e)+_0x8e9e14(0x3d6)+_0x8e9e14(0xbd4)+_0x8e9e14(0x658)+'y',_0x8e9e14(0xd2e)+_0x8e9e14(0xf95)+'s',_0x8e9e14(0xb0f)+'r',_0x8e9e14(0xb0f)+_0x8e9e14(0x4af),_0x8e9e14(0x4d6)+_0x8e9e14(0x3e6),_0x8e9e14(0xf64)+_0x8e9e14(0x192)+_0x8e9e14(0xe52),_0x8e9e14(0xf64)+_0x8e9e14(0xfa2)+_0x8e9e14(0xaff),_0x8e9e14(0x18b)+_0x8e9e14(0x6ac)+_0x8e9e14(0xaf0),_0x8e9e14(0x18b)+_0x8e9e14(0x6ac)+_0x8e9e14(0x52b),_0x8e9e14(0x18b)+_0x8e9e14(0x6ac)+_0x8e9e14(0xf81),_0x8e9e14(0x18b)+_0x8e9e14(0x6ac)+_0x8e9e14(0x2a5),_0x8e9e14(0x18b)+_0x8e9e14(0x6ac)+_0x8e9e14(0x265),_0x8e9e14(0x1bc)+_0x8e9e14(0xe06),_0x8e9e14(0x85d)+_0x8e9e14(0x5e1)+'er',_0x8e9e14(0xbd0)+_0x8e9e14(0xacd),_0x8e9e14(0xbd0)+_0x8e9e14(0x310),_0x8e9e14(0xbd0)+_0x8e9e14(0x67e),_0x8e9e14(0x228)+_0x8e9e14(0xf68),_0x8e9e14(0x100f)+_0x8e9e14(0x8b6),_0x8e9e14(0x9bf)+_0x8e9e14(0x806),_0x8e9e14(0x9bf)+_0x8e9e14(0x32d),_0x8e9e14(0x9bf)+_0x8e9e14(0xb86),_0x8e9e14(0xda6),_0x8e9e14(0xd08),_0x8e9e14(0x2ee)+_0x8e9e14(0xd6e),_0x8e9e14(0x2ee)+_0x8e9e14(0xd07),_0x8e9e14(0x2ee)+_0x8e9e14(0x1d1),_0x8e9e14(0x49e)+'ny',_0x8e9e14(0x34c)+_0x8e9e14(0x822),_0x8e9e14(0x2c1)+_0x8e9e14(0x6a9),_0x8e9e14(0x2c1)+_0x8e9e14(0x95d),_0x8e9e14(0x1eb)+_0x8e9e14(0x359),_0x8e9e14(0x154),_0x8e9e14(0xdac)+'e',_0x8e9e14(0xd8b)+_0x8e9e14(0xd93),_0x8e9e14(0xc9c)+_0x8e9e14(0x1103),_0x8e9e14(0xc9c)+_0x8e9e14(0x6a6)+'er',_0x8e9e14(0xcd5)+'er',_0x8e9e14(0x79a)+_0x8e9e14(0x10dc),_0x8e9e14(0x85b)+_0x8e9e14(0xc0b),_0x8e9e14(0xd44)+'d',_0x8e9e14(0xd44)+_0x8e9e14(0xcf2),_0x8e9e14(0xd44)+_0x8e9e14(0x92a)+'ne',_0x8e9e14(0xd44)+_0x8e9e14(0xfa9),_0x8e9e14(0xd44)+_0x8e9e14(0xa45),_0x8e9e14(0xd44)+_0x8e9e14(0x1095),_0x8e9e14(0xd44)+_0x8e9e14(0xb03),_0x8e9e14(0xd44)+_0x8e9e14(0x867),_0x8e9e14(0x424)+'un',_0x8e9e14(0x424)+_0x8e9e14(0xadd),_0x8e9e14(0x424)+_0x8e9e14(0x3d0),_0x8e9e14(0x107d)+'l',_0x8e9e14(0x4a3)+_0x8e9e14(0xd5e),_0x8e9e14(0x6a1)+_0x8e9e14(0x3fc)+_0x8e9e14(0x1110),_0x8e9e14(0x668)+'le',_0x8e9e14(0x7fe)+'oe',_0x8e9e14(0x7fe)+_0x8e9e14(0x696),_0x8e9e14(0x7fe)+_0x8e9e14(0xeba),_0x8e9e14(0x7fe)+_0x8e9e14(0x5c5),_0x8e9e14(0x129)+_0x8e9e14(0x90d),_0x8e9e14(0x2ab)+_0x8e9e14(0x371),_0x8e9e14(0x2ab)+_0x8e9e14(0x674),_0x8e9e14(0x2ab)+_0x8e9e14(0x6a2),_0x8e9e14(0x2ab)+_0x8e9e14(0x997),_0x8e9e14(0x2ab)+_0x8e9e14(0x9f4),_0x8e9e14(0x2ab)+_0x8e9e14(0x7b4),_0x8e9e14(0x2c5)+_0x8e9e14(0x8fc)+'e',_0x8e9e14(0x8eb)+_0x8e9e14(0xce0)+_0x8e9e14(0x194),_0x8e9e14(0x8eb)+_0x8e9e14(0xce0)+_0x8e9e14(0xee4)+_0x8e9e14(0x60d),_0x8e9e14(0x8eb)+_0x8e9e14(0xce0)+_0x8e9e14(0x9b6)+_0x8e9e14(0xeb1),_0x8e9e14(0xa7e)+'er',_0x8e9e14(0x23d)+_0x8e9e14(0x522),_0x8e9e14(0x1fb)+_0x8e9e14(0x61d),_0x8e9e14(0x1fb)+_0x8e9e14(0x256),_0x8e9e14(0x10ad)+_0x8e9e14(0x31d)+'ue',_0x8e9e14(0x10ad)+_0x8e9e14(0x743)+'ld',_0x8e9e14(0x5d8)+_0x8e9e14(0xfd1),_0x8e9e14(0x5d8)+_0x8e9e14(0x756),_0x8e9e14(0x5d8)+_0x8e9e14(0xb0c)+'er',_0x8e9e14(0x5d8)+_0x8e9e14(0x379),_0x8e9e14(0x32a)+_0x8e9e14(0xa4f),_0x8e9e14(0xf7f)+'t',_0x8e9e14(0x83a)+_0x8e9e14(0x8d9),_0x8e9e14(0x4a5)+_0x8e9e14(0xd4e),_0x8e9e14(0x4a5)+_0x8e9e14(0x184),_0x8e9e14(0xe4a)+_0x8e9e14(0x10ee),_0x8e9e14(0xdf6)+_0x8e9e14(0x5a9),_0x8e9e14(0x547)+_0x8e9e14(0x5f4),_0x8e9e14(0x10f9)+_0x8e9e14(0x484),_0x8e9e14(0x10f9)+_0x8e9e14(0x21a)+'ga',_0x8e9e14(0x10f9)+_0x8e9e14(0x772)+_0x8e9e14(0x73e),_0x8e9e14(0x11c)+_0x8e9e14(0x339),_0x8e9e14(0xb17)+_0x8e9e14(0x6c7),_0x8e9e14(0xecd)+_0x8e9e14(0x7dd),_0x8e9e14(0x7da)+_0x8e9e14(0xc88)+_0x8e9e14(0x9b4),_0x8e9e14(0xd02)+'y',_0x8e9e14(0x272),_0x8e9e14(0x272)+_0x8e9e14(0x472),_0x8e9e14(0xd0d)+_0x8e9e14(0x1ac),_0x8e9e14(0xd0d)+_0x8e9e14(0x9d3),_0x8e9e14(0x5e9)+'le',_0x8e9e14(0x5e9)+_0x8e9e14(0xe16),_0x8e9e14(0x712)+_0x8e9e14(0xfbc),_0x8e9e14(0x712)+_0x8e9e14(0x2c2),_0x8e9e14(0x712)+_0x8e9e14(0xddb)+'el',_0x8e9e14(0xe80)+_0x8e9e14(0xffc),_0x8e9e14(0xb40)+_0x8e9e14(0x312),_0x8e9e14(0x2d5)+_0x8e9e14(0xd01),_0x8e9e14(0x2d5)+_0x8e9e14(0x5a7),_0x8e9e14(0x2d5)+_0x8e9e14(0x58e),_0x8e9e14(0x487)+_0x8e9e14(0x4b0),_0x8e9e14(0x487)+_0x8e9e14(0x50b)+_0x8e9e14(0x186),_0x8e9e14(0x4d3)+'an',_0x8e9e14(0x477)+_0x8e9e14(0xfd5),_0x8e9e14(0x477)+_0x8e9e14(0x44a),_0x8e9e14(0x7fd)+'ie',_0x8e9e14(0x611)+_0x8e9e14(0x13d),_0x8e9e14(0x611)+_0x8e9e14(0xe51),_0x8e9e14(0xe10)+_0x8e9e14(0xffa),_0x8e9e14(0xad9)+_0x8e9e14(0x646),_0x8e9e14(0xff7)+_0x8e9e14(0x10e5)],VFXTypes={'None':0xff,'MuzzleFlash_Shotgun':0x0,'MuzzleFlash_FlareGun':0x1,'CrateBreak':0x2,'MuzzleFlash_SmallGun':0x3,'MuzzleFlash_GoldRevolver':0x4,'MuzzleFlash_DragonPistol':0x5,'MuzzleFlash_ViperShotgun':0x6,'Explosion_FlareGun':0x20,'Explosion_Coins':0x21,'Explosion_Nuts':0x22,'Explosion_Keys':0x23,'Explosion_Balloon':0x24,'Explosion_TeleGrenadeSrc':0x25,'Player_Touch_Lava':0x26,'Portal_Teleport':0x27,'Explosion_Coins_Vertical':0x28,'Autumn_Leaves_Burst':0x29,'Explosion_Feathers':0x2a,'Explosion_Popcorn':0x2b,'Electricity_Small':0x2c,'Impact_Flaregun':0x40,'Impact_Snowball':0x41,'Impact_GoldRevolver':0x42,'Impact_MeleeHit':0x43,'Impact_BigGroundHit':0x44,'Impact_MeleeHit_CriticalSmall':0x45,'Impact_MeleeHit_CriticalLarge':0x46,'Impact_MeleeHit_AoE':0x47,'Research_ZiplineAttachDetach':0x60,'Research_Purchase1RP':0x61,'Research_Purchase5RP':0x62,'Research_Purchase10RP':0x63,'Research_PurchaseRPBundle':0x64,'Rope_ZiplineAttachDetach':0x6e,'MeatExplosion_1':0x80,'MeatExplosion_2':0x81,'MeatExplosion_Headshot':0x82,'ServerRoomSplash_Small':0xa0,'ServerRoomSplash_Big':0xa1,'RAMActivationSparks':0xa2,'GreenBlink':0xaa,'ConfettiBurst':0xae,'Ethereal_Void':0xb4,'MomBoss_NailBreak':0xb5,'MidAirJump_Fart':0xb6,'FuelExplosion':0xb7},mobIDs=['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40'],flareGunPrefabs=[_0x8e9e14(0xa1d)+'ox',_0x8e9e14(0x106c)+_0x8e9e14(0xc73)+_0x8e9e14(0x9ba),_0x8e9e14(0xb1a)+_0x8e9e14(0x717)],newflareGunPrefabs=[_0x8e9e14(0x1e8)];let currentFlareGunPrefabIndex=0x3f2*0x5+-0x201c+-0x13d*-0xa;const allPrefabs=flareGunPrefabs,itemPrefabs=itemIDs,worldPrefabs=allPrefabs[_0x8e9e14(0x92f)](_0x46a7d4=>!_0x46a7d4[_0x8e9e14(0x10a6)](_0x8e9e14(0xaa8)));function _0x38eb(_0x5b06b0,_0x53c600){_0x5b06b0=_0x5b06b0-(0x1a6+0x1*0x1159+-0x11ef);const _0x5070b6=_0x8c0c();let _0x4dd608=_0x5070b6[_0x5b06b0];return _0x4dd608;}let currentItemIndex=0xc17+0xaca+-0x16e1*0x1,currentWorldPrefabIndex=0x60+0x23b5*-0x1+0x2355,itemIndex=-0x86*0x2b+0x1*0x1ed1+0x3*-0x2c5,mobIndex=-0x4e4*0x1+-0x3*-0x29f+-0x2f9*0x1,huespawner=-0x1379*0x1+-0x65*-0x1e+0x7a3,saturationspawner=0x21c4*-0x1+0x1270+-0x1b4*-0x9,sizespawner=-0x40*-0x4f+0xc82+-0x1021*0x2,jellyspawner=-0x453+-0x1eb+0x63e;Il2Cpp[_0x8e9e14(0x33c)](()=>{const _0x5358ee=_0x8e9e14,_0x4d0e58={'NQHEr':_0x5358ee(0xedb)+_0x5358ee(0x8c0),'SEhKO':_0x5358ee(0xedb)+_0x5358ee(0xdde),'cgHLq':_0x5358ee(0xedb)+_0x5358ee(0xe64)+'te','QnZFd':_0x5358ee(0xedb)+_0x5358ee(0x7bc)+_0x5358ee(0x8b2),'IFHNp':_0x5358ee(0xedb)+_0x5358ee(0x1058)+_0x5358ee(0x5f7)+'te','qjrPv':_0x5358ee(0x3c1),'vWHkH':_0x5358ee(0x66c),'rWnOk':_0x5358ee(0x102b)+_0x5358ee(0xa5d),'GPiEZ':_0x5358ee(0x3a2)+_0x5358ee(0x6a3),'pFMpV':_0x5358ee(0xc41)+_0x5358ee(0x387)+_0x5358ee(0x9db)+'de','iBPft':_0x5358ee(0x5c7)+_0x5358ee(0xd6b)+_0x5358ee(0x343),'gVDAm':_0x5358ee(0x5c7)+_0x5358ee(0xd6b)+_0x5358ee(0x17f)+_0x5358ee(0xf82)+_0x5358ee(0x9f6),'FUAIM':_0x5358ee(0x835)+_0x5358ee(0xc2d),'ZCBOi':_0x5358ee(0x211),'PXHnJ':_0x5358ee(0xb3a),'vfjro':_0x5358ee(0x10d0)+'nt','sTnVQ':_0x5358ee(0x10d0)+_0x5358ee(0xae9),'pcsyh':_0x5358ee(0x3ad)+'nt','MvilY':_0x5358ee(0x902),'VNbJo':_0x5358ee(0x236)+'ws','xThnp':function(_0x4f8332,_0x4402f2){return _0x4f8332<_0x4402f2;},'ohyyl':function(_0x4d3363,_0x134a07,_0xb378c5){return _0x4d3363(_0x134a07,_0xb378c5);},'TUSGM':function(_0x10e703,_0x40ed3b){return _0x10e703!=_0x40ed3b;},'NPZOi':function(_0x863ef,_0x2aaf1c){return _0x863ef!=_0x2aaf1c;},'tUPVH':function(_0x3b1d30,_0x15b6b8,_0xd02f32){return _0x3b1d30(_0x15b6b8,_0xd02f32);},'vJylE':_0x5358ee(0x60c),'PWPQj':_0x5358ee(0xcf0),'TgUzG':_0x5358ee(0x817)+_0x5358ee(0x814),'olVjL':_0x5358ee(0x49b)+_0x5358ee(0x83d),'sOiPW':function(_0x2a39f2,_0xbda0c5){return _0x2a39f2(_0xbda0c5);},'fBvQu':_0x5358ee(0x7e7)+'on','ALhId':_0x5358ee(0x845)+'n','PvSoH':_0x5358ee(0x625)+_0x5358ee(0x10cc),'NkBxZ':_0x5358ee(0xfd6)+'rt','YosQY':function(_0x35a1f6,_0x121443){return _0x35a1f6(_0x121443);},'UgdcT':_0x5358ee(0x8f0)+_0x5358ee(0x59d)+_0x5358ee(0xd70),'dfcrU':_0x5358ee(0xcd0)+_0x5358ee(0xe8c),'dYXHT':_0x5358ee(0x1c3),'EwCCj':_0x5358ee(0x96a)+_0x5358ee(0xec5)+_0x5358ee(0x10ed),'wtepi':function(_0x36d4d0,_0x109000){return _0x36d4d0==_0x109000;},'JkvxU':_0x5358ee(0xcfd)+_0x5358ee(0x10b7)+_0x5358ee(0xdeb),'AveAf':function(_0x3b5060,_0x1d06b2){return _0x3b5060(_0x1d06b2);},'agXgD':function(_0x14907f,_0x2eccac,_0x1a1fdb,_0x331434,_0x2fa240){return _0x14907f(_0x2eccac,_0x1a1fdb,_0x331434,_0x2fa240);},'xFiwu':function(_0x141162,_0x36e24f){return _0x141162(_0x36e24f);},'nIYxo':function(_0x382417,_0x8185fc,_0x3c6d84,_0x1768c3,_0x1c463b){return _0x382417(_0x8185fc,_0x3c6d84,_0x1768c3,_0x1c463b);},'dtgOm':function(_0x1542d4,_0x3cb02d,_0xd3a661){return _0x1542d4(_0x3cb02d,_0xd3a661);},'tSBAW':_0x5358ee(0x1063)+_0x5358ee(0x6ae)+_0x5358ee(0x623)+_0x5358ee(0x443),'PDQtr':_0x5358ee(0x71e)+_0x5358ee(0x10c0),'pdseX':_0x5358ee(0x247)+_0x5358ee(0x104d),'dqJZy':_0x5358ee(0xcfd)+_0x5358ee(0x803)+_0x5358ee(0x855)+_0x5358ee(0xe6e)+'t:','aaGCY':function(_0x23a28f,_0x593266,_0x3b2ae3){return _0x23a28f(_0x593266,_0x3b2ae3);},'aUOgq':_0x5358ee(0x78b)+_0x5358ee(0x5ac)+_0x5358ee(0x3bc),'dEGTv':function(_0x519b38,_0x578523){return _0x519b38===_0x578523;},'QQmRr':_0x5358ee(0x89c)+_0x5358ee(0xf6a)+_0x5358ee(0xd59)+_0x5358ee(0xac4),'RSmMB':_0x5358ee(0xd9d)+_0x5358ee(0x825),'ShGgv':_0x5358ee(0xf76),'xqqHW':_0x5358ee(0x9e3)+'t','gppNC':_0x5358ee(0x775),'tGgTa':function(_0x4806d7,_0x414a4d){return _0x4806d7+_0x414a4d;},'QkfpS':_0x5358ee(0x1f6),'cjrzX':_0x5358ee(0xec7)+_0x5358ee(0x4f7)+_0x5358ee(0x10c2)+_0x5358ee(0x46a)+_0x5358ee(0xdd4)+_0x5358ee(0x87f),'Klsdy':_0x5358ee(0x643),'QWwRH':_0x5358ee(0xc9d)+_0x5358ee(0x438)+_0x5358ee(0xf3f),'ofECl':function(_0x184739,_0x5c322e){return _0x184739+_0x5c322e;},'KDkDJ':_0x5358ee(0xa66)+_0x5358ee(0x860)+_0x5358ee(0x540)+_0x5358ee(0x2e0)+_0x5358ee(0x28c)+_0x5358ee(0xc57)+_0x5358ee(0x3a8),'VhkCk':_0x5358ee(0x1017)+_0x5358ee(0xd00)+_0x5358ee(0xeb0),'cPcpM':_0x5358ee(0x1017)+_0x5358ee(0x77a)+'p','TMPNn':_0x5358ee(0x622)+_0x5358ee(0x95c),'xlVnJ':function(_0x4b1801,_0x2a55e6){return _0x4b1801+_0x2a55e6;},'swFvl':_0x5358ee(0xdfb)+_0x5358ee(0x502)+_0x5358ee(0xd37)+_0x5358ee(0xac8)+_0x5358ee(0xe3f)+_0x5358ee(0x9d9),'PZXNf':_0x5358ee(0xdfb)+_0x5358ee(0xce6)+_0x5358ee(0x6c5)+_0x5358ee(0x608)+_0x5358ee(0xd60)+_0x5358ee(0x6d4),'LGUtK':_0x5358ee(0x408)+_0x5358ee(0xbfe)+_0x5358ee(0x6d6)+_0x5358ee(0xc13),'uxHFA':_0x5358ee(0xa7b)+_0x5358ee(0x1a2)+_0x5358ee(0x2d1)+_0x5358ee(0xd7b)+'s:','WFmdy':_0x5358ee(0x784)+_0x5358ee(0xa1a),'wBomR':function(_0x4683d5,_0x1a45c0){return _0x4683d5(_0x1a45c0);},'UrAhG':function(_0xdf177b,_0x2d2681){return _0xdf177b(_0x2d2681);},'qIrlQ':_0x5358ee(0x9f0)+_0x5358ee(0x20e),'XcQDa':function(_0x19889b,_0x2e6ed7){return _0x19889b+_0x2e6ed7;},'kMUZI':function(_0x235bc8,_0x135a61){return _0x235bc8==_0x135a61;},'XuvNn':_0x5358ee(0xcfd)+_0x5358ee(0xa8f)+_0x5358ee(0xd4c)+_0x5358ee(0x7e2),'QWgOZ':_0x5358ee(0x46c),'JQsdL':_0x5358ee(0xbf6)+_0x5358ee(0x87f),'uDNAZ':function(_0xc06ab2,_0x3a516e){return _0xc06ab2(_0x3a516e);},'vcwJI':function(_0x3c6d6c){return _0x3c6d6c();},'tTOzk':_0x5358ee(0x15c),'QTJKN':function(_0xe5f4fe){return _0xe5f4fe();},'yftDU':function(_0x4c77e3,_0x417f17){return _0x4c77e3==_0x417f17;},'ncJLD':_0x5358ee(0x2a8)+_0x5358ee(0x1fc)+_0x5358ee(0xd47)+_0x5358ee(0xe61),'kocto':_0x5358ee(0xedb)+_0x5358ee(0x5a2)+_0x5358ee(0x71f),'XCKAS':_0x5358ee(0xb8a),'fGCMP':_0x5358ee(0x752),'ceYEj':_0x5358ee(0x941)+_0x5358ee(0x7cb),'XUcqk':_0x5358ee(0x9bc)+'om','EEKWE':function(_0x41345f,_0x560ee3,_0x1eeb4d,_0x11f956){return _0x41345f(_0x560ee3,_0x1eeb4d,_0x11f956);},'KBaGF':_0x5358ee(0x224)+_0x5358ee(0xb2f),'HmESq':function(_0x2144a6){return _0x2144a6();},'ePiLI':_0x5358ee(0xedb)+_0x5358ee(0x905)+_0x5358ee(0x934),'VxBlf':_0x5358ee(0x345),'cguGK':function(_0x6b8ec3,_0xd83bc9){return _0x6b8ec3==_0xd83bc9;},'lgqtj':_0x5358ee(0x3dd)+_0x5358ee(0xddf)+_0x5358ee(0x5b6)+_0x5358ee(0x1c8)+'o','QgLww':_0x5358ee(0xfe0)+_0x5358ee(0x55f),'UuKcG':_0x5358ee(0x7ef)+_0x5358ee(0x25f),'gYkHY':_0x5358ee(0x4e1)+_0x5358ee(0x278),'lJkGW':_0x5358ee(0x4a6)+_0x5358ee(0x1d3),'hrZOW':_0x5358ee(0x9a3),'iUwrJ':function(_0x4a8464,_0x15ccd0){return _0x4a8464*_0x15ccd0;},'jcjEs':function(_0x13cdbe,_0x3f0400){return _0x13cdbe==_0x3f0400;},'sVFFX':_0x5358ee(0x3dd)+_0x5358ee(0xddf)+_0x5358ee(0x5b6)+_0x5358ee(0xe48),'OniuB':_0x5358ee(0xda7),'SMIvr':function(_0x403816,_0x43e673,_0x43315c){return _0x403816(_0x43e673,_0x43315c);},'CWbpR':_0x5358ee(0x4dc)+_0x5358ee(0x5f6),'penQx':_0x5358ee(0x476),'HoarZ':_0x5358ee(0x45c)+'t','uwINk':_0x5358ee(0xedb)+_0x5358ee(0xedc)+_0x5358ee(0x9b2),'ogEqq':_0x5358ee(0x10b3)+_0x5358ee(0x898),'VgqGj':_0x5358ee(0x686)+_0x5358ee(0x74e)+_0x5358ee(0xf2d),'YmhGR':_0x5358ee(0xe98)+_0x5358ee(0x982)+_0x5358ee(0x5da),'kAWLa':_0x5358ee(0xb04),'bngSj':_0x5358ee(0x542)+_0x5358ee(0x10a8),'zRHDC':_0x5358ee(0x51d)+_0x5358ee(0x10e7)+_0x5358ee(0x92c),'SvSdz':_0x5358ee(0xfce),'yDYqj':_0x5358ee(0x3fe)+_0x5358ee(0x1106)+_0x5358ee(0x43a)+_0x5358ee(0xc34)+_0x5358ee(0x3c4),'ZeIYa':_0x5358ee(0x66e)+'d','ducIE':_0x5358ee(0xe68),'WCeHk':function(_0x17d258,_0x450487){return _0x17d258+_0x450487;},'oFqti':_0x5358ee(0x1069)+_0x5358ee(0xebe),'UDIBP':_0x5358ee(0x292)+_0x5358ee(0xb26),'FUghj':_0x5358ee(0xf6d)+_0x5358ee(0x1046)+_0x5358ee(0x4e7)+_0x5358ee(0xb26),'uwrYU':_0x5358ee(0xef4)+_0x5358ee(0xdf7),'aSiMh':_0x5358ee(0x6b2)+_0x5358ee(0x10cc),'mqTUO':function(_0x740bf0,_0x5a0ac9){return _0x740bf0||_0x5a0ac9;},'LhGfG':_0x5358ee(0xf7c)+_0x5358ee(0x1102)+_0x5358ee(0xbef)+_0x5358ee(0xb88)+_0x5358ee(0x1061)+_0x5358ee(0x6af)+_0x5358ee(0x1ca)+_0x5358ee(0x747),'ngcyy':function(_0x15e0ea){return _0x15e0ea();},'wcSEI':_0x5358ee(0x558)+_0x5358ee(0x281)+_0x5358ee(0x39b),'oshOB':_0x5358ee(0x1029)+_0x5358ee(0x4d9)+_0x5358ee(0x559)+_0x5358ee(0x309),'JkmwM':_0x5358ee(0xedb)+_0x5358ee(0xa67)+_0x5358ee(0x1085)+_0x5358ee(0x5e6),'HpPaJ':_0x5358ee(0x1f8)+_0x5358ee(0xaeb),'spMmt':_0x5358ee(0x742)+_0x5358ee(0x1085)+_0x5358ee(0x58b)+_0x5358ee(0x876)+_0x5358ee(0x66d),'edQZr':_0x5358ee(0x81c)+_0x5358ee(0x6c3)+_0x5358ee(0xd31)+_0x5358ee(0x923),'uRABV':_0x5358ee(0xe79)+_0x5358ee(0xb9a)+_0x5358ee(0x794),'xwbTD':_0x5358ee(0xcb9)+_0x5358ee(0x9ee)+_0x5358ee(0x6cb)+_0x5358ee(0xc21),'qLQIY':_0x5358ee(0xfc0)+_0x5358ee(0xd3a)+_0x5358ee(0xdcf)+_0x5358ee(0x2ff),'gAsdy':_0x5358ee(0x5ce)+_0x5358ee(0x6f9)+_0x5358ee(0x66d),'vtXhw':_0x5358ee(0xa28)+_0x5358ee(0xec3)+_0x5358ee(0x66d),'eFwNB':_0x5358ee(0x248)+_0x5358ee(0x7c0)+_0x5358ee(0xbc3)+_0x5358ee(0x904),'JYgQn':_0x5358ee(0x286)+_0x5358ee(0xf1b)+_0x5358ee(0x1ed)+_0x5358ee(0x7ce)+_0x5358ee(0xa04)+_0x5358ee(0x6eb),'zzmKF':_0x5358ee(0x1e1),'qpXCz':_0x5358ee(0xf7c)+_0x5358ee(0x201)+_0x5358ee(0x52a)+'.','HiQpz':_0x5358ee(0x1f8)+_0x5358ee(0xd55),'yvnKg':_0x5358ee(0xbb6)+_0x5358ee(0xd03)+_0x5358ee(0x884),'rMGti':_0x5358ee(0x213)+_0x5358ee(0x3f4)+_0x5358ee(0xaa3)+_0x5358ee(0x63c),'ygTXL':function(_0x382809,_0x4a0c8d){return _0x382809===_0x4a0c8d;},'JxIIn':function(_0x20731d,_0x569cf3){return _0x20731d>=_0x569cf3;},'UEYom':function(_0x564e7c,_0x337a94){return _0x564e7c-_0x337a94;},'fgVtu':function(_0x8874ec,_0x3b8990){return _0x8874ec>=_0x3b8990;},'zPyPo':_0x5358ee(0x58d)+_0x5358ee(0x1b5)+_0x5358ee(0x60e)+_0x5358ee(0xf59)+_0x5358ee(0xed3)+_0x5358ee(0xf92),'BiSDU':function(_0x5ef20b){return _0x5ef20b();},'nAJOL':function(_0x155545){return _0x155545();},'CcBHW':_0x5358ee(0x892)+'on','ucNvM':function(_0x1f8669){return _0x1f8669();},'pSkzs':_0x5358ee(0xed1)+_0x5358ee(0x51b)+_0x5358ee(0x10ec)+_0x5358ee(0x323)+_0x5358ee(0x9bd),'yTXwN':_0x5358ee(0xf51)+_0x5358ee(0xf51)+_0x5358ee(0x1024),'qlevW':function(_0x356597){return _0x356597();},'ReSwO':_0x5358ee(0xedb)+_0x5358ee(0x313)+_0x5358ee(0x9a5),'iiASP':_0x5358ee(0x9e9)+'ce','kYVWj':_0x5358ee(0xf40)+_0x5358ee(0xee3),'swoIW':_0x5358ee(0x30c)+_0x5358ee(0x6ee),'gFnnE':_0x5358ee(0xc2f)+_0x5358ee(0xf15),'XGJcT':function(_0x560d09,_0x7055c8){return _0x560d09(_0x7055c8);},'BTvTn':_0x5358ee(0x9ac)+_0x5358ee(0x7c0)+_0x5358ee(0x216),'QRChF':_0x5358ee(0x9ac)+_0x5358ee(0x7c0)+_0x5358ee(0x271),'VvuVv':function(_0x2dfd6e,_0x2f511d,_0x19ae0b,_0x481cd1,_0x17f89c,_0x33a1e7,_0x466dfd){return _0x2dfd6e(_0x2f511d,_0x19ae0b,_0x481cd1,_0x17f89c,_0x33a1e7,_0x466dfd);},'OKIVc':_0x5358ee(0x83e),'yPudQ':_0x5358ee(0x6e0),'FDUft':_0x5358ee(0x8a9)+'ze','VxmTV':_0x5358ee(0x939),'hTKZw':_0x5358ee(0x692)+_0x5358ee(0x10d9),'CDYQv':_0x5358ee(0xbd7)+_0x5358ee(0xc21),'lziNM':_0x5358ee(0x4b8)+_0x5358ee(0x84f)+_0x5358ee(0xc02),'cyeAN':_0x5358ee(0x4b8)+_0x5358ee(0x1100)+'e','ZtVIJ':function(_0x4f10f4,_0x456285,_0x3da6db){return _0x4f10f4(_0x456285,_0x3da6db);},'FISoo':_0x5358ee(0xaec)+_0x5358ee(0x3cd),'qGNOa':_0x5358ee(0x603)+'on','cmbbo':_0x5358ee(0x163),'bVUwz':_0x5358ee(0x2cf)+_0x5358ee(0xd9e),'NfzFt':_0x5358ee(0xb42)+_0x5358ee(0x1c9),'zytIC':function(_0xd118f3,_0x352ad9){return _0xd118f3==_0x352ad9;},'oeSZr':_0x5358ee(0x139)+'d','bFcHv':_0x5358ee(0x57b)+'al','eusgk':_0x5358ee(0x64a),'ZcQFl':function(_0x236520,_0x1fd66c){return _0x236520!=_0x1fd66c;},'NeiSu':_0x5358ee(0xedf),'rMeMv':_0x5358ee(0x810)+_0x5358ee(0xbdf),'UKBgE':function(_0x64edcb,_0x2767f5){return _0x64edcb==_0x2767f5;},'JOHnP':function(_0x57dc69,_0x4ff837){return _0x57dc69&&_0x4ff837;},'qbWOS':function(_0x842076){return _0x842076();},'IoljC':function(_0x4eba31,_0x18d8ad){return _0x4eba31*_0x18d8ad;},'RQTKt':function(_0x249e3c,_0x37290b){return _0x249e3c(_0x37290b);},'oMotb':_0x5358ee(0xb2e),'VEUsz':_0x5358ee(0x1036)+_0x5358ee(0xae0),'EtPYF':function(_0x28aaac,_0x4ab79e,_0x36ca43,_0x29d2dd,_0x247db5,_0x3d1957){return _0x28aaac(_0x4ab79e,_0x36ca43,_0x29d2dd,_0x247db5,_0x3d1957);},'RYOBd':function(_0x2d7f2b,_0x53ba90,_0x490991){return _0x2d7f2b(_0x53ba90,_0x490991);},'DzhPk':function(_0x3e2742,_0x2e2763,_0x3c501c,_0xf1a1b7,_0x570277,_0x191515){return _0x3e2742(_0x2e2763,_0x3c501c,_0xf1a1b7,_0x570277,_0x191515);},'OFEzd':function(_0x3abb14,_0x5cfe55){return _0x3abb14(_0x5cfe55);},'yiRvb':function(_0x1318a4,_0x4a613e,_0x79d664){return _0x1318a4(_0x4a613e,_0x79d664);},'Xswjd':function(_0xc727c2,_0x1a021c,_0x2b5491,_0x2d77bc,_0x2656de,_0x483968,_0x20a8b8){return _0xc727c2(_0x1a021c,_0x2b5491,_0x2d77bc,_0x2656de,_0x483968,_0x20a8b8);},'TyoXI':function(_0x5be0a5,_0x312e9e){return _0x5be0a5(_0x312e9e);},'NsZsE':function(_0x1acc8f,_0x3adc5a){return _0x1acc8f(_0x3adc5a);},'WBQrn':function(_0xf29f93,_0x5590dc,_0x427581){return _0xf29f93(_0x5590dc,_0x427581);},'ExNmh':function(_0x2c6a6f,_0x3f8501,_0x15aa1e,_0x3343ec,_0x4e9a5e,_0x49f2c7,_0x4db37b){return _0x2c6a6f(_0x3f8501,_0x15aa1e,_0x3343ec,_0x4e9a5e,_0x49f2c7,_0x4db37b);},'OFURo':function(_0x52e6bf,_0x39ca99){return _0x52e6bf(_0x39ca99);},'jXzvS':function(_0x3a8cfc,_0x1ea23a,_0x359ab){return _0x3a8cfc(_0x1ea23a,_0x359ab);},'BrBLP':function(_0x337992,_0x13d075,_0x6fb65b){return _0x337992(_0x13d075,_0x6fb65b);},'ukGzv':function(_0x1cae6a,_0x2640d3,_0x51f281){return _0x1cae6a(_0x2640d3,_0x51f281);},'cmYFg':_0x5358ee(0x10e2)+_0x5358ee(0x1c6),'LJgld':_0x5358ee(0x10bf)+_0x5358ee(0x6ce)+_0x5358ee(0x714),'xXwEm':function(_0x4c1465,_0x5a79ce,_0x24d29c,_0x1ba248,_0x531af5,_0x4250a2){return _0x4c1465(_0x5a79ce,_0x24d29c,_0x1ba248,_0x531af5,_0x4250a2);},'JVHDW':function(_0x8070e,_0x1f43cc){return _0x8070e+_0x1f43cc;},'BUmLm':_0x5358ee(0xbad)+_0x5358ee(0x9e8),'cttUm':function(_0x31aaad,_0x2cb29f){return _0x31aaad>_0x2cb29f;},'itkqU':function(_0x4c76d3,_0x1583bf,_0xecd233,_0x5b50d3,_0x58eebd,_0x536100,_0x55a737){return _0x4c76d3(_0x1583bf,_0xecd233,_0x5b50d3,_0x58eebd,_0x536100,_0x55a737);},'svOth':function(_0xcc67ef,_0x12f22b){return _0xcc67ef(_0x12f22b);},'cmVuc':_0x5358ee(0x856)+'t','ZDMYI':function(_0x30e48b,_0xf11c2e,_0x28ca42){return _0x30e48b(_0xf11c2e,_0x28ca42);},'IRelY':_0x5358ee(0xed6),'mvqNQ':_0x5358ee(0xf0d)+_0x5358ee(0x5a1),'yAcEb':function(_0x525b5e,_0x58b86d,_0x315cc9){return _0x525b5e(_0x58b86d,_0x315cc9);},'CLxis':function(_0x57598e,_0x535177,_0x17d0a3){return _0x57598e(_0x535177,_0x17d0a3);},'iRsyO':_0x5358ee(0xd4b)+_0x5358ee(0x852),'BeXBH':function(_0x4b4c65,_0x44b6f7,_0x57efe8,_0x3bd52c,_0x3ddceb,_0x3037a9){return _0x4b4c65(_0x44b6f7,_0x57efe8,_0x3bd52c,_0x3ddceb,_0x3037a9);},'rrtyQ':function(_0x587a75,_0x23d283,_0x5e78fe,_0x3ac5fa,_0x5a3252,_0x2a599b,_0x321540){return _0x587a75(_0x23d283,_0x5e78fe,_0x3ac5fa,_0x5a3252,_0x2a599b,_0x321540);},'IdRtB':function(_0x828ece,_0x46db91){return _0x828ece(_0x46db91);},'rVuec':_0x5358ee(0x9c9),'vVVIg':function(_0x48b0ee,_0x5edf86,_0x2b3663){return _0x48b0ee(_0x5edf86,_0x2b3663);},'GMThm':function(_0x121dc7,_0x2b0df7,_0x5e1012,_0x15b7d2,_0x195f32,_0x91d377){return _0x121dc7(_0x2b0df7,_0x5e1012,_0x15b7d2,_0x195f32,_0x91d377);},'BxssG':function(_0x42a204,_0x23d7f4){return _0x42a204(_0x23d7f4);},'vGAIT':_0x5358ee(0x47a)+'y','MaZjQ':_0x5358ee(0x560)+_0x5358ee(0xbdf),'OoDOZ':_0x5358ee(0x2b9)+_0x5358ee(0x582)+_0x5358ee(0x1013),'EqaTa':function(_0x495ab8){return _0x495ab8();},'ubSga':_0x5358ee(0x808),'cmmjI':_0x5358ee(0x72a)+_0x5358ee(0xbd2),'yyQKe':_0x5358ee(0xa5c)+_0x5358ee(0xf1d),'KtyOu':_0x5358ee(0xf9e),'RBNOW':function(_0x38700a,_0x38907a,_0x58497c){return _0x38700a(_0x38907a,_0x58497c);},'vPjGj':_0x5358ee(0x496),'GUMQZ':function(_0x17f044,_0x5e3912,_0x54a813){return _0x17f044(_0x5e3912,_0x54a813);},'gilIh':function(_0x1348dc,_0x4a3d0c){return _0x1348dc(_0x4a3d0c);},'kIQrC':function(_0x2bd25a,_0x5a35fd,_0x5a25cb){return _0x2bd25a(_0x5a35fd,_0x5a25cb);},'xqQzG':function(_0xb75019,_0x58f8f9,_0x4b3514,_0x3e9499,_0xe12f95,_0x4b62b6,_0x3912e5){return _0xb75019(_0x58f8f9,_0x4b3514,_0x3e9499,_0xe12f95,_0x4b62b6,_0x3912e5);},'bkihB':_0x5358ee(0x7ee)+'d','yGkgp':_0x5358ee(0x1115)+'n','sBIUp':_0x5358ee(0x1a4),'CxGrm':_0x5358ee(0x78a),'qaTSS':_0x5358ee(0x268),'OAbtM':function(_0x48838e,_0xab1152){return _0x48838e!=_0xab1152;},'CZuah':_0x5358ee(0x838)+'er','tCBMf':function(_0x382f1e,_0x10bd80){return _0x382f1e<_0x10bd80;},'NRLgh':function(_0x287bc7,_0x465a8c,_0x1d36d1,_0x4e5699,_0x116f64,_0x2369fe){return _0x287bc7(_0x465a8c,_0x1d36d1,_0x4e5699,_0x116f64,_0x2369fe);},'uivfk':function(_0x1e6a9e,_0x523c69){return _0x1e6a9e(_0x523c69);},'iOJZo':function(_0x40b8f9,_0x18689a,_0x163eb9){return _0x40b8f9(_0x18689a,_0x163eb9);},'rXCUZ':_0x5358ee(0xd25),'fVort':function(_0x1c820c,_0x4937d7){return _0x1c820c==_0x4937d7;},'tRjRP':_0x5358ee(0xbe7),'KaCwp':function(_0x200a3a,_0x39c725,_0x582f4b){return _0x200a3a(_0x39c725,_0x582f4b);},'XZDSl':_0x5358ee(0xa3c)+_0x5358ee(0x88b),'tQcla':_0x5358ee(0xbcf),'ZTILp':_0x5358ee(0x85e)+_0x5358ee(0x9fc),'qrmmR':_0x5358ee(0xc18)+'th','Jkdik':_0x5358ee(0x44f)+_0x5358ee(0xb06),'QBVCW':_0x5358ee(0x4c7)+_0x5358ee(0xb90),'uikAT':_0x5358ee(0x973)+'or','lOXHQ':_0x5358ee(0xf33)+_0x5358ee(0x368),'REyPo':_0x5358ee(0x788)+'n','anKQZ':function(_0x2150db,_0x3580c2){return _0x2150db(_0x3580c2);},'LHgJd':function(_0x378f91,_0x5f4b9){return _0x378f91(_0x5f4b9);},'tkypP':_0x5358ee(0xdff)+'on','VQrCK':_0x5358ee(0x49f),'nYpqs':function(_0x343701,_0xeb84f4){return _0x343701*_0xeb84f4;},'KDgNk':_0x5358ee(0x110f),'rkzvf':_0x5358ee(0xd0e),'OfbQf':_0x5358ee(0x1081),'UWaIi':_0x5358ee(0x517),'WeYEu':function(_0x5e63a9,_0x1cd3bb){return _0x5e63a9 instanceof _0x1cd3bb;},'ozIjy':function(_0x271e65,_0x469e7d,_0x41e583,_0x4c8b65){return _0x271e65(_0x469e7d,_0x41e583,_0x4c8b65);},'yxkfA':function(_0x381d51,_0x5c07c2,_0x55f084){return _0x381d51(_0x5c07c2,_0x55f084);},'jfwQP':_0x5358ee(0x47f),'XqIVS':_0x5358ee(0x54b)+'e','imiyh':_0x5358ee(0xe99),'zTNMn':_0x5358ee(0xbde),'epCmU':function(_0x11e8e7,_0x671a75){return _0x11e8e7<_0x671a75;},'MuwAa':_0x5358ee(0x10d2),'AczPl':_0x5358ee(0x911)+_0x5358ee(0x3aa),'cqtVW':_0x5358ee(0x88c)+_0x5358ee(0xf71),'cBdhK':_0x5358ee(0x4c0),'WMRaq':function(_0x3a5d63,_0x35aeff){return _0x3a5d63!==_0x35aeff;},'iJikE':_0x5358ee(0x20c)+_0x5358ee(0xc01),'AcXmb':_0x5358ee(0x946)+_0x5358ee(0x9fa),'QzISD':_0x5358ee(0xb87),'tfZgE':_0x5358ee(0x45f),'sYDDa':_0x5358ee(0x791),'XkSWK':_0x5358ee(0xb8e)+_0x5358ee(0xabf),'XlpLi':_0x5358ee(0x593)+_0x5358ee(0x8e2),'rrEpp':function(_0x4c7888,_0xd3f5aa,_0x4fbb8c){return _0x4c7888(_0xd3f5aa,_0x4fbb8c);},'OPxxn':function(_0x30fdf4,_0x54840d,_0x561273,_0x260423){return _0x30fdf4(_0x54840d,_0x561273,_0x260423);},'JPAdG':_0x5358ee(0xbec)+_0x5358ee(0xea4)+_0x5358ee(0x63f),'rowQi':function(_0x79e563,_0x1d7ca0){return _0x79e563!=_0x1d7ca0;},'fZsDL':_0x5358ee(0x1017)+_0x5358ee(0x1cc)+'le','pFeqm':_0x5358ee(0x1017)+_0x5358ee(0x4e6),'CKIZp':function(_0xe0c0f5,_0x2ad808,_0x2e598e){return _0xe0c0f5(_0x2ad808,_0x2e598e);},'KGzBF':_0x5358ee(0xcb0)+_0x5358ee(0x570),'uUych':_0x5358ee(0x210)+'X','vsbLk':_0x5358ee(0x456)+_0x5358ee(0xbbb),'auzcX':function(_0x5a61dc,_0x55810d){return _0x5a61dc!==_0x55810d;},'AzPSb':function(_0x32ab36,_0x39ae2a){return _0x32ab36!==_0x39ae2a;},'UopJb':_0x5358ee(0xe88)+'ft','PFTXW':_0x5358ee(0xc6b)+_0x5358ee(0x10cc),'PiJXx':function(_0x3981e0,_0x3f9b1b){return _0x3981e0-_0x3f9b1b;},'rXGMz':function(_0x1ff562,_0x17c093){return _0x1ff562/_0x17c093;},'saSdb':function(_0x10f96e,_0x19eb96){return _0x10f96e-_0x19eb96;},'KjHSI':function(_0x5ec953,_0x16ab9d){return _0x5ec953/_0x16ab9d;},'AoVyL':function(_0x243710,_0x261ad1,_0x574274){return _0x243710(_0x261ad1,_0x574274);},'kzolm':function(_0xceaff6,_0x32b689){return _0xceaff6+_0x32b689;},'sXUhb':function(_0x42c5f5,_0x256592){return _0x42c5f5+_0x256592;},'oDffV':_0x5358ee(0x97c)+_0x5358ee(0xa77)+_0x5358ee(0xe0b)+_0x5358ee(0x52f)+_0x5358ee(0xc3e)+_0x5358ee(0x15e)+_0x5358ee(0x4f3),'PxGUH':_0x5358ee(0x101a)+_0x5358ee(0xf58)+_0x5358ee(0xb89),'XkxwW':function(_0x176e32,_0x472dda){return _0x176e32>_0x472dda;},'xVjMx':function(_0x29971d,_0x36916f){return _0x29971d+_0x36916f;},'LZgxO':_0x5358ee(0xcc2)+_0x5358ee(0x282)+_0x5358ee(0x3dc),'cHSWW':function(_0x695748,_0x4b005c,_0x351806){return _0x695748(_0x4b005c,_0x351806);},'Bbxua':_0x5358ee(0x168)+_0x5358ee(0xe0a)+':\x20','AGnpI':function(_0x376cba,_0x5650cf,_0x27e8c2){return _0x376cba(_0x5650cf,_0x27e8c2);},'dLxEL':function(_0x1badf0){return _0x1badf0();},'IgJpA':function(_0x24284d,_0x228b45,_0x2837ed){return _0x24284d(_0x228b45,_0x2837ed);},'GXCQs':function(_0x513084,_0x156292){return _0x513084+_0x156292;},'pctzC':function(_0x35c79f,_0x2df14b){return _0x35c79f+_0x2df14b;},'mZglx':_0x5358ee(0x1df)+_0x5358ee(0x35e),'PVOak':function(_0x5b24e5,_0x407b8b){return _0x5b24e5>_0x407b8b;},'VJCWF':function(_0x456f1d,_0x3689cf){return _0x456f1d<_0x3689cf;},'buaNn':_0x5358ee(0xa82)+_0x5358ee(0x446),'vqGWV':_0x5358ee(0x237)+'r','zerOB':_0x5358ee(0xb38)+_0x5358ee(0x827),'mlNpl':_0x5358ee(0x4ae)+_0x5358ee(0x104e),'ntjvo':_0x5358ee(0x1c5),'EeLjJ':function(_0x2d5736,_0x25add9){return _0x2d5736+_0x25add9;},'GrUGl':_0x5358ee(0x9ad),'YYmfc':_0x5358ee(0x2ab)+_0x5358ee(0x371),'stAve':_0x5358ee(0x6b3)+'ue','MqewI':_0x5358ee(0x762)+_0x5358ee(0xb5e),'eIRhV':_0x5358ee(0x3f2)+_0x5358ee(0x5e2)+_0x5358ee(0x8cf),'dcaLj':_0x5358ee(0x990)+'r:','jLEvf':function(_0x40fc06,_0x1dc14c){return _0x40fc06*_0x1dc14c;},'iOdWM':function(_0x44c657,_0x2c362b){return _0x44c657>_0x2c362b;},'YJjyi':_0x5358ee(0x2f9)+_0x5358ee(0x8fb),'iZvna':function(_0x49f360,_0x599479){return _0x49f360!=_0x599479;},'EZUhA':_0x5358ee(0x8c7)+_0x5358ee(0xcca),'ZWBLX':function(_0x1b2e8f,_0x256c4e){return _0x1b2e8f%_0x256c4e;},'Ffdsf':function(_0x1299e9,_0x17a978){return _0x1299e9%_0x17a978;},'GmePD':function(_0x382b7a,_0xf8f957){return _0x382b7a+_0xf8f957;},'ttYMh':function(_0x44ff7c,_0x439a44){return _0x44ff7c-_0x439a44;},'zdmgP':function(_0x3e07f2,_0x1e0b76){return _0x3e07f2(_0x1e0b76);},'VamGf':_0x5358ee(0xedb)+_0x5358ee(0x809)+_0x5358ee(0x988)+'et','wxjgR':_0x5358ee(0xc46)+_0x5358ee(0xb19),'VVAPP':_0x5358ee(0xedb)+_0x5358ee(0x185)+'un','RBVOI':function(_0x2f1ab5,_0x4d97fe){return _0x2f1ab5<=_0x4d97fe;},'YdYhG':_0x5358ee(0xcc5)+_0x5358ee(0x416),'pNIbh':_0x5358ee(0xa69),'ONnAn':_0x5358ee(0x327)+_0x5358ee(0x242),'Btzis':function(_0x5e6705,_0x54ba72){return _0x5e6705%_0x54ba72;},'jiJCr':function(_0x4e6b4c,_0x5d8183){return _0x4e6b4c(_0x5d8183);},'eKqas':function(_0x130f6c,_0x5af456){return _0x130f6c-_0x5af456;},'bcGAu':_0x5358ee(0x978)+_0x5358ee(0x8be),'WrdVv':_0x5358ee(0xa9f)+_0x5358ee(0x391),'pfYPh':_0x5358ee(0x2bc)+_0x5358ee(0x9e6),'MZTII':function(_0x216165,_0x57e8a3){return _0x216165(_0x57e8a3);},'hGlDV':_0x5358ee(0x5e5),'aemdZ':_0x5358ee(0xb94),'hSqgO':_0x5358ee(0x10aa),'TNPPv':_0x5358ee(0x89d),'RrpCS':function(_0x5a6e21,_0x40b477){return _0x5a6e21*_0x40b477;},'ApkgI':function(_0x1c21a8,_0x1fb0a8){return _0x1c21a8*_0x1fb0a8;},'QzQtI':function(_0x261942,_0x6b9f04){return _0x261942*_0x6b9f04;},'owzoK':function(_0xaa260b,_0x1f144d){return _0xaa260b*_0x1f144d;},'Qjygz':function(_0x3617a9,_0x40b738){return _0x3617a9(_0x40b738);},'IIuCX':function(_0x12fa1d,_0x5a9baf){return _0x12fa1d(_0x5a9baf);},'pUSCa':_0x5358ee(0x8d4)+_0x5358ee(0x535),'fUhEr':function(_0x4e3dd6,_0x2eb3ea){return _0x4e3dd6==_0x2eb3ea;},'QdSgX':function(_0x316f81,_0x1f9802,_0x4889ed,_0x4d250d,_0x20ea65,_0x3fbbc9){return _0x316f81(_0x1f9802,_0x4889ed,_0x4d250d,_0x20ea65,_0x3fbbc9);},'YjLBk':function(_0x19aad8,_0x5f351c,_0x13e4fe,_0xcb71fe,_0x5a2695,_0x3fb63c){return _0x19aad8(_0x5f351c,_0x13e4fe,_0xcb71fe,_0x5a2695,_0x3fb63c);},'jvCZB':function(_0x5da6d9,_0x12b300){return _0x5da6d9(_0x12b300);},'Zjrgy':function(_0x22db52,_0x1dfa73){return _0x22db52!=_0x1dfa73;},'mLiDY':function(_0x372ba1,_0x2fb6be){return _0x372ba1(_0x2fb6be);},'MyVmM':function(_0x673df7,_0x13dd02){return _0x673df7==_0x13dd02;},'KyafQ':function(_0xbd0df1,_0x964094,_0x376e10,_0x2e6597,_0x477ec9,_0x3dd89f){return _0xbd0df1(_0x964094,_0x376e10,_0x2e6597,_0x477ec9,_0x3dd89f);},'fajPO':function(_0x36591e,_0x39ceb2){return _0x36591e!=_0x39ceb2;},'ukNaW':_0x5358ee(0x1065),'TXZMI':function(_0x4a2cc5,_0x5e2367){return _0x4a2cc5(_0x5e2367);},'mZtfD':function(_0x692153,_0x27b361){return _0x692153*_0x27b361;},'DCHnV':function(_0x23fa09,_0x5f38ff){return _0x23fa09(_0x5f38ff);},'Ndfai':function(_0x56501c,_0x4ac03e){return _0x56501c*_0x4ac03e;},'HzvUU':function(_0x390d8f,_0x13ac56){return _0x390d8f&&_0x13ac56;},'jiZIk':_0x5358ee(0x1126),'QoNHv':function(_0x26685c,_0x38d3f0){return _0x26685c*_0x38d3f0;},'kKamZ':function(_0x3eb64c,_0xbf6f18){return _0x3eb64c&&_0xbf6f18;},'ddxTX':_0x5358ee(0xf93),'alKFl':function(_0x46e361,_0x4ab729){return _0x46e361!=_0x4ab729;},'yUCSS':function(_0x5af4a4,_0x26d6ac){return _0x5af4a4&&_0x26d6ac;},'FrlNB':function(_0x3fd568,_0x233385,_0x578c14,_0x11befa,_0x321195,_0x2e3d14){return _0x3fd568(_0x233385,_0x578c14,_0x11befa,_0x321195,_0x2e3d14);},'mPsSY':function(_0x2934a9,_0x22b16b,_0x17993f){return _0x2934a9(_0x22b16b,_0x17993f);},'uNeHa':function(_0x576547,_0x56279c){return _0x576547&&_0x56279c;},'rXYbM':function(_0x4ac464,_0xda7c65){return _0x4ac464(_0xda7c65);},'GWACW':function(_0x47012e,_0x1dc8ad){return _0x47012e*_0x1dc8ad;},'ehzFu':function(_0x35ca26,_0x3920e0){return _0x35ca26/_0x3920e0;},'ltrYu':function(_0x19daf9,_0x374414){return _0x19daf9*_0x374414;},'kfIRm':function(_0x4e2ab2,_0x464c9e){return _0x4e2ab2/_0x464c9e;},'yFwVS':function(_0x4a62cc,_0x1441eb){return _0x4a62cc*_0x1441eb;},'swyGL':function(_0x2b142e,_0x5d5bf1){return _0x2b142e&&_0x5d5bf1;},'MwuMH':function(_0x5aac83,_0x44e74a){return _0x5aac83(_0x44e74a);},'xWxpQ':function(_0xfb3e1f,_0x421042){return _0xfb3e1f(_0x421042);},'TPtks':function(_0x460863,_0x52d2a5){return _0x460863===_0x52d2a5;},'BnPtC':function(_0x10b172,_0x2c9a5b){return _0x10b172(_0x2c9a5b);},'OToKy':function(_0x2721f2,_0x3d96a9){return _0x2721f2&&_0x3d96a9;},'BnmIH':function(_0xa40d1b,_0x5f33ee){return _0xa40d1b(_0x5f33ee);},'bBvfk':function(_0x1af80b,_0x5ea2b2){return _0x1af80b(_0x5ea2b2);},'MlcJg':function(_0x49610d,_0x11b30c){return _0x49610d&&_0x11b30c;},'HfDan':_0x5358ee(0x217)+_0x5358ee(0x25a)+_0x5358ee(0x38f)+_0x5358ee(0x699),'xEGZZ':function(_0x2da6a3,_0x15a257){return _0x2da6a3&&_0x15a257;},'WOMva':function(_0x56685c,_0x14758d){return _0x56685c(_0x14758d);},'JYzcu':function(_0x2c4cea,_0x1bf698){return _0x2c4cea(_0x1bf698);},'cThaH':_0x5358ee(0xad6)+_0x5358ee(0x10c6)+_0x5358ee(0x468),'hizSQ':function(_0x96d0b,_0x42eb81){return _0x96d0b||_0x42eb81;},'sKKVo':_0x5358ee(0xe57)+_0x5358ee(0x8ce),'Sjrlt':_0x5358ee(0xb92)+_0x5358ee(0x8ce),'Ejswp':function(_0x32d1af,_0x1e2071){return _0x32d1af(_0x1e2071);},'iPfmm':_0x5358ee(0x94f)+_0x5358ee(0x101b),'gnvbn':_0x5358ee(0xa32)+_0x5358ee(0xcca),'UoEdQ':function(_0x15b3e9,_0x1393f8){return _0x15b3e9===_0x1393f8;},'eItGe':_0x5358ee(0x1047),'eMiia':function(_0x23dd01,_0x320c4a){return _0x23dd01%_0x320c4a;},'zMuhj':function(_0x23e592,_0x5a93db){return _0x23e592+_0x5a93db;},'lWKqA':_0x5358ee(0xb5b),'nJTxK':function(_0x280647,_0x28b4b8){return _0x280647+_0x28b4b8;},'GaCKa':function(_0x5a0b8e,_0x30627f){return _0x5a0b8e!==_0x30627f;},'qIDLx':_0x5358ee(0xc8c),'atZYV':function(_0x1863bc,_0x154872){return _0x1863bc<_0x154872;},'CNBAG':function(_0x453d4f,_0x5a3245){return _0x453d4f(_0x5a3245);},'JojgS':function(_0x362dc3,_0x39f876){return _0x362dc3/_0x39f876;},'kXdEv':function(_0x1d1614,_0x5b3e46){return _0x1d1614*_0x5b3e46;},'nkrnN':_0x5358ee(0x362)+'r','tRCWy':_0x5358ee(0xf56)+_0x5358ee(0x825),'Eojhq':_0x5358ee(0xa9c)+_0x5358ee(0x10ae),'kMGQY':_0x5358ee(0x96d)+_0x5358ee(0x10ae),'nQeLs':function(_0x4c5f79){return _0x4c5f79();},'XlNYt':function(_0x4a38e3,_0x2b3991){return _0x4a38e3>_0x2b3991;},'mCnqa':_0x5358ee(0xa50)+'Id','tpjfV':function(_0x2fb891,_0x2a9073){return _0x2fb891(_0x2a9073);},'xKmVA':_0x5358ee(0x1d7),'VFELD':function(_0x5e88b0,_0x12b61f){return _0x5e88b0&&_0x12b61f;},'aSpDo':function(_0x269518,_0x4aa18,_0x19bd96){return _0x269518(_0x4aa18,_0x19bd96);},'dhvfg':function(_0x30cfcc,_0x479d10){return _0x30cfcc(_0x479d10);},'hzjLF':_0x5358ee(0x7d4)+_0x5358ee(0xc6f),'PayYR':function(_0xa9e2f2,_0x478c6a){return _0xa9e2f2/_0x478c6a;},'SRVXs':function(_0x2d6d9d,_0x23ae27){return _0x2d6d9d-_0x23ae27;},'BnwMU':_0x5358ee(0xa02)+_0x5358ee(0xc14)+_0x5358ee(0xfaa),'uGdXj':function(_0x482bc1,_0x5d864e){return _0x482bc1*_0x5d864e;},'hlYIl':function(_0x1aee0d,_0x579cec){return _0x1aee0d>_0x579cec;},'nBTHr':_0x5358ee(0xb00),'nJnzw':function(_0x36c55e,_0x5a3f2e){return _0x36c55e-_0x5a3f2e;},'IKePf':function(_0x56ebfc,_0x35b949){return _0x56ebfc<_0x35b949;},'UIKpv':function(_0x3e6668,_0x3cb1e5){return _0x3e6668-_0x3cb1e5;},'pqSch':function(_0x5ca34e,_0x2b4d51){return _0x5ca34e-_0x2b4d51;},'KWUrw':function(_0x5aee43,_0x347f7f){return _0x5aee43>_0x347f7f;},'WctYX':function(_0x50f36d,_0xc9a719){return _0x50f36d(_0xc9a719);},'UnZxg':_0x5358ee(0x29d),'mqVmI':function(_0x53b209,_0x3d8b7f){return _0x53b209(_0x3d8b7f);},'LxvgX':function(_0x44b410,_0x3ac1cf){return _0x44b410(_0x3ac1cf);},'WsZWg':function(_0x250e55,_0x1c22f9){return _0x250e55(_0x1c22f9);},'yXMOx':_0x5358ee(0xedb)+_0x5358ee(0xea0)+_0x5358ee(0x991)+_0x5358ee(0xc59)+_0x5358ee(0x508),'oBvHi':function(_0x2b3580,_0x55a8d9){return _0x2b3580===_0x55a8d9;},'KdWgD':_0x5358ee(0x802)+_0x5358ee(0x40e)+_0x5358ee(0xb30),'EbFlw':_0x5358ee(0xd0a)+_0x5358ee(0xa25),'ZGfvi':_0x5358ee(0x483)+_0x5358ee(0x5fb),'YsaZR':_0x5358ee(0x40f)+'e','YvIRA':_0x5358ee(0x8bb),'oKIBo':function(_0x58e30a,_0x11254f){return _0x58e30a+_0x11254f;},'RXswl':_0x5358ee(0x204)+_0x5358ee(0x10d4),'JBtTW':function(_0xcc0af6,_0x1a20e0){return _0xcc0af6<_0x1a20e0;},'NQCHX':_0x5358ee(0x453)+'y','meitR':_0x5358ee(0xbfc)+'m','aLsIN':function(_0x36c642,_0x5795e9,_0x5a3c99){return _0x36c642(_0x5795e9,_0x5a3c99);},'vQRDn':function(_0x3b8f13,_0x2d14a0){return _0x3b8f13+_0x2d14a0;},'UfgOi':_0x5358ee(0xbc9)+_0x5358ee(0xc45)+'t\x20','BBzVQ':_0x5358ee(0x1092)+_0x5358ee(0xec8)+_0x5358ee(0x13a)+_0x5358ee(0xd46)+_0x5358ee(0x1028),'oaGyr':function(_0x4230b4,_0x2b4b57,_0x42a519){return _0x4230b4(_0x2b4b57,_0x42a519);},'xABti':_0x5358ee(0x346)+_0x5358ee(0xa3b),'hjIZQ':function(_0x5ef445,_0x3676ce){return _0x5ef445+_0x3676ce;},'VZKAz':_0x5358ee(0x504)+_0x5358ee(0x98d)+_0x5358ee(0x595)+_0x5358ee(0x205)+_0x5358ee(0x9e4)+_0x5358ee(0xd62),'itIyj':_0x5358ee(0x1117)+_0x5358ee(0x9d6)+':','DNpMx':function(_0xf0e8d2,_0x5080de,_0x4697d4){return _0xf0e8d2(_0x5080de,_0x4697d4);},'htLKK':_0x5358ee(0x26c),'HisUS':_0x5358ee(0xecd)+_0x5358ee(0x7dd),'QFhMl':_0x5358ee(0xfbb),'bpGXK':_0x5358ee(0x6ea)+_0x5358ee(0x78e),'xndkG':_0x5358ee(0x6ea)+_0x5358ee(0x5b4),'SBBay':_0x5358ee(0xd63)+_0x5358ee(0x104b),'dvBJt':_0x5358ee(0xe22),'ZjKaH':_0x5358ee(0x31e),'KaEWc':_0x5358ee(0xaf9)+_0x5358ee(0x1014),'CENfa':_0x5358ee(0x19b)+_0x5358ee(0x1e2),'heXfV':_0x5358ee(0xdd9),'DVGPF':function(_0x5143f2,_0xa97287){return _0x5143f2+_0xa97287;},'iXxXB':_0x5358ee(0x568)+'o','zsxtu':_0x5358ee(0x29f),'PmeEE':_0x5358ee(0x1120)+_0x5358ee(0x655),'mcffW':_0x5358ee(0x32f),'UYIMV':_0x5358ee(0xf9f)+_0x5358ee(0x556),'QBhaY':_0x5358ee(0x84c)+_0x5358ee(0xa9a),'wEwrR':_0x5358ee(0x90a),'FfgwF':_0x5358ee(0xf32)+_0x5358ee(0xbdc),'KCBSj':_0x5358ee(0xa48)+_0x5358ee(0xf57),'dwHER':function(_0x4c7357){return _0x4c7357();},'AQmVo':function(_0x45396f,_0x669b28){return _0x45396f&&_0x669b28;},'PfCNK':function(_0x2d582f,_0x485e8b,_0x2d10b0){return _0x2d582f(_0x485e8b,_0x2d10b0);},'AdoFc':function(_0x2c83c6,_0x158aa2){return _0x2c83c6>_0x158aa2;},'GgbXG':_0x5358ee(0xcef)+_0x5358ee(0x8a0),'tErdc':_0x5358ee(0x1e4),'eoMaP':_0x5358ee(0xc26)+'e','rWqDV':function(_0x11944c,_0x152546){return _0x11944c!=_0x152546;},'eyZSC':function(_0x267f47,_0x49e490){return _0x267f47%_0x49e490;},'cSfbq':function(_0x166d18,_0x264a26){return _0x166d18==_0x264a26;},'wWbsL':_0x5358ee(0x649)+_0x5358ee(0x442),'yubhg':function(_0x41f1c1,_0x169b8c){return _0x41f1c1!=_0x169b8c;},'wdxTg':_0x5358ee(0xb01)+_0x5358ee(0xf90)+'y','kuLib':_0x5358ee(0x4a0),'zVVte':function(_0x3c9813,_0x307a00){return _0x3c9813(_0x307a00);},'zcEei':_0x5358ee(0xca8),'ZUYCZ':function(_0x12923a,_0x5504bc){return _0x12923a(_0x5504bc);},'AttTp':_0x5358ee(0xb71),'FdweX':function(_0x3cf8c1,_0x1dc573){return _0x3cf8c1<_0x1dc573;},'NHxMI':function(_0x3085b1,_0x2b622d){return _0x3085b1(_0x2b622d);},'watCJ':function(_0x4ffe61,_0x30b97b){return _0x4ffe61>_0x30b97b;},'MlMbH':function(_0xe6890b,_0x1fec69){return _0xe6890b<_0x1fec69;},'jYzXt':function(_0x3ab179,_0xa356a){return _0x3ab179!=_0xa356a;},'fWVJK':function(_0x2cee9d,_0x4d14da){return _0x2cee9d==_0x4d14da;},'TYEuN':function(_0xfb6028,_0x316474){return _0xfb6028!=_0x316474;},'EjBIJ':function(_0x58f4b2,_0x40716b){return _0x58f4b2==_0x40716b;},'Khsyf':function(_0x1c79e1,_0x1d6f6e){return _0x1c79e1(_0x1d6f6e);},'RHXMn':function(_0x15ac63,_0x3832b7){return _0x15ac63(_0x3832b7);},'AXNNN':function(_0x1ebf56,_0x51ab0c){return _0x1ebf56(_0x51ab0c);},'kXYKW':function(_0x483f23,_0x1991aa){return _0x483f23==_0x1991aa;},'KDhGk':function(_0x60873b,_0xa941cf){return _0x60873b==_0xa941cf;},'EEfzG':function(_0x30d5f3,_0x15048e){return _0x30d5f3(_0x15048e);},'qoVds':function(_0xb71677,_0x262149,_0xef8c39){return _0xb71677(_0x262149,_0xef8c39);},'JHoiM':function(_0x201a78,_0x42f8f0){return _0x201a78!=_0x42f8f0;},'xQHKI':function(_0x563617,_0x4c59f8){return _0x563617<_0x4c59f8;},'wXAad':function(_0x48a049,_0x37fa11){return _0x48a049(_0x37fa11);},'DQWaZ':function(_0xf91f5b,_0x1cfddd){return _0xf91f5b(_0x1cfddd);},'MIFmz':function(_0x5ba239,_0x7d5c15){return _0x5ba239(_0x7d5c15);},'JBMZu':function(_0xea00b9,_0x371918){return _0xea00b9>_0x371918;},'oeqWj':function(_0x4bb05a,_0xbd2885){return _0x4bb05a<_0xbd2885;},'njQZR':function(_0x3ba8c1,_0x165b64){return _0x3ba8c1!=_0x165b64;},'hgqOO':function(_0xa34868,_0x214afc){return _0xa34868!=_0x214afc;},'EKdio':function(_0x58cfb2,_0x4eac74){return _0x58cfb2==_0x4eac74;},'ftLsU':function(_0x1b4ca0,_0xfad718){return _0x1b4ca0(_0xfad718);},'yZkLX':function(_0x254d59,_0x4b6a53){return _0x254d59*_0x4b6a53;},'kCodS':function(_0x515d71,_0x1e2a5d){return _0x515d71===_0x1e2a5d;},'BLmWS':function(_0x29e2c9,_0x4abff3){return _0x29e2c9*_0x4abff3;},'UKFdD':function(_0x5d642e,_0x4e16b4){return _0x5d642e/_0x4e16b4;},'cJLsO':function(_0x3b9ae2,_0x5a6c70){return _0x3b9ae2*_0x5a6c70;},'bvbdr':_0x5358ee(0x106d)+_0x5358ee(0x7e4),'KBZEt':function(_0x14d731,_0x37da7a){return _0x14d731(_0x37da7a);},'MoyTh':function(_0x27f30d,_0xab6fe4){return _0x27f30d(_0xab6fe4);},'WJvwi':_0x5358ee(0xeea)+_0x5358ee(0x8e6),'pZmCl':_0x5358ee(0x50e)+_0x5358ee(0xff9)+_0x5358ee(0x8e6),'cPaPj':function(_0x52fb18,_0x3c2750){return _0x52fb18+_0x3c2750;},'Ugqyk':_0x5358ee(0xca6),'XoEhf':_0x5358ee(0x2ae)+_0x5358ee(0x84d),'UwAlk':_0x5358ee(0xefb)+_0x5358ee(0x14a),'FzKds':_0x5358ee(0x5eb)+_0x5358ee(0x19d),'WiusM':function(_0x2e792c,_0x159811){return _0x2e792c&&_0x159811;},'FfmiM':function(_0x25c230,_0xd1dbae){return _0x25c230&&_0xd1dbae;},'sTkXo':function(_0x64a504,_0x320d4c,_0x3ad6ef,_0x40d9eb){return _0x64a504(_0x320d4c,_0x3ad6ef,_0x40d9eb);},'vkWmQ':_0x5358ee(0x463),'XZQFc':function(_0x4228d7,_0x4ef83e){return _0x4228d7&&_0x4ef83e;},'HlBQT':function(_0x131c75,_0x491854,_0x2aae86,_0x1a553b){return _0x131c75(_0x491854,_0x2aae86,_0x1a553b);},'Hjdkf':function(_0x21c170,_0x335ee7){return _0x21c170&&_0x335ee7;},'aTTpr':function(_0x2985bc,_0x9a58d5,_0x5073e6,_0x1c46c2){return _0x2985bc(_0x9a58d5,_0x5073e6,_0x1c46c2);},'wvFkp':_0x5358ee(0x964)+_0x5358ee(0x95d),'dFWwx':function(_0x49e3b3,_0xd1ccab){return _0x49e3b3&&_0xd1ccab;},'NrSbJ':function(_0x3fbb20,_0x199090,_0x162148,_0x32cad4){return _0x3fbb20(_0x199090,_0x162148,_0x32cad4);},'pBJsZ':function(_0x436eee,_0x55261d){return _0x436eee+_0x55261d;},'GDTHO':_0x5358ee(0xb1c),'LLUZP':function(_0x3edc15,_0x658b44,_0x344d70){return _0x3edc15(_0x658b44,_0x344d70);},'HYyyF':_0x5358ee(0x483)+_0x5358ee(0x105d),'QISXd':_0x5358ee(0xebf)+'p','iPiIY':function(_0x309e6a){return _0x309e6a();},'pDhax':function(_0x24a034,_0x18fe5a){return _0x24a034>_0x18fe5a;},'HNQXk':function(_0x4ff75b,_0xe8fad2,_0x56cb38){return _0x4ff75b(_0xe8fad2,_0x56cb38);},'cESPf':_0x5358ee(0x426)+_0x5358ee(0xb48),'jAOKI':function(_0x5202f1,_0x723ab7){return _0x5202f1+_0x723ab7;},'Ejaax':function(_0x4db74b,_0x40949a){return _0x4db74b+_0x40949a;},'FZCnl':_0x5358ee(0xcdf)+_0x5358ee(0xa0c),'LEMYh':_0x5358ee(0x1f8)+_0x5358ee(0xd16),'ELwJN':_0x5358ee(0x903)+_0x5358ee(0xf78),'skKyT':_0x5358ee(0x103b)+_0x5358ee(0xbae)+'s!','EioVv':function(_0x460375,_0x5c5abd){return _0x460375<_0x5c5abd;},'DIvRg':_0x5358ee(0x6f4)+_0x5358ee(0x13e),'hUOwX':_0x5358ee(0xf80)+_0x5358ee(0xd35)+_0x5358ee(0xf7e),'gBHkQ':_0x5358ee(0x2ae)+_0x5358ee(0x177)+_0x5358ee(0xceb),'hXQLV':_0x5358ee(0x751)+_0x5358ee(0xe95),'BAxqz':_0x5358ee(0x76b)+_0x5358ee(0x108f),'Qijqt':function(_0x37db5d,_0x470654,_0x107a6c){return _0x37db5d(_0x470654,_0x107a6c);},'PrzUU':_0x5358ee(0xfde)+_0x5358ee(0xb68)+_0x5358ee(0x56c),'QqgeT':_0x5358ee(0x1a6)+_0x5358ee(0x7eb),'HeTin':function(_0xa54832,_0x2d6396){return _0xa54832<_0x2d6396;},'PRABZ':function(_0x187967,_0x58cc85){return _0x187967+_0x58cc85;},'XHWFc':function(_0x48c4ab,_0x1c7075){return _0x48c4ab<_0x1c7075;},'NOrHp':_0x5358ee(0xee5)+_0x5358ee(0x6c9),'jeMTI':function(_0x349804,_0x54ed17){return _0x349804&&_0x54ed17;},'WyLBX':function(_0x666ee3,_0xc7e5d5){return _0x666ee3(_0xc7e5d5);},'TGqqB':function(_0x1f502f,_0x1acff8){return _0x1f502f+_0x1acff8;},'iWxnq':_0x5358ee(0x8d7)+'ce','ZMdFi':function(_0x4d0e50){return _0x4d0e50();},'sNliq':function(_0xa57f71,_0x184b26){return _0xa57f71&&_0x184b26;},'TQyzJ':function(_0x5d8e3d,_0x2562a1){return _0x5d8e3d>_0x2562a1;},'WauMw':function(_0x30dd06,_0x1c1246){return _0x30dd06>_0x1c1246;},'sdyuB':function(_0x49e8cf){return _0x49e8cf();},'hbLGE':function(_0x521a8d,_0x1c6de4,_0x43b88){return _0x521a8d(_0x1c6de4,_0x43b88);},'csBnZ':function(_0x58c112,_0x2e7ee1){return _0x58c112>_0x2e7ee1;},'ErKjZ':function(_0x104439,_0x318023){return _0x104439(_0x318023);},'LtWkx':_0x5358ee(0xf83)+_0x5358ee(0xcaa),'CZeXQ':function(_0x460092,_0x5b9ca0,_0x50ae55){return _0x460092(_0x5b9ca0,_0x50ae55);},'hroRo':function(_0x47f999,_0x582884){return _0x47f999>_0x582884;},'XRzCE':function(_0x2f3eb6,_0x1ef69d){return _0x2f3eb6(_0x1ef69d);},'CszxW':_0x5358ee(0x783)+_0x5358ee(0xac1),'BEogR':function(_0x9b53e0,_0x2e9fbb){return _0x9b53e0<_0x2e9fbb;},'gYhKN':function(_0x2e289a,_0x397046){return _0x2e289a*_0x397046;},'GuMPW':function(_0x4683d6,_0x21beb3){return _0x4683d6<_0x21beb3;},'ySQWR':function(_0x2ade7e,_0x247862){return _0x2ade7e>_0x247862;},'EAyFP':function(_0x3f297a,_0x4601c4){return _0x3f297a&&_0x4601c4;},'sACkx':function(_0x51b9d4,_0xcdf4ac){return _0x51b9d4+_0xcdf4ac;},'BtGdM':_0x5358ee(0xaa8),'vSbso':function(_0x579ef5,_0x48a587){return _0x579ef5<_0x48a587;},'OpAiB':function(_0xa7ff3,_0x273067){return _0xa7ff3+_0x273067;},'bGjNN':function(_0x524a5d,_0x2b11a8){return _0x524a5d*_0x2b11a8;},'AUoRx':function(_0x1576d2,_0x1abb47){return _0x1576d2(_0x1abb47);},'AODSE':function(_0x2d9c9f,_0x379c59){return _0x2d9c9f(_0x379c59);},'HCrYp':function(_0x204b63,_0x8946ba){return _0x204b63+_0x8946ba;},'bcXMQ':function(_0x2c822d,_0x22718c){return _0x2c822d(_0x22718c);},'HsFrr':function(_0x7d46e6,_0x61240e){return _0x7d46e6+_0x61240e;},'BIdLN':function(_0x2a76f6,_0x1ebe55){return _0x2a76f6*_0x1ebe55;},'FjaBD':function(_0xcab5,_0x33787b){return _0xcab5+_0x33787b;},'RJkwz':function(_0x415078,_0x461dcf){return _0x415078*_0x461dcf;},'HLhTX':function(_0x2a05b0,_0x353dfb){return _0x2a05b0<_0x353dfb;},'dqNBo':function(_0x299910,_0x78c0d0){return _0x299910(_0x78c0d0);},'pOEUC':function(_0x563655,_0x2bc75a){return _0x563655+_0x2bc75a;},'uPqCK':function(_0x3a1ee4,_0xf5353d){return _0x3a1ee4<_0xf5353d;},'ZjEoa':function(_0x1977bb,_0xea231a){return _0x1977bb<_0xea231a;},'HGiPR':function(_0x3678d0,_0x250e8e){return _0x3678d0*_0x250e8e;},'AHAYE':function(_0x16bb13,_0x166489,_0x22aec5){return _0x16bb13(_0x166489,_0x22aec5);},'Czdoh':function(_0x50ebd0,_0x3404da){return _0x50ebd0+_0x3404da;},'wUWhr':function(_0x5230d1,_0x21d62d){return _0x5230d1(_0x21d62d);},'wIUNP':function(_0x468e35,_0x3820fd){return _0x468e35+_0x3820fd;},'CmToE':function(_0x406105,_0x1c1673){return _0x406105+_0x1c1673;},'POxAQ':function(_0x4c2f62,_0x1f4ce3){return _0x4c2f62*_0x1f4ce3;},'PLzPK':function(_0xbc6923,_0x3d9517){return _0xbc6923<_0x3d9517;},'IsCBk':function(_0x5561b3){return _0x5561b3();},'gHYiY':function(_0x434e1e,_0x52ded3){return _0x434e1e+_0x52ded3;},'yJKuc':function(_0x3f4800){return _0x3f4800();},'nqiWl':function(_0x595647,_0x516f8d,_0x4ced3c){return _0x595647(_0x516f8d,_0x4ced3c);},'VXsaq':_0x5358ee(0x2c3)+'e','VDNfd':function(_0x4e3800){return _0x4e3800();},'AMYMF':function(_0x53305c,_0x4641c1){return _0x53305c<_0x4641c1;},'NQFny':function(_0x379392,_0x1ac2d9){return _0x379392+_0x1ac2d9;},'WggBq':_0x5358ee(0xf0b)+'/','rzslb':function(_0x2dd731,_0x52b233){return _0x2dd731+_0x52b233;},'VtVGS':function(_0x47ed93){return _0x47ed93();},'OqifE':_0x5358ee(0xedb)+_0x5358ee(0x10bc)+_0x5358ee(0xc20)+_0x5358ee(0xf2e),'Jzsqw':_0x5358ee(0x6e7),'gyRKf':function(_0x484dae,_0x472acd){return _0x484dae<_0x472acd;},'oKhFZ':_0x5358ee(0xedb)+_0x5358ee(0xd3b)+_0x5358ee(0x9d8),'ibUWV':_0x5358ee(0xf5f)+'p','PaoLG':_0x5358ee(0xedb)+_0x5358ee(0x1096),'inHCl':function(_0x3aec70,_0x256ac6){return _0x3aec70<_0x256ac6;},'vQITi':_0x5358ee(0xde7),'AjLZU':_0x5358ee(0xedb)+_0x5358ee(0x231)+_0x5358ee(0x430),'SFuCC':_0x5358ee(0xf0b)+_0x5358ee(0xe8a)+_0x5358ee(0x1088),'lfmRL':function(_0x402a45,_0x1c887e){return _0x402a45<_0x1c887e;},'fCLbw':function(_0x4f1e2a,_0x56a649){return _0x4f1e2a<_0x56a649;},'Upnym':_0x5358ee(0x375)+_0x5358ee(0x6be)+'d','sNImz':_0x5358ee(0x2d0)+_0x5358ee(0x97a),'CvbJn':_0x5358ee(0x7e8)+_0x5358ee(0x22f)+'d!','uCiGH':_0x5358ee(0xcfd)+_0x5358ee(0x8e4)+_0x5358ee(0x4a2),'yBgRy':_0x5358ee(0xfbe)+_0x5358ee(0x95c),'TbGzw':_0x5358ee(0xedb)+_0x5358ee(0x5b2)+_0x5358ee(0xf3b)+_0x5358ee(0x97a),'NhxCX':_0x5358ee(0x1017)+_0x5358ee(0x91b),'YgNBI':_0x5358ee(0x1017)+_0x5358ee(0x8aa)+'on','vGFbo':_0x5358ee(0x20c)+_0x5358ee(0xc01)+_0x5358ee(0xa8c)+_0x5358ee(0x8b2),'sBUDt':_0x5358ee(0x4d4)+_0x5358ee(0x836),'gNrOS':function(_0x30d90b,_0x284d17,_0x3f7567){return _0x30d90b(_0x284d17,_0x3f7567);},'WlXJX':function(_0x5cb2f1,_0x982099){return _0x5cb2f1+_0x982099;},'DfCum':_0x5358ee(0x418)+_0x5358ee(0x10ae),'DVoex':function(_0x4ae919,_0x420d5e,_0x32d816){return _0x4ae919(_0x420d5e,_0x32d816);},'dXJuP':function(_0x2fb90f,_0x5c708e){return _0x2fb90f+_0x5c708e;},'IIAEi':function(_0x3ab793){return _0x3ab793();},'zMFnR':_0x5358ee(0xb3f)+'ab','eGEbb':function(_0x167aaf,_0x41146f,_0x493dac){return _0x167aaf(_0x41146f,_0x493dac);},'kauQv':_0x5358ee(0xab8)+_0x5358ee(0x5a3),'AjKVc':_0x5358ee(0xedb)+_0x5358ee(0xe25),'iWkCS':function(_0x112d73,_0x242b3e){return _0x112d73+_0x242b3e;},'SQtNZ':function(_0x517cd8,_0x3766ed,_0xf90f90){return _0x517cd8(_0x3766ed,_0xf90f90);},'UhRDw':function(_0x1a47c3,_0x436c72){return _0x1a47c3+_0x436c72;},'yaVTm':function(_0x48f97c,_0x2540e7){return _0x48f97c&&_0x2540e7;},'zFhXl':_0x5358ee(0xedb)+_0x5358ee(0x10e8)+_0x5358ee(0x8ba),'EtqDC':_0x5358ee(0x3e8)+_0x5358ee(0x5d7),'PjOSg':function(_0x3e6ce5,_0x3dad73){return _0x3e6ce5!=_0x3dad73;},'UQeVj':function(_0x19f3aa,_0x49c810){return _0x19f3aa==_0x49c810;},'ZwKUX':function(_0x533939,_0x3a441){return _0x533939(_0x3a441);},'mTxuN':function(_0x13b899,_0x43c428){return _0x13b899(_0x43c428);},'ZFKgH':function(_0x23726d,_0x41dd08){return _0x23726d(_0x41dd08);},'IvRtW':function(_0x5c8466,_0x574fe3){return _0x5c8466(_0x574fe3);},'cHjrd':_0x5358ee(0xb97)+_0x5358ee(0xc83),'cmIhf':_0x5358ee(0x3c8),'gcHRl':_0x5358ee(0x2ea)+_0x5358ee(0xc33),'WDXui':function(_0x313d,_0x3d4df9){return _0x313d<_0x3d4df9;},'Rkqsb':function(_0x7c62e4,_0x2214b7){return _0x7c62e4>_0x2214b7;},'tZbQd':function(_0x52181b,_0x259b45){return _0x52181b<_0x259b45;},'fEooR':function(_0x23883f,_0x2354e9){return _0x23883f>_0x2354e9;},'UmngK':function(_0x227600,_0xc9a576){return _0x227600<_0xc9a576;},'jrAfP':_0x5358ee(0xf8b)+_0x5358ee(0x411),'IcPEs':_0x5358ee(0x516)+_0x5358ee(0x8cc),'pAUBd':_0x5358ee(0x516)+_0x5358ee(0x6b1),'VJBwv':function(_0x5251b0,_0x59a450){return _0x5251b0(_0x59a450);},'MRazI':_0x5358ee(0xb2a),'YWanM':_0x5358ee(0xd05)+_0x5358ee(0x67c),'bGUNI':function(_0x10dc72,_0xe192b3){return _0x10dc72>_0xe192b3;},'seDSk':function(_0x4d2d5d,_0x8696ed){return _0x4d2d5d&&_0x8696ed;},'lRazc':function(_0x4ce8b7,_0x2e0c93){return _0x4ce8b7>_0x2e0c93;},'wsLsW':_0x5358ee(0x3ef)+_0x5358ee(0x534),'HiBZy':function(_0x5867b7,_0x4c9434){return _0x5867b7>_0x4c9434;},'YXPft':function(_0x5d443e,_0x20b21d){return _0x5d443e(_0x20b21d);},'mZZrM':function(_0x313e22,_0x4f7a44){return _0x313e22&&_0x4f7a44;},'QYOZa':function(_0x4f6de6,_0x4cff08){return _0x4f6de6>_0x4cff08;},'XjVGu':function(_0x24b27b,_0x1fc180){return _0x24b27b(_0x1fc180);},'odqJa':function(_0x3eed2b){return _0x3eed2b();},'UpgfN':function(_0x5018d0,_0x2eec23){return _0x5018d0&&_0x2eec23;},'ouFuP':function(_0x55d3a1,_0x115b1b){return _0x55d3a1(_0x115b1b);},'DkzEV':function(_0x14a481,_0x2588f4){return _0x14a481&&_0x2588f4;},'QHiGX':function(_0x17f456,_0x4b05fb){return _0x17f456>_0x4b05fb;},'zmvzu':function(_0x32bcf3,_0x4cb7f0){return _0x32bcf3<_0x4cb7f0;},'CUFuw':function(_0x176fb0,_0x6a3e27){return _0x176fb0(_0x6a3e27);},'OiugH':function(_0x165e04,_0x47c612){return _0x165e04&&_0x47c612;},'sdnKE':_0x5358ee(0x2ee)+_0x5358ee(0xd6e),'VHegg':_0x5358ee(0xdb8)+_0x5358ee(0x65f),'gxVmd':function(_0x2f2e00,_0x137e30,_0x495a62){return _0x2f2e00(_0x137e30,_0x495a62);},'aHEJL':function(_0x4822ae,_0x3e5412){return _0x4822ae(_0x3e5412);},'gvete':function(_0x44f3df,_0x46372d,_0x34970e,_0x589143,_0x53b4b7,_0x272fbd){return _0x44f3df(_0x46372d,_0x34970e,_0x589143,_0x53b4b7,_0x272fbd);},'ceQtZ':_0x5358ee(0x3e0)+_0x5358ee(0xedd),'KHBpj':function(_0x54949e,_0x4fcde8){return _0x54949e+_0x4fcde8;},'tRGen':function(_0x26464c,_0x55bd85){return _0x26464c>_0x55bd85;},'HZzql':function(_0x2ba683,_0x459e39){return _0x2ba683(_0x459e39);},'dRymp':function(_0x5362eb,_0x342e05){return _0x5362eb(_0x342e05);},'XcWbI':function(_0x236a15,_0x233a3f){return _0x236a15<_0x233a3f;},'KOWIq':function(_0x2ae396,_0x533bd3){return _0x2ae396*_0x533bd3;},'jrOiX':function(_0x35fb57,_0x453af4,_0x55fa89){return _0x35fb57(_0x453af4,_0x55fa89);},'DfOCt':_0x5358ee(0x697)+_0x5358ee(0xf94),'sZqfE':_0x5358ee(0xfa5)+_0x5358ee(0x63f),'Ynljp':function(_0xad4503,_0x3fff00){return _0xad4503<_0x3fff00;},'MSWwl':function(_0x5094b1,_0x560117){return _0x5094b1(_0x560117);},'ORCKN':function(_0x3775ce,_0x4f871b){return _0x3775ce<_0x4f871b;},'baAlh':function(_0x944a47,_0x31781c){return _0x944a47<_0x31781c;},'LcIkn':function(_0x50fb85,_0x1e8c18){return _0x50fb85(_0x1e8c18);},'oMHKH':function(_0x2e4cc1,_0x33eb3d){return _0x2e4cc1<_0x33eb3d;},'kUYIq':function(_0x165950,_0x423e81){return _0x165950*_0x423e81;},'PTNay':function(_0x4cbc24,_0x44ec5f){return _0x4cbc24+_0x44ec5f;},'wvuGS':_0x5358ee(0x1112)+_0x5358ee(0x10ae),'sVvYv':function(_0x4c671f,_0x24566d){return _0x4c671f<_0x24566d;},'CYgRP':function(_0x5ecd98,_0x5442d2){return _0x5ecd98<_0x5442d2;},'ilpYx':function(_0xa90fc5,_0x4de14c){return _0xa90fc5(_0x4de14c);},'vfDBG':function(_0x33a400,_0x146d3f){return _0x33a400(_0x146d3f);},'vnFHI':function(_0x5ceb1e,_0x3fd7ef){return _0x5ceb1e<_0x3fd7ef;},'hXdcz':function(_0x431420,_0x113089,_0x1703af){return _0x431420(_0x113089,_0x1703af);},'kHHcY':_0x5358ee(0x697)+_0x5358ee(0x9b1)+_0x5358ee(0x3c3),'OmrWR':_0x5358ee(0x4b1)+_0x5358ee(0x4ff),'kfnXb':function(_0x4ef219,_0x261d9f){return _0x4ef219===_0x261d9f;},'jwRIw':function(_0x48ef1b,_0x80809b){return _0x48ef1b<_0x80809b;},'GjyPM':function(_0x530ada,_0x2bb85e,_0xfd1336){return _0x530ada(_0x2bb85e,_0xfd1336);},'EIJri':_0x5358ee(0xa20),'PvDoQ':function(_0x3a6389,_0x268fce){return _0x3a6389*_0x268fce;},'MBVAC':function(_0xb79a26,_0xcb6ea){return _0xb79a26(_0xcb6ea);},'bqodM':function(_0x8a996f,_0x4961f6){return _0x8a996f/_0x4961f6;},'rdnhs':function(_0x1bcdf8,_0x272be9){return _0x1bcdf8*_0x272be9;},'AQpKM':_0x5358ee(0x6f5)+_0x5358ee(0xa68)+_0x5358ee(0xf31),'ZnOik':function(_0x555350,_0x2bd31a){return _0x555350(_0x2bd31a);},'JbQEy':function(_0x16458a,_0x348192){return _0x16458a<=_0x348192;},'dRdGl':function(_0x317665,_0x592233,_0x28c9de){return _0x317665(_0x592233,_0x28c9de);},'deOkF':function(_0x50e4e9,_0x18b292){return _0x50e4e9+_0x18b292;},'LYPdy':_0x5358ee(0x563)+_0x5358ee(0x799),'ktNxT':_0x5358ee(0x1101)+_0x5358ee(0xe54),'khaWK':function(_0x5f26ad,_0x5cd054){return _0x5f26ad(_0x5cd054);},'jLrxQ':function(_0x43e4ad,_0x1008d8){return _0x43e4ad<_0x1008d8;},'xYyPQ':function(_0x3579cc,_0x55c963){return _0x3579cc*_0x55c963;},'hmQXn':function(_0x36bca7,_0x5db230){return _0x36bca7*_0x5db230;},'NQCAP':function(_0x8bacd,_0x2fc659){return _0x8bacd*_0x2fc659;},'iUnne':function(_0x18c3b4,_0x537448){return _0x18c3b4*_0x537448;},'KXQsV':function(_0x455e2b,_0x4c57bf){return _0x455e2b===_0x4c57bf;},'eHqfK':function(_0x5b2ffb,_0x28d18e){return _0x5b2ffb/_0x28d18e;},'uPisL':function(_0x1b2d33,_0x498ad3){return _0x1b2d33*_0x498ad3;},'rJEKx':function(_0x4b5fa9,_0x3f57bb){return _0x4b5fa9+_0x3f57bb;},'hpRxX':function(_0x2459ec,_0x3d350c){return _0x2459ec*_0x3d350c;},'HxmCU':function(_0x20e12d,_0x33197a){return _0x20e12d-_0x33197a;},'vDLpy':function(_0x5588ee,_0xa62515,_0x1f14fa,_0x518333){return _0x5588ee(_0xa62515,_0x1f14fa,_0x518333);},'fbfYj':function(_0x42146e,_0x2f9ce1,_0x1c4c49){return _0x42146e(_0x2f9ce1,_0x1c4c49);},'QYeEC':_0x5358ee(0x402)+_0x5358ee(0x6c2),'DSNnQ':_0x5358ee(0xa92)+_0x5358ee(0x10ae),'lEIiq':function(_0x5411a7,_0x4a04a6){return _0x5411a7(_0x4a04a6);},'AnznF':function(_0x4f8275,_0x241860){return _0x4f8275<_0x241860;},'YvyOc':function(_0x94b7c7,_0xb6a32e){return _0x94b7c7/_0xb6a32e;},'KcApz':function(_0x2a0b69,_0x3c7d6d){return _0x2a0b69-_0x3c7d6d;},'WUxxD':function(_0x162e24,_0x5c849e){return _0x162e24<_0x5c849e;},'aSPRY':function(_0x6d6ce9,_0x7d5a9){return _0x6d6ce9/_0x7d5a9;},'OIIhw':function(_0x461c5a,_0x174bc3){return _0x461c5a*_0x174bc3;},'gEArH':function(_0x5b06d7,_0x50bde5){return _0x5b06d7*_0x50bde5;},'cuJOR':function(_0x41db02,_0x56c377,_0x2f65cb,_0x969334){return _0x41db02(_0x56c377,_0x2f65cb,_0x969334);},'xPiiJ':function(_0x2e26fc,_0x3711e9,_0x3b6bbc){return _0x2e26fc(_0x3711e9,_0x3b6bbc);},'pJTgI':_0x5358ee(0xb69)+_0x5358ee(0x10be),'SBhPL':_0x5358ee(0x103e)+_0x5358ee(0x1094),'AYdJl':function(_0x3eb456,_0x3b1194,_0x5336ae,_0x4a56d6){return _0x3eb456(_0x3b1194,_0x5336ae,_0x4a56d6);},'SGvKb':function(_0x4e4935,_0x2c0239){return _0x4e4935*_0x2c0239;},'UbfHw':function(_0x1dc9d5,_0x2c3308){return _0x1dc9d5>_0x2c3308;},'HXHjH':function(_0x2c3f6b,_0x35e16c){return _0x2c3f6b(_0x35e16c);},'KswGP':function(_0x209679,_0x289606){return _0x209679*_0x289606;},'woeJh':function(_0x13cd0b,_0x141c57){return _0x13cd0b/_0x141c57;},'UdrIW':function(_0x2653d6,_0x40f5bc){return _0x2653d6*_0x40f5bc;},'OsYYV':_0x5358ee(0x853)+'r:','mznVq':function(_0x2d75c1,_0x353975){return _0x2d75c1===_0x353975;},'NULdV':_0x5358ee(0x9f1)+_0x5358ee(0x44c)+_0x5358ee(0x505),'UevRe':function(_0x305a84,_0x5109da){return _0x305a84(_0x5109da);},'BVflp':_0x5358ee(0xf42)+_0x5358ee(0x10ae),'lIgkK':function(_0x4257eb,_0x4c355f){return _0x4257eb+_0x4c355f;},'WuERC':function(_0x25b915,_0x3ba1a1){return _0x25b915(_0x3ba1a1);},'zEUzN':function(_0x289e1f,_0x4140b7,_0x35cbc3){return _0x289e1f(_0x4140b7,_0x35cbc3);},'uJUUb':_0x5358ee(0x97c)+_0x5358ee(0xa77)+_0x5358ee(0xe34)+_0x5358ee(0xa55)+_0x5358ee(0xc3e)+_0x5358ee(0x15e)+_0x5358ee(0x4f3),'tfCbd':function(_0x486a4b,_0x4d1598){return _0x486a4b===_0x4d1598;},'JzaHn':function(_0x304736,_0x5878e0,_0x212dab){return _0x304736(_0x5878e0,_0x212dab);},'JRQyM':function(_0x288bbe,_0x44961c){return _0x288bbe+_0x44961c;},'WReam':_0x5358ee(0x97c)+_0x5358ee(0xa77)+_0x5358ee(0x33b)+_0x5358ee(0x300)+_0x5358ee(0x730)+_0x5358ee(0x2b0)+_0x5358ee(0x506),'jCRBC':function(_0x23cbab,_0x1496bc){return _0x23cbab===_0x1496bc;},'ZvGew':function(_0x4cdd0b,_0x160f7e){return _0x4cdd0b===_0x160f7e;},'BGpmI':function(_0x3069a2){return _0x3069a2();},'hjUaB':function(_0x1cbc9f,_0x4fe45d){return _0x1cbc9f===_0x4fe45d;},'RtcSN':function(_0x6387bb,_0x52f25d){return _0x6387bb===_0x52f25d;},'LBQYC':function(_0x5be0a9,_0x5c6c26){return _0x5be0a9===_0x5c6c26;},'QZUjD':_0x5358ee(0xeef)+_0x5358ee(0xad4),'HGjLj':_0x5358ee(0xab9)+_0x5358ee(0xc4c)+'k','mCaId':_0x5358ee(0xab9)+_0x5358ee(0x10ab),'Zehmn':function(_0x3babb0,_0x2b443b){return _0x3babb0<_0x2b443b;},'ZZYJb':_0x5358ee(0xe33),'opNoo':function(_0x205f4c,_0x540f66){return _0x205f4c<_0x540f66;},'gvbPI':_0x5358ee(0xd74)+_0x5358ee(0x9f8),'UHAJB':_0x5358ee(0xb33)+_0x5358ee(0x1d5),'LOWDe':_0x5358ee(0xede),'vJbLf':_0x5358ee(0x878),'XYFCY':_0x5358ee(0xc23)+_0x5358ee(0x4b3),'RzeBv':function(_0x379b0d,_0x1930d3){return _0x379b0d!==_0x1930d3;},'Hnmar':_0x5358ee(0x910)+_0x5358ee(0xf91),'BufsA':_0x5358ee(0xf8f),'hBiuH':function(_0x237dfd,_0xabbd93){return _0x237dfd!==_0xabbd93;},'hxKbS':_0x5358ee(0x1ea)+_0x5358ee(0x4b3),'xqnNl':_0x5358ee(0x2bc)+_0x5358ee(0x244),'HWjkt':function(_0x1c27f8,_0x564676){return _0x1c27f8!==_0x564676;},'XshDf':function(_0x5a678a,_0x532611){return _0x5a678a!==_0x532611;},'DNeeH':function(_0x4ef09b,_0x55cafa){return _0x4ef09b!==_0x55cafa;},'yKQBD':function(_0x2868f9,_0x4c18bb){return _0x2868f9!==_0x4c18bb;},'bYqBC':_0x5358ee(0x723),'jJQUG':_0x5358ee(0x2f1)+'k:','HENfw':_0x5358ee(0xb24)+_0x5358ee(0x7d1),'YPMQx':_0x5358ee(0x10e0)+_0x5358ee(0xa61),'oqWiY':_0x5358ee(0x55a)+_0x5358ee(0xe2a),'tZKjV':_0x5358ee(0xa79)+_0x5358ee(0x97b)+_0x5358ee(0xaae)+_0x5358ee(0xfc8)+_0x5358ee(0x98e),'cvTZr':function(_0x49d969){return _0x49d969();},'yyMbU':function(_0x4b54a5,_0x4c8e7b){return _0x4b54a5&&_0x4c8e7b;},'GkoHR':function(_0xd712fa,_0x1cc17f){return _0xd712fa==_0x1cc17f;},'OCwMZ':function(_0x29aafa){return _0x29aafa();},'MZwel':function(_0x35c215,_0x4b85c7){return _0x35c215==_0x4b85c7;},'Nuvme':function(_0x2ede5,_0xb95734){return _0x2ede5(_0xb95734);},'KXWpl':function(_0x502ab6,_0x5a2018){return _0x502ab6==_0x5a2018;},'jxCQY':_0x5358ee(0xb01)+_0x5358ee(0x189),'DeECb':function(_0x18a097,_0x4dda79){return _0x18a097(_0x4dda79);},'evCZn':_0x5358ee(0x1017)+_0x5358ee(0x5c3)+_0x5358ee(0x1015),'aKbOv':_0x5358ee(0x1017)+_0x5358ee(0x208),'hIHqC':_0x5358ee(0x1017)+_0x5358ee(0x621),'VXCkH':_0x5358ee(0x1017)+_0x5358ee(0x425)+_0x5358ee(0xc56)+'e','hnSlC':_0x5358ee(0x17b)+_0x5358ee(0x413),'yFIew':_0x5358ee(0x42f)+_0x5358ee(0x9fd),'RqMxl':_0x5358ee(0x1017)+_0x5358ee(0x21c),'YDnHw':_0x5358ee(0x1017)+_0x5358ee(0x51c)+_0x5358ee(0x51a)+_0x5358ee(0xeb0),'nkXOB':_0x5358ee(0xedb)+_0x5358ee(0x54f),'PoMDH':_0x5358ee(0xedb)+_0x5358ee(0x961)+_0x5358ee(0x458),'ZLqAk':_0x5358ee(0xedb)+_0x5358ee(0xeec)+_0x5358ee(0xae7),'fxHIS':_0x5358ee(0x5f8)+_0x5358ee(0xabb)+'ng','GsqHH':_0x5358ee(0x5f8)+_0x5358ee(0xabb)+_0x5358ee(0x6df),'MclwQ':_0x5358ee(0xd3e),'KCYgu':_0x5358ee(0xedb)+_0x5358ee(0xf6b)+_0x5358ee(0x112b)+'n','KqMXr':_0x5358ee(0xedb)+_0x5358ee(0x4c1)+_0x5358ee(0x8ac),'MsSqU':_0x5358ee(0xedb)+_0x5358ee(0x37d)+_0x5358ee(0xb5c)+_0x5358ee(0xee7)+'er','cHNIB':_0x5358ee(0xedb)+_0x5358ee(0x5b2)+_0x5358ee(0x827),'qZxNC':_0x5358ee(0xedb)+_0x5358ee(0x5b2)+_0x5358ee(0xe02),'LePfB':_0x5358ee(0xedb)+_0x5358ee(0x1111)+_0x5358ee(0xf67)+_0x5358ee(0xafe)+'g','RwXga':_0x5358ee(0xedb)+_0x5358ee(0x777)+_0x5358ee(0xa40),'nTrLe':_0x5358ee(0x20c)+_0x5358ee(0xba2)+_0x5358ee(0x814),'mlwgo':_0x5358ee(0x985)+_0x5358ee(0x755),'MjByJ':_0x5358ee(0xedb)+_0x5358ee(0x809)+_0x5358ee(0xdad),'xjffD':_0x5358ee(0xedb)+_0x5358ee(0xa67)+_0x5358ee(0x1085)+_0x5358ee(0xcac),'FRpwa':_0x5358ee(0xedb)+_0x5358ee(0xa67)+_0x5358ee(0x1085)+_0x5358ee(0xee3),'HdoCe':_0x5358ee(0x1017)+_0x5358ee(0xf48)+_0x5358ee(0x48d),'dGBeI':_0x5358ee(0x1017)+_0x5358ee(0xc27)+_0x5358ee(0xabd),'xklCR':_0x5358ee(0x1017)+_0x5358ee(0x7cc)+'ct','hboEn':_0x5358ee(0x1017)+_0x5358ee(0xe15),'GzDGA':_0x5358ee(0xa8a)+_0x5358ee(0x2f0),'qpZLa':_0x5358ee(0x946)+_0x5358ee(0x7e3),'MDrIG':_0x5358ee(0xe1d)+'32','lWjHK':_0x5358ee(0x410)+_0x5358ee(0x5bb)+_0x5358ee(0x344),'WMMnA':_0x5358ee(0x1017)+_0x5358ee(0xe1f),'dgifF':_0x5358ee(0x1017)+_0x5358ee(0x95a)+'s','hENxP':_0x5358ee(0x1017)+_0x5358ee(0xb7a),'QEEfg':_0x5358ee(0x1017)+_0x5358ee(0xd41),'pIxHV':_0x5358ee(0x1017)+_0x5358ee(0x445),'IeFaG':_0x5358ee(0x1017)+_0x5358ee(0xbb9)+_0x5358ee(0x858),'JIiNs':_0x5358ee(0x1017)+_0x5358ee(0xbf2)+_0x5358ee(0x68d),'ngwmD':_0x5358ee(0x1017)+_0x5358ee(0xa37)+_0x5358ee(0x2be),'IvBwO':_0x5358ee(0x1017)+_0x5358ee(0x885),'KdISe':_0x5358ee(0x1017)+_0x5358ee(0x10d6)+_0x5358ee(0x7d0),'qKpie':_0x5358ee(0x1017)+_0x5358ee(0x2e3)+_0x5358ee(0xfdb),'krajT':_0x5358ee(0x1017)+_0x5358ee(0xe20)+_0x5358ee(0xd5e),'DkLoF':_0x5358ee(0x1017)+_0x5358ee(0xab2),'npPtX':_0x5358ee(0x1017)+_0x5358ee(0xa35)+'y','CXojo':_0x5358ee(0x1017)+_0x5358ee(0xfbd),'vBAXd':_0x5358ee(0x1017)+_0x5358ee(0x578),'VtfNw':_0x5358ee(0x1017)+_0x5358ee(0x386)+'it','bRzur':_0x5358ee(0x1017)+_0x5358ee(0x2e6),'Wvpqk':_0x5358ee(0x1017)+_0x5358ee(0x50c)+_0x5358ee(0xcd3),'trYGs':_0x5358ee(0x1017)+_0x5358ee(0x1040)+_0x5358ee(0x10a2)+'r','IkFVK':_0x5358ee(0x1017)+_0x5358ee(0xe53),'QkgGf':_0x5358ee(0x1017)+_0x5358ee(0x2fc),'BAtZx':_0x5358ee(0xe9e)+_0x5358ee(0x9fd),'fgJQq':_0x5358ee(0x1017)+_0x5358ee(0x62f)+_0x5358ee(0x314)+_0x5358ee(0xc7f),'dAjFD':_0x5358ee(0x1017)+_0x5358ee(0x62f)+_0x5358ee(0x1118)+_0x5358ee(0x9d5)+_0x5358ee(0x5ea),'IZkeI':_0x5358ee(0x635)+_0x5358ee(0xed2)+_0x5358ee(0xad8),'eIliA':_0x5358ee(0xb6b)+_0x5358ee(0xf62),'nblVN':_0x5358ee(0x9eb)+_0x5358ee(0xa0b)+_0x5358ee(0x2e4)+'t','UZcMP':_0x5358ee(0xb63),'xrrtB':_0x5358ee(0xb18)+_0x5358ee(0xe37),'tiQzX':_0x5358ee(0xe23)+_0x5358ee(0x928),'FHkoY':_0x5358ee(0xea1)+_0x5358ee(0xe69),'ijtNM':_0x5358ee(0x79e)+'er','JWRkX':_0x5358ee(0xbcd)+'er','qYyry':_0x5358ee(0x5d2)+_0x5358ee(0x1f3),'FroxU':_0x5358ee(0x530)+_0x5358ee(0x56e),'XGvBh':_0x5358ee(0xff6)+_0x5358ee(0x613),'EHmVV':_0x5358ee(0xe56),'AFTaP':_0x5358ee(0x1bf)+_0x5358ee(0x108d),'NqCYc':_0x5358ee(0xcea)+_0x5358ee(0x873),'tgKFB':_0x5358ee(0xa1d)+'ox','GEmlZ':_0x5358ee(0xa1d)+_0x5358ee(0x5c9),'qqzLP':_0x5358ee(0x6fb)+'gg','BKHTR':_0x5358ee(0x18b)+_0x5358ee(0x1023),'wDwEl':_0x5358ee(0xa7a)+'or','jkqDV':_0x5358ee(0x619)+_0x5358ee(0xdc1),'dFCNk':_0x5358ee(0x1072)+_0x5358ee(0xd5f),'XSROT':_0x5358ee(0xb1a)+_0x5358ee(0x717),'VEDdA':_0x5358ee(0x53f)+_0x5358ee(0xa2e),'BLXhx':_0x5358ee(0xf65)+_0x5358ee(0x653)+_0x5358ee(0xa6e),'OWUwN':_0x5358ee(0xf65)+_0x5358ee(0x27a)+_0x5358ee(0x7f9),'EipDk':_0x5358ee(0xf65)+_0x5358ee(0x27a)+_0x5358ee(0x11b),'mBygw':_0x5358ee(0xf65)+_0x5358ee(0x27a)+_0x5358ee(0xd85),'OtfkT':_0x5358ee(0xf65)+_0x5358ee(0x27a)+_0x5358ee(0xe35),'IWiRc':_0x5358ee(0xf65)+_0x5358ee(0x27a)+_0x5358ee(0xa80),'PyekK':_0x5358ee(0xf65)+_0x5358ee(0x27a)+_0x5358ee(0x832),'AfYhF':_0x5358ee(0xce1)+_0x5358ee(0x7f4),'poUHO':_0x5358ee(0x280)+_0x5358ee(0x193),'tLEpv':_0x5358ee(0x4ec)+'r','CZYTz':_0x5358ee(0x872)+_0x5358ee(0xd95),'EpjoA':_0x5358ee(0xead)+_0x5358ee(0xd9b)+'y','fWPWp':_0x5358ee(0xead)+_0x5358ee(0xdc2),'udNBS':_0x5358ee(0xead)+_0x5358ee(0x81b),'QdrTX':_0x5358ee(0xead)+_0x5358ee(0x1be)+_0x5358ee(0x103a),'WMsOq':_0x5358ee(0xead)+_0x5358ee(0x5fd)+_0x5358ee(0x1116),'KmnDJ':_0x5358ee(0xead)+_0x5358ee(0x450),'zMjDI':_0x5358ee(0xead)+_0x5358ee(0x499),'utPdU':_0x5358ee(0xead)+_0x5358ee(0x51e),'PDZAx':_0x5358ee(0xead)+_0x5358ee(0x930)+'m','JYSis':_0x5358ee(0xead)+_0x5358ee(0xafb),'nDhdJ':_0x5358ee(0xead)+_0x5358ee(0xb2b),'ATdfs':_0x5358ee(0xead)+_0x5358ee(0x969)+_0x5358ee(0x1116),'EEDHG':_0x5358ee(0xead)+_0x5358ee(0xba5),'loKBr':_0x5358ee(0xead)+_0x5358ee(0xef0),'UtKXB':_0x5358ee(0xead)+_0x5358ee(0x726),'wXKHY':_0x5358ee(0xead)+_0x5358ee(0xdbd)+_0x5358ee(0x4cd),'jFEyw':_0x5358ee(0xead)+_0x5358ee(0xd66)+'de','KNiRr':_0x5358ee(0xead)+_0x5358ee(0x63e)+'e','dmuxN':_0x5358ee(0xead)+_0x5358ee(0x932),'lrmAx':_0x5358ee(0xead)+_0x5358ee(0xc06),'jUodD':_0x5358ee(0xc89)+'gg','JOJIl':_0x5358ee(0xc89)+_0x5358ee(0xe90)+'d','gvpWJ':_0x5358ee(0x106c)+_0x5358ee(0xc73)+_0x5358ee(0x9ba),'YnlHm':_0x5358ee(0xba5),'QjRbX':_0x5358ee(0x7b2)+_0x5358ee(0x70e),'bXdCT':_0x5358ee(0xd19)+_0x5358ee(0x9ba),'gWvvd':_0x5358ee(0x106f)+_0x5358ee(0x4f5),'zLXvS':_0x5358ee(0x142)+_0x5358ee(0x430),'wcVRS':_0x5358ee(0xc6d),'fvtpc':_0x5358ee(0x48e)+_0x5358ee(0x543),'TRFFT':_0x5358ee(0x897)+_0x5358ee(0xb80),'raXkP':_0x5358ee(0xeab)+'ap','Svlvq':_0x5358ee(0x901)+_0x5358ee(0xe40)+_0x5358ee(0xa5b),'BdSbr':_0x5358ee(0x865)+_0x5358ee(0x800)+_0x5358ee(0xaa9),'lRoqC':_0x5358ee(0x865)+_0x5358ee(0xa41)+_0x5358ee(0x371),'EmSGO':_0x5358ee(0x1017)+_0x5358ee(0xc1a)+_0x5358ee(0x187),'yihTe':_0x5358ee(0x1017)+_0x5358ee(0xc1a)+_0x5358ee(0x8ed),'HAcKL':_0x5358ee(0x17e),'ZVTfE':_0x5358ee(0xc86)+_0x5358ee(0x7a0)+_0x5358ee(0xb12),'NDQFi':_0x5358ee(0x17d)+_0x5358ee(0xefc),'TExfJ':_0x5358ee(0xc86)+_0x5358ee(0x871)+_0x5358ee(0xb12),'qydll':_0x5358ee(0x4b9),'nMGNU':_0x5358ee(0xc86)+_0x5358ee(0x79d)+_0x5358ee(0xda1),'uRyuB':_0x5358ee(0xdf4)+_0x5358ee(0xdd7),'XQkwn':_0x5358ee(0xc86)+_0x5358ee(0x705)+_0x5358ee(0xa83),'KanCW':_0x5358ee(0xf88),'BVXGP':_0x5358ee(0xc86)+_0x5358ee(0xe82)+_0x5358ee(0xda1),'tjSrv':_0x5358ee(0x552),'gafdF':_0x5358ee(0xc86)+_0x5358ee(0x664)+_0x5358ee(0x645),'fAWXg':_0x5358ee(0x45e)+'s','eageS':_0x5358ee(0xc86)+_0x5358ee(0xc08)+_0x5358ee(0x436),'fXHXC':_0x5358ee(0x99c)+_0x5358ee(0x1052),'BuSGl':_0x5358ee(0xc86)+_0x5358ee(0x8ea)+'y.','ovIlk':_0x5358ee(0x56b),'QXhJi':_0x5358ee(0xc86)+_0x5358ee(0x1ef)+_0x5358ee(0xef1),'Imrxe':_0x5358ee(0x5d0)+'s','Nafdg':_0x5358ee(0xc86)+_0x5358ee(0xab4)+_0x5358ee(0xda1),'VPhsy':_0x5358ee(0xba0)+_0x5358ee(0x266)+_0x5358ee(0xf29),'FoHcS':_0x5358ee(0xc86)+_0x5358ee(0x69d)+_0x5358ee(0x645),'MYbVQ':_0x5358ee(0xed6)+_0x5358ee(0xc69)+_0x5358ee(0xc2a)+'\x20','OVRbC':_0x5358ee(0xf6f)+'ge','WtDzR':_0x5358ee(0xe2c),'XTafa':_0x5358ee(0x169)+'rn','JeaGR':_0x5358ee(0x97d)+_0x5358ee(0x1a5)+_0x5358ee(0xe05)+_0x5358ee(0xb12),'BGnax':_0x5358ee(0x8f5)+_0x5358ee(0x719),'exfJc':_0x5358ee(0x5c8)+_0x5358ee(0x9d7),'yoXWp':_0x5358ee(0x4bf)+_0x5358ee(0x21f)+_0x5358ee(0xee8),'LCtSL':_0x5358ee(0xd7f)+_0x5358ee(0xb3d)+_0x5358ee(0x10bb),'sgqEv':_0x5358ee(0xcc6)+_0x5358ee(0x677)+_0x5358ee(0x3b8)+_0x5358ee(0x4e5),'WEquS':_0x5358ee(0xdf3)+_0x5358ee(0xe94)+'n','cdMCu':_0x5358ee(0xdbf)+_0x5358ee(0xa76)+_0x5358ee(0x235),'vRBIe':_0x5358ee(0xcc6)+_0x5358ee(0x677)+_0x5358ee(0x152)+_0x5358ee(0x24d),'qwexi':_0x5358ee(0xe43)+_0x5358ee(0x1009),'YGuQt':_0x5358ee(0x7f8),'jPwaC':_0x5358ee(0xc10),'AWKwV':_0x5358ee(0x148)+_0x5358ee(0x5df)+'c.','qXNKW':_0x5358ee(0xdd0)+_0x5358ee(0xa6a),'vDTzS':_0x5358ee(0xa38)+_0x5358ee(0xb75)+_0x5358ee(0x152)+_0x5358ee(0x9cd)+_0x5358ee(0x101c)+_0x5358ee(0xb39)+_0x5358ee(0x109e)+_0x5358ee(0x33d),'iUgOZ':_0x5358ee(0xd76)+_0x5358ee(0xca7),'FLZHW':_0x5358ee(0x987)+_0x5358ee(0xbbf)+_0x5358ee(0x321)+_0x5358ee(0xb23)+_0x5358ee(0xf50)+_0x5358ee(0x41e),'WavnU':_0x5358ee(0xed7)+_0x5358ee(0x10c9),'wimUx':_0x5358ee(0x4bf)+_0x5358ee(0xc8d)+_0x5358ee(0xbff),'jbszz':_0x5358ee(0xbb4)+_0x5358ee(0xb5d),'AqtLY':_0x5358ee(0x4bf)+_0x5358ee(0xda4)+_0x5358ee(0x16b)+_0x5358ee(0xce5)+_0x5358ee(0x383),'lwqgC':_0x5358ee(0x26e),'NirTd':_0x5358ee(0x4bf)+_0x5358ee(0xea6)+_0x5358ee(0x75b)+_0x5358ee(0xe67)+'p','pjKKm':_0x5358ee(0xc4a)+_0x5358ee(0x8d6),'jmvqk':_0x5358ee(0x4bf)+_0x5358ee(0x606)+_0x5358ee(0xb60)+_0x5358ee(0x75e)+_0x5358ee(0x1ce),'tTKrA':_0x5358ee(0xea5)+_0x5358ee(0x261)+'em','iOhAR':_0x5358ee(0x112e)+_0x5358ee(0x385)+_0x5358ee(0xf60)+_0x5358ee(0x8bf)+_0x5358ee(0xa90)+_0x5358ee(0x740),'lsXcx':_0x5358ee(0x3b4)+_0x5358ee(0x763)+_0x5358ee(0x7d3),'ugMmk':_0x5358ee(0xe93)+_0x5358ee(0x240)+_0x5358ee(0x53e)+_0x5358ee(0x417)+_0x5358ee(0x162)+_0x5358ee(0x341),'zbDTz':_0x5358ee(0x2f6)+'ly','HMNGE':_0x5358ee(0x4bf)+_0x5358ee(0x599)+_0x5358ee(0x960)+_0x5358ee(0xb41)+_0x5358ee(0x881),'XGCuI':_0x5358ee(0xa91)+_0x5358ee(0xbf1),'WzUKL':_0x5358ee(0x4bf)+_0x5358ee(0x257)+_0x5358ee(0xf3c)+_0x5358ee(0x30d)+_0x5358ee(0x112c),'mlZQk':_0x5358ee(0x5c8)+_0x5358ee(0xe7c),'Oivnt':_0x5358ee(0x659)+_0x5358ee(0x948)+'u','cAhJE':_0x5358ee(0x1cd)+_0x5358ee(0x94c)+_0x5358ee(0x514)+_0x5358ee(0xe71)+'.','dvAgw':_0x5358ee(0x666)+_0x5358ee(0xf8a),'FTqAR':_0x5358ee(0x1059)+_0x5358ee(0xb8c)+_0x5358ee(0x1f7)+_0x5358ee(0x215)+_0x5358ee(0x399)+_0x5358ee(0x10df)+'g.','azpTz':_0x5358ee(0x8ff),'beSVb':_0x5358ee(0x965)+_0x5358ee(0xe4b)+_0x5358ee(0x40c),'CbQLZ':_0x5358ee(0x86a),'EGgNj':_0x5358ee(0xa38)+_0x5358ee(0x258)+'d.','cNSHt':_0x5358ee(0x9da)+_0x5358ee(0x102e),'mMVJh':_0x5358ee(0xd3d)+_0x5358ee(0xf26)+_0x5358ee(0xa43),'QpPsu':_0x5358ee(0xe03),'YRKpa':_0x5358ee(0xd75)+_0x5358ee(0x53b),'eNppx':_0x5358ee(0xb21),'nrnbm':_0x5358ee(0x57a)+_0x5358ee(0x963)+_0x5358ee(0xd4a),'CxNBN':_0x5358ee(0x9f1)+_0x5358ee(0xcbd),'ConmK':_0x5358ee(0x41c)+_0x5358ee(0xcc3)+_0x5358ee(0x574)+_0x5358ee(0xf77)+_0x5358ee(0x250),'ARilZ':_0x5358ee(0x1062),'YorHC':_0x5358ee(0xf36)+_0x5358ee(0xd2a),'uccrZ':_0x5358ee(0x689),'cPFBj':_0x5358ee(0x9be)+_0x5358ee(0x76a)+'b','VmCon':_0x5358ee(0x3fa)+_0x5358ee(0x8b4),'LsMxK':_0x5358ee(0x41c)+_0x5358ee(0x900)+_0x5358ee(0x913)+_0x5358ee(0x3d3)+'n','GQhlT':_0x5358ee(0x31f)+_0x5358ee(0xc84),'irurk':_0x5358ee(0x4fd)+'ly','SJNaj':_0x5358ee(0xdea)+_0x5358ee(0x10d7)+_0x5358ee(0x76d)+_0x5358ee(0x55c)+_0x5358ee(0xb64)+_0x5358ee(0x976)+_0x5358ee(0x47b)+_0x5358ee(0x400)+_0x5358ee(0xb16)+_0x5358ee(0x50d)+_0x5358ee(0xb0d)+_0x5358ee(0xcd7),'zOXCw':_0x5358ee(0x8db),'DCNJB':_0x5358ee(0xc4b)+_0x5358ee(0x8a5)+_0x5358ee(0xbe2)+_0x5358ee(0x566),'lNCqI':_0x5358ee(0x5f9)+_0x5358ee(0x23a),'YQECM':_0x5358ee(0xc4b)+_0x5358ee(0x8a5)+_0x5358ee(0xbe2)+_0x5358ee(0x10c8),'bElbu':_0x5358ee(0x23e),'SGgmg':_0x5358ee(0x109f)+_0x5358ee(0xb34)+_0x5358ee(0x1f1)+_0x5358ee(0xbe5),'CBMWo':_0x5358ee(0x245)+'y','CopCo':_0x5358ee(0x109f)+_0x5358ee(0xb34)+_0x5358ee(0x1f1)+_0x5358ee(0xc52)+'r.','mNTwR':_0x5358ee(0x91c)+'n','QDBpf':_0x5358ee(0xbb3)+_0x5358ee(0x1e3)+_0x5358ee(0x467)+_0x5358ee(0x864)+_0x5358ee(0x1093)+_0x5358ee(0x585)+_0x5358ee(0x5d1),'RYbPE':_0x5358ee(0x708)+'er','QMWOF':_0x5358ee(0xbb3)+_0x5358ee(0xbab)+_0x5358ee(0x847)+_0x5358ee(0x5c4)+_0x5358ee(0xb54),'WmpoR':_0x5358ee(0x1002),'sutta':_0x5358ee(0x1089)+_0x5358ee(0xaf6)+_0x5358ee(0x53c)+_0x5358ee(0x6fa)+_0x5358ee(0xe1c)+_0x5358ee(0xe0f),'luZdB':_0x5358ee(0x351)+'y','OPrks':_0x5358ee(0xa85)+_0x5358ee(0x4c8)+_0x5358ee(0x2db)+_0x5358ee(0xb1d),'KyPMZ':_0x5358ee(0xa58)+'ty','EDXeA':_0x5358ee(0xef7)+'ty','awlwJ':_0x5358ee(0xa85)+_0x5358ee(0x36d)+_0x5358ee(0xd57)+_0x5358ee(0x6ff),'hNOIX':_0x5358ee(0x950)+'un','NtCIf':_0x5358ee(0x4f6)+_0x5358ee(0x8c1)+_0x5358ee(0x34f)+_0x5358ee(0x274)+_0x5358ee(0x2eb),'lDWxC':_0x5358ee(0x66b)+_0x5358ee(0x127),'GCsyX':_0x5358ee(0x4f6)+_0x5358ee(0xc47)+_0x5358ee(0x2f3)+_0x5358ee(0xb29),'XaYzB':_0x5358ee(0xd9f),'NfQUL':_0x5358ee(0x3ce)+_0x5358ee(0x1084)+_0x5358ee(0x6f1)+_0x5358ee(0xb0a)+_0x5358ee(0x758),'xLQmj':_0x5358ee(0xca9),'fuyei':_0x5358ee(0xfef)+_0x5358ee(0x378)+_0x5358ee(0x462)+_0x5358ee(0x1f1)+_0x5358ee(0xefe)+_0x5358ee(0x5b7),'vgxzR':_0x5358ee(0xf28),'JtecX':_0x5358ee(0x7fa)+_0x5358ee(0x2ce),'QRgZZ':_0x5358ee(0x630)+_0x5358ee(0x754)+_0x5358ee(0xaca)+'.','mjeeL':_0x5358ee(0xf84),'CCjst':_0x5358ee(0x630)+_0x5358ee(0x4d5)+'s.','BTuQs':_0x5358ee(0x35b)+'t','EzWXC':_0x5358ee(0x630)+_0x5358ee(0xb9f)+_0x5358ee(0xd5d),'wTtwR':_0x5358ee(0x5cf)+_0x5358ee(0x254),'wPPdo':_0x5358ee(0x3ce)+_0x5358ee(0x8d5)+_0x5358ee(0x79f)+_0x5358ee(0x348),'gWKjA':_0x5358ee(0xc87)+_0x5358ee(0xefc),'nOmdW':_0x5358ee(0xe89),'BcUSZ':_0x5358ee(0xbb0)+_0x5358ee(0x14e)+_0x5358ee(0x834),'oFMre':_0x5358ee(0xab3),'PEjKt':_0x5358ee(0xbb0)+_0x5358ee(0x28d)+_0x5358ee(0xb4e),'KYgQX':_0x5358ee(0xb7f),'ZcSFH':_0x5358ee(0x919)+_0x5358ee(0x745),'gSJbC':_0x5358ee(0xf22),'nMpFr':_0x5358ee(0x418)+_0x5358ee(0xa99),'wBgKY':_0x5358ee(0x5b8),'BUuDz':_0x5358ee(0x6db)+_0x5358ee(0xfb3)+_0x5358ee(0x32e)+_0x5358ee(0x449)+'.','jqVxg':_0x5358ee(0x725)+_0x5358ee(0x122),'nzRbj':_0x5358ee(0x38e),'RfnXK':_0x5358ee(0x490)+_0x5358ee(0xe39)+_0x5358ee(0xa64)+_0x5358ee(0xd09),'BfNYg':_0x5358ee(0xc37),'scPxY':_0x5358ee(0x8b1)+_0x5358ee(0x178),'QCWYl':_0x5358ee(0x8d0),'jSbOa':_0x5358ee(0x766)+_0x5358ee(0xba3)+_0x5358ee(0x3e5)+_0x5358ee(0x34b),'WNQZp':_0x5358ee(0xccd),'iYRbY':_0x5358ee(0x766)+_0x5358ee(0x8dd)+_0x5358ee(0x3e5)+_0x5358ee(0x34b),'qyWsi':_0x5358ee(0x59f),'uoJkU':_0x5358ee(0x766)+_0x5358ee(0xbac)+_0x5358ee(0x3e5)+_0x5358ee(0x34b),'THzGM':_0x5358ee(0x82f)+_0x5358ee(0xefc),'RgQat':_0x5358ee(0xba6),'uAoRe':_0x5358ee(0x3ce)+_0x5358ee(0x84b)+_0x5358ee(0x1001)+_0x5358ee(0x114)+_0x5358ee(0xdae),'AohKZ':_0x5358ee(0xbf0),'oMbxK':_0x5358ee(0x10b6)+_0x5358ee(0x58c)+_0x5358ee(0x585)+_0x5358ee(0x405)+_0x5358ee(0xb52),'TbkJd':_0x5358ee(0x1097),'UYepk':_0x5358ee(0xf4c)+_0x5358ee(0x5d3)+_0x5358ee(0xc85)+_0x5358ee(0xa64)+_0x5358ee(0xd09),'lEtLR':_0x5358ee(0x80f),'dHFGR':_0x5358ee(0x2bf)+_0x5358ee(0xcee)+'ig','kFVwl':_0x5358ee(0x10d3)+_0x5358ee(0xdd7),'HAIIC':_0x5358ee(0x1051)+_0x5358ee(0xcc0),'BlKjD':_0x5358ee(0x61c)+_0x5358ee(0x9dd),'rPmvm':_0x5358ee(0x9c8)+_0x5358ee(0x16e)+_0x5358ee(0x55b),'BVmUn':_0x5358ee(0x119)+_0x5358ee(0x5db)+_0x5358ee(0x55e)+_0x5358ee(0xa6b)+'sh','IQZkU':_0x5358ee(0x366),'lEGJV':_0x5358ee(0xb1e)+_0x5358ee(0xbd2),'xuVkL':_0x5358ee(0xeb3)+'me','UhJUT':_0x5358ee(0xc12)+_0x5358ee(0xb99)+_0x5358ee(0x929),'ehNgR':_0x5358ee(0xe0e),'nwuGG':_0x5358ee(0x82a)+_0x5358ee(0x6d8),'GdFzr':_0x5358ee(0xffb)+_0x5358ee(0xcd9)+_0x5358ee(0xeb4)+_0x5358ee(0x3b7)+_0x5358ee(0xd99)+_0x5358ee(0x18d),'LoQjY':_0x5358ee(0xc48)+_0x5358ee(0x557),'jLhHu':_0x5358ee(0x4d0)+_0x5358ee(0xf73)+_0x5358ee(0x77b)+_0x5358ee(0x230)+_0x5358ee(0x673)+_0x5358ee(0x3e3)+_0x5358ee(0x227)+_0x5358ee(0xb8f)+_0x5358ee(0xe49)+'.)','JcUTU':_0x5358ee(0xe07)+_0x5358ee(0x101d),'yZaQR':_0x5358ee(0xc03)+_0x5358ee(0x10a9)+_0x5358ee(0xf2c)+_0x5358ee(0xd8f)+_0x5358ee(0x9ab),'EiPHL':_0x5358ee(0x431)+_0x5358ee(0xd6e),'sbgLG':_0x5358ee(0x4d0)+_0x5358ee(0xd67)+_0x5358ee(0x479)+_0x5358ee(0x20b)+_0x5358ee(0x877)+_0x5358ee(0xf52)+_0x5358ee(0x5c6)+_0x5358ee(0x728)+_0x5358ee(0xe7f)+_0x5358ee(0x507),'SWbOT':_0x5358ee(0x2c6)+_0x5358ee(0x219)+_0x5358ee(0x2f4)+')','qLyLM':_0x5358ee(0xced)+_0x5358ee(0xa2b)+_0x5358ee(0x748)+_0x5358ee(0xd83)+_0x5358ee(0xbe9)+_0x5358ee(0xcdc)+_0x5358ee(0x2ca)+_0x5358ee(0xfcc)+_0x5358ee(0xa6c)+_0x5358ee(0xfd9),'RyILT':_0x5358ee(0x209)+'un','JwKze':_0x5358ee(0x8dc)+_0x5358ee(0xcaf)+_0x5358ee(0x4da)+_0x5358ee(0x99f)+_0x5358ee(0x10e1)+_0x5358ee(0x926)+_0x5358ee(0x10fd)+_0x5358ee(0xab6)+_0x5358ee(0xcae)+_0x5358ee(0xa2c)+_0x5358ee(0x27d)+_0x5358ee(0xabe)+_0x5358ee(0x575)+_0x5358ee(0x780)+_0x5358ee(0xca1)+_0x5358ee(0x115),'tlKeZ':_0x5358ee(0x3fd)+_0x5358ee(0xc66)+')','OqsTg':_0x5358ee(0x2f8)+_0x5358ee(0xd81)+_0x5358ee(0x459)+_0x5358ee(0x104f)+_0x5358ee(0x2a1),'yTTMf':_0x5358ee(0x100b)+_0x5358ee(0xd80)+_0x5358ee(0xe6d),'zoJBG':_0x5358ee(0x893)+_0x5358ee(0xe45)+_0x5358ee(0x226)+_0x5358ee(0x9af)+_0x5358ee(0xb54),'FfzjG':_0x5358ee(0x2b4)+_0x5358ee(0x787),'MgaCw':_0x5358ee(0x798)+'rs','GKnsa':_0x5358ee(0x111a)+_0x5358ee(0xeb2)+_0x5358ee(0xbd6)+_0x5358ee(0x67d)+_0x5358ee(0x9b8),'qNbGj':_0x5358ee(0xdaa)+_0x5358ee(0xd1d),'hslIs':_0x5358ee(0x111a)+_0x5358ee(0xeb2)+_0x5358ee(0xbd6)+_0x5358ee(0x62d)+_0x5358ee(0x641)+_0x5358ee(0x3f6)+_0x5358ee(0xe6a)+_0x5358ee(0xcb4),'AUFJx':_0x5358ee(0xfca)+_0x5358ee(0x8c8),'EuUqZ':_0x5358ee(0x111a)+_0x5358ee(0xeb2)+_0x5358ee(0xbd6)+_0x5358ee(0x9b5)+_0x5358ee(0x581),'rpdql':_0x5358ee(0x454)+_0x5358ee(0x43d),'nQrOB':_0x5358ee(0x111a)+_0x5358ee(0xeb2)+_0x5358ee(0xbd6)+_0x5358ee(0x62d)+_0x5358ee(0x641)+_0x5358ee(0x92d)+_0x5358ee(0x20d)+_0x5358ee(0xa86),'RYzWT':_0x5358ee(0x15f)+_0x5358ee(0x7bb)+'s','AXhQJ':_0x5358ee(0x4f4)+'it','pddgf':_0x5358ee(0x7f1)+_0x5358ee(0x459)+_0x5358ee(0x9b7)+_0x5358ee(0x1f0)+_0x5358ee(0xb8d)+_0x5358ee(0x474)+_0x5358ee(0x7ff)+_0x5358ee(0x931)+'.','oxxUE':_0x5358ee(0x3bd)+'Me','ZjGKl':_0x5358ee(0x4f6)+_0x5358ee(0x18c)+_0x5358ee(0x882)+_0x5358ee(0xaa7),'XIEuf':_0x5358ee(0x7b0)+_0x5358ee(0x1054),'SPgYr':_0x5358ee(0xa16)+_0x5358ee(0xa05)+_0x5358ee(0xc99),'XKLvI':_0x5358ee(0xd9a),'EQDFp':_0x5358ee(0x10cd),'lLzmY':_0x5358ee(0x414)+_0x5358ee(0x26f)+_0x5358ee(0x10c7)+_0x5358ee(0x59c)+_0x5358ee(0x10e9)+_0x5358ee(0xfed)+'n.','viFGR':_0x5358ee(0x8f1)+_0x5358ee(0x455),'UdcWZ':_0x5358ee(0x1066)+_0x5358ee(0xa97),'xvopA':_0x5358ee(0xa17)+'er','JzWbN':_0x5358ee(0xcc4),'SYUvJ':_0x5358ee(0x781),'jvVsu':_0x5358ee(0x88e),'myfow':_0x5358ee(0xd1e),'hiYOH':_0x5358ee(0xb45)+_0x5358ee(0x299)+_0x5358ee(0x21e)+_0x5358ee(0xd0c)+_0x5358ee(0x749)+_0x5358ee(0x6e9),'NNhFW':_0x5358ee(0x105f),'gNhbB':_0x5358ee(0x3ac)+_0x5358ee(0x1021)+_0x5358ee(0xb59)+_0x5358ee(0x886)+_0x5358ee(0x52d)+_0x5358ee(0x1035),'heAsi':_0x5358ee(0x1004)+_0x5358ee(0x6e2),'RjwSm':_0x5358ee(0x94b)+_0x5358ee(0xd15)+_0x5358ee(0x2d2)+_0x5358ee(0xdc5)+_0x5358ee(0xba1),'agFrG':_0x5358ee(0x500)+_0x5358ee(0x6e2),'JRPEH':_0x5358ee(0x1044)+_0x5358ee(0xe24)+_0x5358ee(0xd61)+_0x5358ee(0xdc3),'poTrn':_0x5358ee(0x68e)+_0x5358ee(0xaf3)+_0x5358ee(0x94a),'MgyZi':_0x5358ee(0xff1)+_0x5358ee(0xefd)+_0x5358ee(0x95f)+_0x5358ee(0x491)+_0x5358ee(0x9fe),'UFteJ':_0x5358ee(0x9b9)+_0x5358ee(0x7ab),'ohjHm':_0x5358ee(0xc72)+_0x5358ee(0xc0c)+_0x5358ee(0x610)+_0x5358ee(0x733),'AcCgv':_0x5358ee(0xc9a)+_0x5358ee(0x78c),'tLzIT':_0x5358ee(0x1c7)+_0x5358ee(0x32e)+_0x5358ee(0x449)+_0x5358ee(0x966)+_0x5358ee(0xfb0),'kiMjb':_0x5358ee(0x7f6),'JjcBj':_0x5358ee(0x29a)+_0x5358ee(0x7e1)+_0x5358ee(0x107c)+'s.','MRBwk':_0x5358ee(0xf18),'JvDMc':_0x5358ee(0xc6c)+_0x5358ee(0x647)+'n','WCXMm':_0x5358ee(0x1f5)+'un','EUoUj':_0x5358ee(0xc9a)+_0x5358ee(0xfe6),'StPZY':_0x5358ee(0x1005),'fpNue':_0x5358ee(0xdce),'jDLyI':_0x5358ee(0xc6c)+_0x5358ee(0xc31)+'l','nfhyB':_0x5358ee(0xc6c)+_0x5358ee(0xb46)+'lf','FUGhW':_0x5358ee(0x10ea)+'s','TbytF':_0x5358ee(0x965)+_0x5358ee(0x7bd)+_0x5358ee(0x4ba)+_0x5358ee(0xb79),'aImCO':_0x5358ee(0x10ea)+_0x5358ee(0x131),'hXRwQ':_0x5358ee(0x10ea)+_0x5358ee(0x920)+_0x5358ee(0x133),'FiwaQ':_0x5358ee(0x10ea)+_0x5358ee(0x519),'WUupa':_0x5358ee(0xdf9)+_0x5358ee(0x78c),'xhEzY':_0x5358ee(0xfe4),'HqdMH':_0x5358ee(0xd88),'fzEhK':_0x5358ee(0xd34),'uDwkG':_0x5358ee(0x965)+_0x5358ee(0x225)+_0x5358ee(0x818)+_0x5358ee(0xc53),'Xopat':_0x5358ee(0x76f)+_0x5358ee(0xf98),'TVWAz':_0x5358ee(0xf1a)+_0x5358ee(0x1f4),'jdrvZ':_0x5358ee(0xa38)+_0x5358ee(0x672)+_0x5358ee(0x19e)+_0x5358ee(0xbce)+_0x5358ee(0x859)+_0x5358ee(0x629)+_0x5358ee(0x98b),'jrdaF':_0x5358ee(0x365)+_0x5358ee(0x28f)+_0x5358ee(0x123)+_0x5358ee(0x4cd),'neQBt':_0x5358ee(0x889)+_0x5358ee(0x510)+_0x5358ee(0x24a)+_0x5358ee(0x2df)+_0x5358ee(0x2d2)+_0x5358ee(0x616)+_0x5358ee(0xc2b)+_0x5358ee(0xb73)+_0x5358ee(0xa21)+_0x5358ee(0xcfb)+_0x5358ee(0xc04),'mlPic':_0x5358ee(0x355),'EBEMe':_0x5358ee(0xdef)+_0x5358ee(0xbf7)+_0x5358ee(0x5d6)+_0x5358ee(0xd06)+_0x5358ee(0x1075)+_0x5358ee(0x356),'XZYQR':_0x5358ee(0x128)+_0x5358ee(0x18f)+_0x5358ee(0x525),'qkdRo':_0x5358ee(0x744)+_0x5358ee(0x117)+_0x5358ee(0xf47)+'.','kHwvd':_0x5358ee(0xb58),'djGEm':_0x5358ee(0x1123)+_0x5358ee(0xde0)+_0x5358ee(0xb7b)+_0x5358ee(0x44b),'YWHMU':_0x5358ee(0x915)+_0x5358ee(0x1087)+_0x5358ee(0x10f8)+_0x5358ee(0x7f5),'dXsaV':_0x5358ee(0x792)+_0x5358ee(0xc44)+_0x5358ee(0x66f)+_0x5358ee(0xfe5)+_0x5358ee(0x3d8)+_0x5358ee(0x96b),'KOCGC':_0x5358ee(0x974)+_0x5358ee(0xc09)+_0x5358ee(0x4df)+_0x5358ee(0x8fe)+_0x5358ee(0x883)+_0x5358ee(0x906),'UPQWL':_0x5358ee(0xd34)+_0x5358ee(0x78c),'wYqVM':_0x5358ee(0x709)+_0x5358ee(0xc0a),'CbJWz':_0x5358ee(0x4cc)+_0x5358ee(0x73d)+_0x5358ee(0x1067)+_0x5358ee(0x65c)+_0x5358ee(0x470)+_0x5358ee(0xc2a)+_0x5358ee(0x6cf)+_0x5358ee(0x757)+_0x5358ee(0x8ef)+_0x5358ee(0x1a1)+_0x5358ee(0x4b5)+_0x5358ee(0x23c),'Hskqz':_0x5358ee(0xd40),'ideFf':_0x5358ee(0x4cc)+_0x5358ee(0x73d)+_0x5358ee(0x264)+_0x5358ee(0x600)+_0x5358ee(0x8f9)+'d.','cGlok':_0x5358ee(0xf9d)+_0x5358ee(0xdd7),'jsbqX':_0x5358ee(0x1043)+_0x5358ee(0x657)+_0x5358ee(0x108a),'WtVhj':_0x5358ee(0x318)+_0x5358ee(0x112d)+_0x5358ee(0x42a)+_0x5358ee(0x706)+_0x5358ee(0x536),'rWjdC':_0x5358ee(0x295)+_0x5358ee(0x82b)+_0x5358ee(0x297),'MBzOy':_0x5358ee(0x38c)+_0x5358ee(0xd2c)+_0x5358ee(0xb72)+_0x5358ee(0x7c1)+_0x5358ee(0x5e0),'CCaIz':_0x5358ee(0x15a)+_0x5358ee(0xf2f),'UZYUO':_0x5358ee(0x112e)+_0x5358ee(0x385)+_0x5358ee(0xf60)+_0x5358ee(0x501)+_0x5358ee(0xb0b)+_0x5358ee(0x834),'PmXTd':_0x5358ee(0x8d3)+_0x5358ee(0xf2f),'ECRJu':_0x5358ee(0x112e)+_0x5358ee(0x385)+_0x5358ee(0xf60)+_0x5358ee(0xeed)+_0x5358ee(0xb0b)+_0x5358ee(0x834),'CPUhS':_0x5358ee(0x3af)+_0x5358ee(0xab1)+_0x5358ee(0xa08)+_0x5358ee(0x37a),'lBYuv':_0x5358ee(0x9ec)+_0x5358ee(0xbf3)+_0x5358ee(0x335)+_0x5358ee(0xdd5)+_0x5358ee(0xf34)+_0x5358ee(0xa26)+_0x5358ee(0xa95)+_0x5358ee(0xc71)+_0x5358ee(0x14f)+_0x5358ee(0xa15),'aNDJl':_0x5358ee(0x5bf)+_0x5358ee(0x10f6)+_0x5358ee(0x1fd)+_0x5358ee(0xd33),'SbtgD':_0x5358ee(0x2bf)+_0x5358ee(0xdcb)+_0x5358ee(0xcda)+_0x5358ee(0x277)+_0x5358ee(0x36a)+_0x5358ee(0x8ad)+_0x5358ee(0x36c)+_0x5358ee(0xb13)+_0x5358ee(0xbf4)+_0x5358ee(0x99b)+_0x5358ee(0xbba)+_0x5358ee(0x125)+_0x5358ee(0x81a)+_0x5358ee(0x46f),'UtpKH':_0x5358ee(0x72e)+_0x5358ee(0xd10),'DQOJX':_0x5358ee(0xad5),'okVSr':_0x5358ee(0x2ed)+_0x5358ee(0x57d)+_0x5358ee(0x650)+_0x5358ee(0x9cc),'SyIxV':_0x5358ee(0x238),'elYEk':_0x5358ee(0xdf5)+_0x5358ee(0x7e1)+_0x5358ee(0x107c)+_0x5358ee(0x6b7),'QNeYg':_0x5358ee(0x9d1),'otlfW':_0x5358ee(0xdf5)+_0x5358ee(0x7e1)+_0x5358ee(0x107c)+_0x5358ee(0x604),'QmATI':_0x5358ee(0xc3d),'aESCI':_0x5358ee(0x80b)+_0x5358ee(0xbdd)+_0x5358ee(0xacf)+_0x5358ee(0xc38),'vtzUR':_0x5358ee(0x229),'JAHRB':_0x5358ee(0xab0)+_0x5358ee(0x7e1)+_0x5358ee(0x532)+'es','EoSCe':_0x5358ee(0x381)+_0x5358ee(0xc9e),'BkSDA':_0x5358ee(0x943),'JEyJc':_0x5358ee(0xd49),'BvBJy':_0x5358ee(0x30a)+_0x5358ee(0xfe9)+_0x5358ee(0xd79),'UvhEC':_0x5358ee(0xf8c)+_0x5358ee(0xd45),'OnvEt':_0x5358ee(0x475)+'b','CKgPN':_0x5358ee(0xbb0)+_0x5358ee(0x21d)+_0x5358ee(0xb2c),'VlzMI':_0x5358ee(0xd54)+'b','wVYXU':_0x5358ee(0xbb0)+_0x5358ee(0x28d)+_0x5358ee(0x87a),'GYzty':_0x5358ee(0x8af)+_0x5358ee(0x46d),'AFNww':_0x5358ee(0x1ff),'cNuwA':_0x5358ee(0x8af)+_0x5358ee(0x857),'abzyl':_0x5358ee(0x1025)+_0x5358ee(0xdbe),'oBUGN':_0x5358ee(0x6cd)+_0x5358ee(0xd30),'uFghP':_0x5358ee(0xdb0)+'ss','YwMkU':_0x5358ee(0x993),'dXbPH':_0x5358ee(0x5f0)+_0x5358ee(0x924),'TbFEz':_0x5358ee(0x5c1)+'it','urMlO':_0x5358ee(0xe81),'EzZQz':_0x5358ee(0x1b4)+_0x5358ee(0x9c4),'xKkHt':_0x5358ee(0xbc7)+'.','ihdps':_0x5358ee(0xcf4),'PuKaI':_0x5358ee(0x60a)+_0x5358ee(0xa99),'YDeZP':_0x5358ee(0x633)+_0x5358ee(0xdd7),'yBatC':_0x5358ee(0x495),'dCmsu':_0x5358ee(0x675),'aqmbY':_0x5358ee(0xff5),'aKqGW':_0x5358ee(0x382),'SkvSM':_0x5358ee(0x1c1),'GbnvF':_0x5358ee(0xa22),'CzNzo':_0x5358ee(0x2ad),'Ejkrc':_0x5358ee(0xba0)+_0x5358ee(0x266),'XWBiL':_0x5358ee(0xedb)+_0x5358ee(0xea0)+_0x5358ee(0x991)+_0x5358ee(0x75a)+_0x5358ee(0xd84)+_0x5358ee(0xc83),'kimgu':_0x5358ee(0x3c2)+_0x5358ee(0xc36),'FcSEp':_0x5358ee(0xedb)+_0x5358ee(0xea0)+_0x5358ee(0x991)+_0x5358ee(0xc96)+_0x5358ee(0x1a8)+_0x5358ee(0x508),'cNKhi':_0x5358ee(0xedb)+_0x5358ee(0xea0)+_0x5358ee(0x8ae)+_0x5358ee(0xbc8),'ioygz':_0x5358ee(0xedb)+_0x5358ee(0x779)+_0x5358ee(0xe2e),'ZLNjs':_0x5358ee(0xbd3)+'o','tMLud':_0x5358ee(0xedb)+_0x5358ee(0x3ea)+_0x5358ee(0x7c8),'OWsAz':_0x5358ee(0xa89)+'ed','VBQAu':_0x5358ee(0xedb)+_0x5358ee(0xc17)+'er','UcppJ':_0x5358ee(0xd18)+_0x5358ee(0x895),'lHwSa':_0x5358ee(0x32b)+_0x5358ee(0x1091),'TYxFx':_0x5358ee(0xedb)+_0x5358ee(0xe9a)+_0x5358ee(0x874),'ThcdA':_0x5358ee(0x711)+_0x5358ee(0xeb6),'BDZDX':_0x5358ee(0xedb)+_0x5358ee(0x1078)+'n','QewGN':_0x5358ee(0xedb)+_0x5358ee(0x4ab),'ygvaY':_0x5358ee(0x338)+_0x5358ee(0x693),'WzTtq':_0x5358ee(0xedb)+_0x5358ee(0x569)+_0x5358ee(0x423),'SZGeE':_0x5358ee(0x1016)+_0x5358ee(0x4f8),'fAVHq':_0x5358ee(0x12b)+'te','aomBR':function(_0x403aa3){return _0x403aa3();}},_0x214dfe={'AnimalCompany':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0xc98)])[_0x5358ee(0xce4)],'UnityEngine.CoreModule':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0x239)])[_0x5358ee(0xce4)],'UnityEngine.PhysicsModule':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0x970)])[_0x5358ee(0xce4)],'UnityEngine.UIModule':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0xf23)])[_0x5358ee(0xce4)],'UnityEngine.UI':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0x19f)])[_0x5358ee(0xce4)],'UnityEngine.TextRenderingModule':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0x7b8)])[_0x5358ee(0xce4)],'PhotonFusionNetworking':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0xd56)])[_0x5358ee(0xce4)],'PhotonFusionNetworkingRealtime':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0x4a1)])[_0x5358ee(0xce4)],'Unity.TextMeshPro':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0xff4)])[_0x5358ee(0xce4)],'UnityEngine.XRModule':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0xfc3)])[_0x5358ee(0xce4)],'UnityEngine.UnityWebRequestModule':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0x308)])[_0x5358ee(0xce4)],'UnityEngine.AudioModule':Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0x73f)])[_0x5358ee(0xce4)]},_0x529163=_0x214dfe[_0x4d0e58[_0x5358ee(0xc98)]],_0x3f013e=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xa9e)]),_0x5ce8d5=_0x214dfe[_0x4d0e58[_0x5358ee(0x239)]],_0x446061=_0x214dfe[_0x4d0e58[_0x5358ee(0x970)]],_0x579208=_0x214dfe[_0x4d0e58[_0x5358ee(0x19f)]],_0x1a6e4e=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x4e0)]),_0x13bcd8=_0x1a6e4e,_0x59f78a=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x38a)]),_0x2c2cbe=_0x214dfe[_0x4d0e58[_0x5358ee(0xf23)]],_0x589e60=_0x214dfe[_0x4d0e58[_0x5358ee(0x7b8)]],_0x5f311c=_0x214dfe[_0x4d0e58[_0x5358ee(0x8e5)]],_0xf44196=_0x214dfe[_0x4d0e58[_0x5358ee(0x667)]],_0xf2f5e5=_0x214dfe[_0x4d0e58[_0x5358ee(0x4e8)]],_0x446db2=_0x214dfe[_0x4d0e58[_0x5358ee(0xff4)]],_0x2eae42=_0x214dfe[_0x4d0e58[_0x5358ee(0xfc3)]],_0x5ef4d5=_0x214dfe[_0x4d0e58[_0x5358ee(0x308)]],_0x1e0877=_0x214dfe[_0x4d0e58[_0x5358ee(0x73f)]],_0x45e55f=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xe70)]),_0x3ff064=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xdfc)]),_0x531536=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x326)]),_0x56b0b9=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x5ca)]),_0x2e62a6=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xc22)]),_0x3392a4=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xa4d)]),_0x434cf6=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x977)]),_0xcb2f35=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x767)]),_0x464f9d=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x888)]),_0x2a9232=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x1d4)]),_0x2a34d8=_0x5f311c[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x188)]),_0x47dce7=_0x5f311c[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xc15)]),_0x2c0f67=_0x5f311c[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x8b0)]),_0x577186=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x20a)]),_0x5f43b5=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x7aa)]),_0x3f41de=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xc95)]),_0x323057=_0x2eae42[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xb7d)]),_0xe9df9c=_0x2eae42[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x440)]),_0x464ed0=![],_0x26d1ed=0x1b2f+-0x26b7+0xb88,_0x4133e7=0x23d9+0x20c7+0x3d*-0x120,_0x15974c=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x735)]),_0x15c2bc=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x5bc)]),_0x295e3a=Il2Cpp[_0x5358ee(0xd1a)][_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x457)]),_0x439b2c=Il2Cpp[_0x5358ee(0xd1a)][_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xa30)]),_0x1e192e=Il2Cpp[_0x5358ee(0xd1a)][_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x155)]),_0x50c90f=_0x439b2c[_0x5358ee(0x2b5)](_0x1e192e),_0x24a20f=Il2Cpp[_0x5358ee(0xd1a)][_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x65b)]),_0x4c3978=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x1080)]),_0x2374fd=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xc9b)]),_0x30f217=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xbda)]),_0x1eb9f9=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x4fe)]),_0x2a8df7=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x135)]),_0x45330e=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x734)]),_0x1a3664=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xf85)]),_0x473a5e=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x275)]),_0x80fc77=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x4bb)]),_0x54d8c0=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x9f3)]),_0x38404a=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x546)]),_0x2e3e7d=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x512)]),_0x3890fd=_0x1e0877[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x159)]),_0x471d9b=_0x446061[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xa98)]),_0x4f347e=_0x446061[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x377)]),_0x184208=_0x446061[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xb3e)]),_0x70b9a7=_0x446061[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x352)]),_0x258484=_0x446061[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x1031)]),_0x459c59=_0x5ce8d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x28a)]),_0x525c54=_0x446061[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xd73)]),_0x3873cf=_0x2c2cbe[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xa33)]),_0x337a67=_0x579208[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xebb)]),_0x273b58=_0x579208[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x986)]),_0x5ef7db=_0x579208[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xde6)]),_0x55c796=_0x589e60[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x685)]),_0x1ac472=_0x446db2[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x1122)]),_0x5b423e=_0x5ef4d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xeb8)]),_0x5ea9b4=_0x5ef4d5[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x2dc)]);let _0x318dbf=null;const _0x515cbc=_0x45e55f[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xfc7)])[_0x5358ee(0x1081)],_0x5a7655=_0x515cbc[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xa84)])[_0x5358ee(0x1081)],_0x4fc340=_0x1a3664[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x96e)])[_0x5358ee(0x9d0)](Il2Cpp[_0x5358ee(0x404)](_0x4d0e58[_0x5358ee(0xac2)])),_0x1c7ea2=_0x1a3664[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x96e)])[_0x5358ee(0x9d0)](Il2Cpp[_0x5358ee(0x404)](_0x4d0e58[_0x5358ee(0x5bd)])),_0x130c91=_0x4c3978[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xadc)])[_0x5358ee(0x1081)],_0x2f6a53=_0x4c3978[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xc4f)])[_0x5358ee(0x1081)],_0x5490f3=_0x2374fd[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0x925)])[_0x5358ee(0x1081)],_0x1a4269=_0x45e55f[_0x5358ee(0xb83)][_0x5358ee(0xbbe)](_0x326fbc=>_0x326fbc[_0x5358ee(0xb5a)][_0x5358ee(0xc49)](_0x5358ee(0xa01))),_0x2f1c8b=_0x1a4269?_0x1a4269[_0x5358ee(0x1081)]:null,_0x17e59a=_0x2f1c8b?_0x2f1c8b[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0x91d)])[_0x5358ee(0x1081)]:null,_0x31c6c9=_0x2f1c8b?_0x2f1c8b[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xaa2)])[_0x5358ee(0x1081)]:null,_0x431304=_0x2f1c8b[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0x8b9)])[_0x5358ee(0x1081)],_0x581f9b=_0x2f1c8b[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0x797)])[_0x5358ee(0x1081)],_0x1dc829=_0x2f1c8b[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xbf8)])[_0x5358ee(0x1081)],_0x51ba56=_0x2f1c8b[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xaba)])[_0x5358ee(0x1081)],_0x10d1bc=_0x2f1c8b[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xa84)])[_0x5358ee(0x1081)],_0x5872fc=-0x1306+-0x3*-0x8cd+-0x761,_0x3fee8a=[_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91],_0x1544c0=[_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91,_0x130c91];let _0x104db1=_0x4c3978[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xadc)])[_0x5358ee(0x1081)],_0x59d363=_0x4c3978[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xadc)])[_0x5358ee(0x1081)],_0x40b647=_0x4c3978[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xadc)])[_0x5358ee(0x1081)],_0x5a7aa9=_0x4c3978[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xadc)])[_0x5358ee(0x1081)],_0x1aade1=_0x4c3978[_0x5358ee(0x398)](_0x4d0e58[_0x5358ee(0xadc)])[_0x5358ee(0x1081)],_0x28b282=![];const _0x316653=_0x1eb9f9[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0xae3)],-0x253f+-0x7*-0x4de+0x32e)[_0x5358ee(0x2b5)](_0x55c796)[_0x5358ee(0x9d0)](Il2Cpp[_0x5358ee(0x404)](_0x4d0e58[_0x5358ee(0x111f)])),_0xd20588=[_0x4d0e58[_0x5358ee(0x7ac)],_0x4d0e58[_0x5358ee(0x6fc)],_0x4d0e58[_0x5358ee(0x1068)],_0x4d0e58[_0x5358ee(0x2ac)],_0x4d0e58[_0x5358ee(0x10c1)],_0x4d0e58[_0x5358ee(0x8fd)],_0x4d0e58[_0x5358ee(0xdbc)],_0x4d0e58[_0x5358ee(0x640)],_0x4d0e58[_0x5358ee(0xe87)],_0x4d0e58[_0x5358ee(0x5b5)],_0x4d0e58[_0x5358ee(0xdd6)],_0x4d0e58[_0x5358ee(0x4fb)],_0x4d0e58[_0x5358ee(0x367)],_0x4d0e58[_0x5358ee(0x2f7)],_0x4d0e58[_0x5358ee(0x70f)],_0x4d0e58[_0x5358ee(0x7be)],_0x4d0e58[_0x5358ee(0x820)],_0x4d0e58[_0x5358ee(0x995)],_0x4d0e58[_0x5358ee(0x84a)],_0x4d0e58[_0x5358ee(0x509)],_0x4d0e58[_0x5358ee(0xcc1)],_0x4d0e58[_0x5358ee(0x287)],_0x4d0e58[_0x5358ee(0xdfa)],_0x4d0e58[_0x5358ee(0xf6e)],_0x4d0e58[_0x5358ee(0xa06)],_0x4d0e58[_0x5358ee(0x10a5)],_0x4d0e58[_0x5358ee(0x983)],_0x4d0e58[_0x5358ee(0x3c9)],_0x4d0e58[_0x5358ee(0xa4a)],_0x4d0e58[_0x5358ee(0x1105)],_0x4d0e58[_0x5358ee(0x60b)],_0x4d0e58[_0x5358ee(0xf97)],_0x4d0e58[_0x5358ee(0xf12)],_0x4d0e58[_0x5358ee(0xf45)],_0x4d0e58[_0x5358ee(0x5ba)],_0x4d0e58[_0x5358ee(0x5ab)],_0x4d0e58[_0x5358ee(0x2e7)],_0x4d0e58[_0x5358ee(0x837)],_0x4d0e58[_0x5358ee(0xc1f)],_0x4d0e58[_0x5358ee(0x246)],_0x4d0e58[_0x5358ee(0x571)],_0x4d0e58[_0x5358ee(0x618)],_0x4d0e58[_0x5358ee(0x8c6)],_0x4d0e58[_0x5358ee(0x4a8)],_0x4d0e58[_0x5358ee(0x30f)],_0x4d0e58[_0x5358ee(0x95e)],_0x4d0e58[_0x5358ee(0x9a8)],_0x4d0e58[_0x5358ee(0xf6c)],_0x4d0e58[_0x5358ee(0xf14)],_0x4d0e58[_0x5358ee(0x583)],_0x4d0e58[_0x5358ee(0xde1)],_0x4d0e58[_0x5358ee(0x428)],_0x4d0e58[_0x5358ee(0x87d)],_0x4d0e58[_0x5358ee(0xa8e)],_0x4d0e58[_0x5358ee(0x6d1)],_0x4d0e58[_0x5358ee(0xa7d)],_0x4d0e58[_0x5358ee(0x71a)],_0x4d0e58[_0x5358ee(0xf03)],_0x4d0e58[_0x5358ee(0xe7a)],_0x4d0e58[_0x5358ee(0x1011)]];function _0x577a31(){const _0x1d1963=_0x5358ee,_0x3561d4=Il2Cpp[_0x1d1963(0x8cd)][_0x1d1963(0xfb2)](_0x4d0e58[_0x1d1963(0xc98)])[_0x1d1963(0xce4)][_0x1d1963(0x9aa)](_0x4d0e58[_0x1d1963(0x46e)]),_0x4ccb98=Il2Cpp[_0x1d1963(0x8cd)][_0x1d1963(0xfb2)](_0x4d0e58[_0x1d1963(0xc98)])[_0x1d1963(0xce4)][_0x1d1963(0x9aa)](_0x4d0e58[_0x1d1963(0x9c5)]),_0x5781ab=Il2Cpp[_0x1d1963(0x8cd)][_0x1d1963(0xfb2)](_0x4d0e58[_0x1d1963(0xc98)])[_0x1d1963(0xce4)][_0x1d1963(0x9aa)](_0x4d0e58[_0x1d1963(0x72f)]),_0x439147=Il2Cpp[_0x1d1963(0x8cd)][_0x1d1963(0xfb2)](_0x4d0e58[_0x1d1963(0xc98)])[_0x1d1963(0xce4)][_0x1d1963(0x9aa)](_0x4d0e58[_0x1d1963(0x74f)]),_0x41d3df=_0x3561d4[_0x1d1963(0xbb1)](_0x4d0e58[_0x1d1963(0x35d)])[_0x1d1963(0x9d0)](),_0x10a765=_0x4ccb98[_0x1d1963(0xbb1)](_0x4d0e58[_0x1d1963(0x191)])[_0x1d1963(0x565)](_0x41d3df)[_0x1d1963(0x9d0)](),_0x361d9d=_0x5781ab[_0x1d1963(0xbb1)](_0x4d0e58[_0x1d1963(0x4c6)])[_0x1d1963(0x565)](_0x10a765)[_0x1d1963(0x9d0)](),_0x171aba=_0x5781ab[_0x1d1963(0xbb1)](_0x4d0e58[_0x1d1963(0xda3)])[_0x1d1963(0x565)](_0x10a765)[_0x1d1963(0x9d0)](),_0x570402=_0x439147[_0x1d1963(0xbb1)](_0x4d0e58[_0x1d1963(0x4ed)])[_0x1d1963(0x565)](_0x361d9d)[_0x1d1963(0x9d0)](),_0x11647e=Il2Cpp[_0x1d1963(0x8cd)][_0x1d1963(0xfb2)](_0x4d0e58[_0x1d1963(0x670)])[_0x1d1963(0xce4)][_0x1d1963(0x9aa)](_0x4d0e58[_0x1d1963(0xc39)]),_0x2d5857=Il2Cpp[_0x1d1963(0xd1a)][_0x1d1963(0x9aa)](_0x4d0e58[_0x1d1963(0xcad)]),_0x32bdd8=_0x11647e[_0x1d1963(0x2b5)](_0x2d5857);_0x171aba[_0x1d1963(0xbb1)](_0x4d0e58[_0x1d1963(0x7c4)])[_0x1d1963(0x9d0)](!![]),_0x570402[_0x1d1963(0xbb1)](_0x4d0e58[_0x1d1963(0x7c4)])[_0x1d1963(0x9d0)](!![]);}function _0x40b1f6(_0x1276b6){const _0x595d4a=_0x5358ee;_0x15c2bc[_0x595d4a(0xbb1)](_0x4d0e58[_0x595d4a(0xa0e)],0x1c8a+0x196*-0x18+-0x3*-0x32d)[_0x595d4a(0x9d0)](_0x1276b6);}function _0x560783(_0x55665f,_0x1c4297){const _0x2f4b8e=_0x5358ee;return _0x55665f[_0x2f4b8e(0xbb1)](_0x4d0e58[_0x2f4b8e(0x45b)],0x3*-0xc79+0x9df+-0x1*-0x1b8d)[_0x2f4b8e(0x2b5)](_0x1c4297)[_0x2f4b8e(0x9d0)]();}function _0x2c485b(_0x295b32,_0x89c31e){const _0x4a7453=_0x5358ee;return _0x295b32[_0x4a7453(0xbb1)](_0x4d0e58[_0x4a7453(0x975)],-0x1d0+-0x4bc+0x2*0x346)[_0x4a7453(0x2b5)](_0x89c31e)[_0x4a7453(0x9d0)]();}function _0x2b8a6a(_0x15d450,_0x313d94){const _0x658d46=_0x5358ee;return _0x15d450[_0x658d46(0xbb1)](_0x4d0e58[_0x658d46(0x626)],0x5*0x1c9+0x2d*-0x1b+-0x42d)[_0x658d46(0x2b5)](_0x313d94)[_0x658d46(0x9d0)]();}function _0xd568a4(_0x47c957){const _0x27788a=_0x5358ee;try{const _0x425344=_0x47c957[_0x27788a(0xbb1)](_0x4d0e58[_0x27788a(0xbe0)])[_0x27788a(0x9d0)]();if(!_0x425344||_0x425344[_0x27788a(0xa74)]())return null;const _0xa81bf1=_0x425344[_0x27788a(0x398)](_0x4d0e58[_0x27788a(0x99a)])[_0x27788a(0x1081)];if(!_0xa81bf1||_0xa81bf1[_0x27788a(0xa74)]()||_0x4d0e58[_0x27788a(0x3ff)](_0xa81bf1[_0x27788a(0x285)],-0x2*0x17+-0x222e+0x225e))return null;return _0xa81bf1[_0x27788a(0xadb)](0x1a7b+-0x51b*-0x3+-0x29cb);}catch(_0x3ad9bd){return null;}}function _0x4fab46(_0x32862c,_0x27216c){const _0x3ad499=_0x5358ee;let _0x2d03f4=_0x4d0e58[_0x3ad499(0xdaf)](_0x560783,_0x32862c,_0x27216c);if(_0x4d0e58[_0x3ad499(0x354)](_0x2d03f4,null)&&_0x4d0e58[_0x3ad499(0xb49)](_0x2d03f4,undefined))return _0x2d03f4;return _0x4d0e58[_0x3ad499(0xba9)](_0x2b8a6a,_0x32862c,_0x27216c);}function _0xdc0ee5(_0xc67790){const _0x4cf7d0=_0x5358ee;return _0x15974c[_0x4cf7d0(0xbb1)](_0x4d0e58[_0x4cf7d0(0x96e)],-0x1f36+0xe9e+0x1*0x1099)[_0x4cf7d0(0x9d0)](Il2Cpp[_0x4cf7d0(0x404)](_0xc67790));}function _0x4d8800(_0x5435d0){const _0x2fb0f4=_0x5358ee;return _0x5435d0[_0x2fb0f4(0xbb1)](_0x4d0e58[_0x2fb0f4(0xb3c)])[_0x2fb0f4(0x9d0)]();}function _0xb288f(_0x4147d4){const _0x91653b=_0x5358ee;return _0x4147d4[_0x91653b(0xbb1)](_0x4d0e58[_0x91653b(0x364)])[_0x91653b(0x9d0)]();}function _0x16af44(_0x59bc54){const _0x5a9d55=_0x5358ee;return _0x59bc54=_0x4c3978[_0x5a9d55(0xbb1)](_0x4d0e58[_0x5a9d55(0xcde)],0x1e26+0x23fc+-0x170*0x2e)[_0x5a9d55(0x9d0)](_0x59bc54,_0x4d0e58[_0x5a9d55(0x3d9)](_0xb288f,_0x581f9b)[_0x5a9d55(0xbb1)](_0x4d0e58[_0x5a9d55(0x39e)])[_0x5a9d55(0x9d0)]()),_0x59bc54=_0x4c3978[_0x5a9d55(0xbb1)](_0x4d0e58[_0x5a9d55(0x80e)],-0x1*-0xc5b+0x234*0xa+0x1*-0x2261)[_0x5a9d55(0x9d0)](_0x59bc54,_0x4d0e58[_0x5a9d55(0x3d9)](_0xb288f,_0x515cbc)[_0x5a9d55(0xbb1)](_0x4d0e58[_0x5a9d55(0x39e)])[_0x5a9d55(0x9d0)]()),_0x59bc54;}function _0x1bb0eb(_0x5283ee){const _0x3f8f8e=_0x5358ee,_0x5e9d77=_0xcb2f35[_0x3f8f8e(0xbb1)](_0x4d0e58[_0x3f8f8e(0x1064)])[_0x3f8f8e(0x9d0)]();if(!_0x5e9d77)return;_0x5e9d77[_0x3f8f8e(0xbb1)](_0x4d0e58[_0x3f8f8e(0x10a0)])[_0x3f8f8e(0x9d0)](_0x4d0e58[_0x3f8f8e(0x3b0)](_0x16af44,_0x5283ee));}function _0x1bf6f8(){const _0x409228=_0x5358ee,_0x1bb85c=_0xcb2f35[_0x409228(0xbb1)](_0x4d0e58[_0x409228(0x1064)])[_0x409228(0x9d0)]();if(!_0x1bb85c)return;return _0x1bb85c;}const _0x6112e4=Il2Cpp[_0x5358ee(0x8cd)][_0x5358ee(0xfb2)](_0x4d0e58[_0x5358ee(0xc07)])[_0x5358ee(0xce4)][_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xd52)]),_0x265d98={},_0x131f6f={};function _0x16f679(){const _0x27cfd9=_0x5358ee;console[_0x27cfd9(0x13d)](_0x4d0e58[_0x27cfd9(0x336)]);for(const _0x452120 in _0x265d98){const _0x83a2eb=_0x265d98[_0x452120];_0x83a2eb&&!_0x83a2eb[_0x27cfd9(0xa74)]()&&(console[_0x27cfd9(0x13d)](_0x4d0e58[_0x27cfd9(0xa9d)],_0x452120),_0x83a2eb[_0x27cfd9(0xbb1)](_0x4d0e58[_0x27cfd9(0x461)],-0x1*-0x1697+0x21*-0x67+-0x94f)[_0x27cfd9(0x9d0)](!![]));}for(const _0x521fc3 in _0x265d98){delete _0x265d98[_0x521fc3];}for(const _0x231dd0 in _0x131f6f){delete _0x131f6f[_0x231dd0];}console[_0x27cfd9(0x13d)](_0x4d0e58[_0x27cfd9(0x395)]);}_0x4d0e58[_0x5358ee(0x5cb)](_0x16f679);function _0x189fc5(_0x350adb,_0x313c96,_0x142411){const _0x2a3098=_0x5358ee,_0x2d43aa={'QszYe':function(_0x118368,_0x494dca){const _0x35b272=_0x38eb;return _0x4d0e58[_0x35b272(0x5ee)](_0x118368,_0x494dca);},'gUSYe':_0x4d0e58[_0x2a3098(0xc54)],'kfHKn':function(_0xdf299,_0x474e5f){const _0xf0b450=_0x2a3098;return _0x4d0e58[_0xf0b450(0x10ff)](_0xdf299,_0x474e5f);},'Nibkk':function(_0x4263cc,_0x377766,_0x37d73f,_0x5db9c9,_0xbc5fac){const _0x275429=_0x2a3098;return _0x4d0e58[_0x275429(0x50f)](_0x4263cc,_0x377766,_0x37d73f,_0x5db9c9,_0xbc5fac);}},_0xf5c183=_0x350adb+'/'+_0x313c96;if(_0x131f6f[_0xf5c183]){_0x4d0e58[_0x2a3098(0xac6)](_0x142411,_0x131f6f[_0xf5c183]);return;}if(_0x265d98[_0x350adb]){_0x4d0e58[_0x2a3098(0x27f)](_0x410892,_0x265d98[_0x350adb],_0x313c96,_0xf5c183,_0x142411);return;}const _0x12e34e=_0x4d0e58[_0x2a3098(0xd1c)](_0x33ffae,_0x350adb,_0x313c96);if(_0x12e34e){console[_0x2a3098(0x13d)](_0x4d0e58[_0x2a3098(0x108c)],_0x350adb),_0x265d98[_0x350adb]=_0x12e34e,_0x4d0e58[_0x2a3098(0x27f)](_0x410892,_0x12e34e,_0x313c96,_0xf5c183,_0x142411);return;}console[_0x2a3098(0x13d)](_0x4d0e58[_0x2a3098(0x4ee)],_0x350adb);const _0x356a51=_0x6112e4[_0x2a3098(0xbb1)](_0x4d0e58[_0x2a3098(0xe31)],0x20c1+-0x26f8+0x18e*0x4)[_0x2a3098(0x9d0)](Il2Cpp[_0x2a3098(0x404)](_0x350adb));if(_0x4d0e58[_0x2a3098(0x5ee)](_0x356a51,null)||_0x356a51[_0x2a3098(0xa74)]()){console[_0x2a3098(0x13d)](_0x4d0e58[_0x2a3098(0x1037)],_0x350adb),_0x4d0e58[_0x2a3098(0x3d9)](_0x142411,null);return;}_0x4d0e58[_0x2a3098(0xc2e)](_0xbc9f01,_0x356a51,_0x3cb305=>{const _0x3db143=_0x2a3098;if(_0x2d43aa[_0x3db143(0xde2)](_0x3cb305,null)||_0x3cb305[_0x3db143(0xa74)]()){console[_0x3db143(0x13d)](_0x2d43aa[_0x3db143(0xd89)],_0x350adb),_0x2d43aa[_0x3db143(0xffd)](_0x142411,null);return;}_0x265d98[_0x350adb]=_0x3cb305,_0x2d43aa[_0x3db143(0x11a)](_0x410892,_0x3cb305,_0x313c96,_0xf5c183,_0x142411);});}function _0x33ffae(_0x20c05b,_0x515e69){const _0xa08d13=_0x5358ee;var _0x3804ba;try{const _0x5a176e=_0x6112e4[_0xa08d13(0xbb1)](_0x4d0e58[_0xa08d13(0xb47)])[_0xa08d13(0x9d0)]();if(_0x4d0e58[_0xa08d13(0x5ee)](_0x5a176e,null)||_0x5a176e[_0xa08d13(0xa74)]())return null;const _0x4fb292=(_0x4d0e58[_0xa08d13(0x94d)](_0x3804ba=_0x20c05b[_0xa08d13(0xe5d)]('/')[_0xa08d13(0xf39)](),null)||_0x4d0e58[_0xa08d13(0x94d)](_0x3804ba,void(-0x21fb+0x4d7+0x1d24))?void(0x3*0x76d+-0x351+0x652*-0x3):_0x3804ba[_0xa08d13(0xe5d)]('\x5c')[_0xa08d13(0xf39)]())||'';console[_0xa08d13(0x13d)](_0x4d0e58[_0xa08d13(0x396)],_0x4fb292);const _0x7387cd=_0x5a176e[_0xa08d13(0xbb1)](_0x4d0e58[_0xa08d13(0x648)])[_0xa08d13(0x9d0)]();while(_0x7387cd[_0xa08d13(0xbb1)](_0x4d0e58[_0xa08d13(0xbe1)])[_0xa08d13(0x9d0)]()){const _0x562afb=_0x7387cd[_0xa08d13(0xbb1)](_0x4d0e58[_0xa08d13(0xfc4)])[_0xa08d13(0x9d0)]();if(_0x562afb&&!_0x562afb[_0xa08d13(0xa74)]()){let _0x4312b7=![];try{const _0x1ef407=_0x562afb[_0xa08d13(0xbb1)](_0x4d0e58[_0xa08d13(0x776)],-0x215b*-0x1+-0x8*-0x393+-0x12*0x371)[_0xa08d13(0x9d0)](Il2Cpp[_0xa08d13(0x404)](_0x4d0e58[_0xa08d13(0x4c4)](_0x4d0e58[_0xa08d13(0xb22)],_0x515e69)));if(_0x1ef407)return console[_0xa08d13(0x13d)](_0x4d0e58[_0xa08d13(0x524)]),_0x562afb;}catch(_0x3a7ea4){}try{let _0x28f7ab=null;_0x562afb[_0xa08d13(0xbb1)](_0x4d0e58[_0xa08d13(0xeae)])&&(_0x28f7ab=_0x562afb[_0xa08d13(0xbb1)](_0x4d0e58[_0xa08d13(0xeae)])[_0xa08d13(0x9d0)]());if(_0x28f7ab){const _0x1d8d53=_0x28f7ab[_0xa08d13(0xd92)]();console[_0xa08d13(0x13d)](_0x4d0e58[_0xa08d13(0x110d)],_0x1d8d53);if(_0x4d0e58[_0xa08d13(0x94d)](_0x1d8d53,_0x4d0e58[_0xa08d13(0x4c4)](_0x4d0e58[_0xa08d13(0xde5)]('\x22',_0x4fb292),'\x22'))){console[_0xa08d13(0x13d)](_0x4d0e58[_0xa08d13(0x198)]);try{const _0x57f32a=Il2Cpp[_0xa08d13(0x8cd)][_0xa08d13(0xfb2)](_0x4d0e58[_0xa08d13(0x73f)])[_0xa08d13(0xce4)][_0xa08d13(0x9aa)](_0x4d0e58[_0xa08d13(0xc60)]),_0x3356fe=_0x562afb[_0xa08d13(0xbb1)](_0x4d0e58[_0xa08d13(0xccc)],0x2099+0x60e+-0x26a5*0x1)[_0xa08d13(0x9d0)](Il2Cpp[_0xa08d13(0x404)](_0x4d0e58[_0xa08d13(0x972)](_0x4d0e58[_0xa08d13(0xb22)],_0x515e69)),_0x57f32a[_0xa08d13(0xb6a)][_0xa08d13(0xe96)]);if(_0x3356fe&&!_0x3356fe[_0xa08d13(0xa74)]())return console[_0xa08d13(0x13d)](_0x4d0e58[_0xa08d13(0x704)]),_0x562afb;}catch(_0x1288ef){console[_0xa08d13(0x13d)](_0x4d0e58[_0xa08d13(0xb53)]);}}}}catch(_0x45f4ea){}}}return console[_0xa08d13(0x13d)](_0x4d0e58[_0xa08d13(0x967)]),null;}catch(_0x24c8a2){return console[_0xa08d13(0x13d)](_0x4d0e58[_0xa08d13(0xaf2)],_0x24c8a2),null;}}function _0x410892(_0x141338,_0x2e88ad,_0x4a1567,_0x38b607){const _0x2fd542=_0x5358ee;console[_0x2fd542(0x13d)](_0x4d0e58[_0x2fd542(0x1f2)],_0x2e88ad);const _0x517b9b=Il2Cpp[_0x2fd542(0x8cd)][_0x2fd542(0xfb2)](_0x4d0e58[_0x2fd542(0x73f)])[_0x2fd542(0xce4)][_0x2fd542(0x9aa)](_0x4d0e58[_0x2fd542(0xc60)]),_0x241e53=_0x141338[_0x2fd542(0xbb1)](_0x4d0e58[_0x2fd542(0xccc)],0x23b5*-0x1+-0x3*0x8cb+0x3e18)[_0x2fd542(0x9d0)](Il2Cpp[_0x2fd542(0x404)](_0x4d0e58[_0x2fd542(0x105e)](_0x4d0e58[_0x2fd542(0xb22)],_0x2e88ad)),_0x517b9b[_0x2fd542(0xb6a)][_0x2fd542(0xe96)]);if(_0x4d0e58[_0x2fd542(0x153)](_0x241e53,null)||_0x241e53[_0x2fd542(0xa74)]()){console[_0x2fd542(0x13d)](_0x4d0e58[_0x2fd542(0xca4)],_0x2e88ad),_0x4d0e58[_0x2fd542(0xac6)](_0x38b607,null);return;}_0x4d0e58[_0x2fd542(0xd1c)](_0x258c1b,_0x241e53,_0xddcf29=>{const _0x22910c=_0x2fd542;if(_0x4d0e58[_0x22910c(0x5ee)](_0xddcf29,null)||_0xddcf29[_0x22910c(0xa74)]()){console[_0x22910c(0x13d)](_0x4d0e58[_0x22910c(0xdd3)],_0x2e88ad),_0x4d0e58[_0x22910c(0x141)](_0x38b607,null);return;}_0x131f6f[_0x4a1567]=_0xddcf29,_0x4d0e58[_0x22910c(0x5dc)](_0x38b607,_0xddcf29);});}function _0xbc9f01(_0x3f167f,_0x85d6af){const _0x3a558f=_0x5358ee,_0x48cdbd=()=>{const _0x4b1e63=_0x38eb,_0x5c8178=_0x3f167f[_0x4b1e63(0xbb1)](_0x4d0e58[_0x4b1e63(0xadf)])[_0x4b1e63(0x9d0)]();if(_0x5c8178){const _0x3c1e7b=_0x3f167f[_0x4b1e63(0xbb1)](_0x4d0e58[_0x4b1e63(0x6d0)])[_0x4b1e63(0x9d0)]();_0x4d0e58[_0x4b1e63(0x15b)](_0x85d6af,_0x3c1e7b);}else _0x4d0e58[_0x4b1e63(0xc2e)](setTimeout,_0x48cdbd,-0x16*0x13d+0x2226+-0x6de*0x1);};_0x4d0e58[_0x3a558f(0x110)](_0x48cdbd);}function _0x258c1b(_0x4e8354,_0x4c8348){const _0x27f1a7=_0x5358ee,_0x5641b7={'uvlnS':_0x4d0e58[_0x27f1a7(0xadf)],'sWLtN':_0x4d0e58[_0x27f1a7(0x3a6)],'hsuVm':function(_0x169d76,_0x2c8c42){const _0x330c4b=_0x27f1a7;return _0x4d0e58[_0x330c4b(0xac6)](_0x169d76,_0x2c8c42);},'rfaDQ':function(_0x546c29,_0x21ef7d,_0x3f7f8a){const _0x417755=_0x27f1a7;return _0x4d0e58[_0x417755(0xdaf)](_0x546c29,_0x21ef7d,_0x3f7f8a);}},_0x48bdd5=()=>{const _0x6ca21c=_0x27f1a7,_0x1c0135=_0x4e8354[_0x6ca21c(0xbb1)](_0x5641b7[_0x6ca21c(0xe5e)])[_0x6ca21c(0x9d0)]();if(_0x1c0135){const _0x1c460e=_0x4e8354[_0x6ca21c(0xbb1)](_0x5641b7[_0x6ca21c(0xb66)])[_0x6ca21c(0x9d0)]();_0x5641b7[_0x6ca21c(0x632)](_0x4c8348,_0x1c460e);}else _0x5641b7[_0x6ca21c(0x89a)](setTimeout,_0x48bdd5,-0x1def+-0x21c4+0x3fbd);};_0x4d0e58[_0x27f1a7(0x9f5)](_0x48bdd5);}function _0x28aec3(_0x134caa,_0x495842){const _0x526ab3=_0x5358ee,_0x5b8fe4={'ROInt':function(_0x107790,_0xec1eda){const _0x37ba38=_0x38eb;return _0x4d0e58[_0x37ba38(0xb20)](_0x107790,_0xec1eda);},'pZPqr':_0x4d0e58[_0x526ab3(0x3d7)],'Zxuxf':function(_0x3f08ab,_0x41ac29,_0x17546e){const _0x5c9071=_0x526ab3;return _0x4d0e58[_0x5c9071(0xc2e)](_0x3f08ab,_0x41ac29,_0x17546e);}},_0x26b279=_0x529163[_0x526ab3(0x9aa)](_0x4d0e58[_0x526ab3(0x888)]),_0x2d49d9=_0x26b279[_0x526ab3(0x398)](_0x4d0e58[_0x526ab3(0xcc9)])[_0x526ab3(0x1081)][_0x526ab3(0xbb1)](_0x4d0e58[_0x526ab3(0x134)])[_0x526ab3(0x9d0)]();_0x2d49d9[_0x526ab3(0x398)](_0x4d0e58[_0x526ab3(0xb85)])[_0x526ab3(0x1081)][_0x526ab3(0xbb1)](_0x4d0e58[_0x526ab3(0x68a)])[_0x526ab3(0x9d0)]()&&_0x4d0e58[_0x526ab3(0xd68)](_0x189fc5,_0x134caa,_0x495842,_0x5a7f0a=>{const _0x463bcf=_0x526ab3;if(_0x5b8fe4[_0x463bcf(0xc7b)](_0x5a7f0a,null)){console[_0x463bcf(0x13d)](_0x5b8fe4[_0x463bcf(0x4a4)],_0x134caa);return;}_0x5b8fe4[_0x463bcf(0x554)](_0x4d523c,_0x5a7f0a,_0x134caa);});}function _0x4d523c(_0x5d9a28,_0x2acbfa,_0xaa06a7=0x1cef+0x1cbb+-0x39aa){const _0x112e01=_0x5358ee,_0x2d3f95=_0x529163[_0x112e01(0x9aa)](_0x4d0e58[_0x112e01(0x767)])[_0x112e01(0xbb1)](_0x4d0e58[_0x112e01(0x1064)])[_0x112e01(0x9d0)](),_0x56d481=_0x2d3f95[_0x112e01(0x398)](_0x4d0e58[_0x112e01(0x10a1)])[_0x112e01(0x1081)];if(_0x4d0e58[_0x112e01(0x85f)](_0x56d481,null)){console[_0x112e01(0x13d)](_0x4d0e58[_0x112e01(0x37b)]);return;}_0x56d481[_0x112e01(0xbb1)](_0x4d0e58[_0x112e01(0xa10)],-0xb49+0x35*-0x80+0x2*0x12e5)[_0x112e01(0x9d0)](0x2*0x5ea+-0xda6+0x1d3),_0x56d481[_0x112e01(0xbb1)](_0x4d0e58[_0x112e01(0xfdf)],-0x1d*0x138+0x26c7+-0x36e)[_0x112e01(0x9d0)](_0x5d9a28),_0x56d481[_0x112e01(0xbb1)](_0x4d0e58[_0x112e01(0x639)],0x1a24+-0x213a+0x717)[_0x112e01(0x9d0)](!![]),_0x56d481[_0x112e01(0xbb1)](_0x4d0e58[_0x112e01(0xec9)],-0xa4e+-0x2459*-0x1+-0x3b*0x71)[_0x112e01(0x9d0)](),console[_0x112e01(0x13d)](_0x112e01(0x486)+_0x112e01(0xabc)+_0x2acbfa+(_0x112e01(0x8a7)+_0x112e01(0x3dd)+_0x112e01(0xb08)));const _0xd09401=_0x5d9a28[_0x112e01(0xbb1)](_0x4d0e58[_0x112e01(0x9c0)])[_0x112e01(0x9d0)]();_0x4d0e58[_0x112e01(0xc2e)](setTimeout,()=>{const _0x49c59e=_0x112e01;console[_0x49c59e(0x13d)](_0x4d0e58[_0x49c59e(0x13b)]),_0x4d0e58[_0x49c59e(0xe4e)](_0x3572c2);},_0x4d0e58[_0x112e01(0xde5)](_0x4d0e58[_0x112e01(0x907)](_0xd09401,0x158c+-0xe79+0x32b*-0x1),_0xaa06a7));}function _0x3572c2(){const _0x5c2377=_0x5358ee,_0x56a0a2=_0x529163[_0x5c2377(0x9aa)](_0x4d0e58[_0x5c2377(0x888)]),_0x26c9ff=_0x56a0a2[_0x5c2377(0x398)](_0x4d0e58[_0x5c2377(0xcc9)])[_0x5c2377(0x1081)][_0x5c2377(0xbb1)](_0x4d0e58[_0x5c2377(0x134)])[_0x5c2377(0x9d0)]();if(_0x26c9ff[_0x5c2377(0x398)](_0x4d0e58[_0x5c2377(0xb85)])[_0x5c2377(0x1081)][_0x5c2377(0xbb1)](_0x4d0e58[_0x5c2377(0x68a)])[_0x5c2377(0x9d0)]()){const _0x470389=_0x529163[_0x5c2377(0x9aa)](_0x4d0e58[_0x5c2377(0x767)])[_0x5c2377(0xbb1)](_0x4d0e58[_0x5c2377(0x1064)])[_0x5c2377(0x9d0)](),_0x3c6553=_0x470389[_0x5c2377(0x398)](_0x4d0e58[_0x5c2377(0x10a1)])[_0x5c2377(0x1081)];if(_0x4d0e58[_0x5c2377(0xf3d)](_0x3c6553,null)){console[_0x5c2377(0x13d)](_0x4d0e58[_0x5c2377(0xc42)]);return;}_0x3c6553[_0x5c2377(0xbb1)](_0x4d0e58[_0x5c2377(0xa10)],-0xd20+0xba3+0x17e)[_0x5c2377(0x9d0)](0x183a+-0xe53+-0x41*0x27),_0x3c6553[_0x5c2377(0xbb1)](_0x4d0e58[_0x5c2377(0xfdf)],0x1*0xbc9+0x2*0x5ef+-0x17a6)[_0x5c2377(0x9d0)](null),_0x3c6553[_0x5c2377(0xbb1)](_0x4d0e58[_0x5c2377(0x639)],-0x3c*-0xb+-0x1e25+0x1b92)[_0x5c2377(0x9d0)](![]),_0x3c6553[_0x5c2377(0xbb1)](_0x4d0e58[_0x5c2377(0xec9)],0xca*-0xe+0xa*0xcd+0x30a)[_0x5c2377(0x9d0)]();}}function _0x2f660e(_0x43292e,_0x1536c2){const _0x5971bc=_0x5358ee;if(_0x4d0e58[_0x5971bc(0x5ee)](audioManager,null)){audioManager=_0x15974c[_0x5971bc(0x80c)](_0x4d0e58[_0x5971bc(0xb9b)]);let _0x4d1883=_0x4d0e58[_0x5971bc(0x1098)](_0x2b8a6a,audioManager,_0x3890fd);_0x4d1883[_0x5971bc(0xbb1)](_0x4d0e58[_0x5971bc(0x3a3)])[_0x5971bc(0x9d0)](0xd14+-0x7c*-0x32+-0x254c);}let _0x1a7c7c=_0x4d0e58[_0x5971bc(0xdaf)](_0x560783,audioManager,_0x3890fd);_0x1a7c7c[_0x5971bc(0xbb1)](_0x4d0e58[_0x5971bc(0x3a0)])[_0x5971bc(0x9d0)](_0x1536c2),_0x1a7c7c[_0x5971bc(0xbb1)](_0x4d0e58[_0x5971bc(0xf30)],-0x2122+0x439+0x1cea*0x1)[_0x5971bc(0x9d0)](_0x43292e);}function _0x45cac9(_0x4b3df7){const _0x5e9fc0=_0x5358ee,_0xbeee71=_0x529163[_0x5e9fc0(0x9aa)](_0x4d0e58[_0x5e9fc0(0x927)]);console[_0x5e9fc0(0x13d)](_0x4d0e58[_0x5e9fc0(0x7ec)]),console[_0x5e9fc0(0x13d)](_0x4d0e58[_0x5e9fc0(0xc70)]);const _0x3473aa=_0xbeee71[_0x5e9fc0(0x398)](_0x4d0e58[_0x5e9fc0(0xcc9)])[_0x5e9fc0(0x1081)];if(!_0x3473aa)return null;console[_0x5e9fc0(0x13d)](_0x4d0e58[_0x5e9fc0(0xc63)]);const _0x214d5e=_0xbeee71[_0x5e9fc0(0xbb1)](_0x4d0e58[_0x5e9fc0(0xa87)]);if(!_0x214d5e)return null;const _0x2bffc2=_0x3473aa[_0x5e9fc0(0xbb1)](_0x4d0e58[_0x5e9fc0(0x3cf)]);if(!_0x2bffc2)return null;console[_0x5e9fc0(0x13d)](_0x4d0e58[_0x5e9fc0(0x592)]);const _0x927ee2=_0x4b3df7[_0x5e9fc0(0x398)](_0x4d0e58[_0x5e9fc0(0x306)])[_0x5e9fc0(0x1081)];if(!_0x927ee2)return null;console[_0x5e9fc0(0x13d)](_0x4d0e58[_0x5e9fc0(0x4e4)]);const _0x2fe6c0=Il2Cpp[_0x5e9fc0(0xd1a)][_0x5e9fc0(0x9aa)](_0x4d0e58[_0x5e9fc0(0x49a)])[_0x5e9fc0(0xbb1)](_0x4d0e58[_0x5e9fc0(0xe29)])[_0x5e9fc0(0x9d0)](_0x927ee2);console[_0x5e9fc0(0x13d)](_0x4d0e58[_0x5e9fc0(0x105e)](_0x4d0e58[_0x5e9fc0(0xfec)](_0x4d0e58[_0x5e9fc0(0xfdd)],_0x2fe6c0),_0x4d0e58[_0x5e9fc0(0x116)])),_0x2bffc2[_0x5e9fc0(0x9d0)](_0x2fe6c0),console[_0x5e9fc0(0x13d)](_0x4d0e58[_0x5e9fc0(0xb4b)]),_0x214d5e[_0x5e9fc0(0x9d0)](_0x927ee2),console[_0x5e9fc0(0x13d)](_0x4d0e58[_0x5e9fc0(0xe17)]),console[_0x5e9fc0(0x13d)](_0x4d0e58[_0x5e9fc0(0xa49)]);}function _0x140ab1(){const _0x496249=_0x5358ee;if(_0x4d0e58[_0x496249(0x469)](waitingForRoom,isGhostFollowingActive))return;console[_0x496249(0x13d)](_0x4d0e58[_0x496249(0xa14)]),_0x4d0e58[_0x496249(0xe4e)](_0x15bb24)?(waitingForRoom=!![],roomJoinAttempted=!![],_0x4d0e58[_0x496249(0x38b)](_0x26757a)):console[_0x496249(0x13d)](_0x4d0e58[_0x496249(0xef9)]);}function _0x15bb24(){const _0xd3bbcf=_0x5358ee;console[_0xd3bbcf(0x13d)](_0x4d0e58[_0xd3bbcf(0x473)]);try{const _0x4a63c9=_0x529163[_0xd3bbcf(0x9aa)](_0x4d0e58[_0xd3bbcf(0x6b5)]),_0x118774=_0x15c2bc[_0xd3bbcf(0xbb1)](_0x4d0e58[_0xd3bbcf(0x93a)])[_0xd3bbcf(0x2b5)](_0x4a63c9)[_0xd3bbcf(0x9d0)]();if(_0x118774[_0xd3bbcf(0xa74)]())return console[_0xd3bbcf(0x13d)](_0x4d0e58[_0xd3bbcf(0xc67)]),![];return console[_0xd3bbcf(0x13d)](_0x4d0e58[_0xd3bbcf(0xa6f)]),_0x118774[_0xd3bbcf(0xbb1)](_0x4d0e58[_0xd3bbcf(0xeaf)])[_0xd3bbcf(0x9d0)](),console[_0xd3bbcf(0x13d)](_0x4d0e58[_0xd3bbcf(0xbbc)]),!![];}catch(_0x420312){return console[_0xd3bbcf(0x13d)](_0xd3bbcf(0xb50)+_0xd3bbcf(0x1049)+_0xd3bbcf(0x7d2)+_0x420312),![];}}function _0x55638c(){const _0x42f8ed=_0x5358ee;try{const _0x2c6be1=_0x529163[_0x42f8ed(0x9aa)](_0x4d0e58[_0x42f8ed(0x888)]),_0xbc6c47=_0x2c6be1[_0x42f8ed(0x398)](_0x4d0e58[_0x42f8ed(0xcc9)])[_0x42f8ed(0x1081)];if(_0xbc6c47[_0x42f8ed(0xa74)]())return console[_0x42f8ed(0x13d)](_0x4d0e58[_0x42f8ed(0xc1e)]),![];const _0x1174df=_0xbc6c47[_0x42f8ed(0xbb1)](_0x4d0e58[_0x42f8ed(0x134)])[_0x42f8ed(0x9d0)]();if(_0x1174df[_0x42f8ed(0xa74)]())return console[_0x42f8ed(0x13d)](_0x4d0e58[_0x42f8ed(0xae4)]),![];const _0x1d3065=_0x1174df[_0x42f8ed(0x398)](_0x4d0e58[_0x42f8ed(0xb85)])[_0x42f8ed(0x1081)];if(_0x1d3065[_0x42f8ed(0xa74)]())return console[_0x42f8ed(0x13d)](_0x4d0e58[_0x42f8ed(0xc94)]),![];const _0x2d26b7=_0x1d3065[_0x42f8ed(0xbb1)](_0x4d0e58[_0x42f8ed(0x68a)])[_0x42f8ed(0x9d0)]();console[_0x42f8ed(0x13d)](_0x42f8ed(0x811)+_0x42f8ed(0x661)+'\x20'+_0x2d26b7);if(!_0x2d26b7)return![];return _0x2d26b7;}catch(_0x51279d){return console[_0x42f8ed(0x13d)](_0x42f8ed(0xb50)+_0x42f8ed(0x77f)+_0x42f8ed(0xf89)+'\x20'+_0x51279d),![];}}function _0x26757a(){}function _0x14cecc(){const _0x1d4f96=_0x5358ee;if(isGhostFollowingActive){console[_0x1d4f96(0x13d)](_0x4d0e58[_0x1d4f96(0xb36)]);return;}_0x4d0e58[_0x1d4f96(0xc2e)](_0x28aec3,_0x4d0e58[_0x1d4f96(0x4ea)],_0x4d0e58[_0x1d4f96(0xafa)]),isGhostFollowingActive=!![],currentPlayerIndex=-0xe97+0x882+-0x9*-0xad,lastSwitchTime=Date[_0x1d4f96(0xc82)](),console[_0x1d4f96(0x13d)](_0x4d0e58[_0x1d4f96(0xbf9)]);const _0x1b702a=_0x529163[_0x1d4f96(0x9aa)](_0x4d0e58[_0x1d4f96(0x767)]),_0x2ee2cc=_0x15c2bc[_0x1d4f96(0xbb1)](_0x4d0e58[_0x1d4f96(0xe09)])[_0x1d4f96(0x2b5)](_0x1b702a),_0x4a56a5=_0x2ee2cc[_0x1d4f96(0x9d0)]();if(_0x4a56a5[_0x1d4f96(0xa74)]()){console[_0x1d4f96(0x13d)](_0x4d0e58[_0x1d4f96(0x1d8)]),isGhostFollowingActive=![];return;}netPlayers=[],console[_0x1d4f96(0x13d)](_0x1d4f96(0x958)+_0x4a56a5[_0x1d4f96(0x285)]+(_0x1d4f96(0x83b)+_0x1d4f96(0xf43)));for(let _0x1b592a=-0x293*0x2+0xebc+-0x996*0x1;_0x4d0e58[_0x1d4f96(0x3ff)](_0x1b592a,_0x4a56a5[_0x1d4f96(0x285)]);_0x1b592a++){const _0x53f627=_0x4a56a5[_0x1d4f96(0xadb)](_0x1b592a);!_0x53f627[_0x1d4f96(0xa74)]()&&netPlayers[_0x1d4f96(0x917)](_0x53f627);}if(_0x4d0e58[_0x1d4f96(0x94d)](netPlayers[_0x1d4f96(0x285)],-0x687+0x644+0x1*0x43)){console[_0x1d4f96(0x13d)](_0x4d0e58[_0x1d4f96(0xe62)]),isGhostFollowingActive=![];return;}console[_0x1d4f96(0x13d)](_0x1d4f96(0xcc8)+_0x1d4f96(0xa31)+netPlayers[_0x1d4f96(0x285)]+_0x1d4f96(0x106a));}function _0x2a60cd(){const _0x46090e=_0x5358ee;if(!isGhostFollowingActive||_0x4d0e58[_0x46090e(0x12e)](netPlayers[_0x46090e(0x285)],0xfd*0x17+0x1441+-0xe54*0x3))return;const _0x1d9b7b=Date[_0x46090e(0xc82)]();if(_0x4d0e58[_0x46090e(0xb25)](_0x4d0e58[_0x46090e(0x5cc)](_0x1d9b7b,lastSwitchTime),-0x1*0x1f9d+0xb15+0x1744)){currentPlayerIndex++;if(_0x4d0e58[_0x46090e(0x67a)](currentPlayerIndex,netPlayers[_0x46090e(0x285)])){console[_0x46090e(0x13d)](_0x4d0e58[_0x46090e(0x206)]),_0x4d0e58[_0x46090e(0xd82)](_0x553a1e);return;}lastSwitchTime=_0x1d9b7b,console[_0x46090e(0x13d)](_0x46090e(0x252)+_0x46090e(0xce7)+_0x46090e(0xa03)+_0x4d0e58[_0x46090e(0x4c4)](currentPlayerIndex,0x7*-0x182+0x1e*0x10d+-0x14f7*0x1)+'/'+netPlayers[_0x46090e(0x285)]);}const _0x153571=netPlayers[currentPlayerIndex];if(_0x153571&&!_0x153571[_0x46090e(0xa74)]())try{const _0x509999=_0x153571[_0x46090e(0xbb1)](_0x4d0e58[_0x46090e(0x364)])[_0x46090e(0x9d0)]();if(!_0x509999[_0x46090e(0xa74)]()){const _0x44b2a6=_0x509999[_0x46090e(0xbb1)](_0x4d0e58[_0x46090e(0x39e)])[_0x46090e(0x9d0)](),_0x46edad=_0x4d0e58[_0x46090e(0x172)](_0x227f2e);if(_0x46edad&&!_0x46edad[_0x46090e(0xa74)]()){const _0x5e1ee1=_0x46edad[_0x46090e(0xbb1)](_0x4d0e58[_0x46090e(0x364)])[_0x46090e(0x9d0)]();!_0x5e1ee1[_0x46090e(0xa74)]()&&_0x5e1ee1[_0x46090e(0xbb1)](_0x4d0e58[_0x46090e(0x110b)])[_0x46090e(0x9d0)](_0x44b2a6);}}}catch(_0x1a2959){console[_0x46090e(0x13d)](_0x46090e(0xb50)+_0x46090e(0x7c0)+_0x46090e(0x150)+currentPlayerIndex+':\x20'+_0x1a2959);}}function _0x553a1e(){const _0x2bfa16=_0x5358ee,_0x2f1412={'deSbh':function(_0x590c44){const _0x50c347=_0x38eb;return _0x4d0e58[_0x50c347(0x1d0)](_0x590c44);}};console[_0x2bfa16(0x13d)](_0x4d0e58[_0x2bfa16(0xb6d)]);const _0x59bb84=_0x529163[_0x2bfa16(0x9aa)](_0x4d0e58[_0x2bfa16(0x888)]);try{let _0x4c8407=-0x835*-0x1+-0x19e3*-0x1+-0x2218;const _0x38ad9a=_0x15c2bc[_0x2bfa16(0xbb1)](_0x4d0e58[_0x2bfa16(0xe09)])[_0x2bfa16(0x2b5)](_0xcb2f35)[_0x2bfa16(0x9d0)]();for(let _0x142521=0x1c6a+-0x1a0e+-0x25c*0x1;_0x4d0e58[_0x2bfa16(0x3ff)](_0x142521,_0x38ad9a[_0x2bfa16(0x285)]);_0x142521++){const _0x17a007=_0x38ad9a[_0x2bfa16(0xadb)](_0x142521);if(_0x4d0e58[_0x2bfa16(0x3d9)](_0x4d8800,_0x17a007))continue;_0x4d0e58[_0x2bfa16(0xac6)](_0x45cac9,_0x17a007),_0x4c8407++;}console[_0x2bfa16(0x13d)](_0x2bfa16(0x25b)+'\x20'+_0x4c8407+_0x2bfa16(0x106a)),console[_0x2bfa16(0x13d)](_0x4d0e58[_0x2bfa16(0xd0f)]),_0x4d0e58[_0x2bfa16(0xa1b)](_0x41e39b),rightPrimary=![],_0x4d0e58[_0x2bfa16(0xd1c)](setTimeout,()=>{const _0x5cea8f=_0x2bfa16;rightPrimary&&_0x2f1412[_0x5cea8f(0xcf6)](_0x140ab1);},-0x1*-0xa2d+0x1b75+-0x19ea);}catch(_0x1138fb){console[_0x2bfa16(0x13d)](_0x2bfa16(0xb50)+_0x2bfa16(0x92e)+_0x2bfa16(0x332)+_0x1138fb),_0x4d0e58[_0x2bfa16(0x38b)](_0x41e39b),rightPrimary=![];}}function _0x227f2e(){const _0x12a057=_0x5358ee;try{const _0x52899c=_0x529163[_0x12a057(0x9aa)](_0x4d0e58[_0x12a057(0x5ca)]),_0x5cd53f=_0x52899c[_0x12a057(0xbb1)](_0x4d0e58[_0x12a057(0xa46)])[_0x12a057(0x9d0)]();if(!_0x5cd53f[_0x12a057(0xa74)]()){const _0x1706f7=_0x5cd53f[_0x12a057(0xbb1)](_0x4d0e58[_0x12a057(0x93c)])[_0x12a057(0x9d0)]();if(!_0x1706f7[_0x12a057(0xa74)]())return _0x1706f7[_0x12a057(0x398)](_0x4d0e58[_0x12a057(0x3d5)])[_0x12a057(0x1081)];}}catch(_0x3931ad){console[_0x12a057(0x13d)](_0x12a057(0xb50)+_0x12a057(0x2ef)+_0x12a057(0xbed)+':\x20'+_0x3931ad);}return null;}function _0x41e39b(){const _0x52398a=_0x5358ee,_0x4ffa8a=_0x4d0e58[_0x52398a(0xc8e)][_0x52398a(0xe5d)]('|');let _0x543776=-0x7*-0x172+-0x64e+-0x3d0;while(!![]){switch(_0x4ffa8a[_0x543776++]){case'0':netPlayers=[];continue;case'1':roomCheckInterval&&(_0x4d0e58[_0x52398a(0xd0b)](clearInterval,roomCheckInterval),roomCheckInterval=null);continue;case'2':isGhostFollowingActive=![];continue;case'3':console[_0x52398a(0x13d)](_0x4d0e58[_0x52398a(0xe2d)]);continue;case'4':roomJoinAttempted=![];continue;case'5':waitingForRoom=![];continue;case'6':currentPlayerIndex=-0x3bb*0xa+0x115*0x16+0xd80;continue;}break;}}function _0x67c2f7(){const _0x4927a8=_0x5358ee;_0x4d0e58[_0x4927a8(0x9f5)](_0x41e39b),console[_0x4927a8(0x13d)](_0x4d0e58[_0x4927a8(0x1057)]);}function _0x5f11f0(_0x436b3e,_0x3729c5='',_0x2ec014=[0xa1*0x1+0x91a+-0x9ba,-0x72f*-0x2+0x95*0x1b+-0x19*0x134,0x234a+-0x1514+-0xe35,0x6*0x66e+0x7*0x33b+-0x7a6*0x8],_0x3677e5=_0x130c91,_0x3ca3d1=_0x2f6a53){const _0x569700=_0x5358ee,_0x1cb048=_0x4d0e58[_0x569700(0x1098)](_0x2b8a6a,_0x4d0e58[_0x569700(0x644)](_0x5afd16,_0x130c91,_0x5490f3,_0x2f6a53,0xfc9+0xa3*-0x35+0x11f9,[-0x5fe+-0x5*0x2f1+-0x14b3*-0x1,0x617*0x6+-0x60*0x36+-0x3*0x56e,-0x11*-0x1b5+0x204c*0x1+-0x3d51*0x1,-0x1b32+0x14a0+-0x1d*-0x3a],_0x4d0e58[_0x569700(0x3b0)](_0xb288f,_0x436b3e)),_0x5ef7db);_0x1cb048[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0x5f5)])[_0x569700(0x9d0)](Il2Cpp[_0x569700(0x404)](_0x3729c5)),_0x1cb048[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0x88f)])[_0x569700(0x9d0)](_0x316653),_0x1cb048[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0x3bb)])[_0x569700(0x9d0)](-0x14*0xb1+0x1fd*-0x1+0xa*0x195),_0x1cb048[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0xcbf)])[_0x569700(0x9d0)](_0x2ec014),_0x1cb048[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0x361)])[_0x569700(0x9d0)](-0x14e9+0x3*0x80d+-0x33c),_0x1cb048[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0x724)])[_0x569700(0x9d0)](-0x2de*-0x2+0x26f+-0x1*0x827),_0x1cb048[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0xeca)])[_0x569700(0x9d0)](!![]),_0x1cb048[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0xb95)])[_0x569700(0x9d0)](-0x3*0x761+-0x199*-0x13+-0x838*0x1);const _0x2031e4=_0x4d0e58[_0x569700(0x586)](_0x560783,_0x1cb048,_0x80fc77);_0x2031e4[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0x303)])[_0x569700(0x9d0)](_0x3ca3d1),_0x2031e4[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0x110b)])[_0x569700(0x9d0)](_0x3677e5),_0x2031e4[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0x161)])[_0x569700(0x9d0)](_0x2374fd[_0x569700(0xbb1)](_0x4d0e58[_0x569700(0xa13)])[_0x569700(0x9d0)](0x1731+0x9*-0x1e2+-0x58b,-0x269c+-0x31d+0x2a13,0x5d*0xf+-0x148e+0xf75));}function _0x51c572(_0x3c7a9d){const _0x2bd3ff=_0x5358ee,_0x3a850f=_0x2a8df7[_0x2bd3ff(0x80c)]();return _0x2a8df7[_0x2bd3ff(0xbb1)](_0x4d0e58[_0x2bd3ff(0xaea)])[_0x2bd3ff(0x9d0)](_0x3a850f,_0x3c7a9d);}function _0x5afd16(_0x2578b8=_0x130c91,_0x512a28=_0x5490f3,_0x3ed8c0=_0x2f6a53,_0xa3a7ef=-0x1e84+0x9*0x17+0x1db8,_0x2fd278=[0x7c5+-0x11a0+-0x277*-0x4,0x119*0x2+-0x2*0x197+0x1*0xfd,-0x8ca+-0x391+-0x317*-0x4,0x3*-0xbcb+-0x2*0x1219+-0x7f4*-0x9],_0x5b8091=null){const _0x546345=_0x5358ee,_0x5d1a0b=_0x15974c[_0x546345(0xbb1)](_0x4d0e58[_0x546345(0x156)])[_0x546345(0x9d0)](_0xa3a7ef),_0x329af7=_0x4d0e58[_0x546345(0xc2e)](_0x560783,_0x5d1a0b,_0x45330e);if(_0x4d0e58[_0x546345(0x58f)](_0x2fd278[-0x1281*0x1+-0xc7*-0x7+0xd13],-0x2b*0xbf+0x1309*0x2+-0x3*0x1ff))_0x329af7[_0x546345(0xbb1)](_0x4d0e58[_0x546345(0x100a)])[_0x546345(0x9d0)](![]);else{const _0x44f0b2=_0x329af7[_0x546345(0xbb1)](_0x4d0e58[_0x546345(0x10c3)])[_0x546345(0x9d0)]();_0x44f0b2[_0x546345(0xbb1)](_0x4d0e58[_0x546345(0x955)])[_0x546345(0x9d0)](_0x4fc340),_0x44f0b2[_0x546345(0xbb1)](_0x4d0e58[_0x546345(0xcbf)])[_0x546345(0x9d0)](_0x2fd278);}const _0x161cc1=_0x4d0e58[_0x546345(0x3b0)](_0xb288f,_0x5d1a0b);return _0x4d0e58[_0x546345(0xf44)](_0x5b8091,null)&&_0x161cc1[_0x546345(0xbb1)](_0x4d0e58[_0x546345(0x1dc)],-0x210b+0xa29*-0x3+0x8*0x7f1)[_0x546345(0x9d0)](_0x5b8091,![]),_0x161cc1[_0x546345(0xbb1)](_0x4d0e58[_0x546345(0x110b)])[_0x546345(0x9d0)](_0x2578b8),_0x161cc1[_0x546345(0xbb1)](_0x4d0e58[_0x546345(0x161)])[_0x546345(0x9d0)](_0x512a28),_0x161cc1[_0x546345(0xbb1)](_0x4d0e58[_0x546345(0x1bd)])[_0x546345(0x9d0)](_0x3ed8c0),_0x5d1a0b;}function _0x415d60(_0x22dbe5='',_0x2a65b7=!![],_0x442d8d=-0xa54+-0x281*-0xd+0x32c*-0x7){const _0xad4e8=_0x5358ee,_0x316581=_0x4d0e58[_0xad4e8(0xace)](currentNotification,_0x22dbe5);notifactionResetTime=_0x4d0e58[_0xad4e8(0x4c4)](_0x4133e7,_0x442d8d),currentNotification=_0x22dbe5;if(_0x4d0e58[_0xad4e8(0xcfa)](_0x2a65b7,!_0x316581))_0x4d0e58[_0xad4e8(0x132)](_0x1fb794);}function _0x22214a(){const _0x442626=_0x5358ee;menu=_0x4d0e58[_0x442626(0xad2)](_0x5afd16,_0x130c91,_0x5490f3,[0x890+-0xf3d*0x1+-0x6ad*-0x1+0.1,-0x1dd3+0x1d66+0x6d+0.3,0x10b1*0x1+0xc7+-0x8bc*0x2+0.3825],0x2*0x8f9+0x1*0xe96+-0x2085,[0xe68*-0x2+0x493+-0x11*-0x16d,0x6d*-0x2+-0x73*-0x26+-0x1038,0x90d+-0x1*0xe2+-0x82b,0x7*0x4a5+-0x2044+-0x3f]),_0x4d0e58[_0x442626(0xe76)](_0x40b1f6,_0x4d0e58[_0x442626(0xd8c)](_0x560783,menu,_0x4f347e));const _0x5b4edb=_0x4d0e58[_0x442626(0xe42)](_0x5afd16,[-0x10ea*0x1+0xc75+-0xa3*-0x7+0.1,0x2383+0xa31+0x27*-0x12c,0x3*0x151+0x80e+-0xc01],_0x5490f3,[0x17cc+-0x61f*0x1+-0x11ad+0.1,-0x1057*-0x1+-0x8d*0xb+-0xa47,0x2100+-0x1c03*0x1+-0x4fc],-0x35*0x9f+-0x16aa+-0xc*-0x4a2,bgColor,_0x4d0e58[_0x442626(0xf5b)](_0xb288f,menu));_0x4d0e58[_0x442626(0x9c2)](_0x40b1f6,_0x4d0e58[_0x442626(0x9fb)](_0x560783,_0x5b4edb,_0x4f347e));const _0x39b4c8=_0x4d0e58[_0x442626(0x103d)](_0x5afd16,_0x130c91,_0x5490f3,_0x2f6a53,0x1e0*0x13+0x780+-0xd*0x351,[0x6a1+0x1*-0x685+-0xe*0x2,-0x279+0xa3d+-0x7c4,0x15+0x170a+-0x171f,0x486+-0x2693+0x220d],_0x4d0e58[_0x442626(0xd04)](_0xb288f,menu)),_0x2d347e=_0x4d0e58[_0x442626(0xeb7)](_0x2b8a6a,_0x39b4c8,_0x3873cf);_0x4d0e58[_0x442626(0x15b)](_0x40b1f6,_0x4d0e58[_0x442626(0x65d)](_0x560783,_0x39b4c8,_0x4f347e));const _0xb07d15=_0x4d0e58[_0x442626(0x3ba)](_0x2b8a6a,_0x39b4c8,_0x337a67);_0x4d0e58[_0x442626(0xce8)](_0x2b8a6a,_0x39b4c8,_0x273b58),_0x2d347e[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0x533)])[_0x442626(0x9d0)](0x43*0x4f+0xc4f+-0x20fa),_0xb07d15[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0xb6c)])[_0x442626(0x9d0)](0x13b3+-0x8e0+-0x6eb),_0x4d0e58[_0x442626(0x8f7)](_0x5f11f0,_0x39b4c8,_0x4d0e58[_0x442626(0x11e)](_0x4d0e58[_0x442626(0xe6c)],_0x442626(0x97c)+_0x442626(0xa77)+_0x442626(0xf02)+_0x442626(0x167)+_0x4d0e58[_0x442626(0xfec)](_0x468f75,-0x214a+-0x3*0x808+0x3963)+(_0x442626(0xc3e)+_0x442626(0x15e)+_0x442626(0x1af))),textColor,[0x120a*-0x2+-0x1*0x18f5+0x3d09+0.11,-0x19bb+0x19c6+-0xb,0x11*0x7f+-0x1bca+-0x1*-0x135b+0.175],[-0xbb1+0xd5f+-0x1ad,-0x2*0xf53+0x25ba+-0x714+0.1]);if(_0x4d0e58[_0x442626(0x390)](_0x4133e7,notifactionResetTime))currentNotification='';_0x4d0e58[_0x442626(0xafc)](_0x5f11f0,_0x39b4c8,currentNotification,textColor,[-0x1801*-0x1+-0x2*-0xfa9+0x1*-0x3753+0.11,0x68c+-0x1aa8+-0xb*-0x1d4,0x123c+-0x676*0x4+0x79c+0.275],[-0xc7*-0x13+-0x23e0+-0xe*-0x182,0x10d*-0x18+0x20b7+-0x77f*0x1+0.1]);const _0x2417fa=_0x4d0e58[_0x442626(0x173)](_0x5afd16,[-0x91c+-0x25*-0x107+-0x1ce7+0.1,0x2*0x715+-0x1716+0x2*0x476,0x1a0b+0x36a+-0x1d75+0.225],_0x5490f3,[0x269b+-0xd2a+-0x87b*0x3+0.09,-0x5d1*-0x3+-0x23b6+0x55*0x37+0.9,-0x152*-0xd+0x26b0+-0x37da*0x1+0.08],0x4*-0x204+0x235*0x6+0x1*-0x52b,buttonColor,_0x4d0e58[_0x442626(0x182)](_0xb288f,menu));_0x2417fa[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0x8d1)])[_0x442626(0x9d0)](Il2Cpp[_0x442626(0x404)](_0x4d0e58[_0x442626(0xae2)])),_0x4d0e58[_0x442626(0x1104)](_0x2b8a6a,_0x2417fa,_0x5f43b5),_0x4d0e58[_0x442626(0xd1c)](_0x560783,_0x2417fa,_0x4f347e)[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0xb11)])[_0x442626(0x9d0)](!![]),_0x4d0e58[_0x442626(0xafc)](_0x5f11f0,_0x39b4c8,_0x4d0e58[_0x442626(0xdbb)],textColor,[-0x13*0x82+0x2e*0xa7+0x2*-0xa2e+0.11,0x1*-0xc7f+-0x1de8+0x2a67,0x272*-0x1+0xe5c+-0x5*0x262+0.225],[0x12*0x4+-0x7*0x4b1+0x8*0x412,-0x575+-0xfaa+0x151f*0x1+0.1]);const _0x5431df=_0x4d0e58[_0x442626(0x103d)](_0x5afd16,[-0x1*-0xf5f+0x169*-0x2+0x11*-0xbd+0.1,-(-0x25b*-0xd+0x26e*0x10+-0x457f+0.175),-(0x1*0x1865+-0x1a42+-0x9f*-0x3+0.225)],_0x5490f3,[-0x4*0x781+0x2b1*-0xd+0x4101+0.09,0x210e*-0x1+-0x1a3c+-0x1da5*-0x2+0.09,-0x17d9+0x99b*0x3+0xc*-0x6a+0.09],-0x1*-0x1750+0x12de+-0x7f*0x55,buttonColor,_0x4d0e58[_0x442626(0x94e)](_0xb288f,menu));_0x5431df[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0x8d1)])[_0x442626(0x9d0)](Il2Cpp[_0x442626(0x404)](_0x4d0e58[_0x442626(0x8b5)])),_0x4d0e58[_0x442626(0xf1c)](_0x2b8a6a,_0x5431df,_0x5f43b5),_0x4d0e58[_0x442626(0x561)](_0x560783,_0x5431df,_0x4f347e)[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0xb11)])[_0x442626(0x9d0)](!![]),_0x4d0e58[_0x442626(0xafc)](_0x5f11f0,_0x39b4c8,'<',textColor,[0x6*0x46c+0x428+-0x1eb0+0.11,-(0x821*-0x3+-0x1*0x17b7+0x301a+0.175),-(0x225*0x1+0x2*-0x556+0x25*0x3b+0.225)],[-0xcd5*0x3+0x1f59+0x727*0x1,0xf85*0x1+-0x7*0x12f+-0x73c+0.1]);{const _0x447287=_0x4d0e58[_0x442626(0xe42)](_0x5afd16,[-0x301*0x8+0x21b3+-0x9ab+0.1,-0x1fc5+0x106b+0xa*0x189+0.2,-0x3f1*0x2+0x257e+0x5ec*-0x5],_0x5490f3,[0xa1a+0x118*-0x7+-0x272*0x1+0.09,-0x4a*-0x49+-0x95*0x1c+-0x4ce+0.2,0x9*0x3fd+-0xf9f+-0x1446+0.9],-0x47e+-0x145b+0x18dc,buttonColor,_0x4d0e58[_0x442626(0xac6)](_0xb288f,menu));_0x447287[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0x8d1)])[_0x442626(0x9d0)](Il2Cpp[_0x442626(0x404)](_0x4d0e58[_0x442626(0x34a)])),_0x4d0e58[_0x442626(0xc2e)](_0x2b8a6a,_0x447287,_0x5f43b5),_0x4d0e58[_0x442626(0xce8)](_0x560783,_0x447287,_0x4f347e)[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0xb11)])[_0x442626(0x9d0)](!![]),_0x4d0e58[_0x442626(0x720)](_0x5f11f0,_0x39b4c8,'<',textColor,[0x17be*-0x1+0x53e+-0x4a*-0x40+0.11,-0x45*-0x79+0x234e+0x1*-0x43eb+0.2,-0x119a+0x1af*-0x12+-0x2fe8*-0x1],[0x3f*-0x2+-0x7a7+0x826,-0xc7a*-0x2+0x1303+0x2bf7*-0x1+0.1]);}{const _0x4fcf88=_0x4d0e58[_0x442626(0x102d)](_0x5afd16,[0x14*0x149+0x1eb6+-0x386a+0.1,-(-0x26c5+-0x9*0x351+0x449e+0.2),0x1548+0x2d*-0x1b+0x583*-0x3],_0x5490f3,[0x2*0x883+-0x16fd+0x5f7*0x1+0.09,-0xe3c+-0x1d0e+-0x2b4a*-0x1+0.2,-0x23b8+0x2*-0x98+0x24e8+0.9],0x2*0x29b+0x20eb*-0x1+0x1bb8,buttonColor,_0x4d0e58[_0x442626(0xf72)](_0xb288f,menu));_0x4fcf88[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0x8d1)])[_0x442626(0x9d0)](Il2Cpp[_0x442626(0x404)](_0x4d0e58[_0x442626(0x9a4)])),_0x4d0e58[_0x442626(0x315)](_0x2b8a6a,_0x4fcf88,_0x5f43b5),_0x4d0e58[_0x442626(0x65d)](_0x560783,_0x4fcf88,_0x4f347e)[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0xb11)])[_0x442626(0x9d0)](!![]),_0x4d0e58[_0x442626(0xd8a)](_0x5f11f0,_0x39b4c8,'>',textColor,[-0x277*0x9+-0x449+-0x134*-0x16+0.11,-(-0x1101+-0x160+-0x3ad*-0x5+0.2),0x138b+0x2e*0xc+-0x15b3],[0x21fc+0x209e+0x3*-0x1633,0x2*-0x5c1+-0x15b*-0x16+0x1250*-0x1+0.1]);}let _0x4f8928=0x158b+0x1182+-0x270d;const _0x5958af=_0x52028d[_0x2063c0][_0x442626(0xe38)](_0x4d0e58[_0x442626(0x907)](_0x468f75,-0x20a1+0x26f8*0x1+-0x64f))[_0x442626(0xe38)](-0xeed+0x2*-0xb27+-0x1*-0x253b,0xb3*-0x8+-0x2433*0x1+0x29d3*0x1);_0x5958af[_0x442626(0x637)]((_0x2a533c,_0x526d6e)=>{const _0x1a81a3=_0x442626,_0x30a12b=_0x4d0e58[_0x1a81a3(0x644)](_0x5afd16,[0x1*-0x80e+-0x15cc+-0x1dda*-0x1+0.105,-0x333*-0x8+0x107*0x5+-0x1ebb*0x1,_0x4d0e58[_0x1a81a3(0x5cc)](0x1*0xe6b+-0x261f+0x17b4+0.13,_0x4d0e58[_0x1a81a3(0x55d)](_0x4f8928,0x2192+0xf8e+-0x3120+0.04))],_0x5490f3,[0x355*0x3+0x3bb+-0x2*0x6dd+0.09,0x267*-0xb+-0xbf*0x16+0x2ad7*0x1+0.9,-0x2445+-0x272*-0x6+0x1599+0.08],0x1b2a+-0x7*0x1df+-0x707*0x2,buttonColor,_0x4d0e58[_0x1a81a3(0x94e)](_0xb288f,menu));_0x30a12b[_0x1a81a3(0xbb1)](_0x4d0e58[_0x1a81a3(0x8d1)])[_0x1a81a3(0x9d0)](Il2Cpp[_0x1a81a3(0x404)](_0x4d0e58[_0x1a81a3(0x972)]('@',_0x2a533c[_0x1a81a3(0xd3c)]))),_0x4d0e58[_0x1a81a3(0xd1c)](_0x2b8a6a,_0x30a12b,_0x5f43b5),_0x4d0e58[_0x1a81a3(0x1098)](_0x560783,_0x30a12b,_0x4f347e)[_0x1a81a3(0xbb1)](_0x4d0e58[_0x1a81a3(0xb11)])[_0x1a81a3(0x9d0)](!![]),_0x4d0e58[_0x1a81a3(0xafc)](_0x5f11f0,_0x39b4c8,_0x2a533c[_0x1a81a3(0xd3c)],textColor,[0x1fb*-0x4+0x159a+0xce*-0x11+0.11,0x1*0x21f1+-0x11*-0x83+-0x4*0xaa9,_0x4d0e58[_0x1a81a3(0x5cc)](-0x13ed*0x1+-0x23f0+0x7*0x7fb+0.13,_0x4d0e58[_0x1a81a3(0x907)](_0x4f8928,-0x2404+0x1cc4+0x1*0x740+0.04))],[-0x5e4+-0x1*0x1cba+0x229f,0x184e+-0x20aa+-0xa*-0xd6+0.1]),_0x4d0e58[_0x1a81a3(0x3ba)](_0x5f2727,_0x30a12b,_0x2a533c),_0x4f8928++;}),_0x4d0e58[_0x442626(0xdec)](_0xb288f,menu)[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0x1bd)])[_0x442626(0x9d0)](_0x4c3978[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0xf9b)])[_0x442626(0x9d0)](_0x4c3978[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0xf9b)])[_0x442626(0x9d0)](_0x4d0e58[_0x442626(0x15b)](_0xb288f,menu)[_0x442626(0xbb1)](_0x4d0e58[_0x442626(0x333)])[_0x442626(0x9d0)](),_0x515cbc[_0x442626(0x398)](_0x4d0e58[_0x442626(0xc8b)])[_0x442626(0x1081)]),menuscale)),_0x4d0e58[_0x442626(0x4de)](_0x593259);}function _0x2ad2d1(){const _0xeaeb79=_0x5358ee;if(_0x28b282){const _0x5a1b5f=_0x4d0e58[_0xeaeb79(0xbca)][_0xeaeb79(0xe5d)]('|');let _0x5ec237=0x417*0x1+0xb7+-0x4ce;while(!![]){switch(_0x5a1b5f[_0x5ec237++]){case'0':_0x4d0e58[_0xeaeb79(0xe76)](_0xb288f,reference)[_0xeaeb79(0xbb1)](_0x4d0e58[_0xeaeb79(0x360)])[_0xeaeb79(0x9d0)]([-0x1ec3+0xac2+0x1401+0.01,-(0x1cb4+-0x5*0x725+0x705*0x1+0.117),0x1820+-0x59c+-0x1284+0.05]);continue;case'1':_0x4d0e58[_0xeaeb79(0x1104)](_0x2b8a6a,reference,_0x70b9a7)[_0xeaeb79(0xbb1)](_0x4d0e58[_0xeaeb79(0x636)])[_0xeaeb79(0x9d0)](!![]);continue;case'2':reference=_0x4d0e58[_0xeaeb79(0x173)](_0x5afd16,_0x130c91,_0x5490f3,[-0x1*-0x1f6f+0x1*0x125+-0x2094+0.01,-0x568*0x6+0x2*0x2a1+0x1b2e*0x1+0.01,0x182+-0x1c2d+-0x1aab*-0x1+0.01],0x25fc+-0x310+0x2*-0x1176,bgColor,_0x31c6c9);continue;case'3':reference[_0xeaeb79(0xbb1)](_0x4d0e58[_0xeaeb79(0x69a)])[_0xeaeb79(0x9d0)](-0x6a1*0x5+0x12e5*-0x1+0x340c*0x1);continue;case'4':referenceCollider=_0x4d0e58[_0xeaeb79(0xe83)](_0x560783,reference,_0x184208);continue;}break;}}else{const _0x82768e=_0x4d0e58[_0xeaeb79(0x14c)][_0xeaeb79(0xe5d)]('|');let _0x426be0=0x2*-0xa7b+-0xd*0x256+0xb4*0x49;while(!![]){switch(_0x82768e[_0x426be0++]){case'0':_0x4d0e58[_0xeaeb79(0x448)](_0x2b8a6a,reference,_0x70b9a7)[_0xeaeb79(0xbb1)](_0x4d0e58[_0xeaeb79(0x636)])[_0xeaeb79(0x9d0)](!![]);continue;case'1':_0x4d0e58[_0xeaeb79(0x764)](_0xb288f,reference)[_0xeaeb79(0xbb1)](_0x4d0e58[_0xeaeb79(0x360)])[_0xeaeb79(0x9d0)]([-0x15dd*-0x1+-0x2*-0x8cc+0x111*-0x25+0.01,-(0xa0d+-0x2*-0x1f5+-0xdf7+0.117),-0x1a7f+0x16e*0x4+-0x6ed*-0x3+0.05]);continue;case'2':reference[_0xeaeb79(0xbb1)](_0x4d0e58[_0xeaeb79(0x69a)])[_0xeaeb79(0x9d0)](-0x10ce+0x1*-0x81f+0x18ef);continue;case'3':referenceCollider=_0x4d0e58[_0xeaeb79(0x4d7)](_0x560783,reference,_0x184208);continue;case'4':reference=_0x4d0e58[_0xeaeb79(0xd36)](_0x5afd16,_0x130c91,_0x5490f3,[-0x7c+-0x12*0x54+0x664+0.01,-0x1*-0x1829+0x1*-0xcbd+-0xb6c+0.01,0xc47+0x214*-0x10+0x7*0x2ff+0.01],-0x5ec+0x2*0xf51+-0x18b6,bgColor,_0x17e59a);continue;}break;}}}let _0x2ddfd6=![],_0x19dbb3=null,_0x4d1c87=null,_0x287aa3=null,_0x26c793=-0x18e0+0x3*0x748+0x308,_0x21fa94=0xc4*0x16+0x22ed+-0x33c5,_0x2a8095=-0xed*-0x10+-0x858+-0x678,_0x339ee5=-0x2d7*-0x3+0x221*0x8+0x1*-0x198d,_0x3f4b3d=0x2231+-0x504+-0x42b*0x7,_0xaccccc=0x24a8*0x1+-0x7da+-0x4cd*0x6,_0x240429=![];function _0x32e0f2(_0x3831f0=null){const _0xcef2c2=_0x5358ee,_0x26a777=_0x17e59a[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x39e)])[_0xcef2c2(0x9d0)](),_0xe83af4=_0x17e59a[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x2b3)])[_0xcef2c2(0x9d0)](),_0x5e2a31=_0x4c3978[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x9a7)])[_0xcef2c2(0x9d0)](_0xe83af4,0x23ea+-0x557+-0x1e8f),_0xd3eb94=_0x4c3978[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x80e)])[_0xcef2c2(0x9d0)](_0x26a777,_0x5e2a31),_0x3bb3ef=_0x4d0e58[_0xcef2c2(0x469)](_0x3831f0,~(0x409*0x9+-0x12b4+-0x119d)),_0x5d8d32=_0x258484[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0xb56)],0x495+0x1*0x437+-0x8c8)[_0xcef2c2(0x9d0)](_0xd3eb94,_0xe83af4,0x877*-0x1+-0x233*-0x11+0xd76*-0x2,_0x3bb3ef);let _0x4fc831=Infinity,_0x54d5e5=null;for(const _0x566d41 of _0x5d8d32){const _0x182415=_0x4c3978[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x90c)])[_0xcef2c2(0x9d0)](_0x566d41[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x7b1)])[_0xcef2c2(0x9d0)](),_0x26a777);try{if(_0x4d0e58[_0xcef2c2(0xef2)](referenceCollider,null)&&_0x566d41[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0xb70)])[_0xcef2c2(0x9d0)]()[_0xcef2c2(0xfd5)][_0xcef2c2(0x13f)](referenceCollider[_0xcef2c2(0xfd5)]))continue;}catch{}_0x4d0e58[_0xcef2c2(0x7f3)](_0x182415,_0x4fc831)&&(_0x54d5e5=_0x566d41,_0x4fc831=_0x182415);}_0x4d0e58[_0xcef2c2(0xb20)](_0x4d1c87,null)&&(_0x4d1c87=_0x4d0e58[_0xcef2c2(0xf4f)](_0x5afd16,_0x130c91,_0x5490f3,[0x5a6+0x7c9*0x3+0xe1*-0x21+0.05,0x1968+0x12f4+-0x2c5c+0.05,-0x1eb9+0x19d0+0x4e9+0.05],-0x1969+-0x1*-0x1272+-0x6f7*-0x1,bgColor),_0x4d0e58[_0xcef2c2(0xc5e)](_0x40b1f6,_0x4d0e58[_0xcef2c2(0xda0)](_0x560783,_0x4d1c87,_0x4f347e)));_0x4d1c87[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x6ad)])[_0xcef2c2(0x9d0)](!![]);if(_0x4d0e58[_0xcef2c2(0xf44)](_0x54d5e5,null))_0x4d0e58[_0xcef2c2(0xe76)](_0xb288f,_0x4d1c87)[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x110b)])[_0xcef2c2(0x9d0)](_0x54d5e5[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x7b1)])[_0xcef2c2(0x9d0)]());else{const _0x3e58ec=_0x4c3978[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x80e)])[_0xcef2c2(0x9d0)](_0x26a777,_0x4c3978[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0xf9b)])[_0xcef2c2(0x9d0)](_0xe83af4,0xa*0x391+0x2021+0x43c1*-0x1));_0x4d0e58[_0xcef2c2(0xd0b)](_0xb288f,_0x4d1c87)[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x110b)])[_0xcef2c2(0x9d0)](_0x3e58ec);}if(_0x4d0e58[_0xcef2c2(0x590)](_0x287aa3,null)){const _0xb3cdb4=_0x15974c[_0xcef2c2(0x80c)](_0x4d0e58[_0xcef2c2(0x451)]);_0x287aa3=_0x4d0e58[_0xcef2c2(0x109d)](_0x2b8a6a,_0xb3cdb4,_0x54d8c0);const _0x4ccda6=_0x1a3664[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x96e)])[_0xcef2c2(0xf54)](_0x4d0e58[_0xcef2c2(0xb61)])[_0xcef2c2(0x9d0)](Il2Cpp[_0xcef2c2(0x404)](_0x4d0e58[_0xcef2c2(0x5bd)]));_0x287aa3[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x10c3)])[_0xcef2c2(0x9d0)]()[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x955)])[_0xcef2c2(0x9d0)](_0x4ccda6),_0x287aa3[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0xeac)])[_0xcef2c2(0x9d0)](-0xecf*-0x1+0x115b+-0x202a+0.01),_0x287aa3[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0xb9c)])[_0xcef2c2(0x9d0)](-0x2531*-0x1+-0x116f+-0x13c2+0.01),_0x287aa3[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x6de)])[_0xcef2c2(0x9d0)](!![]),_0x287aa3[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0xc74)])[_0xcef2c2(0x9d0)](bgColor),_0x287aa3[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x10db)])[_0xcef2c2(0x9d0)](bgColor);}return _0x287aa3[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x9e2)])[_0xcef2c2(0x9d0)]()[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x6ad)])[_0xcef2c2(0x9d0)](!![]),_0x287aa3[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x10ef)])[_0xcef2c2(0x9d0)](0x157e+-0x54d*-0x1+0x13*-0x169,_0x26a777),_0x287aa3[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x10ef)])[_0xcef2c2(0x9d0)](-0x1c85+0x26fd+-0xa77,_0x4d0e58[_0xcef2c2(0x682)](_0xb288f,_0x4d1c87)[_0xcef2c2(0xbb1)](_0x4d0e58[_0xcef2c2(0x39e)])[_0xcef2c2(0x9d0)]()),{'gunPointer':_0x4d1c87,'ray':_0x54d5e5};}function _0x593259(){const _0x3dea56=_0x5358ee,_0x790598=_0x4d0e58[_0x3dea56(0xe36)](_0xb288f,menu);let _0x3c602a,_0x4a5fc7;_0x28b282?(_0x3c602a=_0x17e59a[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x39e)])[_0x3dea56(0x9d0)](),_0x4a5fc7=_0x17e59a[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0xa36)])[_0x3dea56(0x9d0)](),_0x4a5fc7=_0x2374fd[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0xf9b)])[_0x3dea56(0x9d0)](_0x4a5fc7,_0x2374fd[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0xa13)])[_0x3dea56(0x9d0)](0xf8e+0xfa2+0x10*-0x1f3,0x1*-0x181e+-0x25f*0x7+-0x28b7*-0x1,0x332*0x5+-0x5*-0x4df+0x5*-0x7ed))):(_0x3c602a=_0x31c6c9[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x39e)])[_0x3dea56(0x9d0)](),_0x4a5fc7=_0x31c6c9[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0xa36)])[_0x3dea56(0x9d0)](),_0x4a5fc7=_0x2374fd[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0xf9b)])[_0x3dea56(0x9d0)](_0x4a5fc7,_0x2374fd[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0xa13)])[_0x3dea56(0x9d0)](0x4aa+0x204e+0x24f8*-0x1,0x1*-0x16d5+-0xc65+0x1b*0x14e,0x258a+0x2219+-0x47a3*0x1)));if(LerpMenu){const _0x13aa9f=_0x790598[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x39e)])[_0x3dea56(0x9d0)](),_0x19c35b=_0x4c3978[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x90c)])[_0x3dea56(0x9d0)](_0x13aa9f,_0x130c91);if(_0x4d0e58[_0x3dea56(0x7f3)](_0x19c35b,0x1*-0x471+-0x9b*0x35+0x2489))_0x790598[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x110b)])[_0x3dea56(0x9d0)](_0x3c602a),_0x790598[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x161)])[_0x3dea56(0x9d0)](_0x4a5fc7);else{const _0x8da57c=_0x4c3978[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x25e)])[_0x3dea56(0x9d0)](_0x13aa9f,_0x3c602a,_0x4d0e58[_0x3dea56(0x1fa)](deltaTime,-0xaf+0xeb2+-0xdf4));_0x790598[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x110b)])[_0x3dea56(0x9d0)](_0x8da57c);const _0x2280d6=_0x2374fd[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x6a0)])[_0x3dea56(0x9d0)](_0x790598[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0xa36)])[_0x3dea56(0x9d0)](),_0x4a5fc7,_0x4d0e58[_0x3dea56(0x55d)](deltaTime,0x17b7+0x4dc*-0x3+0xa6*-0xe));_0x790598[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x161)])[_0x3dea56(0x9d0)](_0x2280d6);}}else _0x790598[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x110b)])[_0x3dea56(0x9d0)](_0x3c602a),_0x790598[_0x3dea56(0xbb1)](_0x4d0e58[_0x3dea56(0x161)])[_0x3dea56(0x9d0)](_0x4a5fc7);}function _0x9507b4(_0x219c0,_0x101ded,_0x436543){const _0xea673=_0x5358ee;try{const _0xa53216=_0x464f9d[_0xea673(0x398)](_0x4d0e58[_0xea673(0xcc9)])[_0xea673(0x1081)][_0xea673(0xbb1)](_0x4d0e58[_0xea673(0x134)])[_0xea673(0x9d0)]();if(!_0xa53216||_0xa53216[_0xea673(0xa74)]())return null;const _0x2239ef=_0xa53216[_0xea673(0x398)](_0x4d0e58[_0xea673(0x1b2)])[_0xea673(0x1081)][_0xea673(0x398)](_0x4d0e58[_0xea673(0x597)])[_0xea673(0x1081)][_0xea673(0x398)](_0x4d0e58[_0xea673(0x2cc)])[_0xea673(0x1081)],_0x59d9ed=_0x2239ef[_0xea673(0xbb1)](_0x4d0e58[_0xea673(0xd4d)])[_0xea673(0x9d0)]();for(let _0x4ef403=-0x870+-0x3*0x3e1+-0x9*-0x23b;_0x4d0e58[_0xea673(0xf25)](_0x4ef403,_0x59d9ed);_0x4ef403++){try{const _0x16dccc=_0x2239ef[_0xea673(0xbb1)](_0x4d0e58[_0xea673(0x4f2)])[_0xea673(0x9d0)](_0x4ef403),_0x4ea650=_0x16dccc[_0xea673(0xbb1)](_0x4d0e58[_0xea673(0x691)])[_0xea673(0x9d0)]()[_0xea673(0xd92)]();if(_0x4ea650[_0xea673(0xc49)](_0x219c0)){const _0x36e03a=_0x16dccc[_0xea673(0xbb1)](_0x4d0e58[_0xea673(0x10c5)])[_0xea673(0x9d0)]();if(!_0x36e03a||_0x36e03a[_0xea673(0xa74)]())return null;const _0x222a09=_0x51e4bf=>{const _0x555628=_0xea673;if(_0x51e4bf[_0x555628(0x9aa)][_0x555628(0x9a2)]||_0x51e4bf[_0x555628(0x957)+'e'])return 0x1066+-0x17*-0x9f+0x1*-0x1eaf;if(!_0x51e4bf[_0x555628(0x9aa)][_0x555628(0x1cb)+'e'])return null;const _0x4f70f7=_0x51e4bf[_0x555628(0x9aa)][_0x555628(0xb83)][_0x555628(0x92f)](_0x4c1830=>!_0x4c1830[_0x555628(0x2b2)]);if(_0x4d0e58[_0x555628(0x12e)](_0x4f70f7[_0x555628(0x285)],0x1f*0x47+0xf0b+-0xbd2*0x2))return-0xe0e+0x926+-0x4*-0x13a;return _0x4f70f7[_0x555628(0x680)](_0x1a6d75=>_0x222a09(_0x1a6d75[_0x555628(0xb6a)]));},_0x282a94=(_0x59f036,_0xc3a4d,_0x16d422)=>{const _0x21b68f=_0xea673,_0x2a63c8={'vkpWX':_0x4d0e58[_0x21b68f(0x138)],'yoVJa':function(_0x98012,_0x243a14){const _0x571599=_0x21b68f;return _0x4d0e58[_0x571599(0x12e)](_0x98012,_0x243a14);},'PdPgA':_0x4d0e58[_0x21b68f(0x4dd)],'CYcmF':function(_0x48300b,_0xfa9c9){const _0x4b99d8=_0x21b68f;return _0x4d0e58[_0x4b99d8(0x3b0)](_0x48300b,_0xfa9c9);},'VtbAB':function(_0xa21285,_0x566201){const _0x496fc6=_0x21b68f;return _0x4d0e58[_0x496fc6(0x182)](_0xa21285,_0x566201);}},_0x6b56a0=_0x59f036[_0x21b68f(0x9aa)][_0x21b68f(0xb83)][_0x21b68f(0x92f)](_0x8f2c63=>!_0x8f2c63[_0x21b68f(0x2b2)]);return _0x6b56a0[_0x21b68f(0x680)](_0x16b878=>{const _0x3229ca=_0x21b68f,_0x478f20=_0x16b878[_0x3229ca(0xb5a)][_0x3229ca(0x39c)+'e']();if(_0x478f20[_0x3229ca(0xc49)](_0x2a63c8[_0x3229ca(0xc32)]))return _0xc3a4d?0xcbb*-0x1+-0x4*-0x994+-0x1994:0x1*-0x1d0d+0x1455+0x8b8;if(_0x2a63c8[_0x3229ca(0x28b)](_0x478f20,_0x2a63c8[_0x3229ca(0x6e6)]))return _0xc3a4d?_0x16d422:_0x2a63c8[_0x3229ca(0x4d8)](_0x222a09,_0x16b878[_0x3229ca(0xb6a)]);return _0x2a63c8[_0x3229ca(0xf05)](_0x222a09,_0x16b878[_0x3229ca(0xb6a)]);});},_0x1b9868=(_0x3953fb,_0x2d2bf3)=>{const _0x48123e=_0xea673;if(_0x4d0e58[_0x48123e(0x94d)](typeof _0x2d2bf3,_0x4d0e58[_0x48123e(0xdf2)]))return _0x2d2bf3?-0x2*-0x2e8+-0x60*-0x14+0xd4f*-0x1:0x423*0x1+0x1f9a+0x23bd*-0x1;if(_0x4d0e58[_0x48123e(0x197)](_0x2d2bf3,Il2Cpp[_0x48123e(0xa59)])){const _0x3a1a22=_0x3953fb[_0x48123e(0x9aa)][_0x48123e(0xb83)][_0x48123e(0x92f)](_0x96ed04=>!_0x96ed04[_0x48123e(0x2b2)]);if(_0x4d0e58[_0x48123e(0x94d)](_0x3a1a22[_0x48123e(0x285)],-0xb44+0x16bd*0x1+-0xb79))return 0xfcd*0x1+-0x1e4b+0xe*0x109;return _0x3a1a22[_0x48123e(0x680)](_0x3c03ba=>_0x1b9868(_0x3c03ba[_0x48123e(0xb6a)],_0x3c03ba[_0x48123e(0x565)](_0x2d2bf3)[_0x48123e(0x1081)]));}if(Array[_0x48123e(0xbee)](_0x2d2bf3))return _0x2d2bf3[_0x48123e(0x680)](_0x46c13c=>_0x1b9868(_0x3953fb,_0x46c13c));return _0x2d2bf3;},_0xdaecbc=(_0x4ed7c1,_0x5be9cd)=>{const _0x2af801=_0xea673;return _0x4d0e58[_0x2af801(0x3e7)](_0x282a94,_0x4ed7c1,!![],_0x4d0e58[_0x2af801(0x2a6)](_0x1b9868,_0x5be9cd[_0x2af801(0xb6a)],_0x5be9cd));};let _0x2bd501=null;for(const _0x2bf794 of _0xa53216[_0xea673(0xbb1)](_0x4d0e58[_0xea673(0x212)])[_0xea673(0xa51)]()){if(_0x4d0e58[_0xea673(0x97e)](_0x2bf794[_0xea673(0xb31)+_0xea673(0x10bb)],-0x1f0d+0x1a10*0x1+0x503)||_0x2bf794[_0xea673(0xaf5)])continue;const _0x939257=_0x2bf794[_0xea673(0xd53)];if(_0x939257[0x1bba+0x1dd5+0x7*-0x839][_0xea673(0xb6a)][_0xea673(0xb5a)][_0xea673(0xc49)](_0x4d0e58[_0xea673(0x188)])&&_0x939257[0x22*-0x20+-0x14b8+0x18f9][_0xea673(0xb6a)][_0xea673(0xb5a)][_0xea673(0x10a6)](_0x4d0e58[_0xea673(0xef6)])&&_0x939257[0xb50*0x1+0x20*-0x1f+-0x76f][_0xea673(0xb6a)][_0xea673(0xb5a)][_0xea673(0xc49)](_0x4d0e58[_0xea673(0xb77)])&&_0x939257[-0x4*0x788+0x993*0x1+0x148f][_0xea673(0xb6a)][_0xea673(0xb5a)][_0xea673(0x10a6)](_0x4d0e58[_0xea673(0xef6)])&&_0x939257[0xfb9+-0x141*0x13+0x81c][_0xea673(0xb6a)][_0xea673(0xb5a)][_0xea673(0xc49)](_0x4d0e58[_0xea673(0x44e)])&&_0x939257[0x1*-0x8fe+-0x5*0x11d+0x1*0xe92][_0xea673(0xb6a)][_0xea673(0xb5a)][_0xea673(0x10a6)](_0x4d0e58[_0xea673(0xef6)])&&_0x939257[-0x58e+-0xf6d+-0xa7f*-0x2][_0xea673(0xb6a)][_0xea673(0xb5a)][_0xea673(0xc49)](_0x4d0e58[_0xea673(0xb57)])&&_0x939257[0x19*-0x13+-0xff8+-0x1*-0x11d7][_0xea673(0xb6a)][_0xea673(0xb5a)][_0xea673(0xc49)](_0x4d0e58[_0xea673(0x19a)])&&_0x939257[0x22f0+-0xabd+-0xc17*0x2][_0xea673(0xb6a)][_0xea673(0xb5a)][_0xea673(0xc49)](_0x4d0e58[_0xea673(0x72d)])){_0x2bd501=_0x2bf794;break;}}if(!_0x2bd501)return null;const _0x16686b=_0x4d0e58[_0xea673(0x207)](_0xdaecbc,_0x2bd501[_0xea673(0xd53)][0x2*-0x683+0x1ee0+-0x11d9][_0xea673(0xb6a)],_0x101ded),_0x568d35=_0x4d0e58[_0xea673(0xba9)](_0xdaecbc,_0x2bd501[_0xea673(0xd53)][-0x1aea+0x2507+-0xa1b][_0xea673(0xb6a)],_0x436543),_0x27885a=_0x4d0e58[_0xea673(0x652)](_0x282a94,_0x2bd501[_0xea673(0xd53)][0x1a4d*-0x1+0xfe5+0x17d*0x7][_0xea673(0xb6a)],![],_0x4d0e58[_0xea673(0xd04)](_0x222a09,_0x2bd501[_0xea673(0xd53)][0x1a8c+-0xdda+-0xcaf][_0xea673(0xb6a)])),_0x2c4a4e=_0x2bd501[_0xea673(0xd53)][0x1f5b+-0x13d6+-0x1f*0x5f][_0xea673(0xb6a)][_0xea673(0x9aa)][_0xea673(0x1cb)+'e']?_0x4d0e58[_0xea673(0x3d9)](_0x222a09,_0x2bd501[_0xea673(0xd53)][-0xb2c*0x2+-0x11bd+0x2819][_0xea673(0xb6a)]):null;return _0x2bd501[_0xea673(0x565)](_0xa53216)[_0xea673(0x9d0)](_0x36e03a,_0x16686b,_0x568d35,_0x27885a,_0x2c4a4e,0x336+-0x1524+-0x55*-0x36);}}catch(_0x2a135e){}}}catch(_0x2573f3){console[_0xea673(0x716)](_0x4d0e58[_0xea673(0x890)],_0x2573f3);}return null;}function _0x1fb794(){const _0x299190=_0x5358ee;_0x4d0e58[_0x299190(0x7dc)](menu,null)&&(_0x15c2bc[_0x299190(0xbb1)](_0x4d0e58[_0x299190(0xa0e)],0x2a4*-0xb+-0x239e+-0x1d9*-0x23)[_0x299190(0x9d0)](menu),menu=null);}function _0x5f2727(_0x88e06d,_0x24cf29){const _0x253990=_0x5358ee,_0x5a6ba7=Il2Cpp[_0x253990(0x8cd)][_0x253990(0xfb2)](_0x4d0e58[_0x253990(0x239)])[_0x253990(0xce4)][_0x253990(0x9aa)](_0x4d0e58[_0x253990(0x734)]),_0x2ea20f=_0x4d0e58[_0x253990(0xf27)](_0x560783,_0x88e06d,_0x5a6ba7);if(!_0x2ea20f)return;const _0x5bece3=_0x2ea20f[_0x253990(0xbb1)](_0x4d0e58[_0x253990(0x10c3)])[_0x253990(0x9d0)]();_0x5bece3[_0x253990(0xbb1)](_0x4d0e58[_0x253990(0xcbf)])[_0x253990(0x9d0)](_0x24cf29[_0x253990(0x1086)]?buttonPressedColor:buttonColor);}function _0x53bd9b(){const _0x28714e=_0x5358ee,_0x372346=buttonSound,_0x472821=_0x2a9232[_0x28714e(0xbb1)](_0x4d0e58[_0x28714e(0xccf)])[_0x28714e(0x9d0)]();_0x2a9232[_0x28714e(0xbb1)](_0x4d0e58[_0x28714e(0xee9)])[_0x28714e(0x9d0)](_0x472821,_0x372346,0x1*0x22ab+0x269f+-0x4949,_0x31c6c9[_0x28714e(0xbb1)](_0x4d0e58[_0x28714e(0x39e)])[_0x28714e(0x9d0)](),0x2043*-0x1+-0xd76+-0x16dd*-0x2);}function _0x549a41(_0x547e80){const _0x3e050c=_0x5358ee,_0x5cf187=_0x15c2bc[_0x3e050c(0xbb1)](_0x4d0e58[_0x3e050c(0xe09)])[_0x3e050c(0x2b5)](_0x471d9b)[_0x3e050c(0x9d0)]();for(let _0x447b2a=-0x1*0xbe9+0x2*-0x12cb+0x317f;_0x4d0e58[_0x3e050c(0x7f3)](_0x447b2a,_0x5cf187[_0x3e050c(0x285)]);_0x447b2a++){const _0x4fb337=_0x5cf187[_0x3e050c(0xadb)](_0x447b2a);_0x4fb337[_0x3e050c(0xbb1)](_0x4d0e58[_0x3e050c(0x100a)])[_0x3e050c(0x9d0)](_0x547e80);}}class _0x25dbde{constructor(_0x1466dd){const _0x27769d=_0x5358ee,_0x1e3bb1=_0x4d0e58[_0x27769d(0x29c)][_0x27769d(0xe5d)]('|');let _0x201379=0x78+-0x989+0x911;while(!![]){switch(_0x1e3bb1[_0x201379++]){case'0':this[_0x27769d(0x4cf)+'e']=_0x4d0e58[_0x27769d(0x97e)](_0xd24250=_0x1466dd[_0x27769d(0x4cf)+'e'],null)&&_0x4d0e58[_0x27769d(0xd51)](_0xd24250,void(-0x5b6*0x1+-0x16*0xef+0x1a40))?_0xd24250:!![];continue;case'1':this[_0x27769d(0x1086)]=_0x4d0e58[_0x27769d(0x97e)](_0x5274b5=_0x1466dd[_0x27769d(0x1086)],null)&&_0x4d0e58[_0x27769d(0x3c0)](_0x5274b5,void(0x21*0x108+0x8c3+-0x2acb))?_0x5274b5:![];continue;case'2':this[_0x27769d(0x93e)+_0x27769d(0x1c0)]=_0x1466dd[_0x27769d(0x93e)+_0x27769d(0x1c0)];continue;case'3':this[_0x27769d(0xd3c)]=_0x1466dd[_0x27769d(0xd3c)];continue;case'4':this[_0x27769d(0xbb1)]=_0x1466dd[_0x27769d(0xbb1)];continue;case'5':this[_0x27769d(0x54a)]=_0x4d0e58[_0x27769d(0xd51)](_0x415d9e=_0x1466dd[_0x27769d(0x54a)],null)&&_0x4d0e58[_0x27769d(0x3c0)](_0x415d9e,void(-0x1b74+0x76*0x43+0x36e*-0x1))?_0x415d9e:null;continue;case'6':this[_0x27769d(0x87c)+'od']=_0x1466dd[_0x27769d(0x87c)+'od'];continue;case'7':var _0xd24250,_0x415d9e,_0x5274b5;continue;}break;}}}let _0x2063c0=-0xd9*0x2b+0xd*0x14f+0x1370,_0x468f75=-0xd1e+-0x1c*-0xef+-0xd06;const _0x52028d=[[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x283)],'method':()=>{_0x2063c0=-0x2611+-0xea7*-0x1+0x176c*0x1,_0x468f75=-0x2*0xa36+-0xf94+0x100*0x24;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x82c)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x7d5)],'method':()=>{_0x2063c0=0xae4+-0x16ab+0xbca,_0x468f75=-0x101+0x1*0xdd3+0x6*-0x223;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xfea)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x432)],'method':()=>{_0x2063c0=-0x264d+-0xd2b+0x337c,_0x468f75=0xd3+0x1a1c+-0x1aef;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x1128)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xf06)],'method':()=>{_0x2063c0=0x2*-0x973+-0x970+0x1c5b,_0x468f75=0x3*0xcc9+-0x87*-0x3+-0x27f0;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x6d3)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x43c)],'method':()=>{_0x2063c0=-0xa3*-0x5+-0x11e1*-0x2+-0x3*0xcf9,_0x468f75=0x5*0x506+-0x125*0x13+-0x1*0x35f;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x527)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x727)],'method':()=>{_0x2063c0=-0x3a9*-0xa+-0x18e6+-0xbad,_0x468f75=0x164*0x8+-0x208f+-0x1*-0x156f;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7e5)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x3a5)],'method':()=>{_0x2063c0=0x1f10+-0x1b5f*0x1+-0x3a9,_0x468f75=-0xb2d+-0xfcb+0x1af8;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x8f2)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x3ed)],'method':()=>{_0x2063c0=0xb5f+-0x614+0x2*-0x2a1,_0x468f75=-0xd7*0x27+0x1c5e+-0x463*-0x1;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x587)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xf79)],'method':()=>{_0x2063c0=0x9e9+0x38f+-0xd6e,_0x468f75=-0x1*-0x16c1+-0x1cf1+0x630;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x16a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x796)],'method':()=>{_0x2063c0=0x3a*0x2c+-0x8ce+-0x11f*0x1,_0x468f75=-0x9c9+-0x241b+0x2c*0x10b;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xca3)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xf38)],'method':()=>{_0x2063c0=-0x851+-0x1*-0x818+-0x45*-0x1,_0x468f75=-0xb*-0x1d7+-0x2db+-0x1bd*0xa;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x433)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xdbb)],'method':()=>{const _0x34da0d=_0x5358ee,_0x33e414=_0x2a9232[_0x34da0d(0xbb1)](_0x4d0e58[_0x34da0d(0xccf)])[_0x34da0d(0x9d0)](),_0x578dfa=_0x577186[_0x34da0d(0xbb1)](_0x4d0e58[_0x34da0d(0xa46)])[_0x34da0d(0x9d0)]();_0x578dfa[_0x34da0d(0xbb1)](_0x4d0e58[_0x34da0d(0x7cd)])[_0x34da0d(0x9d0)](_0x33e414,_0x33e414[_0x34da0d(0xbb1)](_0x4d0e58[_0x34da0d(0x785)])[_0x34da0d(0x9d0)]());},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x1030)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x3bf)],'method':()=>{const _0x56ab58=_0x5358ee,_0x263446=_0x4d0e58[_0x56ab58(0x2af)](Math[_0x56ab58(0xb67)](_0x4d0e58[_0x56ab58(0xbb7)](_0x52028d[_0x2063c0][_0x56ab58(0x285)],-0xba6+0x6*-0x4f3+-0x8*-0x52c)),0x57b+-0x21fa+0x40*0x72);_0x468f75--;if(_0x4d0e58[_0x56ab58(0x3ff)](_0x468f75,-0x1055+-0x1*0x15f1+0x2646))_0x468f75=_0x263446;},'isTogglable':![]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x1127)],'method':()=>{const _0x30deb8=_0x5358ee,_0x20abdf=_0x4d0e58[_0x30deb8(0xcbc)](Math[_0x30deb8(0xb67)](_0x4d0e58[_0x30deb8(0xbaa)](_0x52028d[_0x2063c0][_0x30deb8(0x285)],-0x5e*-0x35+0xef8+-0x22*0x103)),-0xa28*0x1+-0x2320+0x2d49);_0x468f75++,_0x468f75%=_0x4d0e58[_0x30deb8(0x972)](_0x20abdf,0x8e9*0x4+-0x5f5*0x1+0x83*-0x3a);},'isTogglable':![]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x2ba)],'method':()=>{_0x2063c0=0x24bb+0x248c+0x1e1*-0x27,_0x468f75=0x2*-0xd15+0x113b*-0x2+0x3ca0;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xd26)],'method':()=>{_0x2063c0=0x1ace*0x1+-0x5c8+-0x1506,_0x468f75=0x230c*0x1+-0x416+-0x1ef6;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x550)],'method':()=>{themeIndex++,themeIndex%=0x125f*-0x1+0x1b39+-0x2f*0x30;switch(themeIndex){case-0x251b+-0x26*-0x106+-0x1c9:bgColor=[0x32b*0x5+-0x2*-0x174+-0x12be,-0xc50+0x1*0x12e+0xb22+0.5,0x470+0x1122+-0x1592,0x14e*0x9+-0x9cc+-0x1f1],textColor=[-0x7*-0x559+0x1*-0xbf0+-0x197e,-0x1fdd*0x1+-0x2200+0x41dd+0.7450981,-0x2181+0x13b5+0x373*0x4+0.4901961,-0x5af+0xdc0+-0x158*0x6],buttonColor=[-0x207d*-0x1+0x7d*-0x39+-0x4a8+0.666,0x8a1+-0x149+-0x758+0.333,0x8bc+0x1*0x1ddb+-0x2697,0x1a1b+-0x16*-0x25+0x3a9*-0x8],buttonPressedColor=[-0x1952+0x2513*0x1+-0xbc1+0.333,0xb*0x296+-0x21c5+0x553+0.15,0x1379*0x1+-0x1230+0x7*-0x2f,0x1acf+0x58*-0x62+-0x2*-0x371];break;case-0x628+-0xc4c+0x1275:bgColor=[0xa15+-0x20fb+0x16e7,-0xa3f+0x1615+-0xbd6,0x9a*-0x29+0xbc3+0xce7,0xd4*-0x10+0x1*0x529+0xe*0x94],textColor=[-0x224*-0xc+0x221b+-0x3bca,-0x8ee+-0x1*-0x144e+-0xb5f,-0x13f9+0x8*-0xb2+-0x1d3*-0xe,0x10aa+-0x15cf+0x526*0x1],buttonColor=[0x130a*-0x1+-0x556*-0x1+0x1*0xdb4,-0x8dd*-0x2+-0x9d*-0x6+-0x1568,-0xfdf*0x1+0x310+0xccf,-0x1f4c+0x2189+0x2*-0x11e],buttonPressedColor=[0x812*0x3+0x1782+-0x15d*0x23,-0x17d7+0xa9e+-0xd39*-0x1,-0x2280+0x141*-0x7+-0x3*-0xe6d,0x1ef5*-0x1+0x8d*-0x7+0x3*0xb9b];break;case-0x546+-0x1fc1+0x2509:bgColor=[-0x1a86+0x73d+0x1349,-0x85b+-0x19bf*0x1+0x221b,0x1*0x125+0x162f+-0x1754,-0x176e+-0x1828+0x2f97],textColor=[0x122b*-0x1+0x7*0x2ff+-0x2cd,0xd4*0x2e+-0x12a2+-0x11*0x125,-0x85e+-0x2*-0xa93+-0xcc7,-0x5*0x7f+0x1485+-0x1209],buttonColor=[0x3*-0x6d+0x223*0x5+-0x968,0x18ab+0x4e*0x2f+-0x26fd,0xf40+0x953+-0x3*0x831,-0x14eb+0x879+0xc73],buttonPressedColor=[-0xb42+0x1c4*0x12+0x47*-0x4a,-0xb*0x26b+0xbe3+-0x1*-0xeb7,0x19f*-0x11+0x1e8a+-0x2fb,0xc9b+0x194b+0x6d*-0x59];break;case-0x270d+0x1578*0x1+-0x4*-0x466:bgColor=[-0x410*-0x1+0x1bd*0x13+-0x2517,0x25f8+0x9*0x358+-0x4410,0x9f9+0x13*-0x107+0x98d,-0x1c6*0xf+0x1d*-0x151+0x18*0x2b3],textColor=[-0x1bfb+0x3*0xb4b+-0x5e5,-0x261c+0xeb*-0x14+0x3879,0x478+0x44e+-0x8c5,-0x4*0x97b+0x175b*-0x1+-0x3d48*-0x1],buttonColor=[-0x19e3+-0x168e+0x3071,-0x61c+-0xaa2+-0x10be*-0x1,0x40c+0x17e9+-0x1bf5,-0x2576+-0xc29+-0x8*-0x634],buttonPressedColor=[0x1db4+0x1972+-0x1*0x3726,0xa1*-0x15+-0x1*0x258d+0x32c2,-0xe89*0x1+-0x716+0x15a0,-0x1154*-0x2+-0x1f1d+-0x38a*0x1];break;case 0x2f7+-0x18a6+-0x1*-0x15b3:bgColor=[-0x727+-0xd*-0x13c+-0x8e5+0.5,-0x23f1+0x2139+0x2b8,-0x5b6+-0x2119+0x26cf+0.5,-0x848+0x1*-0x1303+0xda6*0x2],textColor=[-0x1d62+0x22a0+-0x53d,0x2708+0xdb7*-0x1+0x1951*-0x1+0.9,-0x51b*-0x5+-0x2191+-0x1*-0x80b,-0x45d+-0xf*-0x22f+-0x1c63],buttonColor=[-0x208*-0x8+-0x185+-0xebb+0.25,-0x30d*-0x6+-0x1*0x18d5+-0x3*-0x22d,-0xd46+-0x19e4+0x272a+0.25,0x1564+-0x254b+-0x1fd*-0x8],buttonPressedColor=[-0x8f*-0x1c+-0x5d8+-0x9cc+0.7,-0x101*0x19+0x794+-0x17*-0xc3,0x513*0x5+-0x27f+-0x16e0+0.7,0x1*-0xa4c+0x1*-0x715+0x2*0x8b1];break;case-0x607*-0x4+0x1364+-0x2b7b:bgColor=[-0x269d+-0x1f6e+0x1*0x460b,-0xef*-0x13+0x17ee+-0x1*0x29ab+0.7,-0x1ccc+-0x5f2*0x5+0x3a86+0.7,-0x43*-0x28+-0x12d8+0x861],textColor=[0x14c*-0x1+-0x1*0x1df5+0x2*0xfa1,-0x1d55+0x5*-0x383+0x2ee4+0.2,0x6a8*0x3+0x1664+-0x2a5c+0.8,0x365+0x1a*0xb7+-0x15fa],buttonColor=[0x4df+-0x558*-0x2+-0xf8f,0x66c*-0x4+0x1007+0x1*0x9a9+0.3,-0x259*-0x6+0xfe9+0x7*-0x449+0.3,0xa38+0x2*-0x1e5+-0x66d],buttonPressedColor=[-0x212b*-0x1+0x19f8+-0x3b22,-0x792+0x1c21+-0x1*0x148f,-0x1*0x1b73+-0x1*0x107+0xa*0x2d9+0.7,-0x67a+0x3*0x5e1+-0xb28];break;case 0x251f+-0x1c86+0x1b7*-0x5:bgColor=[-0x1*0x173+0xe1b*0x1+-0x10e*0xc+0.9,0x1b90+0x1*-0x783+0xb1*-0x1d+0.7,0x2287*-0x1+-0x59*-0x17+0x351*0x8+0.1,0x13*0x17f+0x1be5+-0x455*0xd],textColor=[0x9*-0x3a9+0x14c7+0xc2a,0x6d*0x3a+-0x211a+0x868,-0x1967+-0x44*-0x1e+0x1*0x116f,-0x154a+0x106e+-0xf9*-0x5],buttonColor=[0x1de+-0x15bd+0x13df+0.2,-0x12*0x109+-0x1961+0x1*0x2c03+0.2,-0x159f+-0x1879+0x14*0x24e+0.2,-0x1d93+0x811*-0x2+0x2*0x16db],buttonPressedColor=[0xbd9+0x18b1+0xc7*-0x2f,0x156c+0x57b*0x1+-0x1ae7+0.84,0x1744+0x1dc*-0x1+-0x1568,-0x41*0x8b+0x1fbf+-0x1*-0x38d];break;case-0x43b+0x1*-0xd01+0x1eb*0x9:bgColor=[-0x2*0xbdd+0x194f+-0xf*0x1b+0.7,0x21b8+-0xe1e+-0x1*0x139a+0.9,-0x904+-0xb0*0x20+0x3*0xa57,0x17ed+0xd14+-0x2500],textColor=[-0x1679*-0x1+-0x4ff+-0x117a+0.1,-0x4b0+-0x13da+0x82e*0x3+0.2,-0x7f*0x17+0x3e*-0x23+0x13e3*0x1+0.4,-0x84d+0xa52*-0x1+0x12a0],buttonColor=[-0x1*-0x1fee+0x1d6e+0x44*-0xe7+0.5,0x2178+0x37*0xa9+-0x45c7*0x1+0.7,0x1*0x29d+0x1*-0x1a53+0x17b6+0.9,-0xd54*0x2+-0x201b+0x3ac4],buttonPressedColor=[0x1d1b+-0x1a1+-0x1b7a*0x1+0.2,0xdf+0xb7a*0x2+-0x7f1*0x3+0.4,-0x1*-0xc79+0x24eb+-0x3164+0.8,-0x1595+0x1*0x139+-0xd*-0x191];break;case 0x358*0x4+-0x1640*-0x1+-0x2*0x11cc:bgColor=[0x7de*-0x2+0x11d9*0x1+-0x21d+0.6,-0x1cb8+-0x200b+0x3cc3,-0x1*-0xa5d+-0x1*-0x1cb7+-0x2714,-0x141b+0xa3*0x25+-0x373],textColor=[0xa3*0x3a+-0x1cb8+-0x835,-0x1443+-0xc*-0x128+-0x5*-0x147+0.7,-0x1856+-0x264a+-0x1*-0x3ea0+0.2,-0x1280+0x1884+-0x603],buttonColor=[-0x6*0x10+0xa4c+-0x9ec+0.2,-0x1*-0x9c1+0x258a+-0x2f4b,-0x15*0x173+0x23b4+0x1*-0x545,0x8f+0xd16+-0xda4*0x1],buttonPressedColor=[0x17*-0x1+-0x22ac+0x22c4,0x242d+0x4e1*0x1+-0x1*0x290e+0.3,-0x1523+0x2*-0xdb2+0x3087,0x1*0x21a4+-0x906+0x189d*-0x1];break;case 0x1ad5+-0xb2+0x1a1a*-0x1:bgColor=[0xc6a+0x4*-0x76+-0xa92+0.05,0x16d3+-0x1f48+0x875+0.05,0x1a6a+-0x151c+-0x54e+0.1,-0x20d8+-0x1d24+0x3dfd],textColor=[-0xf03+-0x453+0x32*0x63+0.6,-0x106+-0x228+0x32e+0.8,0x4*-0x868+0xe73+-0x2*-0x997,0xb6a+-0x3*-0x161+0x1*-0xf8c],buttonColor=[-0xca7+-0x1b08+0x27af+0.1,0xd37+-0xc0*0x30+-0x16c9*-0x1+0.1,0x17de+-0x1154+-0x68a+0.2,-0x1a12+0x454+-0x13*-0x125],buttonPressedColor=[-0x3*-0xceb+-0x7f5+0x1*-0x1ecc+0.4,-0x2392+-0x172+0x2504+0.6,-0x2647*-0x1+-0xb*-0x49+-0x1*0x2969,-0x233b+0x1*-0xf31+0x326d];break;}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xf8e)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x515)],'method':()=>{const _0x18f7a0=_0x5358ee;ejectDupeIndex++,ejectDupeIndex%=ejectDupeValues[_0x18f7a0(0x285)],ejectDupeAmount=ejectDupeValues[ejectDupeIndex],_0x4d0e58[_0x18f7a0(0xf04)](_0x415d60,_0x4d0e58[_0x18f7a0(0xc50)](_0x4d0e58[_0x18f7a0(0x1076)](_0x4d0e58[_0x18f7a0(0x403)],_0x4d0e58[_0x18f7a0(0x2b7)]),ejectDupeAmount),![]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xfc2)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xca0)],'method':()=>{const _0x4bf1a0=_0x5358ee;jellywowes++,_0x4d0e58[_0x4bf1a0(0x956)](jellywowes,0x67*0x5f+0x5*-0x40d+-0x11f7)&&(jellywowes=-0xd*-0x1ee+-0x4*0x71b+-0x11d*-0x3),_0x4d0e58[_0x4bf1a0(0x1104)](_0x415d60,_0x4d0e58[_0x4bf1a0(0x298)](_0x4d0e58[_0x4bf1a0(0x972)](_0x4d0e58[_0x4bf1a0(0x403)],_0x4d0e58[_0x4bf1a0(0x4ac)]),jellywowes),![]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xfc2)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x615)],'method':()=>{const _0x42eb8a=_0x5358ee;headSizeIndex++,headSizeIndex%=headSizeValues[_0x42eb8a(0x285)],headSizeAmount=headSizeValues[headSizeIndex],_0x4d0e58[_0x42eb8a(0x6b0)](_0x415d60,_0x4d0e58[_0x42eb8a(0xfec)](_0x4d0e58[_0x42eb8a(0xde5)](_0x4d0e58[_0x42eb8a(0x403)],_0x4d0e58[_0x42eb8a(0x181)]),headSizeAmount),![]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x466)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x69c)],'method':()=>{const _0xfb442=_0x5358ee;soundFileIndex++,soundFileIndex%=soundFileFiles[_0xfb442(0x285)],_0x4d0e58[_0xfb442(0x5cd)](_0x415d60,_0x4d0e58[_0xfb442(0x298)](_0x4d0e58[_0xfb442(0x4c4)](_0x4d0e58[_0xfb442(0x403)],_0x4d0e58[_0xfb442(0x181)]),soundFileFiles[soundFileIndex]),![]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x466)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x5be)],'method':()=>{const _0x326ab2=_0x5358ee;_0x4d0e58[_0x326ab2(0xcfa)](rightSecondary,!previousSoundKey)&&_0x4d0e58[_0x326ab2(0x561)](_0x28aec3,_0x4d0e58[_0x326ab2(0x4ea)],soundFileFiles[soundFileIndex]),previousSoundKey=rightSecondary;},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xf8e)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xec0)],'method':()=>{const _0x4715a7=_0x5358ee;_0x4d0e58[_0x4715a7(0x220)](_0x3572c2);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x683)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x518)],'method':()=>negativeHeadSize=!![],'disableMethod':()=>negativeHeadSize=![],'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xa24)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x183)],'enabled':!![],'enableMethod':()=>localButtonSounds=!![],'disableMethod':()=>localButtonSounds=![],'toolTip':_0x4d0e58[_0x5358ee(0xfcf)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x409)],'method':()=>{buttonIndex++,buttonIndex%=0x1303+-0x219b+0x4df*0x3;switch(buttonIndex){case 0x1dd1*-0x1+-0x29b*-0x9+0x65e:buttonSound=-0x1884+0x1a48+-0x198;break;case 0x199+0x1f95+-0x212d:buttonSound=0x1*0x18bd+0x1*-0x28e+0xf4*-0x17;break;case-0xa+0x45*0x10+0xd*-0x54:buttonSound=0xe7d*0x1+-0x1a0c+0x1*0xbd3;break;case 0x3*-0xc7f+0x23ad*-0x1+0x492d:buttonSound=0x3*-0x3f5+0x22be+-0x1694;break;case-0x680+-0xf*-0x89+-0x183:buttonSound=0x26e+-0x1039*0x1+0x1*0xe2f;break;case 0x5*-0x1f+-0x1*-0x1d8a+-0x1cea:buttonSound=0x6ca+-0x857+0x204;break;}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xe92)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x7f0)],'method':()=>{const _0x5452ef=_0x5358ee;rightGrab?itemIndex--:itemIndex++,console[_0x5452ef(0x13d)](itemIDs[itemIndex]),_0x4d0e58[_0x5452ef(0x294)](_0x415d60,_0x4d0e58[_0x5452ef(0xa09)](_0x4d0e58[_0x5452ef(0xb4c)](_0x4d0e58[_0x5452ef(0x403)],_0x4d0e58[_0x5452ef(0xb14)]),itemIDs[itemIndex]),![]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7cf)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x601)],'method':()=>{const _0x54aefd=_0x5358ee;if(rightGrab)huespawner+=-0x986+0x24fb+-0x1b74;else!rightGrab&&(huespawner-=-0x232c+-0x3*0x1d8+0x28b5);if(_0x4d0e58[_0x54aefd(0x108b)](huespawner,-0x1e19+-0x1f39*0x1+0x3dfc))huespawner=-0x2569*-0x1+0x15f9+-0x757*0x8;else _0x4d0e58[_0x54aefd(0x384)](huespawner,-(-0x1741+0x1a1c+0x16*-0x20))&&(huespawner=-0x9*-0xc2+0x14c+-0x40f*0x2);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x869)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x1b6)],'method':()=>{const _0xa0759a=_0x5358ee;if(rightGrab)saturationspawner+=0x1ca7+-0x2397+-0x1*-0x6f1;else!rightGrab&&(saturationspawner-=0x17ea+-0x1*-0x194f+-0x3138);if(_0x4d0e58[_0xa0759a(0x390)](saturationspawner,-0x107*-0x4+-0x744+0x3a0*0x1))saturationspawner=-0x61b+0x18c7*-0x1+0x1f5a;else _0x4d0e58[_0xa0759a(0x384)](saturationspawner,0x1eed+-0x254d+0x660)&&(saturationspawner=-0x1120+0x48*-0x6b+-0x2f38*-0x1);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x555)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x887)],'method':()=>{const _0x276675=_0x5358ee;try{const _0x57fb54=_0xcb2f35[_0x276675(0xbb1)](_0x4d0e58[_0x276675(0x1064)])[_0x276675(0x9d0)]();if(!_0x57fb54)return;const _0x16744f=_0x57fb54[_0x276675(0xbb1)](_0x4d0e58[_0x276675(0x737)],0x528*0x1+-0x41b+0x10c*-0x1)[_0x276675(0x9d0)](-0x19a9*-0x1+-0x1f2+-0x17b7);if(!_0x16744f)return;const _0x24ca4d=_0x16744f[_0x276675(0x398)](_0x4d0e58[_0x276675(0x27b)])[_0x276675(0x1081)];if(!_0x24ca4d)return;const _0xb9e04f=_0x24ca4d[_0x276675(0xbb1)](_0x4d0e58[_0x276675(0x61e)])[_0x276675(0x9d0)]();if(!_0xb9e04f)return;if(rightGrab){scaleVal++;if(_0x4d0e58[_0x276675(0x108b)](scaleVal,-0x712+-0x15fe+0x439*0x7))scaleVal=-(-0x930+0x4*-0x19b+0x13*0xd9);}if(leftGrab){scaleVal--;if(_0x4d0e58[_0x276675(0x7f3)](scaleVal,-(0x2666+-0xc5b+-0x147*0x14)))scaleVal=-0x1*0x5de+-0x62e+0xc8b;}_0xb9e04f[_0x276675(0xbb1)](_0x4d0e58[_0x276675(0xf37)])[_0x276675(0x9d0)](scaleVal);}catch(_0x2999a3){console[_0x276675(0x716)](_0x2999a3);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x48a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xdda)],'isTogglable':!![],'method':((()=>{const _0x549dca={'wKQVY':function(_0x23782a,_0x10904c){const _0x469bd2=_0x38eb;return _0x4d0e58[_0x469bd2(0xb4c)](_0x23782a,_0x10904c);},'irHMz':function(_0x5ddc02,_0x73b0c8){const _0x48ef81=_0x38eb;return _0x4d0e58[_0x48ef81(0x353)](_0x5ddc02,_0x73b0c8);},'iRmto':function(_0x249caf,_0x5c870){const _0x310a8a=_0x38eb;return _0x4d0e58[_0x310a8a(0x2af)](_0x249caf,_0x5c870);}};let _0x4a8653=0x169b+-0x239f+0xd04*0x1;function _0x5f44d6(_0x44666d,_0x5e18f1){const _0x25b185=_0x38eb;return _0x549dca[_0x25b185(0x56d)](Math[_0x25b185(0x61f)](_0x549dca[_0x25b185(0x753)](Math[_0x25b185(0x521)](),_0x549dca[_0x25b185(0x56d)](_0x549dca[_0x25b185(0x579)](_0x5e18f1,_0x44666d),-0x220e+0xf2c+0x3c7*0x5))),_0x44666d);}return()=>{const _0x47981d=_0x38eb;try{if(!rightGrab)return;if(!rightTrigger)return;const _0x49693e=_0x30f217[_0x47981d(0xbb1)](_0x4d0e58[_0x47981d(0xc2c)])[_0x47981d(0x9d0)]();if(_0x4d0e58[_0x47981d(0x7f3)](_0x49693e,_0x4a8653))return;_0x4a8653=_0x4d0e58[_0x47981d(0xbe6)](_0x49693e,-0x92d+-0x7*-0x4d+0x712*0x1);const _0x554e77=_0x17e59a[_0x47981d(0xbb1)](_0x4d0e58[_0x47981d(0x39e)])[_0x47981d(0x9d0)](),_0x531475=_0x17e59a[_0x47981d(0xbb1)](_0x4d0e58[_0x47981d(0x2b3)])[_0x47981d(0x9d0)](),_0x2bb959=_0x464f9d[_0x47981d(0xbb1)](_0x4d0e58[_0x47981d(0x126)],-0x77*-0x44+-0x10bd+-0xedb)[_0x47981d(0x9d0)](Il2Cpp[_0x47981d(0x404)](_0x4d0e58[_0x47981d(0x9f7)]),_0x554e77,_0x5490f3,null);if(!_0x2bb959||_0x2bb959[_0x47981d(0xfd5)][_0x47981d(0xa74)]())return;const _0x31bdb0=_0x2bb959[_0x47981d(0xbb1)](_0x4d0e58[_0x47981d(0x45b)],-0xb*-0x295+0x1b2d+-0x15b*0x29)[_0x47981d(0x2b5)](_0x2e62a6)[_0x47981d(0x9d0)]();_0x31bdb0&&!_0x31bdb0[_0x47981d(0xa74)]()&&(_0x31bdb0[_0x47981d(0xbb1)](_0x4d0e58[_0x47981d(0xea2)])[_0x47981d(0x9d0)](_0x4d0e58[_0x47981d(0xf27)](_0x5f44d6,-(0x223+-0x2193+0x1fe8),-0x1*0x11a1+0x61f*-0x1+-0x14*-0x136)),_0x31bdb0[_0x47981d(0xbb1)](_0x4d0e58[_0x47981d(0x25c)])[_0x47981d(0x9d0)](_0x4d0e58[_0x47981d(0x207)](_0x5f44d6,-(-0xb9d+0x6d*-0x19+0x16c1),-0x154*-0x14+-0x265f+0xc4e)),_0x31bdb0[_0x47981d(0xbb1)](_0x4d0e58[_0x47981d(0xf37)])[_0x47981d(0x9d0)](0x2641+-0x205*-0x8+0x35ea*-0x1),_0x31bdb0[_0x47981d(0xbb1)](_0x4d0e58[_0x47981d(0xa27)],0x3*0x6fa+-0x14fc+0xf)[_0x47981d(0x9d0)](_0x4c3978[_0x47981d(0xbb1)](_0x4d0e58[_0x47981d(0xf9b)],-0x10cf+0x31e+-0x1*-0xdb3)[_0x47981d(0x9d0)](_0x531475,0x4b1*-0x6+0x1*0x59d+0x16ed)));}catch(_0x5b6505){console[_0x47981d(0x716)](_0x4d0e58[_0x47981d(0x938)],_0x5b6505);}};})()),'toolTip':_0x4d0e58[_0x5358ee(0xa56)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x10de)],'method':()=>{const _0x18e14d=_0x5358ee;if(rightGrab)jellyspawner+=-0x158f+0x6*0x1de+-0x22*-0x4e;else!rightGrab&&(jellyspawner-=0x221e+-0x1c20+-0x5fd);if(_0x4d0e58[_0x18e14d(0x340)](jellyspawner,-0xdc8+-0xb*0xfe+0x18bc))jellyspawner=-0x26f6+-0x6b*0x1d+0x331f;else _0x4d0e58[_0x18e14d(0x3ff)](jellyspawner,0x2*0x9d+-0x24*0xca+0xe*0x1f1)&&(jellyspawner=0x3e2+0x1d55+-0x2137);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xef5)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x6ba)],'method':()=>{const _0x3cba58=_0x5358ee;rightGrab?mobIndex--:mobIndex++,console[_0x3cba58(0x13d)](mobIDs[mobIndex]),_0x4d0e58[_0x3cba58(0xda0)](_0x415d60,_0x4d0e58[_0x3cba58(0xbe6)](_0x4d0e58[_0x3cba58(0xc50)](_0x4d0e58[_0x3cba58(0x403)],_0x4d0e58[_0x3cba58(0xe7d)]),mobIDs[mobIndex]),![]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x5c2)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb43)],'method':()=>{const _0x4f93dc=_0x5358ee;menuscale+=0x588*-0x2+0x148f+-0x1*0x97f+0.1,_0x4d0e58[_0x4f93dc(0x956)](menuscale,-0x1275+0x2*-0x2ff+0x1874+0.5)&&(menuscale=-0x2*-0xafd+-0x2e8+-0x1312*0x1+0.3);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xe92)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe5a)],'enabled':![],'method':()=>{const _0x57d6e5=_0x5358ee;_0x4d0e58[_0x57d6e5(0xd23)](menu,null)?_0x4d0e58[_0x57d6e5(0x58f)](closePosition,null)?closePosition=_0x4d0e58[_0x57d6e5(0x3b0)](_0xb288f,_0x5a7655)[_0x57d6e5(0xbb1)](_0x4d0e58[_0x57d6e5(0x39e)])[_0x57d6e5(0x9d0)]():(_0x4d0e58[_0x57d6e5(0x764)](_0xb288f,_0x5a7655)[_0x57d6e5(0xbb1)](_0x4d0e58[_0x57d6e5(0x110b)])[_0x57d6e5(0x9d0)](closePosition),_0x5a7655[_0x57d6e5(0xbb1)](_0x4d0e58[_0x57d6e5(0x80d)])[_0x57d6e5(0x9d0)](_0x130c91)):closePosition=null;},'toolTip':_0x4d0e58[_0x5358ee(0x1cf)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb6e)],'enabled':!![],'method':()=>buttonNotifications=!![],'disableMethod':()=>buttonNotifications=![],'toolTip':_0x4d0e58[_0x5358ee(0xc3b)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe3c)],'method':()=>_0x28b282=!![],'disableMethod':()=>_0x28b282=!![],'toolTip':_0x4d0e58[_0x5358ee(0xfe1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xd5c)],'method':()=>LerpMenu=!![],'disableMethod':()=>LerpMenu=![],'toolTip':_0x4d0e58[_0x5358ee(0xf5e)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x330)],'enableMethod':()=>highPunchPower=!![],'disableMethod':()=>highPunchPower=![],'toolTip':_0x4d0e58[_0x5358ee(0xf5c)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x41a)],'method':()=>{const _0x20e7bc=_0x5358ee;currentWorldPrefabIndex=_0x4d0e58[_0x20e7bc(0x7df)](_0x4d0e58[_0x20e7bc(0x4c4)](currentWorldPrefabIndex,0x3f*0x66+-0x8e5+-0x1034),worldPrefabs[_0x20e7bc(0x285)]),_0x4d0e58[_0x20e7bc(0x5dc)](_0x415d60,_0x20e7bc(0xb5b)+worldPrefabs[currentWorldPrefabIndex]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xf7d)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x541)],'method':()=>{const _0x3520f9=_0x5358ee;currentWorldPrefabIndex=_0x4d0e58[_0x3520f9(0xd27)](_0x4d0e58[_0x3520f9(0x5f1)](_0x4d0e58[_0x3520f9(0x64c)](currentWorldPrefabIndex,-0x146a+0x2*0x884+0x363),worldPrefabs[_0x3520f9(0x285)]),worldPrefabs[_0x3520f9(0x285)]),_0x4d0e58[_0x3520f9(0x8d2)](_0x415d60,_0x3520f9(0xb5b)+worldPrefabs[currentWorldPrefabIndex]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x6f3)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x1038)],'method':()=>{const _0x1e2174=_0x5358ee;try{const _0x2f6fe3=_0xcb2f35[_0x1e2174(0xbb1)](_0x4d0e58[_0x1e2174(0x1064)])[_0x1e2174(0x9d0)]();if(!_0x2f6fe3)return;const _0x47d177=Il2Cpp[_0x1e2174(0x8cd)][_0x1e2174(0xfb2)](_0x4d0e58[_0x1e2174(0xc98)])[_0x1e2174(0xce4)][_0x1e2174(0x9aa)](_0x4d0e58[_0x1e2174(0xe32)]),_0x4e2139=_0x47d177[_0x1e2174(0xbb1)](_0x4d0e58[_0x1e2174(0x1000)])[_0x1e2174(0x9d0)]();if(!_0x4e2139)return;const _0x5d0a31=worldPrefabs[currentWorldPrefabIndex],_0x3335ab=_0x4e2139[_0x1e2174(0x398)](_0x5d0a31)[_0x1e2174(0x1081)];if(!_0x3335ab)return;const _0xfc9087=_0x3335ab[_0x1e2174(0xbb1)](_0x4d0e58[_0x1e2174(0x9e2)])[_0x1e2174(0x9d0)](),_0x10ac23=Il2Cpp[_0x1e2174(0x8cd)][_0x1e2174(0xfb2)](_0x4d0e58[_0x1e2174(0xc98)])[_0x1e2174(0xce4)][_0x1e2174(0x9aa)](_0x4d0e58[_0x1e2174(0xd6c)]);for(let _0x7dbc10=-0x9da+0x1d8a+-0x118*0x12;_0x4d0e58[_0x1e2174(0xe41)](_0x7dbc10,0xc52+-0x1*0x169b+0xa4a);_0x7dbc10++){const _0x3a1fca=_0x2f6fe3[_0x1e2174(0xbb1)](_0x4d0e58[_0x1e2174(0x737)],-0x1ef8+0x20af+-0x6*0x49)[_0x1e2174(0x9d0)](_0x7dbc10);if(!_0x3a1fca)continue;const _0xa59ffb=_0x3a1fca[_0x1e2174(0x398)](_0x4d0e58[_0x1e2174(0x27b)])[_0x1e2174(0x1081)];if(!_0xa59ffb)continue;const _0x275c1b=_0xa59ffb[_0x1e2174(0xbb1)](_0x4d0e58[_0x1e2174(0x61e)])[_0x1e2174(0x9d0)]();if(!_0x275c1b)continue;const _0x1091bb=_0x275c1b[_0x1e2174(0xbb1)](_0x4d0e58[_0x1e2174(0x9e2)])[_0x1e2174(0x9d0)]();if(!_0x1091bb)continue;const _0x353654=_0x1091bb[_0x1e2174(0xbb1)](_0x4d0e58[_0x1e2174(0x45b)],-0x1663+0x1dcf+-0x76b)[_0x1e2174(0x2b5)](_0x10ac23)[_0x1e2174(0x9d0)]();if(!_0x353654)continue;_0x353654[_0x1e2174(0x398)](_0x4d0e58[_0x1e2174(0xecf)])[_0x1e2174(0x1081)]=_0xfc9087,_0x353654[_0x1e2174(0x398)](_0x4d0e58[_0x1e2174(0x8f8)])[_0x1e2174(0x1081)]=null,_0x353654[_0x1e2174(0x398)](_0x4d0e58[_0x1e2174(0x203)])[_0x1e2174(0x1081)]=null;}_0x4d0e58[_0x1e2174(0xd0b)](_0x415d60,_0x1e2174(0x654)+_0x5d0a31);}catch(_0x3ea4e7){console[_0x1e2174(0x716)](_0x3ea4e7);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x81d)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x5a0)],'method':()=>{const _0xf02741=_0x5358ee;currentItemIndex=_0x4d0e58[_0xf02741(0x679)](_0x4d0e58[_0xf02741(0x5f1)](currentItemIndex,-0x1*0xbc1+0x1938+-0xd76),itemPrefabs[_0xf02741(0x285)]),_0x4d0e58[_0xf02741(0xe74)](_0x415d60,_0xf02741(0x1ee)+itemPrefabs[currentItemIndex]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x5e7)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xaa0)],'method':()=>{const _0x58036a=_0x5358ee;currentItemIndex=_0x4d0e58[_0x58036a(0x7df)](_0x4d0e58[_0x58036a(0xa09)](_0x4d0e58[_0x58036a(0xf08)](currentItemIndex,0x1529+0x98d+-0x1eb5),itemPrefabs[_0x58036a(0x285)]),itemPrefabs[_0x58036a(0x285)]),_0x4d0e58[_0x58036a(0xac6)](_0x415d60,_0x58036a(0x1ee)+itemPrefabs[currentItemIndex]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x110a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xfab)],'method':()=>{const _0x130fd9=_0x5358ee;try{const _0x55d686=_0xcb2f35[_0x130fd9(0xbb1)](_0x4d0e58[_0x130fd9(0x1064)])[_0x130fd9(0x9d0)]();if(!_0x55d686)return;const _0xc49d8e=Il2Cpp[_0x130fd9(0x8cd)][_0x130fd9(0xfb2)](_0x4d0e58[_0x130fd9(0xc98)])[_0x130fd9(0xce4)][_0x130fd9(0x9aa)](_0x4d0e58[_0x130fd9(0xe32)]),_0x17121f=_0xc49d8e[_0x130fd9(0xbb1)](_0x4d0e58[_0x130fd9(0x1000)])[_0x130fd9(0x9d0)]();if(!_0x17121f)return;const _0x4c90c9=itemPrefabs[currentItemIndex],_0x269897=_0x17121f[_0x130fd9(0x398)](_0x4c90c9)[_0x130fd9(0x1081)];if(!_0x269897)return;const _0x2580e7=_0x269897[_0x130fd9(0xbb1)](_0x4d0e58[_0x130fd9(0x9e2)])[_0x130fd9(0x9d0)](),_0x3acc21=Il2Cpp[_0x130fd9(0x8cd)][_0x130fd9(0xfb2)](_0x4d0e58[_0x130fd9(0xc98)])[_0x130fd9(0xce4)][_0x130fd9(0x9aa)](_0x4d0e58[_0x130fd9(0xd6c)]);for(let _0x56fc9b=-0x2050+-0x1f68+0x8*0x7f7;_0x4d0e58[_0x130fd9(0xe41)](_0x56fc9b,0x9cb+0x2*0x989+0x737*-0x4);_0x56fc9b++){const _0x3d3584=_0x55d686[_0x130fd9(0xbb1)](_0x4d0e58[_0x130fd9(0x737)],-0x3d*-0xc+0x5*0x1+-0x2e0)[_0x130fd9(0x9d0)](_0x56fc9b);if(!_0x3d3584)continue;const _0xa3646c=_0x3d3584[_0x130fd9(0x398)](_0x4d0e58[_0x130fd9(0x27b)])[_0x130fd9(0x1081)];if(!_0xa3646c)continue;const _0x5b5ffa=_0xa3646c[_0x130fd9(0xbb1)](_0x4d0e58[_0x130fd9(0x61e)])[_0x130fd9(0x9d0)]();if(!_0x5b5ffa)continue;const _0x307918=_0x5b5ffa[_0x130fd9(0xbb1)](_0x4d0e58[_0x130fd9(0x9e2)])[_0x130fd9(0x9d0)]();if(!_0x307918)continue;const _0x3a6050=_0x307918[_0x130fd9(0xbb1)](_0x4d0e58[_0x130fd9(0x45b)],0x1*-0x115d+-0xe1d+-0x1f7b*-0x1)[_0x130fd9(0x2b5)](_0x3acc21)[_0x130fd9(0x9d0)]();if(!_0x3a6050)continue;_0x3a6050[_0x130fd9(0x398)](_0x4d0e58[_0x130fd9(0xecf)])[_0x130fd9(0x1081)]=_0x2580e7,_0x3a6050[_0x130fd9(0x398)](_0x4d0e58[_0x130fd9(0x8f8)])[_0x130fd9(0x1081)]=null,_0x3a6050[_0x130fd9(0x398)](_0x4d0e58[_0x130fd9(0x203)])[_0x130fd9(0x1081)]=null;}_0x4d0e58[_0x130fd9(0xf72)](_0x415d60,_0x130fd9(0x1053)+_0x4c90c9);}catch(_0x54793a){console[_0x130fd9(0x716)](_0x54793a);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x879)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x870)],'method':()=>{_0x2063c0=-0x25e4+0x7*-0x4e+0x1*0x2806,_0x468f75=-0x1a47*0x1+0x4f9+0x154e;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x5ad)],'method':((()=>{let _0x1cad54=0x1aad+-0x5*-0x190+-0x227d,_0x3b568f=-0x1a43+0x1*-0xfcd+0x2a10,_0x1fe6a0=0x2582+0x145*0x11+-0x1*0x3b17,_0x7dcb89=0x1ef0+0x2191+-0x4081;return()=>{const _0xb07f4f=_0x38eb;try{const _0x2e1159=_0x323057[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x553)],-0x6*-0x579+0xc48+-0x2d1d)[_0xb07f4f(0x9d0)](0x1e72+0x1179+-0x2fe7),_0x440225=_0x323057[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x553)],0x1*-0x1205+0xa*0x1d6+-0x56)[_0xb07f4f(0x9d0)](0x17e5+0x22f5+-0x3ad5),_0x291c12=Il2Cpp[_0xb07f4f(0xc19)](0x1*0x4db+0x25e3+0xb*-0x3e2),_0x5f4813=Il2Cpp[_0xb07f4f(0xc19)](-0xbd7+-0x2a6*0x1+0xe85);_0x2e1159[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x662)],0x1196+-0xd*0xa9+-0x2f*0x31)[_0xb07f4f(0x9d0)](_0xe9df9c[_0xb07f4f(0x398)](_0x4d0e58[_0xb07f4f(0x107b)])[_0xb07f4f(0x1081)],_0x291c12),_0x440225[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x662)],0xd8f+-0x1a*-0x102+-0x27c1*0x1)[_0xb07f4f(0x9d0)](_0xe9df9c[_0xb07f4f(0x398)](_0x4d0e58[_0xb07f4f(0x107b)])[_0xb07f4f(0x1081)],_0x5f4813),_0x1cad54=_0x291c12[_0xb07f4f(0x67b)](),_0x3b568f=_0x291c12[_0xb07f4f(0x9c7)](-0x1*0x15b+-0x6a+0x1c9*0x1)[_0xb07f4f(0x67b)](),_0x1fe6a0=_0x5f4813[_0xb07f4f(0x67b)](),_0x7dcb89=_0x5f4813[_0xb07f4f(0x9c7)](-0x241c+-0x7ef+0x2c0f*0x1)[_0xb07f4f(0x67b)]();if(_0x4d0e58[_0xb07f4f(0x3ff)](Math[_0xb07f4f(0x862)](_0x1cad54),-0x3*-0xa47+0xea3+-0x61*0x78+0.1)&&_0x4d0e58[_0xb07f4f(0x3ff)](Math[_0xb07f4f(0x862)](_0x3b568f),-0x2b*0xb+0xe*-0xc6+0xcad+0.1)&&_0x4d0e58[_0xb07f4f(0x7f3)](Math[_0xb07f4f(0x862)](_0x1fe6a0),-0x2*0x643+0xfca+-0x2c*0x13+0.1)&&_0x4d0e58[_0xb07f4f(0xf25)](Math[_0xb07f4f(0x862)](_0x7dcb89),0x350+-0xa*-0x199+-0x134a+0.1))return;const _0x529dae=-0x1b6*0x13+0x1ab9+0x5d1,_0xdaa6c3=_0x4d0e58[_0xb07f4f(0x10ff)](_0xb288f,_0x431304)[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x2b3)])[_0xb07f4f(0x9d0)](),_0x316ff5=_0x4d0e58[_0xb07f4f(0x1109)](_0xb288f,_0x431304)[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x609)])[_0xb07f4f(0x9d0)](),_0x3e56cc=_0x4c3978[_0xb07f4f(0x398)](_0x4d0e58[_0xb07f4f(0x102c)])[_0xb07f4f(0x1081)],_0x4f1a24=_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0xb02)])[_0xb07f4f(0x9d0)](_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0xcde)])[_0xb07f4f(0x9d0)](_0xdaa6c3,_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0xf9b)])[_0xb07f4f(0x9d0)](_0x3e56cc,_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x363)])[_0xb07f4f(0x9d0)](_0xdaa6c3,_0x3e56cc)))),_0x259bdb=_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0xb02)])[_0xb07f4f(0x9d0)](_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0xcde)])[_0xb07f4f(0x9d0)](_0x316ff5,_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0xf9b)])[_0xb07f4f(0x9d0)](_0x3e56cc,_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x363)])[_0xb07f4f(0x9d0)](_0x316ff5,_0x3e56cc)))),_0x47e50c=_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0xf9b)])[_0xb07f4f(0x9d0)](_0x4f1a24,_0x4d0e58[_0xb07f4f(0xa71)](_0x4d0e58[_0xb07f4f(0xa71)](_0x7dcb89,_0x529dae),deltaTime)),_0x14758b=_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0xf9b)])[_0xb07f4f(0x9d0)](_0x259bdb,_0x4d0e58[_0xb07f4f(0xe55)](_0x4d0e58[_0xb07f4f(0x223)](_0x1fe6a0,_0x529dae),deltaTime)),_0x30a27b=_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0xf9b)])[_0xb07f4f(0x9d0)](_0x3e56cc,_0x4d0e58[_0xb07f4f(0x353)](_0x4d0e58[_0xb07f4f(0x407)](_0x3b568f,_0x529dae),deltaTime));let _0x1456e9=_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x80e)])[_0xb07f4f(0x9d0)](_0x47e50c,_0x14758b);_0x1456e9=_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x80e)])[_0xb07f4f(0x9d0)](_0x1456e9,_0x30a27b),_0x5a7655[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x80d)])[_0xb07f4f(0x9d0)](_0x130c91);const _0x2f2e40=_0x4d0e58[_0xb07f4f(0xc79)](_0xb288f,_0x515cbc)[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x39e)])[_0xb07f4f(0x9d0)](),_0x33e5c5=_0x4c3978[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x80e)])[_0xb07f4f(0x9d0)](_0x2f2e40,_0x1456e9);_0x4d0e58[_0xb07f4f(0xfac)](_0xb288f,_0x515cbc)[_0xb07f4f(0xbb1)](_0x4d0e58[_0xb07f4f(0x110b)])[_0xb07f4f(0x9d0)](_0x33e5c5);}catch(_0x1041fa){console[_0xb07f4f(0x716)](_0x4d0e58[_0xb07f4f(0xeda)],_0x1041fa);}};})()),'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xbe4)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x465)],'method':()=>{const _0x280c20=_0x5358ee,_0x4fcec8=-(0x20d0+-0x81d+-0x18b3+0.2);if(leftGrab){if(_0x4d0e58[_0x280c20(0xd24)](leftPlatform,null)){const _0x3d54b4=_0x31c6c9;leftPlatform=_0x4d0e58[_0x280c20(0x61b)](_0x5afd16,_0x3d54b4[_0x280c20(0xbb1)](_0x4d0e58[_0x280c20(0x39e)])[_0x280c20(0x9d0)](),_0x3d54b4[_0x280c20(0xbb1)](_0x4d0e58[_0x280c20(0xa36)])[_0x280c20(0x9d0)](),[-0xb3a+-0x10d*-0x1+0xa2d+0.025,-0x6*-0x40d+-0x7e1+-0x106d+0.15,-0x13ae+0x11*0x1a1+-0x803+0.2],-0x1351+0x1*-0x1951+0x1*0x2ca5,bgColor),_0x4d0e58[_0x280c20(0x3d9)](_0xb288f,leftPlatform)[_0x280c20(0xbb1)](_0x4d0e58[_0x280c20(0x360)])[_0x280c20(0x9d0)]([-0x26a2+-0x35*-0x67+0x114f,_0x4fcec8,0x2*-0x62+-0x1f5a+0x1*0x201e]);}}else _0x4d0e58[_0x280c20(0xef2)](leftPlatform,null)&&(_0x4d0e58[_0x280c20(0x9c2)](_0x40b1f6,leftPlatform),leftPlatform=null);if(rightGrab){if(_0x4d0e58[_0x280c20(0x85f)](rightPlatform,null)){const _0x370451=_0x17e59a;rightPlatform=_0x4d0e58[_0x280c20(0x24e)](_0x5afd16,_0x370451[_0x280c20(0xbb1)](_0x4d0e58[_0x280c20(0x39e)])[_0x280c20(0x9d0)](),_0x370451[_0x280c20(0xbb1)](_0x4d0e58[_0x280c20(0xa36)])[_0x280c20(0x9d0)](),[-0x2505+0x8f1+0x1c14+0.025,-0x13*-0x1e1+0x942*-0x1+-0x1a71+0.15,-0x1*0x692+-0xb35*0x1+0x11c7+0.2],0x1fd+-0x24*-0xfe+0x5*-0x78a,bgColor),_0x4d0e58[_0x280c20(0x307)](_0xb288f,rightPlatform)[_0x280c20(0xbb1)](_0x4d0e58[_0x280c20(0x360)])[_0x280c20(0x9d0)]([-0x4c4+-0x1ff*0x1+0x6c3,_0x4fcec8,-0x18e+0x1228*0x1+-0x109a]);}}else _0x4d0e58[_0x280c20(0xf44)](rightPlatform,null)&&(_0x4d0e58[_0x280c20(0xf72)](_0x40b1f6,rightPlatform),rightPlatform=null);},'toolTip':_0x4d0e58[_0x5358ee(0x8c5)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x82d)],'method':()=>{const _0xc1f04e=_0x5358ee;if(leftTrigger){if(_0x4d0e58[_0xc1f04e(0x590)](leftPlatform,null)){const _0x4e81ee=_0x31c6c9;leftPlatform=_0x4d0e58[_0xc1f04e(0xd8a)](_0x5afd16,_0x4e81ee[_0xc1f04e(0xbb1)](_0x4d0e58[_0xc1f04e(0x39e)])[_0xc1f04e(0x9d0)](),_0x4e81ee[_0xc1f04e(0xbb1)](_0x4d0e58[_0xc1f04e(0xa36)])[_0xc1f04e(0x9d0)](),[-0x2076+0x103*0x25+-0x13*0x43+0.025,0x1018+-0x2c8*-0x6+0x2*-0x1064+0.15,0x238a+-0x1a7d+-0x90d+0.2],-0x9e9+0x15d*0x9+-0x1*0x259,bgColor);}}else _0x4d0e58[_0xc1f04e(0xe26)](leftPlatform,null)&&(_0x4d0e58[_0xc1f04e(0xa44)](_0x40b1f6,leftPlatform),leftPlatform=null);if(rightTrigger){if(_0x4d0e58[_0xc1f04e(0xbb8)](rightPlatform,null)){const _0x1ee8c4=_0x17e59a;rightPlatform=_0x4d0e58[_0xc1f04e(0x721)](_0x5afd16,_0x1ee8c4[_0xc1f04e(0xbb1)](_0x4d0e58[_0xc1f04e(0x39e)])[_0xc1f04e(0x9d0)](),_0x1ee8c4[_0xc1f04e(0xbb1)](_0x4d0e58[_0xc1f04e(0xa36)])[_0xc1f04e(0x9d0)](),[-0x1833+-0xc28+0x245b+0.025,-0x11*-0x1f3+-0xcbb+-0x1468+0.15,0x1a11+-0x25b3*0x1+0xba2+0.2],0x3b*-0x5f+0xe92+0x756,bgColor);}}else _0x4d0e58[_0xc1f04e(0x7e0)](rightPlatform,null)&&(_0x4d0e58[_0xc1f04e(0xa44)](_0x40b1f6,rightPlatform),rightPlatform=null);},'toolTip':_0x4d0e58[_0x5358ee(0xd86)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x30e)],'method':()=>{const _0x13337a=_0x5358ee;if(rightPrimary){_0x5a7655[_0x13337a(0xbb1)](_0x4d0e58[_0x13337a(0x80d)])[_0x13337a(0x9d0)](_0x4c3978[_0x13337a(0x398)](_0x4d0e58[_0x13337a(0xadc)])[_0x13337a(0x1081)]);const _0x5bed52=_0x4d0e58[_0x13337a(0x47c)](_0xb288f,_0x515cbc);let _0x4353d7=_0x4d0e58[_0x13337a(0xe76)](_0xb288f,_0x431304)[_0x13337a(0xbb1)](_0x4d0e58[_0x13337a(0x2b3)])[_0x13337a(0x9d0)](),_0x4045c5=_0x5bed52[_0x13337a(0xbb1)](_0x4d0e58[_0x13337a(0x39e)])[_0x13337a(0x9d0)]();_0x4353d7=_0x4c3978[_0x13337a(0xbb1)](_0x4d0e58[_0x13337a(0xf9b)],-0x71e*0x2+0xc66+0x76*0x4)[_0x13337a(0x9d0)](_0x4353d7,_0x4d0e58[_0x13337a(0xb9d)](-0x7*0x1f7+-0x379*0x8+0x2*0x14d1,deltaTime)),_0x4045c5=_0x4c3978[_0x13337a(0xbb1)](_0x4d0e58[_0x13337a(0x80e)],-0x3a3+-0x35*-0x6b+-0x17*0xce)[_0x13337a(0x9d0)](_0x4045c5,_0x4353d7),_0x5bed52[_0x13337a(0xbb1)](_0x4d0e58[_0x13337a(0x110b)])[_0x13337a(0x9d0)](_0x4045c5);}},'toolTip':_0x4d0e58[_0x5358ee(0x397)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x10ac)],'method':()=>{const _0x4e42cb=_0x5358ee;if(rightTrigger){_0x5a7655[_0x4e42cb(0xbb1)](_0x4d0e58[_0x4e42cb(0x80d)])[_0x4e42cb(0x9d0)](_0x4c3978[_0x4e42cb(0x398)](_0x4d0e58[_0x4e42cb(0xadc)])[_0x4e42cb(0x1081)]);const _0x503fa3=_0x4d0e58[_0x4e42cb(0x10ff)](_0xb288f,_0x515cbc);let _0x474c32=_0x4d0e58[_0x4e42cb(0x1022)](_0xb288f,_0x431304)[_0x4e42cb(0xbb1)](_0x4d0e58[_0x4e42cb(0x2b3)])[_0x4e42cb(0x9d0)](),_0x12db1b=_0x503fa3[_0x4e42cb(0xbb1)](_0x4d0e58[_0x4e42cb(0x39e)])[_0x4e42cb(0x9d0)]();_0x474c32=_0x4c3978[_0x4e42cb(0xbb1)](_0x4d0e58[_0x4e42cb(0xf9b)],-0x22cd+0x1021*0x1+-0x3*-0x63a)[_0x4e42cb(0x9d0)](_0x474c32,_0x4d0e58[_0x4e42cb(0x77d)](-0xc1e+-0x1fd9+0x2c10,deltaTime)),_0x12db1b=_0x4c3978[_0x4e42cb(0xbb1)](_0x4d0e58[_0x4e42cb(0x80e)],0x11*0x221+0xb*-0x251+-0xab4)[_0x4e42cb(0x9d0)](_0x12db1b,_0x474c32),_0x503fa3[_0x4e42cb(0xbb1)](_0x4d0e58[_0x4e42cb(0x110b)])[_0x4e42cb(0x9d0)](_0x12db1b);}},'toolTip':_0x4d0e58[_0x5358ee(0x494)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xee2)],'method':()=>{const _0x588b98=_0x5358ee;_0x4d0e58[_0x588b98(0x331)](rightTrigger,rightGrab)&&_0x5a7655[_0x588b98(0xbb1)](_0x4d0e58[_0x588b98(0x80d)])[_0x588b98(0x9d0)](_0x4c3978[_0x588b98(0x398)](_0x4d0e58[_0x588b98(0xadc)])[_0x588b98(0x1081)]),_0x4d0e58[_0x588b98(0x331)](rightTrigger,!rightGrab)&&_0x5a7655[_0x588b98(0xbb1)](_0x4d0e58[_0x588b98(0x908)])[_0x588b98(0x9d0)](_0x4c3978[_0x588b98(0x398)](_0x4d0e58[_0x588b98(0x102c)])[_0x588b98(0x1081)],_0x4d0e58[_0x588b98(0xb32)](0x19c8+0x5*0x5b3+0x3598*-0x1,deltaTime)),_0x4d0e58[_0x588b98(0xc1b)](!rightTrigger,rightGrab)&&_0x5a7655[_0x588b98(0xbb1)](_0x4d0e58[_0x588b98(0x908)])[_0x588b98(0x9d0)](_0x4c3978[_0x588b98(0x398)](_0x4d0e58[_0x588b98(0xfad)])[_0x588b98(0x1081)],_0x4d0e58[_0x588b98(0x1fa)](-0x58d+-0xa99+0x10d5,deltaTime));},'toolTip':_0x4d0e58[_0x5358ee(0x102f)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x8df)],'disableMethod':()=>{const _0x460e77=_0x5358ee;_0x515cbc[_0x460e77(0x398)](_0x4d0e58[_0x460e77(0xc8b)])[_0x460e77(0x1081)]=-0xaba*0x3+0x1fd2+0x1f*0x3;},'method':()=>{const _0x132598=_0x5358ee;rightTrigger&&(_0x515cbc[_0x132598(0x398)](_0x4d0e58[_0x132598(0xc8b)])[_0x132598(0x1081)]+=0x2*-0x8ba+-0x218f+-0x3*-0x1101+0.01),leftTrigger&&(_0x515cbc[_0x132598(0x398)](_0x4d0e58[_0x132598(0xc8b)])[_0x132598(0x1081)]-=0x1089+0x2063+0x1876*-0x2+0.01);},'toolTip':_0x4d0e58[_0x5358ee(0x520)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xd8d)],'disableMethod':()=>{const _0x4cf12c=_0x5358ee;_0x4d0e58[_0x4cf12c(0xb5f)](checkpoint,null)&&(_0x4d0e58[_0x4cf12c(0xf5b)](_0x40b1f6,checkpoint),checkpoint=null);},'method':()=>{const _0x136146=_0x5358ee;if(_0x4d0e58[_0x136146(0xba7)](rightGrab,rightPrimary)&&leftPrimary){if(_0x4d0e58[_0x136146(0xbb8)](checkpoint,null)){const _0x14d8b7=_0x17e59a;checkpoint=_0x4d0e58[_0x136146(0xfdc)](_0x5afd16,_0x14d8b7[_0x136146(0xbb1)](_0x4d0e58[_0x136146(0x39e)])[_0x136146(0x9d0)](),_0x5490f3,[-0x2547+-0x17f*-0x4+0x1f4b+0.2,-0x56*0x6f+-0xbe3+-0x312d*-0x1+0.2,0x107b*0x2+-0x33*-0x9+0x7*-0x4f7+0.2],0x1921+-0x3c0+0x1*-0x155e,bgColor),_0x4d0e58[_0x136146(0xdec)](_0x40b1f6,_0x4d0e58[_0x136146(0x815)](_0x560783,checkpoint,_0x4f347e));}else{const _0x1ced0c=_0x17e59a;checkpoint[_0x136146(0xbb1)](_0x4d0e58[_0x136146(0x364)])[_0x136146(0x9d0)]()[_0x136146(0xbb1)](_0x4d0e58[_0x136146(0x110b)])[_0x136146(0x9d0)](_0x1ced0c[_0x136146(0xbb1)](_0x4d0e58[_0x136146(0x39e)])[_0x136146(0x9d0)]());}}_0x4d0e58[_0x136146(0xa2f)](rightPrimary,leftPrimary)&&(_0x4d0e58[_0x136146(0x354)](checkpoint,null)&&(_0x4d0e58[_0x136146(0xbd5)](_0x1bb0eb,checkpoint[_0x136146(0xbb1)](_0x4d0e58[_0x136146(0x364)])[_0x136146(0x9d0)]()[_0x136146(0xbb1)](_0x4d0e58[_0x136146(0x39e)])[_0x136146(0x9d0)]()),_0x5a7655[_0x136146(0xbb1)](_0x4d0e58[_0x136146(0x80d)])[_0x136146(0x9d0)](_0x130c91)));},'toolTip':_0x4d0e58[_0x5358ee(0xa07)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x31a)],'method':()=>{const _0x3f1019=_0x5358ee,_0x4d3ed5=_0x4c3978[_0x3f1019(0xbb1)](_0x4d0e58[_0x3f1019(0xf9b)],-0x1d00+0x12cd*0x2+0x1b8*-0x5)[_0x3f1019(0x9d0)](_0x4c3978[_0x3f1019(0x398)](_0x4d0e58[_0x3f1019(0x102c)])[_0x3f1019(0x1081)],_0x4d0e58[_0x3f1019(0xf3e)](deltaTime,_0x4d0e58[_0x3f1019(0x437)](0x2352+0x824*0x1+0x1*-0x2b70+0.6600000000000001,deltaTime)));_0x5a7655[_0x3f1019(0xbb1)](_0x4d0e58[_0x3f1019(0x908)],-0xb2*0x16+0x208a+-0x113c)[_0x3f1019(0x9d0)](_0x4d3ed5,0x3ac+0x2110+-0x24b7);},'toolTip':_0x4d0e58[_0x5358ee(0x6fe)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x7b6)],'method':()=>{const _0x161453=_0x5358ee,_0x3c8d27=_0x4c3978[_0x161453(0xbb1)](_0x4d0e58[_0x161453(0xf9b)],-0x1*-0xaf3+-0xb3f*-0x1+-0x1630)[_0x161453(0x9d0)](_0x4c3978[_0x161453(0x398)](_0x4d0e58[_0x161453(0x102c)])[_0x161453(0x1081)],_0x4d0e58[_0x161453(0xf19)](deltaTime,_0x4d0e58[_0x161453(0x1003)](0x21*-0x6+0x6*-0x207+0xcf9+0.8100000000000005,deltaTime)));_0x5a7655[_0x161453(0xbb1)](_0x4d0e58[_0x161453(0x908)],0x1*-0x12c1+0x161*0x17+-0xcf4)[_0x161453(0x9d0)](_0x3c8d27,0x720+-0xba6*-0x1+-0x1*0x12c1);},'toolTip':_0x4d0e58[_0x5358ee(0x6fe)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x2c0)],'method':()=>{const _0x127cd2=_0x5358ee,_0x29734c=_0x4c3978[_0x127cd2(0xbb1)](_0x4d0e58[_0x127cd2(0xf9b)],-0x1dc4+-0x4*0x35c+0x2b36)[_0x127cd2(0x9d0)](_0x4c3978[_0x127cd2(0x398)](_0x4d0e58[_0x127cd2(0xfad)])[_0x127cd2(0x1081)],_0x4d0e58[_0x127cd2(0x22c)](deltaTime,_0x4d0e58[_0x127cd2(0xbb7)](-0x78f+0xdb2+-0x11*0x5c+0.7699999999999996,deltaTime)));_0x5a7655[_0x127cd2(0xbb1)](_0x4d0e58[_0x127cd2(0x908)],0x19*-0x17e+0x3eb+0x2165)[_0x127cd2(0x9d0)](_0x29734c,-0x2088+0x14b3+-0xbda*-0x1);},'toolTip':_0x4d0e58[_0x5358ee(0x214)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x6d7)],'method':()=>{const _0x2ff224=_0x5358ee;if(rightGrab){const _0x467ec2=_0x4d0e58[_0x2ff224(0xe4e)](_0x32e0f2),_0x18a8e3=_0x467ec2[_0x2ff224(0x1dd)];_0x4d0e58[_0x2ff224(0x166)](rightTrigger,!perviousTeleportKey)&&(_0x4d0e58[_0x2ff224(0x109b)](_0x1bb0eb,_0x4d0e58[_0x2ff224(0x573)](_0xb288f,_0x18a8e3)[_0x2ff224(0xbb1)](_0x4d0e58[_0x2ff224(0x39e)])[_0x2ff224(0x9d0)]()),_0x5a7655[_0x2ff224(0xbb1)](_0x4d0e58[_0x2ff224(0x80d)])[_0x2ff224(0x9d0)](_0x130c91)),perviousTeleportKey=rightTrigger;}},'toolTip':_0x4d0e58[_0x5358ee(0xc5a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x1039)],'method':()=>{const _0x45552c=_0x5358ee,_0x5b38ba=_0x15c2bc[_0x45552c(0xbb1)](_0x4d0e58[_0x45552c(0xe09)])[_0x45552c(0x2b5)](_0xcb2f35)[_0x45552c(0x9d0)]();if(!_0x5b38ba)return null;const _0x2f55fe=[];for(let _0x31dcdc=0x1ab7+0xb5*-0x2f+0x684;_0x4d0e58[_0x45552c(0x3ff)](_0x31dcdc,_0x5b38ba[_0x45552c(0x285)]);_0x31dcdc++){const _0x3c1c35=_0x5b38ba[_0x45552c(0xadb)](_0x31dcdc);if(_0x4d0e58[_0x45552c(0xe74)](_0x4d8800,_0x3c1c35))continue;_0x2f55fe[_0x45552c(0x917)](_0x3c1c35);}if(_0x4d0e58[_0x45552c(0x8f3)](_0x2f55fe[_0x45552c(0x285)],0x1*-0x18cb+-0x3f*0xf+0x1c7c))return null;const _0x264698=_0x2f55fe[Math[_0x45552c(0x61f)](_0x4d0e58[_0x45552c(0x22c)](Math[_0x45552c(0x521)](),_0x2f55fe[_0x45552c(0x285)]))];_0x4d0e58[_0x45552c(0x10b9)](_0x1bb0eb,_0x4d0e58[_0x45552c(0xe76)](_0xb288f,_0x264698)[_0x45552c(0xbb1)](_0x4d0e58[_0x45552c(0x39e)])[_0x45552c(0x9d0)]()),_0x5a7655[_0x45552c(0xbb1)](_0x4d0e58[_0x45552c(0x80d)])[_0x45552c(0x9d0)](_0x130c91);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xf7a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe4c)],'method':()=>{const _0x2834ed=_0x5358ee;if(leftPrimary){const _0x10b160=_0x31c6c9[_0x2834ed(0xbb1)](_0x4d0e58[_0x2834ed(0x609)])[_0x2834ed(0x9d0)](),_0x35392a=_0x4c3978[_0x2834ed(0xbb1)](_0x4d0e58[_0x2834ed(0xf9b)],-0x2*-0x103f+-0x1*0x705+-0x1977)[_0x2834ed(0x9d0)](_0x10b160,_0x4d0e58[_0x2834ed(0xf3e)](-(0x778*0x5+-0x65a+-0x1eef),deltaTime));_0x5a7655[_0x2834ed(0xbb1)](_0x4d0e58[_0x2834ed(0x908)],-0x2*0xaf1+-0x2045+0x3b*0xeb)[_0x2834ed(0x9d0)](_0x35392a,0x1d8e+-0xcb0+-0x10dc);}if(rightPrimary){const _0x229574=_0x17e59a[_0x2834ed(0xbb1)](_0x4d0e58[_0x2834ed(0x609)])[_0x2834ed(0x9d0)](),_0x2cc2a5=_0x4c3978[_0x2834ed(0xbb1)](_0x4d0e58[_0x2834ed(0xf9b)],0x1214+-0x3cb+-0x2db*0x5)[_0x2834ed(0x9d0)](_0x229574,_0x4d0e58[_0x2834ed(0xa71)](0x119a+-0x1a3a+0x75*0x13,deltaTime));_0x5a7655[_0x2834ed(0xbb1)](_0x4d0e58[_0x2834ed(0x908)],-0x4*-0x797+-0x3*-0x2f4+0xef*-0x2a)[_0x2834ed(0x9d0)](_0x2cc2a5,-0x11df+0x7b*0x29+0x1*-0x1d2);}},'toolTip':_0x4d0e58[_0x5358ee(0x4f0)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xca2)],'method':()=>{const _0x5daf09=_0x5358ee;_0x4d0e58[_0x5daf09(0x29b)](rightTrigger,!previousNoclipKey)&&_0x4d0e58[_0x5daf09(0x415)](_0x549a41,![]),_0x4d0e58[_0x5daf09(0xc1b)](!rightTrigger,previousNoclipKey)&&_0x4d0e58[_0x5daf09(0x171)](_0x549a41,!![]),previousNoclipKey=rightTrigger;},'toolTip':_0x4d0e58[_0x5358ee(0x498)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x7f7)],'method':()=>{const _0x22eed2=_0x5358ee;_0x4d0e58[_0x22eed2(0x8bd)](rightTrigger,!previousNoclipKey)&&(_0x515cbc[_0x22eed2(0x398)](_0x4d0e58[_0x22eed2(0x48b)])[_0x22eed2(0x1081)]=!![]),_0x4d0e58[_0x22eed2(0x26b)](!rightTrigger,previousNoclipKey)&&(_0x515cbc[_0x22eed2(0x398)](_0x4d0e58[_0x22eed2(0x48b)])[_0x22eed2(0x1081)]=![]),previousNoclipKey=rightTrigger;},'toolTip':_0x4d0e58[_0x5358ee(0x498)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xce9)],'method':()=>{const _0x25c4af=_0x5358ee;_0x4d0e58[_0x25c4af(0x342)](_0xb288f,_0x515cbc)[_0x25c4af(0xbb1)](_0x4d0e58[_0x25c4af(0x1bd)])[_0x25c4af(0x9d0)]([0x19*-0x6d+0x1dda*-0x1+-0x90*-0x48+0.08000000000000007,0x3*-0x682+0x9c9+0x9be*0x1+0.08000000000000007,0xb2*0x2b+0x1cc0+-0x3aa5*0x1+0.08000000000000007]);},'disableMethod':()=>{const _0x46364d=_0x5358ee;_0x4d0e58[_0x46364d(0xc5e)](_0xb288f,_0x515cbc)[_0x46364d(0xbb1)](_0x4d0e58[_0x46364d(0x1bd)])[_0x46364d(0x9d0)](_0x2f6a53);},'toolTip':_0x4d0e58[_0x5358ee(0xe11)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x284)],'method':()=>{const _0x43706b=_0x5358ee;_0x4d0e58[_0x43706b(0x826)](_0xb288f,_0x515cbc)[_0x43706b(0xbb1)](_0x4d0e58[_0x43706b(0x1bd)])[_0x43706b(0x9d0)]([0x9*0x315+0x1051*-0x1+0x25*-0x4f+0.25,0xfc+0xbcc+0xcc7*-0x1+0.25,0x62*0x15+-0x7d2+0xb*-0x5+0.25]);},'disableMethod':()=>{const _0x11dd68=_0x5358ee;_0x4d0e58[_0x11dd68(0x3b0)](_0xb288f,_0x515cbc)[_0x11dd68(0xbb1)](_0x4d0e58[_0x11dd68(0x1bd)])[_0x11dd68(0x9d0)](_0x2f6a53);},'toolTip':_0x4d0e58[_0x5358ee(0x262)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xa2d)],'method':()=>{const _0x151fbc=_0x5358ee;_0x515cbc[_0x151fbc(0xbb1)](_0x4d0e58[_0x151fbc(0x3b6)])[_0x151fbc(0x9d0)](-0xb01+-0xd2f+0x1832);},'toolTip':_0x4d0e58[_0x5358ee(0x22e)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x1125)],'method':()=>{const _0x5d6487=_0x5358ee;if(_0x4d0e58[_0x5d6487(0xd65)](!_0x515cbc,!_0x5a7655))return;const _0x3901c5=_0x5a7655[_0x5d6487(0xbb1)](_0x4d0e58[_0x5d6487(0xc40)]),_0x3e61c3=_0x5a7655[_0x5d6487(0xbb1)](_0x4d0e58[_0x5d6487(0x42b)]),_0x59a75c=_0x4d0e58[_0x5d6487(0xa18)](_0xb288f,_0x515cbc)[_0x5d6487(0xbb1)](_0x4d0e58[_0x5d6487(0xe21)]),_0x480f93=_0x5a7655[_0x5d6487(0xbb1)](_0x4d0e58[_0x5d6487(0x80d)]),_0xcca824=_0x5a7655[_0x5d6487(0xbb1)](_0x4d0e58[_0x5d6487(0xece)]),_0x596e27=_0x5a7655[_0x5d6487(0xbb1)](_0x4d0e58[_0x5d6487(0x908)]);rightStick&&_0x3901c5[_0x5d6487(0x9d0)](0x10ca*-0x2+0x1533+0xc61),!rightStick&&(_0x4d0e58[_0x5d6487(0x93b)](_0x3e61c3[_0x5d6487(0x9d0)]()[_0x5d6487(0x398)](_0x4d0e58[_0x5d6487(0x4bc)])[_0x5d6487(0x1081)],0x5a2+0xf25+-0x1b*0xc5)&&(_0x3901c5[_0x5d6487(0x9d0)](0x12a3+-0x1*0x715+-0xb1e),_0x59a75c[_0x5d6487(0x9d0)](_0x5490f3)));},'toolTip':_0x4d0e58[_0x5358ee(0x3c6)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x392)],'method':()=>{_0x2063c0=0x4*0x49+-0x1464+0x1340,_0x468f75=-0x182*0xd+0x2*-0x67e+0x1*0x2096;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x8da)],'method':()=>{const _0x464058=_0x5358ee;currentItemIndex=_0x4d0e58[_0x464058(0x44d)](_0x4d0e58[_0x464058(0x617)](currentItemIndex,-0x1*0xe26+0x18e5+0x19*-0x6e),itemIDs[_0x464058(0x285)]),_0x4d0e58[_0x464058(0xf04)](_0x415d60,_0x4d0e58[_0x464058(0x1076)](_0x4d0e58[_0x464058(0x942)],itemIDs[currentItemIndex]),![]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x17c)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x935)],'method':()=>{const _0xd212d3=_0x5358ee;currentItemIndex=_0x4d0e58[_0xd212d3(0x7df)](_0x4d0e58[_0xd212d3(0xd9c)](_0x4d0e58[_0xd212d3(0x64c)](currentItemIndex,0x14b*0x1e+-0x519+-0x21b0),itemIDs[_0xd212d3(0x285)]),itemIDs[_0xd212d3(0x285)]),_0x4d0e58[_0xd212d3(0x109d)](_0x415d60,_0x4d0e58[_0xd212d3(0xde5)](_0x4d0e58[_0xd212d3(0x942)],itemIDs[currentItemIndex]),![]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x5a8)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x9ff)],'isTogglable':!![],'method':((()=>{const _0x4aeca2=_0x5358ee,_0x205ca3={'brOgv':function(_0x3d6e39,_0x166424){const _0x449e90=_0x38eb;return _0x4d0e58[_0x449e90(0xc76)](_0x3d6e39,_0x166424);},'ZQLpo':_0x4d0e58[_0x4aeca2(0x45b)],'dJQAp':_0x4d0e58[_0x4aeca2(0xcc9)],'RiXQq':_0x4d0e58[_0x4aeca2(0x134)],'tjHPo':_0x4d0e58[_0x4aeca2(0x3a7)],'KaUet':function(_0x1d0fa8,_0x3eff9f){const _0x348393=_0x4aeca2;return _0x4d0e58[_0x348393(0x415)](_0x1d0fa8,_0x3eff9f);},'LlgFr':_0x4d0e58[_0x4aeca2(0x39e)],'VUpMP':function(_0xc0f663,_0x4c903){const _0x1ff417=_0x4aeca2;return _0x4d0e58[_0x1ff417(0x821)](_0xc0f663,_0x4c903);},'oIEwy':_0x4d0e58[_0x4aeca2(0x126)],'ZfFHr':function(_0x4f6277,_0x22b6d6){const _0x2f24c5=_0x4aeca2;return _0x4d0e58[_0x2f24c5(0xf19)](_0x4f6277,_0x22b6d6);},'omZFB':function(_0x783355,_0x48c9fa){const _0x53c25e=_0x4aeca2;return _0x4d0e58[_0x53c25e(0x390)](_0x783355,_0x48c9fa);},'KiwkR':function(_0x292eb1,_0x40334a){const _0x5f6095=_0x4aeca2;return _0x4d0e58[_0x5f6095(0x2b1)](_0x292eb1,_0x40334a);},'cqZgM':function(_0x376f02,_0x5014d5){const _0x24fac6=_0x4aeca2;return _0x4d0e58[_0x24fac6(0x821)](_0x376f02,_0x5014d5);},'dDNKc':function(_0xecd1d2,_0x3e0256){const _0x2ef065=_0x4aeca2;return _0x4d0e58[_0x2ef065(0xaaf)](_0xecd1d2,_0x3e0256);},'orPtw':function(_0x47ab7e,_0x51745b){const _0x101064=_0x4aeca2;return _0x4d0e58[_0x101064(0x5de)](_0x47ab7e,_0x51745b);},'NoPga':function(_0x46bac5,_0x598ca4){const _0x2c82e2=_0x4aeca2;return _0x4d0e58[_0x2c82e2(0xb4c)](_0x46bac5,_0x598ca4);},'aXPXn':_0x4d0e58[_0x4aeca2(0x80e)],'vwCly':_0x4d0e58[_0x4aeca2(0xf9b)],'KKDxZ':_0x4d0e58[_0x4aeca2(0x848)],'UPYzm':_0x4d0e58[_0x4aeca2(0xfa7)],'QvEmN':_0x4d0e58[_0x4aeca2(0x10a0)],'pHVDw':_0x4d0e58[_0x4aeca2(0x110b)],'dhNtR':_0x4d0e58[_0x4aeca2(0x2bb)]};let _0x1bf458=0x253*0xb+0xa9*0x1+-0x1a3a,_0x301318=[],_0x424e31=-(0x1f23+-0x1bef+-0x333);const _0x4d67cc=-0x6fd+-0x16d0+-0x1dce*-0x1+0.5,_0x382f8b=0x1885*-0x1+0xb19+0xdc6;return()=>{const _0x52b09a=_0x4aeca2;try{if(_0x205ca3[_0x52b09a(0x782)](_0x424e31,currentItemIndex)){for(const _0x5e3b5d of _0x301318){try{if(_0x5e3b5d&&!_0x5e3b5d[_0x52b09a(0xa74)]()){const _0x2005b8=_0x5e3b5d[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x2a7)],0x23fa+-0x3d*0x2+-0x237f)[_0x52b09a(0x2b5)](_0x2a34d8)[_0x52b09a(0x9d0)]();if(_0x2005b8&&!_0x2005b8[_0x52b09a(0xa74)]()){const _0x100751=_0x464f9d[_0x52b09a(0x398)](_0x205ca3[_0x52b09a(0xaac)])[_0x52b09a(0x1081)][_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x6f8)])[_0x52b09a(0x9d0)]();_0x100751[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x8f4)],0x21c4+0x1e17+-0x3fda)[_0x52b09a(0x9d0)](_0x2005b8);}}}catch(_0x3f0d8){}}_0x301318=[];const _0x4d57c8=_0x205ca3[_0x52b09a(0x8e3)](_0xb288f,_0x431304)[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x270)])[_0x52b09a(0x9d0)]();for(let _0x43fb1c=-0x13c8+-0x97+0x145f;_0x205ca3[_0x52b09a(0x947)](_0x43fb1c,0x27e+-0x2*0x610+0x9a7);_0x43fb1c++){try{const _0x3fa1bc=_0x464f9d[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x1db)],-0x2327+0x4*0x1c1+0x1c27*0x1)[_0x52b09a(0x9d0)](Il2Cpp[_0x52b09a(0x404)](itemIDs[currentItemIndex]),_0x4d57c8,_0x5490f3,null);_0x3fa1bc&&!_0x3fa1bc[_0x52b09a(0xa74)]()&&_0x301318[_0x52b09a(0x917)](_0x3fa1bc);}catch(_0x22d042){}}_0x424e31=currentItemIndex;}_0x1bf458+=_0x205ca3[_0x52b09a(0x9d2)](_0x382f8b,deltaTime);if(_0x205ca3[_0x52b09a(0xcdb)](_0x1bf458,-0x38f*0x7+0x2049+-0x4*0x17e))_0x1bf458-=-0x7de*-0x2+0xf0d+-0x1d61;const _0x2871f9=_0x205ca3[_0x52b09a(0x76e)](_0xb288f,_0x431304)[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x270)])[_0x52b09a(0x9d0)]();for(let _0x3d79b2=0x22a1+-0x181*0x13+-0x60e;_0x205ca3[_0x52b09a(0x273)](_0x3d79b2,_0x301318[_0x52b09a(0x285)]);_0x3d79b2++){const _0x3720c8=_0x301318[_0x3d79b2];if(!_0x3720c8||_0x3720c8[_0x52b09a(0xa74)]())continue;const _0x235490=_0x205ca3[_0x52b09a(0x9d2)](_0x205ca3[_0x52b09a(0xd71)](0x21e2+-0x1*-0x1120+-0x319a,_0x301318[_0x52b09a(0x285)]),_0x3d79b2),_0x1539f0=_0x205ca3[_0x52b09a(0x529)](_0x205ca3[_0x52b09a(0xb76)](_0x1bf458,_0x235490),_0x205ca3[_0x52b09a(0xd71)](Math['PI'],0x55e+0x5*-0x56b+0x166d)),_0x22882f=_0x205ca3[_0x52b09a(0x529)](Math[_0x52b09a(0xf74)](_0x1539f0),_0x4d67cc),_0x4905fa=_0x205ca3[_0x52b09a(0x529)](Math[_0x52b09a(0x47e)](_0x1539f0),_0x4d67cc),_0x3f1362=_0x4c3978[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x576)])[_0x52b09a(0x9d0)](_0x4c3978[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x72c)])[_0x52b09a(0x9d0)](_0x4c3978[_0x52b09a(0x398)](_0x205ca3[_0x52b09a(0x770)])[_0x52b09a(0x1081)],_0x22882f),_0x4c3978[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x72c)])[_0x52b09a(0x9d0)](_0x4c3978[_0x52b09a(0x398)](_0x205ca3[_0x52b09a(0x4d2)])[_0x52b09a(0x1081)],_0x4905fa)),_0x4999d7=_0x4c3978[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x576)])[_0x52b09a(0x9d0)](_0x2871f9,_0x3f1362);try{const _0x48b439=_0x3720c8[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x2a7)],0x35*-0xa9+-0x7*-0x35a+-0x7b*-0x18)[_0x52b09a(0x2b5)](_0x2e62a6)[_0x52b09a(0x9d0)]();_0x48b439&&!_0x48b439[_0x52b09a(0xa74)]()&&_0x48b439[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0xac3)],0x2*0x6f3+0x3d7+0x1*-0x11bb)[_0x52b09a(0x9d0)](_0x4999d7,_0x5490f3,_0x130c91,_0x130c91,![],![]);}catch(_0x11da85){try{_0x205ca3[_0x52b09a(0x76e)](_0xb288f,_0x3720c8)[_0x52b09a(0xbb1)](_0x205ca3[_0x52b09a(0x614)])[_0x52b09a(0x9d0)](_0x4999d7);}catch(_0x106ffb){}}}}catch(_0x1c1327){console[_0x52b09a(0x716)](_0x205ca3[_0x52b09a(0x4ef)],_0x1c1327);}};})()),'disableMethod':((()=>{return()=>{};})()),'toolTip':_0x4d0e58[_0x5358ee(0xf4a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x489)],'isTogglable':!![],'method':()=>{const _0x1c0325=_0x5358ee;if(!rightGrab)return;try{const _0x2ecd2b=_0x17e59a[_0x1c0325(0xbb1)](_0x4d0e58[_0x1c0325(0x39e)])[_0x1c0325(0x9d0)](),_0x4c5d53=_0x17e59a[_0x1c0325(0xbb1)](_0x4d0e58[_0x1c0325(0xa36)])[_0x1c0325(0x9d0)](),_0x173634=_0x464f9d[_0x1c0325(0xbb1)](_0x4d0e58[_0x1c0325(0x126)],-0x303*0x1+0x10e6+-0x43*0x35)[_0x1c0325(0x9d0)](Il2Cpp[_0x1c0325(0x404)](itemIDs[currentItemIndex]),_0x2ecd2b,_0x4c5d53,null);if(_0x173634&&!_0x173634[_0x1c0325(0xa74)]())try{const _0xcf09=_0x173634[_0x1c0325(0xbb1)](_0x4d0e58[_0x1c0325(0x45b)],-0x14fe+0x2*-0x665+0x21c9)[_0x1c0325(0x2b5)](_0x2e62a6)[_0x1c0325(0x9d0)]();_0xcf09&&!_0xcf09[_0x1c0325(0xa74)]()&&_0xcf09[_0x1c0325(0xbb1)](_0x4d0e58[_0x1c0325(0xf37)])[_0x1c0325(0x9d0)](Math[_0x1c0325(0x61f)](sizespawner));}catch(_0x3b4a2a){}}catch(_0x732a23){console[_0x1c0325(0x716)](_0x4d0e58[_0x1c0325(0x6f0)],_0x732a23);}},'toolTip':_0x4d0e58[_0x5358ee(0x3cb)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x64b)],'method':()=>{const _0x432c4c=_0x5358ee;if(rightGrab){const _0x41a491=_0x4d0e58[_0x432c4c(0x434)](_0x32e0f2),_0x4bffc6=_0x41a491[_0x432c4c(0x2cd)];if(_0x4d0e58[_0x432c4c(0xba7)](rightTrigger,_0x4bffc6)){const _0x63e0f1=_0x4d0e58[_0x432c4c(0xf1c)](_0x2c485b,_0x4bffc6[_0x432c4c(0xbb1)](_0x4d0e58[_0x432c4c(0xb70)])[_0x432c4c(0x9d0)](),_0x2c0f67);if(_0x63e0f1&&!_0x63e0f1[_0x432c4c(0xfd5)][_0x432c4c(0xa74)]()&&_0x4d0e58[_0x432c4c(0x999)](_0x4133e7,idGunDelay)){if(!_0x4d0e58[_0x432c4c(0x10ff)](_0x4d8800,_0x63e0f1)){idGunDelay=_0x4d0e58[_0x432c4c(0xb4c)](_0x4133e7,0x958+0x1f9*0x5+-0x1335+0.5);const _0x1e94da=_0x63e0f1[_0x432c4c(0xbb1)](_0x4d0e58[_0x432c4c(0x6bf)])[_0x432c4c(0x9d0)]();_0x4d0e58[_0x432c4c(0x2f2)](_0x415d60,_0x4d0e58[_0x432c4c(0x105e)](_0x4d0e58[_0x432c4c(0x846)],_0x4d0e58[_0x432c4c(0x2b1)](String,_0x1e94da)));}}}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x602)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x29e)],'method':()=>{_0x2063c0=-0xba2+-0xeea+0x6a3*0x4,_0x468f75=0x1*0xd5b+-0x465+0x3e*-0x25;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xad1)],'method':()=>{const _0x65b324=_0x5358ee;if(rightGrab){const _0x366aca=_0x4d0e58[_0x65b324(0x220)](_0x32e0f2),_0x186320=_0x366aca[_0x65b324(0x2cd)];if(_0x4d0e58[_0x65b324(0xd7c)](rightTrigger,_0x186320)){const _0x39fd4c=_0x4d0e58[_0x65b324(0x981)](_0x2c485b,_0x186320[_0x65b324(0xbb1)](_0x4d0e58[_0x65b324(0xb70)])[_0x65b324(0x9d0)](),_0xcb2f35);_0x39fd4c&&!_0x39fd4c[_0x65b324(0xfd5)][_0x65b324(0xa74)]()&&_0x4d0e58[_0x65b324(0x390)](_0x4133e7,tagGunDelay)&&(!_0x4d0e58[_0x65b324(0xea3)](_0x4d8800,_0x39fd4c)&&_0x39fd4c[_0x65b324(0xbb1)](_0x4d0e58[_0x65b324(0x665)])[_0x65b324(0x9d0)]());}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xff0)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe59)],'isTogglable':![],'method':()=>{const _0x5813d9=_0x5358ee,_0x255ebe=_0x15c2bc[_0x5813d9(0xbb1)](_0x4d0e58[_0x5813d9(0xe09)])[_0x5813d9(0x2b5)](_0xcb2f35)[_0x5813d9(0x9d0)]();if(!_0x255ebe)return null;for(let _0x301894=0x173c*0x1+0xcc1+-0x23fd;_0x4d0e58[_0x5813d9(0x821)](_0x301894,_0x255ebe[_0x5813d9(0x285)]);_0x301894++){const _0x58d54c=_0x255ebe[_0x5813d9(0xadb)](_0x301894);if(_0x58d54c[_0x5813d9(0xbb1)](_0x4d0e58[_0x5813d9(0xb3c)])[_0x5813d9(0x9d0)]())continue;_0x58d54c[_0x5813d9(0xbb1)](_0x4d0e58[_0x5813d9(0x665)])[_0x5813d9(0x9d0)]();}},'toolTip':_0x4d0e58[_0x5358ee(0x3f3)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x830)],'method':()=>{const _0x1de641=_0x5358ee,_0x33bac7=_0x4d0e58[_0x1de641(0x144)](-0x7f0+-0x3b*-0x13+-0x2*-0x1c8,0x18d9+-0xcb3*0x1+0x31*-0x3e),_0x1112cc=_0x4d0e58[_0x1de641(0x953)](_0x30f217[_0x1de641(0xbb1)](_0x4d0e58[_0x1de641(0x944)])[_0x1de641(0x9d0)](),lastTime);if(_0x4d0e58[_0x1de641(0x3ff)](_0x1112cc,_0x33bac7)){const _0x27fcf5=Math[_0x1de641(0x61f)](_0x4d0e58[_0x1de641(0x4b6)](_0x4d0e58[_0x1de641(0xcbc)](_0x33bac7,_0x1112cc),0x92d+0x619+-0xb5e));if(_0x4d0e58[_0x1de641(0x46b)](_0x27fcf5,-0x14a0+-0x1591+0x2a31))_0x24a20f[_0x1de641(0xbb1)](_0x4d0e58[_0x1de641(0xd39)])[_0x1de641(0x9d0)](_0x27fcf5);}lastTime=_0x30f217[_0x1de641(0xbb1)](_0x4d0e58[_0x1de641(0x944)])[_0x1de641(0x9d0)]();},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xa65)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xac5)],'method':()=>{const _0x73a2a6=_0x5358ee,_0x8ee5bf=_0x4d0e58[_0x73a2a6(0xaaf)](-0x1c85+0x26b*-0xd+-0x3bf5*-0x1,-0xcf5+-0x2398+0x30c9),_0x6b91d4=_0x4d0e58[_0x73a2a6(0x34d)](_0x30f217[_0x73a2a6(0xbb1)](_0x4d0e58[_0x73a2a6(0x944)])[_0x73a2a6(0x9d0)](),lastTime);if(_0x4d0e58[_0x73a2a6(0xc77)](_0x6b91d4,_0x8ee5bf)){const _0x404f67=Math[_0x73a2a6(0x61f)](_0x4d0e58[_0x73a2a6(0x22c)](_0x4d0e58[_0x73a2a6(0x111c)](_0x8ee5bf,_0x6b91d4),0x48b*0x1+0xe67+-0xf0a));if(_0x4d0e58[_0x73a2a6(0x956)](_0x404f67,-0x1*0x21a8+0x190f+0x899))_0x24a20f[_0x73a2a6(0xbb1)](_0x4d0e58[_0x73a2a6(0xd39)])[_0x73a2a6(0x9d0)](_0x404f67);}lastTime=_0x30f217[_0x73a2a6(0xbb1)](_0x4d0e58[_0x73a2a6(0x944)])[_0x73a2a6(0x9d0)]();},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xfc5)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x10ca)],'method':()=>{const _0x3456d3=_0x5358ee,_0x2ce57d=_0x4d0e58[_0x3456d3(0xaaf)](0x1*0x158f+0x5*-0x9c+-0x1282,-0x2079+0x1f71+-0x67*-0x3),_0x56d84e=_0x4d0e58[_0x3456d3(0x111b)](_0x30f217[_0x3456d3(0xbb1)](_0x4d0e58[_0x3456d3(0x944)])[_0x3456d3(0x9d0)](),lastTime);if(_0x4d0e58[_0x3456d3(0x821)](_0x56d84e,_0x2ce57d)){const _0x1079ef=Math[_0x3456d3(0x61f)](_0x4d0e58[_0x3456d3(0x77d)](_0x4d0e58[_0x3456d3(0x111b)](_0x2ce57d,_0x56d84e),0x2585+-0x9ad+-0x8*0x2fe));if(_0x4d0e58[_0x3456d3(0x6ca)](_0x1079ef,-0x4f*0x1+0xffb+-0xfac))_0x24a20f[_0x3456d3(0xbb1)](_0x4d0e58[_0x3456d3(0xd39)])[_0x3456d3(0x9d0)](_0x1079ef);}lastTime=_0x30f217[_0x3456d3(0xbb1)](_0x4d0e58[_0x3456d3(0x944)])[_0x3456d3(0x9d0)]();},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xfeb)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x149)],'method':()=>{_0x2063c0=-0x1f8e+0x1*-0x1d+0x1fab*0x1,_0x468f75=0x848+-0x64a*-0x3+-0x1b26;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb1f)],'method':()=>{const _0x255dfb=_0x5358ee;if(_0x4d0e58[_0x255dfb(0xc1b)](rightPrimary,!previousInvisKey)){const _0x1d9753=_0x56b0b9[_0x255dfb(0xbb1)](_0x4d0e58[_0x255dfb(0xa46)])[_0x255dfb(0x9d0)](),_0x5d4067=_0x1d9753[_0x255dfb(0xbb1)](_0x4d0e58[_0x255dfb(0x93c)])[_0x255dfb(0x9d0)]();if(!_0x5d4067)return null;const _0xff4f08=_0x5d4067[_0x255dfb(0x398)](_0x4d0e58[_0x255dfb(0x3d5)])[_0x255dfb(0x1081)];if(!_0xff4f08)return null;_0xff4f08[_0x255dfb(0xbb1)](_0x4d0e58[_0x255dfb(0x110b)])[_0x255dfb(0x9d0)]([-0x4e+0x68*0x9+-0x3*0x11e,-(-0x2a*0x544+0xe7fb+0x17bcc),0x4*-0x839+-0x1782+0x3866*0x1]);}else{if(_0x4d0e58[_0x255dfb(0x8bd)](!rightPrimary,previousInvisKey)){const _0x8b09b0=_0x56b0b9[_0x255dfb(0xbb1)](_0x4d0e58[_0x255dfb(0xa46)])[_0x255dfb(0x9d0)](),_0x3f9066=_0x8b09b0[_0x255dfb(0xbb1)](_0x4d0e58[_0x255dfb(0x93c)])[_0x255dfb(0x9d0)]();if(!_0x3f9066)return null;const _0x31a073=_0x3f9066[_0x255dfb(0x398)](_0x4d0e58[_0x255dfb(0x3d5)])[_0x255dfb(0x1081)];if(!_0x31a073)return null;_0x31a073[_0x255dfb(0xbb1)](_0x4d0e58[_0x255dfb(0x110b)])[_0x255dfb(0x9d0)](_0x4d0e58[_0x255dfb(0x101f)](_0xb288f,_0x431304)[_0x255dfb(0xbb1)](_0x4d0e58[_0x255dfb(0x39e)])[_0x255dfb(0x9d0)]());}}previousInvisKey=rightPrimary;},'toolTip':_0x4d0e58[_0x5358ee(0x388)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe72)],'method':()=>{const _0x76d15=_0x5358ee;if(_0x4d0e58[_0x76d15(0xa2f)](rightStick,!previousInvisKey)){const _0x57ae64=_0x56b0b9[_0x76d15(0xbb1)](_0x4d0e58[_0x76d15(0xa46)])[_0x76d15(0x9d0)](),_0x6dca93=_0x57ae64[_0x76d15(0xbb1)](_0x4d0e58[_0x76d15(0x93c)])[_0x76d15(0x9d0)]();if(!_0x6dca93)return null;_0x6dca93[_0x76d15(0xbb1)](_0x4d0e58[_0x76d15(0xf21)])[_0x76d15(0x9d0)](!![],[0x12d6*0x1+0x11de+-0x24b4,-0x101c+-0x2680+0x369c,0x55a+-0x413*0x8+-0x1*-0x1b3e],_0x5a7655,_0x4d0e58[_0x76d15(0x5dc)](_0xb288f,_0x431304));}else{if(_0x4d0e58[_0x76d15(0xcfa)](!rightStick,previousInvisKey)){const _0x2dafff=_0x56b0b9[_0x76d15(0xbb1)](_0x4d0e58[_0x76d15(0xa46)])[_0x76d15(0x9d0)](),_0x4eb236=_0x2dafff[_0x76d15(0xbb1)](_0x4d0e58[_0x76d15(0x93c)])[_0x76d15(0x9d0)]();if(!_0x4eb236)return null;_0x4eb236[_0x76d15(0xbb1)](_0x4d0e58[_0x76d15(0xf21)])[_0x76d15(0x9d0)](![],[0x2302+-0xa0*-0xa+-0x2942,-0x183d+0x247a*0x1+-0xd*0xf1,0x57c+-0xb*-0x59+-0x1*0x94f],_0x5a7655,_0x4d0e58[_0x76d15(0xdb3)](_0xb288f,_0x431304));}}previousInvisKey=rightStick;},'toolTip':_0x4d0e58[_0x5358ee(0xec1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x850)],'method':()=>{const _0x548c10=_0x5358ee,_0x5ec232=_0x56b0b9[_0x548c10(0xbb1)](_0x4d0e58[_0x548c10(0xa46)])[_0x548c10(0x9d0)](),_0x42a6a8=_0x5ec232[_0x548c10(0xbb1)](_0x4d0e58[_0x548c10(0x93c)])[_0x548c10(0x9d0)]();if(!_0x42a6a8)return null;const _0x4a8f75=_0x42a6a8[_0x548c10(0x398)](_0x4d0e58[_0x548c10(0x3d5)])[_0x548c10(0x1081)];if(!_0x4a8f75)return null;if(rightGrab){const _0x314856=_0x4d0e58[_0x548c10(0x434)](_0x32e0f2),_0x29cd6c=_0x314856[_0x548c10(0x1dd)];if(rightTrigger){const _0x438889=_0x4c3978[_0x548c10(0xbb1)](_0x4d0e58[_0x548c10(0x80e)],-0x9*-0x1a5+-0xb65*0x1+-0x366)[_0x548c10(0x9d0)]([-0x36f+-0x2*0x418+0xb9f,-0x1c71+-0x24d1+-0x15c1*-0x3,0x15b8+0x24d5*-0x1+-0x49*-0x35],_0x4d0e58[_0x548c10(0xc79)](_0xb288f,_0x29cd6c)[_0x548c10(0xbb1)](_0x4d0e58[_0x548c10(0x39e)])[_0x548c10(0x9d0)]());_0x4a8f75[_0x548c10(0xbb1)](_0x4d0e58[_0x548c10(0x110b)])[_0x548c10(0x9d0)](_0x438889);}else _0x4a8f75[_0x548c10(0xbb1)](_0x4d0e58[_0x548c10(0x110b)])[_0x548c10(0x9d0)](_0x4d0e58[_0x548c10(0x71d)](_0xb288f,_0x431304)[_0x548c10(0xbb1)](_0x4d0e58[_0x548c10(0x39e)])[_0x548c10(0x9d0)]());}},'toolTip':_0x4d0e58[_0x5358ee(0xbd1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe9d)],'method':()=>{const _0x3bda07=_0x5358ee,_0x1a38e6=_0x56b0b9[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0xa46)])[_0x3bda07(0x9d0)](),_0x2c5e28=_0x1a38e6[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x93c)])[_0x3bda07(0x9d0)]();if(!_0x2c5e28)return null;const _0x572cf7=_0x2c5e28[_0x3bda07(0x398)](_0x4d0e58[_0x3bda07(0x3d5)])[_0x3bda07(0x1081)];if(!_0x572cf7)return null;rightGrab?(_0x572cf7[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x110b)])[_0x3bda07(0x9d0)](_0x17e59a[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x39e)])[_0x3bda07(0x9d0)]()),_0x572cf7[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x161)])[_0x3bda07(0x9d0)](_0x17e59a[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0xa36)])[_0x3bda07(0x9d0)]())):(_0x572cf7[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x110b)])[_0x3bda07(0x9d0)](_0x4d0e58[_0x3bda07(0x9c2)](_0xb288f,_0x431304)[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x39e)])[_0x3bda07(0x9d0)]()),_0x572cf7[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x161)])[_0x3bda07(0x9d0)](_0x4d0e58[_0x3bda07(0x1109)](_0xb288f,_0x431304)[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0xa36)])[_0x3bda07(0x9d0)]())),leftGrab?(_0x572cf7[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x110b)])[_0x3bda07(0x9d0)](_0x31c6c9[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x39e)])[_0x3bda07(0x9d0)]()),_0x572cf7[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x161)])[_0x3bda07(0x9d0)](_0x31c6c9[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0xa36)])[_0x3bda07(0x9d0)]())):(_0x572cf7[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x110b)])[_0x3bda07(0x9d0)](_0x4d0e58[_0x3bda07(0x573)](_0xb288f,_0x431304)[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x39e)])[_0x3bda07(0x9d0)]()),_0x572cf7[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0x161)])[_0x3bda07(0x9d0)](_0x4d0e58[_0x3bda07(0x57c)](_0xb288f,_0x431304)[_0x3bda07(0xbb1)](_0x4d0e58[_0x3bda07(0xa36)])[_0x3bda07(0x9d0)]()));},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xe14)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x89b)],'method':()=>{_0x2063c0=0x4af+0x18fb+0x1*-0x1daa,_0x468f75=0x97b+0x264e*-0x1+0x1cd3*0x1;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x93f)],'isTogglable':![],'method':()=>{const _0x4d6c6b=_0x5358ee;try{const _0x30b1ff=_0x529163[_0x4d6c6b(0x9aa)](_0x4d0e58[_0x4d6c6b(0x6d5)]),_0x4627b8=_0x15c2bc[_0x4d6c6b(0xbb1)](_0x4d0e58[_0x4d6c6b(0xe09)])[_0x4d6c6b(0x2b5)](_0x30b1ff)[_0x4d6c6b(0x9d0)]();if(!_0x4627b8||_0x4d0e58[_0x4d6c6b(0x222)](_0x4627b8[_0x4d6c6b(0x285)],-0x1521+0x31*-0xb5+0x37c6)){_0x4d0e58[_0x4d6c6b(0x9fb)](_0x415d60,_0x4d0e58[_0x4d6c6b(0x88a)],![]);return;}const _0xe54f68=_0x4627b8[_0x4d6c6b(0xadb)](0x17e2+0x904+0x20e6*-0x1);if(!_0xe54f68||_0xe54f68[_0x4d6c6b(0xa74)]()){_0x4d0e58[_0x4d6c6b(0xce8)](_0x415d60,_0x4d0e58[_0x4d6c6b(0xcb6)],![]);return;}const _0x153832=_0x4d0e58[_0x4d6c6b(0xdb3)](_0xb288f,_0xe54f68),_0x2c8ff9=_0x153832[_0x4d6c6b(0xbb1)](_0x4d0e58[_0x4d6c6b(0x39e)])[_0x4d6c6b(0x9d0)](),_0x127ed6=_0x464f9d[_0x4d6c6b(0xbb1)](_0x4d0e58[_0x4d6c6b(0x126)],-0x1883+-0x1d6e+0x13*0x2d7)[_0x4d6c6b(0x9d0)](Il2Cpp[_0x4d6c6b(0x404)](itemIDs[currentItemIndex]),_0x2c8ff9,_0x5490f3,null);if(!_0x127ed6||_0x127ed6[_0x4d6c6b(0xa74)]()){_0x4d0e58[_0x4d6c6b(0x2a6)](_0x415d60,_0x4d0e58[_0x4d6c6b(0x2e2)],![]);return;}try{const _0x57c7b6=_0x127ed6[_0x4d6c6b(0xbb1)](_0x4d0e58[_0x4d6c6b(0x45b)],0x1737+-0x1f41+0x80b)[_0x4d6c6b(0x2b5)](_0x2e62a6)[_0x4d6c6b(0x9d0)]();_0x57c7b6&&!_0x57c7b6[_0x4d6c6b(0xa74)]()&&(_0x4d0e58[_0x4d6c6b(0x97e)](sizespawner,0x25d4+0xc5*-0x32+-0xa6*-0x1)&&_0x57c7b6[_0x4d6c6b(0xbb1)](_0x4d0e58[_0x4d6c6b(0xf37)])[_0x4d6c6b(0x9d0)](Math[_0x4d6c6b(0x61f)](sizespawner)));}catch(_0x2ccdf2){}try{const _0x5ab636=_0xe54f68[_0x4d6c6b(0x398)](_0x4d0e58[_0x4d6c6b(0x435)])[_0x4d6c6b(0x1081)];if(_0x5ab636&&!_0x5ab636[_0x4d6c6b(0xa74)]()){const _0x55ddb1=_0x5ab636[_0x4d6c6b(0x398)](_0x4d0e58[_0x4d6c6b(0x1e9)])[_0x4d6c6b(0x1081)];if(_0x55ddb1&&!_0x55ddb1[_0x4d6c6b(0xa74)]()){const _0x2361f4=_0x55ddb1[_0x4d6c6b(0xbb1)](_0x4d0e58[_0x4d6c6b(0xd4d)])[_0x4d6c6b(0x9d0)]();console[_0x4d6c6b(0x13d)](_0x4d0e58[_0x4d6c6b(0x10cf)](_0x4d0e58[_0x4d6c6b(0x1b0)],_0x2361f4));for(let _0x4a4e6b=0x1*-0xf3e+-0x110b+0x2049;_0x4d0e58[_0x4d6c6b(0xc4e)](_0x4a4e6b,_0x2361f4);_0x4a4e6b++){try{const _0x4aa80e=_0x55ddb1[_0x4d6c6b(0xbb1)](_0x4d0e58[_0x4d6c6b(0x4f2)])[_0x4d6c6b(0x9d0)](_0x4a4e6b);if(!_0x4aa80e||_0x4aa80e[_0x4d6c6b(0xa74)]())continue;const _0x164327=_0x4aa80e[_0x4d6c6b(0xbb1)](_0x4d0e58[_0x4d6c6b(0x109a)])[_0x4d6c6b(0x9d0)]();if(_0x164327){const _0x46fc4f=_0x127ed6[_0x4d6c6b(0xbb1)](_0x4d0e58[_0x4d6c6b(0x45b)],0x87*-0x1+-0x1e92+-0xa5e*-0x3)[_0x4d6c6b(0x2b5)](_0x2a34d8)[_0x4d6c6b(0x9d0)]();if(_0x46fc4f&&!_0x46fc4f[_0x4d6c6b(0xa74)]()){_0x4aa80e[_0x4d6c6b(0xbb1)](_0x4d0e58[_0x4d6c6b(0x539)])[_0x4d6c6b(0x9d0)](_0x46fc4f),_0x4d0e58[_0x4d6c6b(0x638)](_0x415d60,_0x4d0e58[_0x4d6c6b(0xbe6)](_0x4d0e58[_0x4d6c6b(0x62e)](_0x4d0e58[_0x4d6c6b(0x617)](_0x4d0e58[_0x4d6c6b(0x8c2)],_0x4a4e6b),':\x20'),itemIDs[currentItemIndex]),![]);return;}}}catch(_0x16f651){}}_0x4d0e58[_0x4d6c6b(0x207)](_0x415d60,_0x4d0e58[_0x4d6c6b(0x866)],![]);}}}catch(_0x5c2461){_0x4d0e58[_0x4d6c6b(0xd28)](_0x415d60,_0x4d0e58[_0x4d6c6b(0xde5)](_0x4d0e58[_0x4d6c6b(0x1129)],itemIDs[currentItemIndex]),![]),console[_0x4d6c6b(0x13d)](_0x4d0e58[_0x4d6c6b(0x899)](_0x4d0e58[_0x4d6c6b(0x1060)],_0x5c2461));}}catch(_0x480487){console[_0x4d6c6b(0x716)](_0x4d0e58[_0x4d6c6b(0xd42)],_0x480487),_0x4d0e58[_0x4d6c6b(0xc0f)](_0x415d60,_0x4d0e58[_0x4d6c6b(0x105e)](_0x4d0e58[_0x4d6c6b(0x41b)],_0x480487),![]);}},'toolTip':_0x4d0e58[_0x5358ee(0x1b7)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xf41)],'method':()=>{const _0x2a68b6=_0x5358ee,_0xdbe4ce=_0xcb2f35[_0x2a68b6(0xbb1)](_0x4d0e58[_0x2a68b6(0x1064)])[_0x2a68b6(0x9d0)]();if(!_0xdbe4ce)return;const _0x5a5716=_0xdbe4ce[_0x2a68b6(0xbb1)](_0x4d0e58[_0x2a68b6(0x737)],-0x35*0x61+-0x1212+0x1314*0x2)[_0x2a68b6(0x9d0)](0x24fb+-0x2*-0xb10+-0x1*0x3b1b);if(!_0x5a5716)return;const _0x5f1f97=_0x5a5716[_0x2a68b6(0x398)](_0x4d0e58[_0x2a68b6(0x27b)])[_0x2a68b6(0x1081)];if(!_0x5f1f97)return;const _0x407c50=_0x464f9d[_0x2a68b6(0xbb1)](_0x4d0e58[_0x2a68b6(0x126)],-0x3*0x9b1+-0x1*0x7cb+0x24e2)[_0x2a68b6(0x9d0)](Il2Cpp[_0x2a68b6(0x404)](_0x4d0e58[_0x2a68b6(0x1079)]),_0x17e59a[_0x2a68b6(0xbb1)](_0x4d0e58[_0x2a68b6(0x39e)])[_0x2a68b6(0x9d0)](),_0x5490f3,null),_0xdfeebe=_0x407c50[_0x2a68b6(0xbb1)](_0x4d0e58[_0x2a68b6(0x1124)])[_0x2a68b6(0x9d0)]();},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xa7c)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x157)],'method':()=>{const _0x556d2b=_0x5358ee,_0x8fb2ad=Il2Cpp[_0x556d2b(0xd1a)][_0x556d2b(0x9aa)](_0x4d0e58[_0x556d2b(0x2fd)]),_0x28a191=Il2Cpp[_0x556d2b(0xd1a)][_0x556d2b(0x9aa)](_0x4d0e58[_0x556d2b(0xc6e)]),_0x42d2e9=_0x4d0e58[_0x556d2b(0x4c4)](API_URL,_0x4d0e58[_0x556d2b(0x4c9)]),_0x2e183b=-0x1b91+-0x1c27*-0x1+-0x82,_0x3f0a61=_0x5b423e[_0x556d2b(0xc19)]();_0x3f0a61[_0x556d2b(0xbb1)](_0x4d0e58[_0x556d2b(0x660)],-0x254f+-0x543+0x2a94)[_0x556d2b(0x9d0)](Il2Cpp[_0x556d2b(0x404)](_0x42d2e9),Il2Cpp[_0x556d2b(0x404)](_0x4d0e58[_0x556d2b(0x746)]));const _0x9a57b9=_0x5ea9b4[_0x556d2b(0xbb1)](_0x4d0e58[_0x556d2b(0x660)])[_0x556d2b(0x9d0)]();_0x3f0a61[_0x556d2b(0xbb1)](_0x4d0e58[_0x556d2b(0x1020)])[_0x556d2b(0x9d0)](_0x9a57b9);const _0x1997a2=_0x3f0a61[_0x556d2b(0xbb1)](_0x4d0e58[_0x556d2b(0xdf0)])[_0x556d2b(0x9d0)]();while(!_0x3f0a61[_0x556d2b(0xbb1)](_0x4d0e58[_0x556d2b(0xadf)])[_0x556d2b(0x9d0)]()){}const _0x175f8a=_0x9a57b9[_0x556d2b(0xbb1)](_0x4d0e58[_0x556d2b(0x15d)])[_0x556d2b(0x9d0)](),_0x155823=Il2Cpp[_0x556d2b(0x1027)+'n'][_0x556d2b(0x27c)+_0x556d2b(0x979)],_0x259e5f=Il2Cpp[_0x556d2b(0x404)](_0x4d0e58[_0x556d2b(0x4d1)](_0x155823,_0x4d0e58[_0x556d2b(0x4ad)]));!_0x28a191[_0x556d2b(0xbb1)](_0x4d0e58[_0x556d2b(0x634)])[_0x556d2b(0x9d0)](_0x259e5f)&&_0x28a191[_0x556d2b(0xbb1)](_0x4d0e58[_0x556d2b(0xa3d)])[_0x556d2b(0x9d0)](_0x259e5f);const _0x1fb0ab=Il2Cpp[_0x556d2b(0x404)](_0x4d0e58[_0x556d2b(0x1076)](_0x259e5f,_0x4d0e58[_0x556d2b(0x1b9)]));_0x8fb2ad[_0x556d2b(0xbb1)](_0x4d0e58[_0x556d2b(0x7db)])[_0x556d2b(0x9d0)](_0x1fb0ab,_0x175f8a);},'isTogglable':![],'toolTip':':)'}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x65e)],'method':()=>{const _0x2db914=_0x5358ee;rightGrab&&console[_0x2db914(0x13d)](_0x17e59a[_0x2db914(0xbb1)](_0x4d0e58[_0x2db914(0x39e)])[_0x2db914(0x9d0)]());},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xa7c)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb93)],'method':()=>{const _0x1d7aa7=_0x5358ee;try{const _0x4cb97d=_0xcb2f35[_0x1d7aa7(0xbb1)](_0x4d0e58[_0x1d7aa7(0x1064)])[_0x1d7aa7(0x9d0)]();if(!_0x4cb97d)return;_0x4cb97d[_0x1d7aa7(0xbb1)](_0x4d0e58[_0x1d7aa7(0x7ed)])[_0x1d7aa7(0x9d0)](Il2Cpp[_0x1d7aa7(0x404)](_0x4d0e58[_0x1d7aa7(0xca5)]));}catch(_0x31e73e){console[_0x1d7aa7(0x716)](_0x4d0e58[_0x1d7aa7(0xa39)],_0x31e73e);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x105a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe5c)],'method':()=>stashDupeEnabled=!![],'disableMethod':()=>stashDupeEnabled=![],'toolTip':_0x4d0e58[_0x5358ee(0xa7c)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x851)],'method':()=>backpackDupeEnabled=!![],'disableMethod':()=>backpackDupeEnabled=![],'toolTip':_0x4d0e58[_0x5358ee(0x9f2)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x2a9)],'method':()=>stashAllowMoves=!![],'disableMethod':()=>stashAllowMoves=![],'toolTip':_0x4d0e58[_0x5358ee(0xc8a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x7bf)],'method':()=>allowPutGBO=!![],'disableMethod':()=>allowPutGBO=![],'toolTip':_0x4d0e58[_0x5358ee(0x5fe)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x87e)],'enabled':!![],'method':()=>infAmmo=!![],'disableMethod':()=>infAmmo=![],'toolTip':_0x4d0e58[_0x5358ee(0xfd0)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb82)],'method':()=>{const _0x3e0554=_0x5358ee,_0x364846=_0x4d0e58[_0x3e0554(0xa1b)](_0x1bf6f8);negativeHeadSize?_0x364846[_0x3e0554(0xbb1)](_0x4d0e58[_0x3e0554(0x75c)])[_0x3e0554(0x9d0)](-headSizeAmount):_0x364846[_0x3e0554(0xbb1)](_0x4d0e58[_0x3e0554(0x75c)])[_0x3e0554(0x9d0)](headSizeAmount);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x2e1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xeb5)],'method':()=>{const _0x457af4=_0x5358ee;if(rightGrab){const _0x3121a5=_0x4d0e58[_0x457af4(0x4eb)](_0x32e0f2),_0x2f85d4=_0x3121a5[_0x457af4(0x2cd)];if(_0x4d0e58[_0x457af4(0x196)](rightTrigger,_0x2f85d4)){const _0x5698de=_0x4d0e58[_0x457af4(0x241)](_0x2c485b,_0x2f85d4[_0x457af4(0xbb1)](_0x4d0e58[_0x457af4(0xb70)])[_0x457af4(0x9d0)](),_0x2e62a6);if(_0x5698de&&!_0x5698de[_0x457af4(0xfd5)][_0x457af4(0xa74)]()&&_0x4d0e58[_0x457af4(0xe1b)](_0x4133e7,tagGunDelay)){if(leftTrigger)_0x5698de[_0x457af4(0xbb1)](_0x4d0e58[_0x457af4(0x40a)])[_0x457af4(0x9d0)]();else{if(leftPrimary)_0x5698de[_0x457af4(0xbb1)](_0x4d0e58[_0x457af4(0xf55)])[_0x457af4(0x9d0)]();else return null;}}}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x427)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb10)],'disableMethod':()=>{const _0x40261e=_0x5358ee,_0x22ca77=_0xcb2f35[_0x40261e(0xbb1)](_0x4d0e58[_0x40261e(0x1064)])[_0x40261e(0x9d0)]();if(!_0x22ca77)return;const _0xfcbd59=_0x22ca77[_0x40261e(0x398)](_0x4d0e58[_0x40261e(0x10a1)])[_0x40261e(0x1081)];if(!_0xfcbd59)return;_0xfcbd59[_0x40261e(0xbb1)](_0x4d0e58[_0x40261e(0x639)])[_0x40261e(0x9d0)](![]);},'enableMethod':()=>{const _0x2d4537=_0x5358ee,_0x37ac2e=_0xcb2f35[_0x2d4537(0xbb1)](_0x4d0e58[_0x2d4537(0x1064)])[_0x2d4537(0x9d0)]();if(!_0x37ac2e)return;const _0x1416d1=_0x37ac2e[_0x2d4537(0x398)](_0x4d0e58[_0x2d4537(0x10a1)])[_0x2d4537(0x1081)];if(!_0x1416d1)return;_0x1416d1[_0x2d4537(0xbb1)](_0x4d0e58[_0x2d4537(0x639)])[_0x2d4537(0x9d0)](!![]);},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x5fa)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xbe8)],'disableMethod':()=>{const _0xf41f1d=_0x5358ee,_0x45d0ee=_0xcb2f35[_0xf41f1d(0xbb1)](_0x4d0e58[_0xf41f1d(0x1064)])[_0xf41f1d(0x9d0)]();if(!_0x45d0ee)return;const _0x2d9b21=_0x45d0ee[_0xf41f1d(0x398)](_0x4d0e58[_0xf41f1d(0x10a1)])[_0xf41f1d(0x1081)];if(!_0x2d9b21)return;_0x2d9b21[_0xf41f1d(0xbb1)](_0x4d0e58[_0xf41f1d(0x544)])[_0xf41f1d(0x9d0)](0x4c2f*-0x1+-0x2fbc+0xca0b),_0x2d9b21[_0xf41f1d(0xbb1)](_0x4d0e58[_0xf41f1d(0xec9)])[_0xf41f1d(0x9d0)]();},'enableMethod':()=>{const _0x2bcd37=_0x5358ee,_0x4250e6=_0xcb2f35[_0x2bcd37(0xbb1)](_0x4d0e58[_0x2bcd37(0x1064)])[_0x2bcd37(0x9d0)]();if(!_0x4250e6)return;const _0x3d4e8e=_0x4250e6[_0x2bcd37(0x398)](_0x4d0e58[_0x2bcd37(0x10a1)])[_0x2bcd37(0x1081)];if(!_0x3d4e8e)return;_0x3d4e8e[_0x2bcd37(0xbb1)](_0x4d0e58[_0x2bcd37(0x544)])[_0x2bcd37(0x9d0)](0xd6cf*-0x1+-0x7e81+-0x1d47*-0x19),_0x3d4e8e[_0x2bcd37(0xbb1)](_0x4d0e58[_0x2bcd37(0xec9)])[_0x2bcd37(0x9d0)]();},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x5dd)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x1d2)],'method':()=>{_0x2063c0=-0x1*-0x2591+-0x4a2+-0x20ef,_0x468f75=-0x1632*0x1+0x2592+0x29*-0x60;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xfcd)],'disableMethod':()=>{const _0x329a81=_0x5358ee;for(let _0x3185ff of linePool){_0x3185ff[_0x329a81(0xbb1)](_0x4d0e58[_0x329a81(0x9e2)])[_0x329a81(0x9d0)]()[_0x329a81(0xbb1)](_0x4d0e58[_0x329a81(0x6ad)])[_0x329a81(0x9d0)](![]);}},'method':()=>{const _0x281d3a=_0x5358ee;if(_0x4d0e58[_0x281d3a(0x3ae)](_0x4d0e58[_0x281d3a(0xb2d)](frameCount,-0xd*-0x23b+0x688+-0x2382),-0x13aa*-0x1+0x1bb*-0x9+-0x417)){for(let _0x5e18c5 of linePool){_0x5e18c5[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x9e2)])[_0x281d3a(0x9d0)]()[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x6ad)])[_0x281d3a(0x9d0)](![]);}const _0x30c881=_0x15c2bc[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0xe09)])[_0x281d3a(0x2b5)](_0x2e62a6)[_0x281d3a(0x9d0)]();if(!_0x30c881)return null;const _0x2fc8e7=_0x30c881[_0x281d3a(0x285)];for(let _0x28e81e=-0xddd+-0xb47*0x1+0x1924;_0x4d0e58[_0x281d3a(0x384)](_0x28e81e,_0x2fc8e7);_0x28e81e++){const _0x275488=_0x30c881[_0x281d3a(0xadb)](_0x28e81e);_0x4d0e58[_0x281d3a(0xb84)](lineRenderHolder,null)&&(lineRenderHolder=_0x15974c[_0x281d3a(0x80c)](_0x4d0e58[_0x281d3a(0x4ca)]));let _0x43706d=null,_0x9d846=![];for(let _0x349a42 of linePool){if(_0x4d0e58[_0x281d3a(0x202)](_0x43706d,null))continue;if(_0x4d0e58[_0x281d3a(0xf3d)](_0x349a42[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x9e2)])[_0x281d3a(0x9d0)]()[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0xcb2)])[_0x281d3a(0x9d0)](),![])){_0x349a42[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x9e2)])[_0x281d3a(0x9d0)]()[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x6ad)])[_0x281d3a(0x9d0)](!![]),_0x43706d=_0x349a42;break;}}if(_0x4d0e58[_0x281d3a(0xb84)](_0x43706d,null)){_0x9d846=!![];const _0x3e1031=_0x15974c[_0x281d3a(0x80c)](_0x4d0e58[_0x281d3a(0x3f9)]);_0x4d0e58[_0x281d3a(0xc28)](_0xb288f,_0x3e1031)[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x12a)])[_0x281d3a(0x9d0)](_0x4d0e58[_0x281d3a(0xd1f)](_0xb288f,lineRenderHolder));const _0x270ff5=_0x4d0e58[_0x281d3a(0xc0f)](_0x2b8a6a,_0x3e1031,_0x54d8c0),_0x25ffc6=_0x1a3664[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x96e)])[_0x281d3a(0xf54)](_0x4d0e58[_0x281d3a(0xb61)])[_0x281d3a(0x9d0)](Il2Cpp[_0x281d3a(0x404)](_0x4d0e58[_0x281d3a(0x5bd)]));_0x270ff5[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x10c3)])[_0x281d3a(0x9d0)]()[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x955)])[_0x281d3a(0x9d0)](_0x25ffc6),_0x270ff5[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0xeac)])[_0x281d3a(0x9d0)](-0x235f+0x1225+-0x3*-0x5be+0.025),_0x270ff5[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0xb9c)])[_0x281d3a(0x9d0)](-0x100a+0x21e8+-0x11de+0.025),_0x270ff5[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x9e2)])[_0x281d3a(0x9d0)]()[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x6ad)])[_0x281d3a(0x9d0)](!![]),_0x270ff5[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x6de)])[_0x281d3a(0x9d0)](!![]),_0x270ff5[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x9e2)])[_0x281d3a(0x9d0)]()[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x69a)])[_0x281d3a(0x9d0)](lineRenderHolder[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0xd21)])[_0x281d3a(0x9d0)]()),linePool[_0x281d3a(0x917)](_0x270ff5),_0x43706d=_0x270ff5;}_0x43706d[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0xc74)])[_0x281d3a(0x9d0)](bgColor),_0x43706d[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x10db)])[_0x281d3a(0x9d0)](bgColor),_0x43706d[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x10ef)])[_0x281d3a(0x9d0)](0x1451*0x1+-0x1bae+0x75e,_0x4d0e58[_0x281d3a(0x682)](_0xb288f,_0x275488)[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x39e)])[_0x281d3a(0x9d0)]()),_0x43706d[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x10ef)])[_0x281d3a(0x9d0)](-0x1d*-0x117+0x356+-0x6fd*0x5,_0x17e59a[_0x281d3a(0xbb1)](_0x4d0e58[_0x281d3a(0x39e)])[_0x281d3a(0x9d0)]());}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xe3b)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x108e)],'disableMethod':()=>{const _0x28efdd=_0x5358ee;for(let _0x4c3f29 of linePool){_0x4c3f29[_0x28efdd(0xbb1)](_0x4d0e58[_0x28efdd(0x9e2)])[_0x28efdd(0x9d0)]()[_0x28efdd(0xbb1)](_0x4d0e58[_0x28efdd(0x6ad)])[_0x28efdd(0x9d0)](![]);}},'method':()=>{const _0x574720=_0x5358ee;if(_0x4d0e58[_0x574720(0xb49)](_0x4d0e58[_0x574720(0xb2d)](frameCount,0x184b*0x1+0xb*-0x171+-0x1af*0x5),-0x2*-0xbe9+-0x3c*-0x21+-0x1*0x1f8e)){let _0x416c45=Number[_0x574720(0x773)+_0x574720(0xcd4)],_0x36ecfc=0x19*0xc3+0x1a8b+-0x16cb*0x2;for(let _0x290b3c of linePool){_0x290b3c[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x9e2)])[_0x574720(0x9d0)]()[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x6ad)])[_0x574720(0x9d0)](![]);}const _0x674472=_0x15c2bc[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0xe09)])[_0x574720(0x2b5)](_0x2e62a6)[_0x574720(0x9d0)]();if(!_0x674472)return null;const _0x5045ff=_0x674472[_0x574720(0x285)],_0x31884a=[];for(let _0x18f15e=0x25a5+-0x4a*0x47+-0x111f;_0x4d0e58[_0x574720(0xdcd)](_0x18f15e,_0x5045ff);_0x18f15e++){const _0x3adf94=_0x674472[_0x574720(0xadb)](_0x18f15e);_0x31884a[_0x574720(0x917)](_0x3adf94);const _0x4e5a8e=_0x4c3978[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x90c)])[_0x574720(0x9d0)](_0x4d0e58[_0x574720(0xbd5)](_0xb288f,_0x431304)[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x39e)])[_0x574720(0x9d0)](),_0x4d0e58[_0x574720(0x5e4)](_0xb288f,_0x3adf94)[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x39e)])[_0x574720(0x9d0)]());_0x4d0e58[_0x574720(0xe13)](_0x416c45,_0x4e5a8e)&&(_0x416c45=_0x4e5a8e,_0x36ecfc=_0x18f15e);}for(let _0x5bcc67=0x3b*-0x31+0x26a5+-0x1b5a;_0x4d0e58[_0x574720(0x980)](_0x5bcc67,_0x5045ff);_0x5bcc67++){if(_0x4d0e58[_0x574720(0xd98)](_0x5bcc67,_0x36ecfc))continue;const _0x4e1979=_0x31884a[_0x5bcc67];_0x4d0e58[_0x574720(0xb65)](lineRenderHolder,null)&&(lineRenderHolder=_0x15974c[_0x574720(0x80c)](_0x4d0e58[_0x574720(0x4ca)]));let _0x232b3a=null,_0x10b5d0=![];for(let _0x1e1d01 of linePool){if(_0x4d0e58[_0x574720(0x5c0)](_0x232b3a,null))continue;if(_0x4d0e58[_0x574720(0x22a)](_0x1e1d01[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x9e2)])[_0x574720(0x9d0)]()[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0xcb2)])[_0x574720(0x9d0)](),![])){_0x1e1d01[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x9e2)])[_0x574720(0x9d0)]()[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x6ad)])[_0x574720(0x9d0)](!![]),_0x232b3a=_0x1e1d01;break;}}if(_0x4d0e58[_0x574720(0x590)](_0x232b3a,null)){_0x10b5d0=!![];const _0x24d1c0=_0x15974c[_0x574720(0x80c)](_0x4d0e58[_0x574720(0x3f9)]);_0x4d0e58[_0x574720(0x2d6)](_0xb288f,_0x24d1c0)[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x12a)])[_0x574720(0x9d0)](_0x4d0e58[_0x574720(0x868)](_0xb288f,lineRenderHolder));const _0x4d2e5e=_0x4d0e58[_0x574720(0x9fb)](_0x2b8a6a,_0x24d1c0,_0x54d8c0),_0x67551d=_0x1a3664[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x96e)])[_0x574720(0xf54)](_0x4d0e58[_0x574720(0xb61)])[_0x574720(0x9d0)](Il2Cpp[_0x574720(0x404)](_0x4d0e58[_0x574720(0x5bd)]));_0x4d2e5e[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x10c3)])[_0x574720(0x9d0)]()[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x955)])[_0x574720(0x9d0)](_0x67551d),_0x4d2e5e[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0xeac)])[_0x574720(0x9d0)](0x1916+0xe58+0x62*-0x67+0.025),_0x4d2e5e[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0xb9c)])[_0x574720(0x9d0)](0x2077+0x3b9*-0x1+0x1*-0x1cbe+0.025),_0x4d2e5e[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x9e2)])[_0x574720(0x9d0)]()[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x6ad)])[_0x574720(0x9d0)](!![]),_0x4d2e5e[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x6de)])[_0x574720(0x9d0)](!![]),_0x4d2e5e[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x9e2)])[_0x574720(0x9d0)]()[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x69a)])[_0x574720(0x9d0)](lineRenderHolder[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0xd21)])[_0x574720(0x9d0)]()),linePool[_0x574720(0x917)](_0x4d2e5e),_0x232b3a=_0x4d2e5e;}_0x232b3a[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0xc74)])[_0x574720(0x9d0)](bgColor),_0x232b3a[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x10db)])[_0x574720(0x9d0)](bgColor),_0x232b3a[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x10ef)])[_0x574720(0x9d0)](0x6fe*-0x2+0x12ce+-0x3*0x19b,_0x4d0e58[_0x574720(0x7a9)](_0xb288f,_0x4e1979)[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x39e)])[_0x574720(0x9d0)]()),_0x232b3a[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x10ef)])[_0x574720(0x9d0)](-0xa60+-0x1*-0x1517+0xd3*-0xd,_0x17e59a[_0x574720(0xbb1)](_0x4d0e58[_0x574720(0x39e)])[_0x574720(0x9d0)]());}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x564)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xc25)],'disableMethod':()=>{const _0x336557=_0x5358ee;for(let _0x49aa53 of linePool){_0x49aa53[_0x336557(0xbb1)](_0x4d0e58[_0x336557(0x9e2)])[_0x336557(0x9d0)]()[_0x336557(0xbb1)](_0x4d0e58[_0x336557(0x6ad)])[_0x336557(0x9d0)](![]);}},'method':()=>{const _0x4c4df1=_0x5358ee;for(let _0x4a1c25 of linePool){_0x4a1c25[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x9e2)])[_0x4c4df1(0x9d0)]()[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x6ad)])[_0x4c4df1(0x9d0)](![]);}const _0x2a95fe=_0x15c2bc[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0xe09)])[_0x4c4df1(0x2b5)](_0xcb2f35)[_0x4c4df1(0x9d0)]();if(!_0x2a95fe)return null;const _0x438d2b=_0x2a95fe[_0x4c4df1(0x285)];for(let _0x29ea19=0x1a98+0x48*0x73+-0x8*0x75e;_0x4d0e58[_0x4c4df1(0x7f3)](_0x29ea19,_0x438d2b);_0x29ea19++){const _0x25a8a9=_0x2a95fe[_0x4c4df1(0xadb)](_0x29ea19);if(!_0x4d0e58[_0x4c4df1(0xbd5)](_0x4d8800,_0x25a8a9)){_0x4d0e58[_0x4c4df1(0x22a)](lineRenderHolder,null)&&(lineRenderHolder=_0x15974c[_0x4c4df1(0x80c)](_0x4d0e58[_0x4c4df1(0x4ca)]));let _0x1d5336=null,_0x379761=![];for(let _0xc83df4 of linePool){if(_0x4d0e58[_0x4c4df1(0xb49)](_0x1d5336,null))continue;if(_0x4d0e58[_0x4c4df1(0x684)](_0xc83df4[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x9e2)])[_0x4c4df1(0x9d0)]()[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0xcb2)])[_0x4c4df1(0x9d0)](),![])){_0xc83df4[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x9e2)])[_0x4c4df1(0x9d0)]()[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x6ad)])[_0x4c4df1(0x9d0)](!![]),_0x1d5336=_0xc83df4;break;}}if(_0x4d0e58[_0x4c4df1(0xba4)](_0x1d5336,null)){_0x379761=!![];const _0x2ba4bd=_0x15974c[_0x4c4df1(0x80c)](_0x4d0e58[_0x4c4df1(0x3f9)]);_0x4d0e58[_0x4c4df1(0x21b)](_0xb288f,_0x2ba4bd)[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x12a)])[_0x4c4df1(0x9d0)](_0x4d0e58[_0x4c4df1(0x15b)](_0xb288f,lineRenderHolder));const _0x36b0cf=_0x4d0e58[_0x4c4df1(0x1f9)](_0x2b8a6a,_0x2ba4bd,_0x54d8c0),_0x37bb51=_0x1a3664[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x96e)])[_0x4c4df1(0xf54)](_0x4d0e58[_0x4c4df1(0xb61)])[_0x4c4df1(0x9d0)](Il2Cpp[_0x4c4df1(0x404)](_0x4d0e58[_0x4c4df1(0x5bd)]));_0x36b0cf[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x10c3)])[_0x4c4df1(0x9d0)]()[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x955)])[_0x4c4df1(0x9d0)](_0x37bb51),_0x36b0cf[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0xeac)])[_0x4c4df1(0x9d0)](-0xae+-0x1*-0x551+-0x4a3*0x1+0.025),_0x36b0cf[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0xb9c)])[_0x4c4df1(0x9d0)](-0x5*-0x717+-0x208f*0x1+-0x2e4+0.025),_0x36b0cf[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x9e2)])[_0x4c4df1(0x9d0)]()[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x6ad)])[_0x4c4df1(0x9d0)](!![]),_0x36b0cf[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x6de)])[_0x4c4df1(0x9d0)](!![]),_0x36b0cf[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x9e2)])[_0x4c4df1(0x9d0)]()[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x69a)])[_0x4c4df1(0x9d0)](lineRenderHolder[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0xd21)])[_0x4c4df1(0x9d0)]()),linePool[_0x4c4df1(0x917)](_0x36b0cf),_0x1d5336=_0x36b0cf;}_0x1d5336[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0xc74)])[_0x4c4df1(0x9d0)](bgColor),_0x1d5336[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x10db)])[_0x4c4df1(0x9d0)](bgColor),_0x1d5336[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x10ef)])[_0x4c4df1(0x9d0)](-0x1e86+0x1*0x8a3+0x15e4,_0x4d0e58[_0x4c4df1(0xa44)](_0xb288f,_0x25a8a9)[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x39e)])[_0x4c4df1(0x9d0)]()),_0x1d5336[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x10ef)])[_0x4c4df1(0x9d0)](-0x1c*0x2+0x3*-0x251+-0x72b*-0x1,_0x17e59a[_0x4c4df1(0xbb1)](_0x4d0e58[_0x4c4df1(0x39e)])[_0x4c4df1(0x9d0)]());}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x3ca)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x347)],'disableMethod':()=>{const _0x2fcf5d=_0x5358ee;for(let _0x3ee984 of linePool){_0x3ee984[_0x2fcf5d(0xbb1)](_0x4d0e58[_0x2fcf5d(0x9e2)])[_0x2fcf5d(0x9d0)]()[_0x2fcf5d(0xbb1)](_0x4d0e58[_0x2fcf5d(0x6ad)])[_0x2fcf5d(0x9d0)](![]);}},'method':()=>{const _0x384545=_0x5358ee;if(_0x4d0e58[_0x384545(0x110c)](_0x4d0e58[_0x384545(0x44d)](frameCount,-0x1368+-0x10a9+0x2416),0x2*-0x25c+0x342*-0x3+-0xe7e*-0x1)){let _0x5ce91c=Number[_0x384545(0x773)+_0x384545(0xcd4)],_0x1596e3=0x1671+-0x5*0x4ed+0x230;for(let _0x2adbca of linePool){_0x2adbca[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x9e2)])[_0x384545(0x9d0)]()[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x6ad)])[_0x384545(0x9d0)](![]);}const _0x562012=_0x15c2bc[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0xe09)])[_0x384545(0x2b5)](_0xcb2f35)[_0x384545(0x9d0)]();if(!_0x562012)return null;const _0x27c839=_0x562012[_0x384545(0x285)],_0x52730c=[];for(let _0x5de9d1=-0x82*0x49+0x7*-0x41f+0x41eb;_0x4d0e58[_0x384545(0x8b3)](_0x5de9d1,_0x27c839);_0x5de9d1++){const _0x9ced8f=_0x562012[_0x384545(0xadb)](_0x5de9d1);_0x52730c[_0x384545(0x917)](_0x9ced8f);if(_0x4d0e58[_0x384545(0x53d)](_0x4d8800,_0x9ced8f))continue;const _0x1773bf=_0x4c3978[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x90c)])[_0x384545(0x9d0)](_0x4d0e58[_0x384545(0xd50)](_0xb288f,_0x431304)[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x39e)])[_0x384545(0x9d0)](),_0x4d0e58[_0x384545(0x40d)](_0xb288f,_0x9ced8f)[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x39e)])[_0x384545(0x9d0)]());_0x4d0e58[_0x384545(0x3e2)](_0x5ce91c,_0x1773bf)&&(_0x5ce91c=_0x1773bf,_0x1596e3=_0x5de9d1);}for(let _0x59eff6=0x9ef*-0x1+0x3b*0x43+-0x582*0x1;_0x4d0e58[_0x384545(0x549)](_0x59eff6,_0x27c839);_0x59eff6++){if(_0x4d0e58[_0x384545(0x3de)](_0x59eff6,_0x1596e3))continue;const _0x45e5c1=_0x52730c[_0x59eff6];if(!_0x4d0e58[_0x384545(0xf72)](_0x4d8800,_0x45e5c1)){_0x4d0e58[_0x384545(0x5ee)](lineRenderHolder,null)&&(lineRenderHolder=_0x15974c[_0x384545(0x80c)](_0x4d0e58[_0x384545(0x4ca)]));let _0x2433ca=null,_0x218d8e=![];for(let _0x2d72a0 of linePool){if(_0x4d0e58[_0x384545(0x1ae)](_0x2433ca,null))continue;if(_0x4d0e58[_0x384545(0xad0)](_0x2d72a0[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x9e2)])[_0x384545(0x9d0)]()[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0xcb2)])[_0x384545(0x9d0)](),![])){_0x2d72a0[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x9e2)])[_0x384545(0x9d0)]()[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x6ad)])[_0x384545(0x9d0)](!![]),_0x2433ca=_0x2d72a0;break;}}if(_0x4d0e58[_0x384545(0x590)](_0x2433ca,null)){_0x218d8e=!![];const _0x284bb2=_0x15974c[_0x384545(0x80c)](_0x4d0e58[_0x384545(0x3f9)]);_0x4d0e58[_0x384545(0x2f2)](_0xb288f,_0x284bb2)[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x12a)])[_0x384545(0x9d0)](_0x4d0e58[_0x384545(0x415)](_0xb288f,lineRenderHolder));const _0x388cd8=_0x4d0e58[_0x384545(0x241)](_0x2b8a6a,_0x284bb2,_0x54d8c0),_0x387d26=_0x1a3664[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x96e)])[_0x384545(0xf54)](_0x4d0e58[_0x384545(0xb61)])[_0x384545(0x9d0)](Il2Cpp[_0x384545(0x404)](_0x4d0e58[_0x384545(0x5bd)]));_0x388cd8[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x10c3)])[_0x384545(0x9d0)]()[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x955)])[_0x384545(0x9d0)](_0x387d26),_0x388cd8[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0xeac)])[_0x384545(0x9d0)](-0x4*-0x542+-0x183*0x9+-0x76d+0.025),_0x388cd8[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0xb9c)])[_0x384545(0x9d0)](0x25a6+0x1a*0x67+-0x301c+0.025),_0x388cd8[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x9e2)])[_0x384545(0x9d0)]()[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x6ad)])[_0x384545(0x9d0)](!![]),_0x388cd8[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x6de)])[_0x384545(0x9d0)](!![]),_0x388cd8[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x9e2)])[_0x384545(0x9d0)]()[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x69a)])[_0x384545(0x9d0)](lineRenderHolder[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0xd21)])[_0x384545(0x9d0)]()),linePool[_0x384545(0x917)](_0x388cd8),_0x2433ca=_0x388cd8;}_0x2433ca[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0xc74)])[_0x384545(0x9d0)](bgColor),_0x2433ca[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x10db)])[_0x384545(0x9d0)](bgColor),_0x2433ca[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x10ef)])[_0x384545(0x9d0)](-0x109a+0x126+-0x3*-0x527,_0x4d0e58[_0x384545(0x5ef)](_0xb288f,_0x45e5c1)[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x39e)])[_0x384545(0x9d0)]()),_0x2433ca[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x10ef)])[_0x384545(0x9d0)](-0x48f*-0x2+0x19ed+-0x230b,_0x17e59a[_0x384545(0xbb1)](_0x4d0e58[_0x384545(0x39e)])[_0x384545(0x9d0)]());}}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x1e7)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x713)],'method':()=>{_0x2063c0=-0x1*-0x3b5+0x461+-0x73*0x12,_0x468f75=-0x2*-0x41+-0x1f7*-0x1+-0x279;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x5b0)],'isTogglable':!![],'method':((()=>{const _0x364d39=_0x5358ee,_0x250f3e={'HHMuo':function(_0x198a05,_0x56b410){const _0x40ce6c=_0x38eb;return _0x4d0e58[_0x40ce6c(0xe18)](_0x198a05,_0x56b410);},'AYvri':function(_0x3cda8e,_0x8fd4fa){const _0x248a5b=_0x38eb;return _0x4d0e58[_0x248a5b(0x390)](_0x3cda8e,_0x8fd4fa);},'DdKhQ':function(_0x101dc9,_0x52af98){const _0x342a05=_0x38eb;return _0x4d0e58[_0x342a05(0xac6)](_0x101dc9,_0x52af98);},'erKIF':_0x4d0e58[_0x364d39(0x39e)],'FSwGT':_0x4d0e58[_0x364d39(0xe09)],'XPPBC':function(_0x406642,_0x1ac815){const _0x3adf95=_0x364d39;return _0x4d0e58[_0x3adf95(0x8b3)](_0x406642,_0x1ac815);},'qwxTf':function(_0x3c9460,_0x3f46e0){const _0x47c169=_0x364d39;return _0x4d0e58[_0x47c169(0x5ae)](_0x3c9460,_0x3f46e0);},'SVNsz':function(_0x202504,_0x5503d0){const _0x4135d2=_0x364d39;return _0x4d0e58[_0x4135d2(0x821)](_0x202504,_0x5503d0);},'VGpaw':function(_0xdfc845,_0x4bbd19){const _0x2cbdfa=_0x364d39;return _0x4d0e58[_0x2cbdfa(0xa94)](_0xdfc845,_0x4bbd19);},'gFBAt':function(_0x4c0bd2,_0x9231af){const _0x54aeb1=_0x364d39;return _0x4d0e58[_0x54aeb1(0xea8)](_0x4c0bd2,_0x9231af);},'PBOCw':function(_0x495d24,_0x2c7729){const _0x4e0be5=_0x364d39;return _0x4d0e58[_0x4e0be5(0xc50)](_0x495d24,_0x2c7729);},'JpiAD':function(_0x47e3e0,_0x469652){const _0x3e9aec=_0x364d39;return _0x4d0e58[_0x3e9aec(0xbb7)](_0x47e3e0,_0x469652);},'FHBvS':function(_0x3e9436,_0x13a394){const _0x24717a=_0x364d39;return _0x4d0e58[_0x24717a(0xf3e)](_0x3e9436,_0x13a394);},'pvQNN':function(_0x18aa10,_0x24a8f0){const _0x50c83e=_0x364d39;return _0x4d0e58[_0x50c83e(0xa57)](_0x18aa10,_0x24a8f0);},'lerPz':_0x4d0e58[_0x364d39(0x80e)],'oAsZw':_0x4d0e58[_0x364d39(0xf9b)],'FQtvB':_0x4d0e58[_0x364d39(0x848)],'jswQS':_0x4d0e58[_0x364d39(0xfa7)],'YoSPm':_0x4d0e58[_0x364d39(0x10a0)],'aLqNV':_0x4d0e58[_0x364d39(0x3ec)]};let _0x5c59a5=0x1b53+-0x1ebf+0x36c;const _0x73c06c=0x4e1*-0x5+0x21eb+0x985*-0x1+0.5,_0x4f788e=-0x1*0x266+0xc37+0x1*-0x977;return()=>{const _0x38f43e=_0x364d39;try{_0x5c59a5+=_0x250f3e[_0x38f43e(0xdc0)](_0x4f788e,deltaTime);if(_0x250f3e[_0x38f43e(0x732)](_0x5c59a5,0x653*-0x1+-0x74f*-0x1+0x1b*0x4))_0x5c59a5-=0x71*0x1d+-0x24be+0x1959*0x1;const _0x11755c=_0x250f3e[_0x38f43e(0xc68)](_0xb288f,_0x431304)[_0x38f43e(0xbb1)](_0x250f3e[_0x38f43e(0xd96)])[_0x38f43e(0x9d0)](),_0x142c4d=_0x15c2bc[_0x38f43e(0xbb1)](_0x250f3e[_0x38f43e(0x10ce)])[_0x38f43e(0x2b5)](_0xcb2f35)[_0x38f43e(0x9d0)]();if(!_0x142c4d)return;const _0x647297=[];for(let _0x42d5a1=0xb8d*0x1+0x225c*0x1+-0x2de9;_0x250f3e[_0x38f43e(0x9a0)](_0x42d5a1,_0x142c4d[_0x38f43e(0x285)]);_0x42d5a1++){const _0x19768c=_0x142c4d[_0x38f43e(0xadb)](_0x42d5a1);if(!_0x250f3e[_0x38f43e(0xc68)](_0x4d8800,_0x19768c))_0x647297[_0x38f43e(0x917)](_0x19768c);}if(_0x250f3e[_0x38f43e(0x329)](_0x647297[_0x38f43e(0x285)],0x1bbf*-0x1+0x7*-0x183+-0x2654*-0x1))return;for(let _0x5171ae=-0x10f8+-0x180a+-0x1*-0x2902;_0x250f3e[_0x38f43e(0x10b4)](_0x5171ae,_0x647297[_0x38f43e(0x285)]);_0x5171ae++){const _0x658dd9=_0x647297[_0x5171ae];if(!_0x658dd9||_0x658dd9[_0x38f43e(0xa74)]())continue;const _0x2f3f2d=_0x250f3e[_0x38f43e(0x102a)](_0x250f3e[_0x38f43e(0xd48)](0x1*0x961+0x21f3+-0x29ec,_0x647297[_0x38f43e(0x285)]),_0x5171ae),_0x411064=_0x250f3e[_0x38f43e(0x102a)](_0x250f3e[_0x38f43e(0xff2)](_0x5c59a5,_0x2f3f2d),_0x250f3e[_0x38f43e(0x71b)](Math['PI'],0xb7b+0x1112+0x1bd9*-0x1)),_0x37dc41=_0x250f3e[_0x38f43e(0xcf3)](Math[_0x38f43e(0xf74)](_0x411064),_0x73c06c),_0x47b6f9=_0x250f3e[_0x38f43e(0xc61)](Math[_0x38f43e(0x47e)](_0x411064),_0x73c06c),_0xbd26ed=_0x4c3978[_0x38f43e(0xbb1)](_0x250f3e[_0x38f43e(0xcb1)])[_0x38f43e(0x9d0)](_0x4c3978[_0x38f43e(0xbb1)](_0x250f3e[_0x38f43e(0xcfe)])[_0x38f43e(0x9d0)](_0x4c3978[_0x38f43e(0x398)](_0x250f3e[_0x38f43e(0x710)])[_0x38f43e(0x1081)],_0x37dc41),_0x4c3978[_0x38f43e(0xbb1)](_0x250f3e[_0x38f43e(0xcfe)])[_0x38f43e(0x9d0)](_0x4c3978[_0x38f43e(0x398)](_0x250f3e[_0x38f43e(0x839)])[_0x38f43e(0x1081)],_0x47b6f9)),_0x408b77=_0x4c3978[_0x38f43e(0xbb1)](_0x250f3e[_0x38f43e(0xcb1)])[_0x38f43e(0x9d0)](_0x11755c,_0xbd26ed);_0x658dd9[_0x38f43e(0xbb1)](_0x250f3e[_0x38f43e(0x118)])[_0x38f43e(0x9d0)](_0x408b77);}}catch(_0x38275e){console[_0x38f43e(0x716)](_0x250f3e[_0x38f43e(0x695)],_0x38275e);}};})()),'toolTip':_0x4d0e58[_0x5358ee(0xbdb)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x6e3)],'method':()=>{const _0x461920=_0x5358ee,_0x2a5ebf=_0x4d0e58[_0x461920(0x137)](_0xb288f,_0x515cbc)[_0x461920(0xbb1)](_0x4d0e58[_0x461920(0x39e)])[_0x461920(0x9d0)](),_0x596f1b=_0x15c2bc[_0x461920(0xbb1)](_0x4d0e58[_0x461920(0xe09)])[_0x461920(0x2b5)](_0xcb2f35)[_0x461920(0x9d0)]();if(!_0x596f1b)return;for(let _0x39a3ef=-0xeef+-0x831+0x1720;_0x4d0e58[_0x461920(0x384)](_0x39a3ef,_0x596f1b[_0x461920(0x285)]);_0x39a3ef++){const _0x4e7590=_0x596f1b[_0x461920(0xadb)](_0x39a3ef);if(_0x4d0e58[_0x461920(0xa96)](_0x4d8800,_0x4e7590))continue;_0x4e7590[_0x461920(0xbb1)](_0x4d0e58[_0x461920(0x10a0)])[_0x461920(0x9d0)](_0x2a5ebf);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xc62)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x7c5)],'enableMethod':()=>{const _0x398b09=_0x5358ee;try{_0x3392a4[_0x398b09(0xbb1)](_0x4d0e58[_0x398b09(0xbd8)])[_0x398b09(0x7c3)+_0x398b09(0x83d)]=function(){return 0x108c9c+0xca521+0x3*-0x4a52a;},_0x3392a4[_0x398b09(0xbb1)](_0x4d0e58[_0x398b09(0x861)])[_0x398b09(0x7c3)+_0x398b09(0x83d)]=function(){return 0x4094f+-0x9566+0xbce56;};}catch(_0xbbef77){_0x4d0e58[_0x398b09(0x1f9)](_0x415d60,_0x4d0e58[_0x398b09(0xe04)](_0x4d0e58[_0x398b09(0xcb5)],_0xbbef77),![]);}},'disableMethod':()=>{const _0xd24b56=_0x5358ee;try{_0x3392a4[_0xd24b56(0xbb1)](_0x4d0e58[_0xd24b56(0xbd8)])[_0xd24b56(0x7c3)+_0xd24b56(0x83d)]=null,_0x3392a4[_0xd24b56(0xbb1)](_0x4d0e58[_0xd24b56(0x861)])[_0xd24b56(0x7c3)+_0xd24b56(0x83d)]=null;}catch(_0x1c6d8f){}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x8de)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x701)],'method':()=>{const _0x176ac2=_0x5358ee;try{const _0x51d0f0=_0xcb2f35[_0x176ac2(0xbb1)](_0x4d0e58[_0x176ac2(0x1064)])[_0x176ac2(0x9d0)]();if(!_0x51d0f0)return;_0x51d0f0[_0x176ac2(0xbb1)](_0x4d0e58[_0x176ac2(0x10f3)])[_0x176ac2(0x9d0)](-0x6*-0x5c2afd+-0x8cdd614+0xc9ab526);}catch(_0x2155d1){console[_0x176ac2(0x716)](_0x4d0e58[_0x176ac2(0x3fb)],_0x2155d1);}},'isTogglable':![]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xcff)],'isTogglable':!![],'method':()=>{const _0x45fe28=_0x5358ee;try{_0x4d0e58[_0x45fe28(0x166)](leftGrab,leftTrigger)&&_0x4d0e58[_0x45fe28(0x3e7)](_0x9507b4,_0x4d0e58[_0x45fe28(0x2f7)],_0x31c6c9[_0x45fe28(0xbb1)](_0x4d0e58[_0x45fe28(0x39e)])[_0x45fe28(0x9d0)](),_0x31c6c9[_0x45fe28(0xbb1)](_0x4d0e58[_0x45fe28(0xa36)])[_0x45fe28(0x9d0)]()),_0x4d0e58[_0x45fe28(0xb27)](rightGrab,rightTrigger)&&_0x4d0e58[_0x45fe28(0xd68)](_0x9507b4,_0x4d0e58[_0x45fe28(0x2f7)],_0x17e59a[_0x45fe28(0xbb1)](_0x4d0e58[_0x45fe28(0x39e)])[_0x45fe28(0x9d0)](),_0x17e59a[_0x45fe28(0xbb1)](_0x4d0e58[_0x45fe28(0xa36)])[_0x45fe28(0x9d0)]());}catch(_0x102eb3){console[_0x45fe28(0x716)](_0x102eb3);}},'toolTip':_0x4d0e58[_0x5358ee(0x6da)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x10bd)],'isTogglable':!![],'method':()=>{const _0x2599a6=_0x5358ee;try{_0x4d0e58[_0x2599a6(0xb35)](leftGrab,leftTrigger)&&_0x4d0e58[_0x2599a6(0xe77)](_0x9507b4,_0x4d0e58[_0x2599a6(0x10c1)],_0x31c6c9[_0x2599a6(0xbb1)](_0x4d0e58[_0x2599a6(0x39e)])[_0x2599a6(0x9d0)](),_0x31c6c9[_0x2599a6(0xbb1)](_0x4d0e58[_0x2599a6(0xa36)])[_0x2599a6(0x9d0)]()),_0x4d0e58[_0x2599a6(0x3b2)](rightGrab,rightTrigger)&&_0x4d0e58[_0x2599a6(0x199)](_0x9507b4,_0x4d0e58[_0x2599a6(0x10c1)],_0x17e59a[_0x2599a6(0xbb1)](_0x4d0e58[_0x2599a6(0x39e)])[_0x2599a6(0x9d0)](),_0x17e59a[_0x2599a6(0xbb1)](_0x4d0e58[_0x2599a6(0xa36)])[_0x2599a6(0x9d0)]());}catch(_0x4fa89e){console[_0x2599a6(0x716)](_0x4fa89e);}},'toolTip':_0x4d0e58[_0x5358ee(0x6da)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xf0e)],'isTogglable':!![],'method':()=>{const _0xe68161=_0x5358ee;try{_0x4d0e58[_0xe68161(0x10e6)](leftGrab,leftTrigger)&&_0x4d0e58[_0xe68161(0xd43)](_0x9507b4,_0x4d0e58[_0xe68161(0xdbc)],_0x31c6c9[_0xe68161(0xbb1)](_0x4d0e58[_0xe68161(0x39e)])[_0xe68161(0x9d0)](),_0x31c6c9[_0xe68161(0xbb1)](_0x4d0e58[_0xe68161(0xa36)])[_0xe68161(0x9d0)]()),_0x4d0e58[_0xe68161(0x6a5)](rightGrab,rightTrigger)&&_0x4d0e58[_0xe68161(0xe77)](_0x9507b4,_0x4d0e58[_0xe68161(0xdbc)],_0x17e59a[_0xe68161(0xbb1)](_0x4d0e58[_0xe68161(0x39e)])[_0xe68161(0x9d0)](),_0x17e59a[_0xe68161(0xbb1)](_0x4d0e58[_0xe68161(0xa36)])[_0xe68161(0x9d0)]());}catch(_0x5b9538){console[_0xe68161(0x716)](_0x5b9538);}},'toolTip':_0x4d0e58[_0x5358ee(0x6da)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xd6d)],'isTogglable':!![],'method':()=>{const _0xed2df2=_0x5358ee;try{if(!rightGrab)return;if(!rightTrigger)return;const _0x4f6afe=_0x17e59a[_0xed2df2(0xbb1)](_0x4d0e58[_0xed2df2(0x39e)])[_0xed2df2(0x9d0)](),_0x366bcf=_0x17e59a[_0xed2df2(0xbb1)](_0x4d0e58[_0xed2df2(0xa36)])[_0xed2df2(0x9d0)](),_0x7ebedf=_0xd20588[-0x2d2+-0x257a+0x2851],_0x30a8b3=_0x4d0e58[_0xed2df2(0x831)](_0x9507b4,_0x7ebedf,_0x4f6afe,_0x366bcf);if(_0x30a8b3)_0x4d0e58[_0xed2df2(0x981)](_0x415d60,_0x4d0e58[_0xed2df2(0x180)](_0x4d0e58[_0xed2df2(0x91a)],_0x7ebedf),![]);else _0x4d0e58[_0xed2df2(0x2fa)](_0x415d60,_0x4d0e58[_0xed2df2(0x1076)](_0x4d0e58[_0xed2df2(0x24b)],_0x7ebedf),![]);}catch(_0x4cefa7){console[_0xed2df2(0x716)](_0x4cefa7);}},'toolTip':_0x4d0e58[_0x5358ee(0x6da)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x9a6)],'isTogglable':!![],'method':()=>{const _0x3bc6da=_0x5358ee;try{if(!rightGrab)return;const _0x482bec=_0x17e59a[_0x3bc6da(0xbb1)](_0x4d0e58[_0x3bc6da(0x39e)])[_0x3bc6da(0x9d0)](),_0x43726d=_0x17e59a[_0x3bc6da(0xbb1)](_0x4d0e58[_0x3bc6da(0xa36)])[_0x3bc6da(0x9d0)](),_0x59721e=_0x3ff064[_0x3bc6da(0xbb1)](_0x4d0e58[_0x3bc6da(0xee6)],-0x17*-0xc7+0x95*0x35+0xa*-0x4df)[_0x3bc6da(0x9d0)](0xe9a+-0x251f*-0x1+-0x33b7,_0x482bec,0x70c+0x1949+-0x2*0x1028,!![]);if(_0x59721e)_0x4d0e58[_0x3bc6da(0x207)](_0x415d60,_0x4d0e58[_0x3bc6da(0x91a)],![]);else _0x4d0e58[_0x3bc6da(0x207)](_0x415d60,_0x4d0e58[_0x3bc6da(0x24b)],![]);}catch(_0x39d8a0){console[_0x3bc6da(0x716)](_0x39d8a0);}},'toolTip':_0x4d0e58[_0x5358ee(0x6da)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x7b7)],'isTogglable':!![],'method':()=>{const _0x4bb8e1=_0x5358ee;try{if(!rightGrab)return;const _0x394b57=_0x17e59a[_0x4bb8e1(0xbb1)](_0x4d0e58[_0x4bb8e1(0x39e)])[_0x4bb8e1(0x9d0)](),_0x141e6a=_0x17e59a[_0x4bb8e1(0xbb1)](_0x4d0e58[_0x4bb8e1(0xa36)])[_0x4bb8e1(0x9d0)](),_0x55167c=_0x3ff064[_0x4bb8e1(0xbb1)](_0x4d0e58[_0x4bb8e1(0xee6)],0xd*0x26b+0x231e+-0x4289)[_0x4bb8e1(0x9d0)](0xb3c+-0xe91+-0x1*-0x356,_0x394b57,-0xe0e+-0x1fe9*-0x1+-0x11d6,!![]);if(_0x55167c)_0x4d0e58[_0x4bb8e1(0xe83)](_0x415d60,_0x4d0e58[_0x4bb8e1(0x91a)],![]);else _0x4d0e58[_0x4bb8e1(0x3ba)](_0x415d60,_0x4d0e58[_0x4bb8e1(0x24b)],![]);}catch(_0x134f62){console[_0x4bb8e1(0x716)](_0x134f62);}},'toolTip':_0x4d0e58[_0x5358ee(0xf75)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x83f)],'isTogglable':!![],'method':()=>{const _0x476401=_0x5358ee;if(!rightGrab)return;const _0x1016e9=_0x4d0e58[_0x476401(0x5b9)](_0x32e0f2),_0x431aca=_0x1016e9[_0x476401(0x2cd)];if(!_0x431aca||_0x431aca[_0x476401(0xfd5)][_0x476401(0xa74)]())return;if(rightTrigger&&_0x4d0e58[_0x476401(0xfb6)](_0x4133e7,lagGunDelay)){lagGunDelay=_0x4d0e58[_0x476401(0xb4c)](_0x4133e7,-0xc1*0x25+0x4cb*0x2+0x124f);try{const _0x3d31b3=_0x431aca[_0x476401(0xbb1)](_0x4d0e58[_0x476401(0x7b1)])[_0x476401(0x9d0)]();_0x3ff064[_0x476401(0xbb1)](_0x4d0e58[_0x476401(0xee6)],-0x2451+0x24f4+-0x9f)[_0x476401(0x9d0)](0x525+-0x1aa+-0x1*0x379,_0x3d31b3,0xc7a+-0x6f6+0x3*-0x1d5,!![]);}catch(_0x991ec1){_0x4d0e58[_0x476401(0x74c)](_0x415d60,_0x4d0e58[_0x476401(0xde5)](_0x4d0e58[_0x476401(0x32c)],_0x991ec1),![]);}}},'toolTip':_0x4d0e58[_0x5358ee(0x4c5)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xcc7)],'isTogglable':!![],'method':()=>{const _0x37fc87=_0x5358ee;if(!rightGrab)return;const _0x494634=_0x4d0e58[_0x37fc87(0xa1b)](_0x32e0f2),_0x2fa94f=_0x494634[_0x37fc87(0x2cd)];if(!_0x2fa94f||_0x2fa94f[_0x37fc87(0xfd5)][_0x37fc87(0xa74)]())return;if(rightTrigger&&_0x4d0e58[_0x37fc87(0xe13)](_0x4133e7,lagGunDelay)){lagGunDelay=_0x4d0e58[_0x37fc87(0xc35)](_0x4133e7,-0x1d87+0x22a+0x1b5d);try{const _0x2100b2=_0x2fa94f[_0x37fc87(0xbb1)](_0x4d0e58[_0x37fc87(0x7b1)])[_0x37fc87(0x9d0)]();_0x3ff064[_0x37fc87(0xbb1)](_0x4d0e58[_0x37fc87(0xee6)],0x139*-0x7+-0x48b*-0x2+-0x83)[_0x37fc87(0x9d0)](-0x29*0x5+-0xb8a+-0x8*-0x18b,_0x2100b2,-0x1498+-0x8*0x2f0+-0x2c1d*-0x1,!![]);}catch(_0x1e1073){_0x4d0e58[_0x37fc87(0x1f9)](_0x415d60,_0x4d0e58[_0x37fc87(0xc05)](_0x4d0e58[_0x37fc87(0x1074)],_0x1e1073),![]);}}},'toolTip':_0x4d0e58[_0x5358ee(0xb98)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x8e0)],'isTogglable':![],'method':()=>{const _0x328fc5=_0x5358ee;try{const _0x45b173=_0x15c2bc[_0x328fc5(0xbb1)](_0x4d0e58[_0x328fc5(0xed4)],0x3bf+-0xa2+-0x31c*0x1)[_0x328fc5(0x2b5)](_0x531536)[_0x328fc5(0x9d0)](-0x1*0x14e3+0x84c*-0x3+0x2dc7);if(!_0x45b173)return;for(let _0x265afb=-0x9e8+0x1d3e+-0x1356;_0x4d0e58[_0x328fc5(0x8b3)](_0x265afb,_0x45b173[_0x328fc5(0x285)]);_0x265afb++){try{const _0x298046=_0x45b173[_0x328fc5(0xadb)](_0x265afb);if(!_0x298046||_0x298046[_0x328fc5(0xfd5)][_0x328fc5(0xa74)]())continue;_0x298046[_0x328fc5(0xbb1)](_0x4d0e58[_0x328fc5(0xf2b)])[_0x328fc5(0x9d0)]();}catch(_0x170512){}}_0x4d0e58[_0x328fc5(0xda0)](_0x415d60,_0x4d0e58[_0x328fc5(0x9b0)],![]);}catch(_0x458550){}},'toolTip':_0x4d0e58[_0x5358ee(0x497)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb15)],'isTogglable':![],'method':()=>{const _0x387f73=_0x5358ee;try{const _0x213d40=_0x15c2bc[_0x387f73(0xbb1)](_0x4d0e58[_0x387f73(0xed4)],-0x4*-0x431+0x1*0x5a9+-0x166c)[_0x387f73(0x2b5)](_0x531536)[_0x387f73(0x9d0)](-0x4d4+-0x151b+0x19ef*0x1);if(!_0x213d40)return;for(let _0x2b6d4f=-0x1f28+-0x1a3*-0x5+-0x1*-0x16f9;_0x4d0e58[_0x387f73(0xdd8)](_0x2b6d4f,_0x213d40[_0x387f73(0x285)]);_0x2b6d4f++){try{const _0x33d741=_0x213d40[_0x387f73(0xadb)](_0x2b6d4f);if(!_0x33d741||_0x33d741[_0x387f73(0xfd5)][_0x387f73(0xa74)]())continue;_0x33d741[_0x387f73(0xbb1)](_0x4d0e58[_0x387f73(0x112)])[_0x387f73(0x9d0)]();}catch(_0x69d931){}}_0x4d0e58[_0x387f73(0x109d)](_0x415d60,_0x4d0e58[_0x387f73(0x2cb)],![]);}catch(_0x22ef4b){}},'toolTip':_0x4d0e58[_0x5358ee(0x3ee)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x374)],'isTogglable':![],'method':()=>{const _0x25269a=_0x5358ee;try{const _0x37b001=_0x15c2bc[_0x25269a(0xbb1)](_0x4d0e58[_0x25269a(0xed4)],-0x183b+-0xca4+0x24e0)[_0x25269a(0x2b5)](_0x531536)[_0x25269a(0x9d0)](0x1df5+0xa1d+0x1*-0x2812);if(!_0x37b001)return;for(let _0x23c8c5=0x2161+-0x9ef*0x2+-0x481*0x3;_0x4d0e58[_0x25269a(0x7f3)](_0x23c8c5,_0x37b001[_0x25269a(0x285)]);_0x23c8c5++){try{const _0x28cebf=_0x37b001[_0x25269a(0xadb)](_0x23c8c5);if(!_0x28cebf||_0x28cebf[_0x25269a(0xfd5)][_0x25269a(0xa74)]())continue;_0x28cebf[_0x25269a(0xbb1)](_0x4d0e58[_0x25269a(0x255)])[_0x25269a(0x9d0)](-0x2f*-0x3d69be+-0x38d1*0x2ceb+0x1*0x4a78af9,[],Il2Cpp[_0x25269a(0xa11)](Il2Cpp[_0x25269a(0x8cd)][_0x25269a(0xfb2)](_0x4d0e58[_0x25269a(0xd56)])[_0x25269a(0xce4)][_0x25269a(0x9aa)](_0x4d0e58[_0x25269a(0xbeb)])[_0x25269a(0xc19)]()));}catch(_0x4dcf70){}}_0x4d0e58[_0x25269a(0xfda)](_0x415d60,_0x4d0e58[_0x25269a(0x1ec)],![]);}catch(_0x26a8ac){console[_0x25269a(0x716)](_0x4d0e58[_0x25269a(0xefa)],_0x26a8ac);}},'toolTip':_0x4d0e58[_0x5358ee(0x1048)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xbb5)],'isTogglable':!![],'method':()=>{const _0x2971f5=_0x5358ee;try{if(_0x4d0e58[_0x2971f5(0x69f)](_0x4133e7,lagGunDelay))return;lagGunDelay=_0x4d0e58[_0x2971f5(0xbc5)](_0x4133e7,-0x3c8+-0x2*0x112+0x5ec+0.5);const _0x1416ec=_0x15c2bc[_0x2971f5(0xbb1)](_0x4d0e58[_0x2971f5(0xed4)],-0x2ba*-0x3+0x532*-0x1+-0x2fb)[_0x2971f5(0x2b5)](_0x531536)[_0x2971f5(0x9d0)](0x67+-0x2*0x125e+0x2455);if(!_0x1416ec)return;for(let _0x49a933=0x270+-0x21fa+-0x1f8a*-0x1;_0x4d0e58[_0x2971f5(0x8bc)](_0x49a933,_0x1416ec[_0x2971f5(0x285)]);_0x49a933++){try{const _0x2c25ea=_0x1416ec[_0x2971f5(0xadb)](_0x49a933);if(!_0x2c25ea||_0x2c25ea[_0x2971f5(0xfd5)][_0x2971f5(0xa74)]())continue;_0x2c25ea[_0x2971f5(0xbb1)](_0x4d0e58[_0x2971f5(0x10a4)])[_0x2971f5(0x9d0)](0x17f2+-0x81*-0x3c+-0x362e);}catch(_0x12a50f){}}}catch(_0x442446){}},'toolTip':_0x4d0e58[_0x5358ee(0xa81)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xd6a)],'method':()=>{const _0x18dd2e=_0x5358ee;if(rightGrab){const _0x31c88b=_0x4d0e58[_0x18dd2e(0xd82)](_0x32e0f2),_0x4d30d5=_0x31c88b[_0x18dd2e(0x2cd)];if(_0x4d0e58[_0x18dd2e(0xcfc)](rightTrigger,_0x4d30d5)){const _0x1ddc43=_0x4d0e58[_0x18dd2e(0xba9)](_0x2c485b,_0x4d30d5[_0x18dd2e(0xbb1)](_0x4d0e58[_0x18dd2e(0xb70)])[_0x18dd2e(0x9d0)](),_0xcb2f35);if(_0x1ddc43&&!_0x1ddc43[_0x18dd2e(0xfd5)][_0x18dd2e(0xa74)]()&&_0x4d0e58[_0x18dd2e(0xe1b)](_0x4133e7,lagGunDelay)){if(!_0x4d0e58[_0x18dd2e(0xf5d)](_0x4d8800,_0x1ddc43)){lagGunDelay=_0x4d0e58[_0x18dd2e(0xdab)](_0x4133e7,-0xc2*-0xd+-0xab8+0xe0*0x1);const _0x350172=_0x1ddc43[_0x18dd2e(0xbb1)](_0x4d0e58[_0x18dd2e(0x364)])[_0x18dd2e(0x9d0)](),_0x32a0ef=_0x350172[_0x18dd2e(0xbb1)](_0x4d0e58[_0x18dd2e(0x2b3)])[_0x18dd2e(0x9d0)](),_0x1cd4e9=_0x4c3978[_0x18dd2e(0xbb1)](_0x4d0e58[_0x18dd2e(0xf9b)],-0x1*0x1ad5+0x15d3+0x6*0xd6)[_0x18dd2e(0x9d0)](_0x32a0ef,_0x4d0e58[_0x18dd2e(0x1fa)](0x65a+-0x1143+0x10c5,deltaTime));_0x1ddc43[_0x18dd2e(0xbb1)](_0x4d0e58[_0x18dd2e(0x10a0)])[_0x18dd2e(0x9d0)]([0xe80+0x1534+-0x23b4,-(0xeaa3*-0x141+-0x1a*0x2d692+-0x20897b6*-0x1),0x937+0x2e7+0x16*-0x8d]),_0x1ddc43[_0x18dd2e(0xbb1)](_0x4d0e58[_0x18dd2e(0x9ae)])[_0x18dd2e(0x9d0)](_0x1cd4e9);}}}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x1090)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xd94)],'method':()=>{const _0x5b8dc5=_0x5358ee;if(rightGrab){const _0x3631de=_0x4d0e58[_0x5b8dc5(0x24c)](_0x32e0f2),_0x316a27=_0x3631de[_0x5b8dc5(0x2cd)];if(_0x4d0e58[_0x5b8dc5(0x6aa)](rightTrigger,_0x316a27)){const _0x20c08d=_0x4d0e58[_0x5b8dc5(0xd1c)](_0x2c485b,_0x316a27[_0x5b8dc5(0xbb1)](_0x4d0e58[_0x5b8dc5(0xb70)])[_0x5b8dc5(0x9d0)](),_0xcb2f35);_0x20c08d&&!_0x20c08d[_0x5b8dc5(0xfd5)][_0x5b8dc5(0xa74)]()&&_0x4d0e58[_0x5b8dc5(0x778)](_0x4133e7,tagGunDelay)&&(!_0x4d0e58[_0x5b8dc5(0xe74)](_0x4d8800,_0x20c08d)&&_0x4d0e58[_0x5b8dc5(0xac6)](_0x45cac9,_0x20c08d));}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x253)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb78)],'method':()=>{const _0x364b53=_0x5358ee;hue+=-0xa*-0xed+-0x2541+-0x1*-0x1c04;if(_0x4d0e58[_0x364b53(0x328)](hue,-0x8*-0x3d7+-0x23b*-0x1+-0x1ff4))hue=-0xe26*0x2+0x1*-0x1231+0x2e7d;if(rightGrab){const _0xef2362=_0x4d0e58[_0x364b53(0x6c6)](_0x32e0f2),_0x51a16f=_0xef2362[_0x364b53(0x2cd)];if(_0x4d0e58[_0x364b53(0xc1b)](rightTrigger,_0x51a16f)){const _0x15f454=_0x4d0e58[_0x364b53(0x1c2)](_0x2c485b,_0x51a16f[_0x364b53(0xbb1)](_0x4d0e58[_0x364b53(0xb70)])[_0x364b53(0x9d0)](),_0xcb2f35);_0x15f454&&!_0x15f454[_0x364b53(0xfd5)][_0x364b53(0xa74)]()&&_0x4d0e58[_0x364b53(0x6d9)](_0x4133e7,tagGunDelay)&&(!_0x4d0e58[_0x364b53(0xe6b)](_0x4d8800,_0x15f454)&&_0x15f454[_0x364b53(0xbb1)](_0x4d0e58[_0x364b53(0x349)])[_0x364b53(0x9d0)](-0x23b8+0x3*-0x4db+0x112*0x2f,hue,-0x2*-0x127d+-0x1*-0x115d+-0x6b*0x82,-0x2303*0x1+0x1591+-0xb*-0x139));}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x1090)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe00)],'method':()=>{const _0x3f919a=_0x5358ee;if(rightGrab){const _0x5d7009=_0x4d0e58[_0x3f919a(0x434)](_0x32e0f2),_0x3a478a=_0x5d7009[_0x3f919a(0x2cd)];if(_0x4d0e58[_0x3f919a(0x196)](rightTrigger,_0x3a478a)){const _0x562235=_0x4d0e58[_0x3f919a(0x6e8)](_0x2c485b,_0x3a478a[_0x3f919a(0xbb1)](_0x4d0e58[_0x3f919a(0xb70)])[_0x3f919a(0x9d0)](),_0xcb2f35);_0x562235&&!_0x562235[_0x3f919a(0xfd5)][_0x3f919a(0xa74)]()&&_0x4d0e58[_0x3f919a(0xf00)](_0x4133e7,tagGunDelay)&&(!_0x4d0e58[_0x3f919a(0x66a)](_0x4d8800,_0x562235)&&_0x562235[_0x3f919a(0xbb1)](_0x4d0e58[_0x3f919a(0x349)])[_0x3f919a(0x9d0)](NaN,NaN,NaN,NaN));}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x1090)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe12)],'method':()=>{const _0x4f4fd2=_0x5358ee;if(rightGrab){const _0x4207f1=_0x4d0e58[_0x4f4fd2(0x5b9)](_0x32e0f2),_0x1ffc45=_0x4207f1[_0x4f4fd2(0x2cd)];if(_0x4d0e58[_0x4f4fd2(0x331)](rightTrigger,_0x1ffc45)){const _0x8a6f0d=_0x1ffc45[_0x4f4fd2(0xbb1)](_0x4d0e58[_0x4f4fd2(0xb70)])[_0x4f4fd2(0x9d0)]();if(_0x8a6f0d&&!_0x8a6f0d[_0x4f4fd2(0xfd5)][_0x4f4fd2(0xa74)]()){const _0x2e6569=_0x8a6f0d[_0x4f4fd2(0xbb1)](_0x4d0e58[_0x4f4fd2(0x9e2)])[_0x4f4fd2(0x9d0)]();if(_0x2e6569&&!_0x2e6569[_0x4f4fd2(0xfd5)][_0x4f4fd2(0xa74)]()){const _0x2ce0e4=_0x2e6569[_0x4f4fd2(0xbb1)](_0x4d0e58[_0x4f4fd2(0xd21)])[_0x4f4fd2(0x9d0)]();console[_0x4f4fd2(0x13d)](_0x4d0e58[_0x4f4fd2(0x715)],_0x2ce0e4);}}}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x1090)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x97f)],'method':()=>{const _0x3b169b=_0x5358ee,_0x4013cf=_0x15c2bc[_0x3b169b(0xbb1)](_0x4d0e58[_0x3b169b(0xe09)])[_0x3b169b(0x2b5)](_0xcb2f35)[_0x3b169b(0x9d0)]();if(_0x4013cf)for(let _0x43d20b=0xe7*0x19+0x81*0x1f+0x9*-0x43e;_0x4d0e58[_0x3b169b(0x2f5)](_0x43d20b,_0x4013cf[_0x3b169b(0x285)]);_0x43d20b++){const _0x2cd10f=_0x4013cf[_0x3b169b(0xadb)](_0x43d20b);if(_0x4d0e58[_0x3b169b(0xe36)](_0x4d8800,_0x2cd10f))continue;const _0x21b3e0=_0x2cd10f[_0x3b169b(0xbb1)](_0x4d0e58[_0x3b169b(0x364)])[_0x3b169b(0x9d0)](),_0x379e90=_0x21b3e0[_0x3b169b(0xbb1)](_0x4d0e58[_0x3b169b(0x2b3)])[_0x3b169b(0x9d0)](),_0x151d33=_0x4c3978[_0x3b169b(0xbb1)](_0x4d0e58[_0x3b169b(0xf9b)],0x1*0x7+-0x11ea+0x11e5)[_0x3b169b(0x9d0)](_0x379e90,_0x4d0e58[_0x3b169b(0x3b3)](0x301*-0x2+0x26d5+-0x27*0xb1,deltaTime));_0x2cd10f[_0x3b169b(0xbb1)](_0x4d0e58[_0x3b169b(0x10a0)])[_0x3b169b(0x9d0)]([0x1635+-0xed9+-0x75c,-(0x132197*0x1+0xb113d*0xb+0xbb749),0x1*0x20c3+-0x3*-0x124+-0x242f]),_0x2cd10f[_0x3b169b(0xbb1)](_0x4d0e58[_0x3b169b(0x9ae)])[_0x3b169b(0x9d0)](_0x151d33);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x1090)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x174)],'method':()=>{const _0x45e62c=_0x5358ee,_0x580408=_0x15c2bc[_0x45e62c(0xbb1)](_0x4d0e58[_0x45e62c(0xe09)])[_0x45e62c(0x2b5)](_0xcb2f35)[_0x45e62c(0x9d0)]();if(_0x580408)for(let _0x532401=0x1376+-0x1f28+-0x1f3*-0x6;_0x4d0e58[_0x45e62c(0xd77)](_0x532401,_0x580408[_0x45e62c(0x285)]);_0x532401++){const _0x310ea7=_0x580408[_0x45e62c(0xadb)](_0x532401);if(_0x4d0e58[_0x45e62c(0x7a9)](_0x4d8800,_0x310ea7))continue;_0x4d0e58[_0x45e62c(0xea3)](_0x45cac9,_0x310ea7);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x1090)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x761)],'method':()=>{const _0x1ade71=_0x5358ee;hue+=-0x20b4+0x17*-0x153+0x3f2e;if(_0x4d0e58[_0x1ade71(0x3be)](hue,0xe3+0xaa1+-0xa85))hue=0x20f6+-0x2056+-0x4*0x28;if(rightGrab){const _0x4ea40f=_0x15c2bc[_0x1ade71(0xbb1)](_0x4d0e58[_0x1ade71(0xe09)])[_0x1ade71(0x2b5)](_0xcb2f35)[_0x1ade71(0x9d0)]();if(_0x4ea40f)for(let _0xc94735=-0x17a1+0x3b9*-0x1+0x1b5a;_0x4d0e58[_0x1ade71(0x980)](_0xc94735,_0x4ea40f[_0x1ade71(0x285)]);_0xc94735++){const _0x574387=_0x4ea40f[_0x1ade71(0xadb)](_0xc94735);if(_0x574387[_0x1ade71(0xbb1)](_0x4d0e58[_0x1ade71(0xb3c)])[_0x1ade71(0x9d0)]())continue;_0x574387[_0x1ade71(0xbb1)](_0x4d0e58[_0x1ade71(0x349)])[_0x1ade71(0x9d0)](0x2170*-0x1+0x4d6*-0x1+-0x264b*-0x1,hue,0x11*-0x15+0x25cb+0x2465*-0x1,0x174*-0x16+0x664*0x4+0x223*0x3);}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x1090)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xa19)],'method':()=>{const _0x3d68e8=_0x5358ee;if(rightGrab){const _0x5a2996=_0x15c2bc[_0x3d68e8(0xbb1)](_0x4d0e58[_0x3d68e8(0xe09)])[_0x3d68e8(0x2b5)](_0xcb2f35)[_0x3d68e8(0x9d0)]();if(_0x5a2996)for(let _0x4df4a3=-0xd*-0x29d+0x171e+-0x3917;_0x4d0e58[_0x3d68e8(0x384)](_0x4df4a3,_0x5a2996[_0x3d68e8(0x285)]);_0x4df4a3++){const _0x50300c=_0x5a2996[_0x3d68e8(0xadb)](_0x4df4a3);if(_0x50300c[_0x3d68e8(0xbb1)](_0x4d0e58[_0x3d68e8(0xb3c)])[_0x3d68e8(0x9d0)]())continue;_0x50300c[_0x3d68e8(0xbb1)](_0x4d0e58[_0x3d68e8(0x349)])[_0x3d68e8(0x9d0)](NaN,NaN,NaN,NaN);}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x1090)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xc80)],'method':()=>{const _0x3f42ae=_0x5358ee;if(rightGrab){const _0x35f459=_0xcb2f35[_0x3f42ae(0xbb1)](_0x4d0e58[_0x3f42ae(0x1064)])[_0x3f42ae(0x9d0)]();if(!_0x35f459)return;_0x35f459[_0x3f42ae(0xbb1)](_0x4d0e58[_0x3f42ae(0x349)])[_0x3f42ae(0x9d0)](NaN,NaN,NaN,NaN);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x1090)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x305)],'method':()=>{const _0x43cb1a=_0x5358ee,_0x8ae291=_0x17e59a;_0x4d0e58[_0x43cb1a(0x316)](rightSecondary,rightGrab)&&_0x464f9d[_0x43cb1a(0xbb1)](_0x4d0e58[_0x43cb1a(0x126)],0xdc1+0xb02*0x2+-0x23c1)[_0x43cb1a(0x9d0)](Il2Cpp[_0x43cb1a(0x404)](_0x4d0e58[_0x43cb1a(0x617)]('',itemIDs[itemIndex])),_0x8ae291[_0x43cb1a(0xbb1)](_0x4d0e58[_0x43cb1a(0x39e)])[_0x43cb1a(0x9d0)](),_0x8ae291[_0x43cb1a(0xbb1)](_0x4d0e58[_0x43cb1a(0xa36)])[_0x43cb1a(0x9d0)](),null);},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xbc1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x921)],'disableMethod':()=>{const _0x627da5=_0x5358ee;if(visualizer&&visualizer[_0x627da5(0x285)])for(const _0x5b472c of visualizer){_0x5b472c&&_0x5b472c[_0x627da5(0xbb1)](_0x4d0e58[_0x627da5(0x9e2)])[_0x627da5(0x9d0)]()[_0x627da5(0xbb1)](_0x4d0e58[_0x627da5(0x6ad)])[_0x627da5(0x9d0)](![]);}},'method':()=>{const _0xe4bf1c=_0x5358ee,_0x3f7d6c=_0x17e59a,_0x35c11e=Il2Cpp[_0xe4bf1c(0x404)](_0x4d0e58[_0xe4bf1c(0x1ad)](_0x4d0e58[_0xe4bf1c(0x267)],itemIDs[itemIndex])),_0x4a02b7=_0x3f7d6c[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x39e)])[_0xe4bf1c(0x9d0)](),_0x2fba83=_0x5490f3,_0x1361e3=-0x86d*0x1+-0x20d9+0x2946+0.5;if(_0x4d0e58[_0xe4bf1c(0x6ca)](_0x4133e7,tagGunDelay)){tagGunDelay=_0x4d0e58[_0xe4bf1c(0x298)](_0x4133e7,-0x1a*-0x17f+-0x1*-0x1082+-0x3768+0.1);for(let _0x279f72=0x2*-0x272+0x227a+0xecb*-0x2;_0x4d0e58[_0xe4bf1c(0xae6)](_0x279f72,-0x1*-0x1743+0x1*-0x1e24+0x1*0x6e5);_0x279f72++){for(let _0x20f727=0x92*-0x26+-0x3ab+0x1f3*0xd;_0x4d0e58[_0xe4bf1c(0xd77)](_0x20f727,-0x452+0x86*0x23+-0xdfc);_0x20f727++){const _0x3d9aea=_0x4c3978[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x80e)])[_0xe4bf1c(0x9d0)](_0x4a02b7,_0x4c3978[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0xf9b)])[_0xe4bf1c(0x9d0)](_0x4c3978[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x80e)])[_0xe4bf1c(0x9d0)](_0x4c3978[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0xf9b)])[_0xe4bf1c(0x9d0)](_0x4c3978[_0xe4bf1c(0x398)](_0x4d0e58[_0xe4bf1c(0x848)])[_0xe4bf1c(0x1081)],_0x279f72),_0x4c3978[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0xf9b)])[_0xe4bf1c(0x9d0)](_0x4c3978[_0xe4bf1c(0x398)](_0x4d0e58[_0xe4bf1c(0xfa7)])[_0xe4bf1c(0x1081)],_0x20f727)),_0x1361e3));if(!visualizer[_0x4d0e58[_0xe4bf1c(0x77e)](_0x4d0e58[_0xe4bf1c(0xf17)](_0x279f72,0x20a1*-0x1+0x211a+0x3*-0x27),_0x20f727)]){const _0x501778=_0x15974c[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x156)])[_0xe4bf1c(0x9d0)](-0x8*0x1ab+0x623*-0x4+0x25e7);_0x4d0e58[_0xe4bf1c(0x7fc)](_0x40b1f6,_0x4d0e58[_0xe4bf1c(0xba9)](_0x560783,_0x501778,_0x184208));const _0x538610=_0x4d0e58[_0xe4bf1c(0x815)](_0x560783,_0x501778,_0x45330e),_0x3bb10d=_0x538610[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x10c3)])[_0xe4bf1c(0x9d0)]();_0x3bb10d[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x955)])[_0xe4bf1c(0x9d0)](_0x4fc340),_0x3bb10d[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0xcbf)])[_0xe4bf1c(0x9d0)]([-0x4bd*-0x4+0xa54+0x8*-0x3a9,-0x1dd2+-0x19*-0x4a+0x1699,-0x51f+-0x1*0xeb3+0x2b*0x76,0x4*0xb3+-0x224f+-0x1*-0x1f83+0.3]);const _0x1b2b95=_0x4d0e58[_0xe4bf1c(0x107f)](_0xb288f,_0x501778);_0x1b2b95[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x1bd)])[_0xe4bf1c(0x9d0)]([-0x17fc+-0x2*0x1169+0x2*0x1d67+0.1,0x3*-0x33b+-0x1cb1+0x1*0x2662+0.1,-0x106*-0xe+0x1b3d+-0x2991+0.1]),visualizer[_0x4d0e58[_0xe4bf1c(0x7a4)](_0x4d0e58[_0xe4bf1c(0xb9d)](_0x279f72,0x2*-0x257+0x10*0x4+0x472),_0x20f727)]=_0x501778;}const _0x3abfd7=_0x4d0e58[_0xe4bf1c(0x9ce)](_0xb288f,visualizer[_0x4d0e58[_0xe4bf1c(0x302)](_0x4d0e58[_0xe4bf1c(0x293)](_0x279f72,-0x1a37+-0x27b*0x3+0x21ac),_0x20f727)]);_0x3abfd7[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x110b)])[_0xe4bf1c(0x9d0)](_0x3d9aea),_0x3abfd7[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x161)])[_0xe4bf1c(0x9d0)](_0x2fba83),visualizer[_0x4d0e58[_0xe4bf1c(0x702)](_0x4d0e58[_0xe4bf1c(0x480)](_0x279f72,0x796+-0x2110+0x197e),_0x20f727)][_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x9e2)])[_0xe4bf1c(0x9d0)]()[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x6ad)])[_0xe4bf1c(0x9d0)](!![]);}}}if(_0x4d0e58[_0xe4bf1c(0xb27)](rightPrimary,!perviousSpawnKey))for(let _0x5b435f=0x1*-0x40f+0x1a*-0x90+0x12af*0x1;_0x4d0e58[_0xe4bf1c(0x3ff)](_0x5b435f,-0xd17+0x1*0x66a+0x6b1);_0x5b435f++){for(let _0x1fa1a2=0xb*-0x2ca+-0x3*-0x859+0x5a3;_0x4d0e58[_0xe4bf1c(0x875)](_0x1fa1a2,0x5fb*0x1+-0x3d+-0x5ba);_0x1fa1a2++){const _0x31e9ab=_0x4c3978[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x80e)])[_0xe4bf1c(0x9d0)](_0x4a02b7,_0x4c3978[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0xf9b)])[_0xe4bf1c(0x9d0)](_0x4c3978[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x80e)])[_0xe4bf1c(0x9d0)](_0x4c3978[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0xf9b)])[_0xe4bf1c(0x9d0)](_0x4c3978[_0xe4bf1c(0x398)](_0x4d0e58[_0xe4bf1c(0x848)])[_0xe4bf1c(0x1081)],_0x5b435f),_0x4c3978[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0xf9b)])[_0xe4bf1c(0x9d0)](_0x4c3978[_0xe4bf1c(0x398)](_0x4d0e58[_0xe4bf1c(0xfa7)])[_0xe4bf1c(0x1081)],_0x1fa1a2)),_0x1361e3));_0x464f9d[_0xe4bf1c(0xbb1)](_0x4d0e58[_0xe4bf1c(0x126)],-0x1f5+0x161*-0x6+0xa3f)[_0xe4bf1c(0x9d0)](_0x35c11e,_0x31e9ab,_0x2fba83,null);}}perviousSpawnKey=rightPrimary;},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xbc1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x52c)],'disableMethod':()=>{const _0x479cab=_0x5358ee;if(visualizer&&visualizer[_0x479cab(0x285)])for(const _0x1c8baa of visualizer){_0x1c8baa&&_0x1c8baa[_0x479cab(0xbb1)](_0x4d0e58[_0x479cab(0x9e2)])[_0x479cab(0x9d0)]()[_0x479cab(0xbb1)](_0x4d0e58[_0x479cab(0x6ad)])[_0x479cab(0x9d0)](![]);}},'method':()=>{const _0x1c253d=_0x5358ee,_0x456082=Il2Cpp[_0x1c253d(0x404)](_0x4d0e58[_0x1c253d(0x1076)](_0x4d0e58[_0x1c253d(0x267)],itemIDs[itemIndex])),_0x1eb2c2=_0x4d0e58[_0x1c253d(0x54d)](_0xb288f,_0x431304)[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x39e)])[_0x1c253d(0x9d0)](),_0x47e111=_0x5490f3,_0x3aea91=-0x1571*0x1+-0x16ec+0x2c5d+0.5,_0x149058=_0x4c3978[_0x1c253d(0x398)](_0x4d0e58[_0x1c253d(0x102c)])[_0x1c253d(0x1081)],_0x430191=_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x80e)])[_0x1c253d(0x9d0)](_0x1eb2c2,_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0xf9b)])[_0x1c253d(0x9d0)](_0x149058,0x869+-0x1017+-0x3d8*-0x2));if(_0x4d0e58[_0x1c253d(0x3be)](_0x4133e7,tagGunDelay)){tagGunDelay=_0x4d0e58[_0x1c253d(0x994)](_0x4133e7,0x203a+-0xd08+0x2a*-0x75+0.1);for(let _0x4c3ef5=-0x2500+-0x1d02+0x11*0x3e2;_0x4d0e58[_0x1c253d(0x789)](_0x4c3ef5,-0xad3+0x22d9*0x1+-0x1802*0x1);_0x4c3ef5++){for(let _0x1be5d7=0x1*0x164b+-0x1*0x177e+0x133;_0x4d0e58[_0x1c253d(0x793)](_0x1be5d7,-0x1*0x1b95+-0x3da*0x1+-0x53*-0x61);_0x1be5d7++){const _0x31235c=_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x80e)])[_0x1c253d(0x9d0)](_0x430191,_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0xf9b)])[_0x1c253d(0x9d0)](_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x80e)])[_0x1c253d(0x9d0)](_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0xf9b)])[_0x1c253d(0x9d0)](_0x4c3978[_0x1c253d(0x398)](_0x4d0e58[_0x1c253d(0x848)])[_0x1c253d(0x1081)],_0x4c3ef5),_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0xf9b)])[_0x1c253d(0x9d0)](_0x4c3978[_0x1c253d(0x398)](_0x4d0e58[_0x1c253d(0xfa7)])[_0x1c253d(0x1081)],_0x1be5d7)),_0x3aea91));if(!visualizer[_0x4d0e58[_0x1c253d(0xe04)](_0x4d0e58[_0x1c253d(0x843)](_0x4c3ef5,-0x1f7e+0x38*0x2f+-0x26*-0x8f),_0x1be5d7)]){const _0xdc74f7=_0x15974c[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x156)])[_0x1c253d(0x9d0)](0x1*-0x2583+0x5*-0x587+-0x94f*-0x7);_0x4d0e58[_0x1c253d(0x101f)](_0x40b1f6,_0x4d0e58[_0x1c253d(0x2fa)](_0x560783,_0xdc74f7,_0x184208));const _0xca9376=_0x4d0e58[_0x1c253d(0x1a7)](_0x560783,_0xdc74f7,_0x45330e),_0x5530d9=_0xca9376[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x10c3)])[_0x1c253d(0x9d0)]();_0x5530d9[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x955)])[_0x1c253d(0x9d0)](_0x4fc340),_0x5530d9[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0xcbf)])[_0x1c253d(0x9d0)]([-0x389*0x5+-0x462+-0x160f*-0x1,-0x23fb*0x1+0xe17+0x15e5,-0x1345*0x2+-0x51a+0x2ba4,0x22dd+-0xedc+-0x1401+0.3]);const _0xc0e804=_0x4d0e58[_0x1c253d(0x7fc)](_0xb288f,_0xdc74f7);_0xc0e804[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x1bd)])[_0x1c253d(0x9d0)]([-0xf1*-0x11+0x1802*0x1+-0x2803+0.1,0x1*-0xfb3+-0x281*-0x1+0xd32+0.1,-0x3f*0x43+-0x5e*-0x11+0xa3f+0.1]),visualizer[_0x4d0e58[_0x1c253d(0x5b1)](_0x4d0e58[_0x1c253d(0x223)](_0x4c3ef5,0x13c6+0x1*0x2543+-0x3905),_0x1be5d7)]=_0xdc74f7;}const _0x59cda0=_0x4d0e58[_0x1c253d(0xd72)](_0xb288f,visualizer[_0x4d0e58[_0x1c253d(0x42e)](_0x4d0e58[_0x1c253d(0xa94)](_0x4c3ef5,-0x2115+-0xa6b*-0x2+0xc43),_0x1be5d7)]);_0x59cda0[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x110b)])[_0x1c253d(0x9d0)](_0x31235c),_0x59cda0[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x161)])[_0x1c253d(0x9d0)](_0x47e111),visualizer[_0x4d0e58[_0x1c253d(0xd13)](_0x4d0e58[_0x1c253d(0x2c4)](_0x4c3ef5,0x149a+-0x7aa+-0x33b*0x4),_0x1be5d7)][_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x9e2)])[_0x1c253d(0x9d0)]()[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x6ad)])[_0x1c253d(0x9d0)](!![]);}}}if(_0x4d0e58[_0x1c253d(0xa2f)](rightPrimary,!perviousSpawnKey))for(let _0x1b5afe=-0xc*0x151+0x4ee*0x3+0x102;_0x4d0e58[_0x1c253d(0x7f3)](_0x1b5afe,-0x133d+0x212*-0x1+0x1553);_0x1b5afe++){for(let _0x4f6367=-0x18*-0x160+-0x1*0x115+0x1*-0x1feb;_0x4d0e58[_0x1c253d(0x7d6)](_0x4f6367,-0x1c5*-0x4+0x932+-0x1042);_0x4f6367++){const _0x18a035=_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x80e)])[_0x1c253d(0x9d0)](_0x430191,_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0xf9b)])[_0x1c253d(0x9d0)](_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x80e)])[_0x1c253d(0x9d0)](_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0xf9b)])[_0x1c253d(0x9d0)](_0x4c3978[_0x1c253d(0x398)](_0x4d0e58[_0x1c253d(0x848)])[_0x1c253d(0x1081)],_0x1b5afe),_0x4c3978[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0xf9b)])[_0x1c253d(0x9d0)](_0x4c3978[_0x1c253d(0x398)](_0x4d0e58[_0x1c253d(0xfa7)])[_0x1c253d(0x1081)],_0x4f6367)),_0x3aea91));_0x464f9d[_0x1c253d(0xbb1)](_0x4d0e58[_0x1c253d(0x126)],-0x125a+0xd5e*0x1+-0x4*-0x140)[_0x1c253d(0x9d0)](_0x456082,_0x18a035,_0x47e111,null);}}perviousSpawnKey=rightPrimary;},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xbc1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x1050)],'method':()=>{const _0x463653=_0x5358ee;if(rightGrab){const _0x376b2e=_0x4d0e58[_0x463653(0x14d)](_0x32e0f2),_0x49aa1d=_0x376b2e[_0x463653(0x1dd)];rightTrigger&&_0x464f9d[_0x463653(0xbb1)](_0x4d0e58[_0x463653(0x126)],0x7ed*0x1+0x1*0x4e4+-0xccd)[_0x463653(0x9d0)](Il2Cpp[_0x463653(0x404)](_0x4d0e58[_0x463653(0xde8)](_0x4d0e58[_0x463653(0x267)],itemIDs[itemIndex])),_0x4d0e58[_0x463653(0xe76)](_0xb288f,_0x49aa1d)[_0x463653(0xbb1)](_0x4d0e58[_0x463653(0x39e)])[_0x463653(0x9d0)](),_0x5490f3,null);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xbc1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xa34)],'method':()=>{const _0x716afa=_0x5358ee;if(rightGrab){const _0x3018d1=_0x4d0e58[_0x716afa(0xaed)](_0x32e0f2),_0x2ba3ef=_0x3018d1[_0x716afa(0x2cd)];if(_0x4d0e58[_0x716afa(0x26b)](rightTrigger,_0x2ba3ef)){const _0x42bb4d=_0x4d0e58[_0x716afa(0xdb7)](_0x2c485b,_0x2ba3ef[_0x716afa(0xbb1)](_0x4d0e58[_0x716afa(0xb70)])[_0x716afa(0x9d0)](),_0x2e62a6);_0x42bb4d[_0x716afa(0xbb1)](_0x4d0e58[_0x716afa(0xd8e)],-0x111f+0x2*0xc8c+0x25*-0x37)[_0x716afa(0x9d0)](_0x17e59a[_0x716afa(0xbb1)](_0x4d0e58[_0x716afa(0x39e)])[_0x716afa(0x9d0)](),_0x17e59a[_0x716afa(0xbb1)](_0x4d0e58[_0x716afa(0xa36)])[_0x716afa(0x9d0)](),_0x130c91,_0x130c91,!![],![]),_0x42bb4d[_0x716afa(0xbb1)](_0x4d0e58[_0x716afa(0x10a0)],-0x3*-0x49d+-0x2335+0x1560)[_0x716afa(0x9d0)](_0x17e59a[_0x716afa(0xbb1)](_0x4d0e58[_0x716afa(0x39e)])[_0x716afa(0x9d0)](),_0x17e59a[_0x716afa(0xbb1)](_0x4d0e58[_0x716afa(0xa36)])[_0x716afa(0x9d0)](),_0x130c91,_0x130c91,!![],![]);}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xbc1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xf4b)],'method':()=>{const _0x2b7537=_0x5358ee;if(rightGrab){if(rightTrigger){const _0x25d842=_0x15c2bc[_0x2b7537(0xbb1)](_0x4d0e58[_0x2b7537(0xe09)])[_0x2b7537(0x2b5)](_0xcb2f35)[_0x2b7537(0x9d0)]();if(_0x25d842)for(let _0x315ca7=0x1f82+0x1cab+-0x3c2d;_0x4d0e58[_0x2b7537(0xdd8)](_0x315ca7,_0x25d842[_0x2b7537(0x285)]);_0x315ca7++){const _0x4bf354=_0x25d842[_0x2b7537(0xadb)](_0x315ca7);if(_0x4bf354[_0x2b7537(0xbb1)](_0x4d0e58[_0x2b7537(0xb3c)])[_0x2b7537(0x9d0)]())continue;_0x4d0e58[_0x2b7537(0x57c)](_0x45cac9,_0x4bf354),_0x4bf354[_0x2b7537(0xbb1)](_0x4d0e58[_0x2b7537(0x10a0)])[_0x2b7537(0x9d0)](new _0x4c3978(-(-0xa1a92cb+-0x3813f60+-0x2ba3*-0x72ce),-(0x5374*0xe4b+0x8f71f17*0x1+-0x7aa0914),-(0x4be9d9d+-0x1*0x193d0e5+-0x2cb1447*-0x1)),_0x5490f3);}}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xbc1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x70b)],'method':()=>{const _0x321211=_0x5358ee;if(rightGrab){const _0x331d7d=_0x4d0e58[_0x321211(0x5cb)](_0x32e0f2),_0xfdfedf=_0x331d7d[_0x321211(0x1dd)];if(rightTrigger){const _0x1cc5f4=_0x15c2bc[_0x321211(0xbb1)](_0x4d0e58[_0x321211(0xe09)])[_0x321211(0x2b5)](_0xcb2f35)[_0x321211(0x9d0)]();if(_0x1cc5f4)for(let _0x4d4c72=0x1ea5+0x22e5*0x1+0x2*-0x20c5;_0x4d0e58[_0x321211(0x8cb)](_0x4d4c72,_0x1cc5f4[_0x321211(0x285)]);_0x4d4c72++){const _0x2847cf=_0x1cc5f4[_0x321211(0xadb)](_0x4d4c72);if(_0x2847cf[_0x321211(0xbb1)](_0x4d0e58[_0x321211(0xb3c)])[_0x321211(0x9d0)]())continue;_0x2847cf[_0x321211(0xbb1)](_0x4d0e58[_0x321211(0x10a0)])[_0x321211(0x9d0)](_0x4d0e58[_0x321211(0x2b1)](_0xb288f,_0xfdfedf)[_0x321211(0xbb1)](_0x4d0e58[_0x321211(0x39e)])[_0x321211(0x9d0)]());}}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xbc1)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x8b8)],'method':()=>{const _0x2aa7aa=_0x5358ee,_0x4cd6d3=_0x17e59a;_0x4d0e58[_0x2aa7aa(0x196)](rightSecondary,rightGrab)&&_0x464f9d[_0x2aa7aa(0xbb1)](_0x4d0e58[_0x2aa7aa(0x126)],-0x596+-0x23db+0x2975)[_0x2aa7aa(0x9d0)](Il2Cpp[_0x2aa7aa(0x404)](_0x4d0e58[_0x2aa7aa(0x2c7)](_0x4d0e58[_0x2aa7aa(0x6f7)],mobIDs[mobIndex])),_0x4cd6d3[_0x2aa7aa(0xbb1)](_0x4d0e58[_0x2aa7aa(0x39e)])[_0x2aa7aa(0x9d0)](),_0x4cd6d3[_0x2aa7aa(0xbb1)](_0x4d0e58[_0x2aa7aa(0xa36)])[_0x2aa7aa(0x9d0)](),null);},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x79c)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xc65)],'method':()=>{const _0x156c1e=_0x5358ee,_0x31f763=_0x17e59a;for(let _0x4aa6d9=-0x210d+0x3*-0xc9d+-0xd*-0x574;_0x4d0e58[_0x156c1e(0x7f3)](_0x4aa6d9,mobIDs[_0x156c1e(0x285)]);_0x4aa6d9++){_0x464f9d[_0x156c1e(0xbb1)](_0x4d0e58[_0x156c1e(0x126)],0xa1*-0xb+-0x11f0+0x18df)[_0x156c1e(0x9d0)](Il2Cpp[_0x156c1e(0x404)](_0x4d0e58[_0x156c1e(0xbe3)](_0x4d0e58[_0x156c1e(0x6f7)],mobIDs[_0x4aa6d9])),_0x31f763[_0x156c1e(0xbb1)](_0x4d0e58[_0x156c1e(0x39e)])[_0x156c1e(0x9d0)](),_0x31f763[_0x156c1e(0xbb1)](_0x4d0e58[_0x156c1e(0xa36)])[_0x156c1e(0x9d0)](),null);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x79c)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x164)],'method':()=>{const _0x1049fb=_0x5358ee;_0x4d0e58[_0x1049fb(0x36b)](_0x577a31);},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xc78)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x594)],'disableMethod':()=>{const _0x49750d=_0x5358ee;try{const _0x2a1d32=_0x529163[_0x49750d(0x9aa)](_0x4d0e58[_0x49750d(0x1108)]);if(!_0x2a1d32)return;if(!devEnabled){const _0x23875f=_0x15c2bc[_0x49750d(0xbb1)](_0x4d0e58[_0x49750d(0xe09)])[_0x49750d(0x2b5)](_0x2a1d32)[_0x49750d(0x9d0)]();for(let _0x3cec1d=-0x4*-0x2e+-0x8ed+0x835;_0x4d0e58[_0x49750d(0xdcd)](_0x3cec1d,_0x23875f[_0x49750d(0x285)]);_0x3cec1d++){const _0xec9f97=_0x23875f[_0x49750d(0xadb)](_0x3cec1d);_0xec9f97[_0x49750d(0x398)](_0x4d0e58[_0x49750d(0x765)])[_0x49750d(0x1081)]=![];}devEnabled=![];}}catch(_0x424e10){console[_0x49750d(0x716)](_0x424e10);}},'method':()=>{const _0x242c05=_0x5358ee;try{const _0x250266=_0x529163[_0x242c05(0x9aa)](_0x4d0e58[_0x242c05(0x1108)]);if(!_0x250266)return;if(!devEnabled){const _0x53189d=_0x15c2bc[_0x242c05(0xbb1)](_0x4d0e58[_0x242c05(0xe09)])[_0x242c05(0x2b5)](_0x250266)[_0x242c05(0x9d0)]();for(let _0x5e0179=-0xf2c+0xdc3+0x1*0x169;_0x4d0e58[_0x242c05(0xdb5)](_0x5e0179,_0x53189d[_0x242c05(0x285)]);_0x5e0179++){const _0x27a470=_0x53189d[_0x242c05(0xadb)](_0x5e0179);_0x27a470[_0x242c05(0x398)](_0x4d0e58[_0x242c05(0x765)])[_0x242c05(0x1081)]=!![];}devEnabled=!![];}}catch(_0x1bc2f2){console[_0x242c05(0x716)](_0x1bc2f2);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x73b)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x786)],'method':()=>{const _0x38934e=_0x5358ee;try{const _0x323c13=_0xcb2f35[_0x38934e(0xbb1)](_0x4d0e58[_0x38934e(0x1064)])[_0x38934e(0x9d0)]();if(!_0x323c13)return;const _0xa69f84=_0x323c13[_0x38934e(0xbb1)](_0x4d0e58[_0x38934e(0x737)],-0x3e*0x67+0x15bb+-0x67*-0x8)[_0x38934e(0x9d0)](-0x1a6+-0x1426+0x15cd);if(!_0xa69f84)return;const _0x2bc48b=_0xa69f84[_0x38934e(0x398)](_0x4d0e58[_0x38934e(0x27b)])[_0x38934e(0x1081)];if(!_0x2bc48b)return;const _0x3964a2=_0x2bc48b[_0x38934e(0xbb1)](_0x4d0e58[_0x38934e(0x61e)])[_0x38934e(0x9d0)]();if(!_0x3964a2)return;const _0x1d1610=_0x323c13[_0x38934e(0xbb1)](_0x4d0e58[_0x38934e(0x737)],-0x15f+0x1709+0x1*-0x15a9)[_0x38934e(0x9d0)](0x335*-0x3+-0x7*0x4ae+0x2a61);if(!_0x1d1610)return;const _0x5590cf=_0x1d1610[_0x38934e(0x398)](_0x4d0e58[_0x38934e(0x27b)])[_0x38934e(0x1081)];if(!_0x5590cf)return;const _0x51bfc1=_0x5590cf[_0x38934e(0xbb1)](_0x4d0e58[_0x38934e(0x61e)])[_0x38934e(0x9d0)]();if(!_0x51bfc1)return;rightTrigger&&_0x3964a2[_0x38934e(0xbb1)](_0x4d0e58[_0x38934e(0x40a)])[_0x38934e(0x9d0)](),leftTrigger&&_0x51bfc1[_0x38934e(0xbb1)](_0x4d0e58[_0x38934e(0x40a)])[_0x38934e(0x9d0)]();}catch(_0x347a7e){console[_0x38934e(0x716)](_0x347a7e);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x317)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x62a)],'method':()=>{const _0x26bcb1=_0x5358ee,_0x217c2b=_0x2a9232[_0x26bcb1(0xbb1)](_0x4d0e58[_0x26bcb1(0xccf)])[_0x26bcb1(0x9d0)](),_0x22db2e=_0x15c2bc[_0x26bcb1(0xbb1)](_0x4d0e58[_0x26bcb1(0xe09)])[_0x26bcb1(0x2b5)](_0x529163[_0x26bcb1(0x9aa)](_0x4d0e58[_0x26bcb1(0x1073)]))[_0x26bcb1(0x9d0)]();for(let _0xe1592b=-0x982*-0x3+-0xd0f*-0x1+0x5*-0x851;_0x4d0e58[_0x26bcb1(0xdd8)](_0xe1592b,_0x22db2e[_0x26bcb1(0x285)]);_0xe1592b++){const _0x166b44=_0x22db2e[_0x26bcb1(0xadb)](_0xe1592b);_0x166b44[_0x26bcb1(0xbb1)](_0x4d0e58[_0x26bcb1(0x324)])[_0x26bcb1(0x9d0)](_0x217c2b[_0x26bcb1(0xbb1)](_0x4d0e58[_0x26bcb1(0x785)])[_0x26bcb1(0x9d0)]());}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x200)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x3cc)],'method':()=>{const _0x4263c7=_0x5358ee;if(rightGrab){const _0xc63fca=_0x15c2bc[_0x4263c7(0xbb1)](_0x4d0e58[_0x4263c7(0xe09)])[_0x4263c7(0x2b5)](_0x529163[_0x4263c7(0x9aa)](_0x4d0e58[_0x4263c7(0x232)]))[_0x4263c7(0x9d0)]();for(let _0x284acb=-0xe57+0x13*-0xa7+-0x3b*-0x74;_0x4d0e58[_0x4263c7(0xc5c)](_0x284acb,_0xc63fca[_0x4263c7(0x285)]);_0x284acb++){const _0x44bc31=_0xc63fca[_0x4263c7(0xadb)](_0x284acb);_0x44bc31[_0x4263c7(0xbb1)](_0x4d0e58[_0x4263c7(0x1d6)])[_0x4263c7(0x9d0)](-0x1dd3+0x20de+-0xb*-0x14,0x19*0xfb+0x17*-0x191+-0x12*-0xa4,_0x130c91,_0x130c91);}}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x85a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xa60)],'method':()=>{const _0x5cc291=_0x5358ee,_0x1154b4=_0x15c2bc[_0x5cc291(0xbb1)](_0x4d0e58[_0x5cc291(0xe09)])[_0x5cc291(0x2b5)](_0x529163[_0x5cc291(0x9aa)](_0x4d0e58[_0x5cc291(0xfa6)]))[_0x5cc291(0x9d0)](),_0x39b47c=_0x15c2bc[_0x5cc291(0xbb1)](_0x4d0e58[_0x5cc291(0xe09)])[_0x5cc291(0x2b5)](_0xcb2f35)[_0x5cc291(0x9d0)]();if(!_0x39b47c)return null;_0x464f9d[_0x5cc291(0xbb1)](_0x4d0e58[_0x5cc291(0x126)],0x15ca+-0x10c+-0x14ba)[_0x5cc291(0x9d0)](Il2Cpp[_0x5cc291(0x404)](_0x4d0e58[_0x5cc291(0xec6)]),_0x17e59a[_0x5cc291(0xbb1)](_0x4d0e58[_0x5cc291(0x39e)])[_0x5cc291(0x9d0)](),_0x5490f3,null);for(let _0x34c0ab=-0x7*-0x22f+-0x3*-0x4bb+-0x62*0x4d;_0x4d0e58[_0x5cc291(0x394)](_0x34c0ab,_0x1154b4[_0x5cc291(0x285)]);_0x34c0ab++){const _0x2816dd=_0x1154b4[_0x5cc291(0xadb)](_0x34c0ab);for(let _0x5a7eec=-0x39*-0x39+0x62c*-0x3+0x5d3;_0x4d0e58[_0x5cc291(0x37e)](_0x5a7eec,_0x39b47c[_0x5cc291(0x285)]);_0x5a7eec++){const _0xee8bd9=_0x39b47c[_0x5cc291(0xadb)](_0x5a7eec);if(_0x4d0e58[_0x5cc291(0xfac)](_0x4d8800,_0xee8bd9))continue;_0xee8bd9[_0x5cc291(0xbb1)](_0x4d0e58[_0x5cc291(0x1d9)])[_0x5cc291(0x9d0)](!![],_0x2816dd,!![],_0x130c91);}}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x5e8)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x1050)],'isTogglable':!![],'method':()=>{const _0x492113=_0x5358ee;if(!rightGrab)return;const _0xbcfc11=_0x4d0e58[_0x492113(0x220)](_0x32e0f2),_0x2deb5a=_0xbcfc11[_0x492113(0x2cd)];if(!_0x2deb5a)return;if(rightTrigger)try{const _0x514cbe=_0x2deb5a[_0x492113(0xbb1)](_0x4d0e58[_0x492113(0x7b1)])[_0x492113(0x9d0)](),_0x5edaba=_0x529163[_0x492113(0x9aa)](_0x4d0e58[_0x492113(0x888)]),_0x2a914f=_0x5edaba[_0x492113(0xbb1)](_0x4d0e58[_0x492113(0x319)])[_0x492113(0x9d0)](Il2Cpp[_0x492113(0x404)](itemIDs[itemIndex]));if(!_0x2a914f||_0x2a914f[_0x492113(0xfd5)][_0x492113(0xa74)]()){_0x4d0e58[_0x492113(0x207)](_0x415d60,_0x4d0e58[_0x492113(0x624)],![]),console[_0x492113(0x716)](_0x4d0e58[_0x492113(0xc3f)],itemIDs[itemIndex]);return;}_0x5edaba[_0x492113(0xbb1)](_0x4d0e58[_0x492113(0x1007)],0x40e*0x7+0x1ef+-0x1*0x1e4d)[_0x492113(0xf54)](_0x4d0e58[_0x492113(0xe46)],_0x4d0e58[_0x492113(0x1080)],_0x4d0e58[_0x492113(0xc9b)],_0x4d0e58[_0x492113(0x768)])[_0x492113(0x9d0)](_0x2a914f,_0x514cbe,_0x5490f3,null),console[_0x492113(0x13d)](_0x4d0e58[_0x492113(0x1114)],itemIDs[itemIndex]),_0x4d0e58[_0x492113(0x47d)](_0x415d60,_0x4d0e58[_0x492113(0x1107)](_0x4d0e58[_0x492113(0x91a)],itemIDs[itemIndex]),![]);}catch(_0x923d02){console[_0x492113(0x716)](_0x4d0e58[_0x492113(0x4c2)],_0x923d02),_0x4d0e58[_0x492113(0xeee)](_0x415d60,_0x4d0e58[_0x492113(0x828)](_0x4d0e58[_0x492113(0x24b)],_0x923d02),![]);}},'toolTip':_0x4d0e58[_0x5358ee(0xeff)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x8ab)],'isTogglable':!![],'method':()=>{const _0x539c76=_0x5358ee;if(!rightGrab)return;const _0x13e074=_0x4d0e58[_0x539c76(0x11d)](_0x32e0f2),_0xd5854c=_0x13e074[_0x539c76(0x2cd)];if(!_0xd5854c)return;if(rightTrigger)try{const _0x14580e=_0xd5854c[_0x539c76(0xbb1)](_0x4d0e58[_0x539c76(0x7b1)])[_0x539c76(0x9d0)](),_0x3bece5=_0x529163[_0x539c76(0x9aa)](_0x4d0e58[_0x539c76(0x888)]),_0x339671=_0x3bece5[_0x539c76(0xbb1)](_0x4d0e58[_0x539c76(0x3d1)])[_0x539c76(0x9d0)](Il2Cpp[_0x539c76(0x404)](mobIDs[mobIndex]));if(!_0x339671||_0x339671[_0x539c76(0xfd5)][_0x539c76(0xa74)]()){_0x4d0e58[_0x539c76(0xc0d)](_0x415d60,_0x4d0e58[_0x539c76(0x624)],![]),console[_0x539c76(0x716)](_0x4d0e58[_0x539c76(0xc3f)],mobIDs[mobIndex]);return;}_0x3bece5[_0x539c76(0xbb1)](_0x4d0e58[_0x539c76(0xc75)],-0xb*-0x12f+0x67*-0x52+-0x1*-0x13fd)[_0x539c76(0xf54)](_0x4d0e58[_0x539c76(0xfd8)],_0x4d0e58[_0x539c76(0x1080)],_0x4d0e58[_0x539c76(0xc9b)],_0x4d0e58[_0x539c76(0x768)])[_0x539c76(0x9d0)](mobIDs[mobIndex],_0x14580e,_0x5490f3,null),console[_0x539c76(0x13d)](_0x4d0e58[_0x539c76(0x1114)],mobIDs[mobIndex]),_0x4d0e58[_0x539c76(0x1f9)](_0x415d60,_0x4d0e58[_0x539c76(0xe44)](_0x4d0e58[_0x539c76(0x91a)],mobIDs[mobIndex]),![]);}catch(_0x5589ee){console[_0x539c76(0x716)](_0x4d0e58[_0x539c76(0x4c2)],_0x5589ee),_0x4d0e58[_0x539c76(0x143)](_0x415d60,_0x4d0e58[_0x539c76(0xd7d)](_0x4d0e58[_0x539c76(0x24b)],_0x5589ee),![]);}},'toolTip':_0x4d0e58[_0x5358ee(0xeff)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x10dd)],'method':()=>{const _0x3695ec=_0x5358ee;if(_0x4d0e58[_0x3695ec(0x2dd)](rightStick,!perviousShootKey)){const _0x16fe2a=_0x15c2bc[_0x3695ec(0xbb1)](_0x4d0e58[_0x3695ec(0xe09)])[_0x3695ec(0x2b5)](_0x529163[_0x3695ec(0x9aa)](_0x4d0e58[_0x3695ec(0x23f)]))[_0x3695ec(0x9d0)]();if(!_0x16fe2a)return null;const _0x2ed7cf=_0x4d0e58[_0x3695ec(0xc5e)](_0xb288f,_0x431304);if(!_0x2ed7cf)return null;for(let _0x108cee=0xd79*-0x2+0x849+0x12a9;_0x4d0e58[_0x3695ec(0x7d6)](_0x108cee,_0x16fe2a[_0x3695ec(0x285)]);_0x108cee++){const _0x7a2b37=_0x16fe2a[_0x3695ec(0xadb)](_0x108cee);_0x7a2b37[_0x3695ec(0xbb1)](_0x4d0e58[_0x3695ec(0x823)])[_0x3695ec(0x9d0)](_0x2ed7cf[_0x3695ec(0xbb1)](_0x4d0e58[_0x3695ec(0x39e)])[_0x3695ec(0x9d0)](),_0x2ed7cf[_0x3695ec(0xbb1)](_0x4d0e58[_0x3695ec(0xa36)])[_0x3695ec(0x9d0)](),_0x2ed7cf[_0x3695ec(0xbb1)](_0x4d0e58[_0x3695ec(0x2b3)])[_0x3695ec(0x9d0)]());}}perviousShootKey=rightStick;},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xc0e)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x6f6)],'disableMethod':()=>{const _0x342888=_0x5358ee;lightEnabled=![],_0x4d0e58[_0x342888(0x1ae)](fullbirhgtobject,null)&&fullbirhgtobject[_0x342888(0xbb1)](_0x4d0e58[_0x342888(0x9e2)])[_0x342888(0x9d0)]()[_0x342888(0xbb1)](_0x4d0e58[_0x342888(0x6ad)])[_0x342888(0x9d0)](![]);},'enableMethod':()=>{const _0x1f99de=_0x5358ee;lightEnabled=!![],_0x4d0e58[_0x1f99de(0x111d)](fullbirhgtobject,null)&&fullbirhgtobject[_0x1f99de(0xbb1)](_0x4d0e58[_0x1f99de(0x9e2)])[_0x1f99de(0x9d0)]()[_0x1f99de(0xbb1)](_0x4d0e58[_0x1f99de(0x6ad)])[_0x1f99de(0x9d0)](!![]);},'method':()=>{const _0x104eeb=_0x5358ee;if(!lightEnabled)return;if(_0x4d0e58[_0x104eeb(0xf49)](fullbirhgtobject,null))fullbirhgtobject=_0x4d0e58[_0x104eeb(0xf4f)](_0x5afd16,_0x4d0e58[_0x104eeb(0x1022)](_0xb288f,_0x431304)[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0x39e)])[_0x104eeb(0x9d0)](),_0x4d0e58[_0x104eeb(0x971)](_0xb288f,_0x431304)[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0xa36)])[_0x104eeb(0x9d0)](),[-0x133*-0x1d+0x2128+-0x43ef,0x8e2+-0xdfa*-0x1+-0x16dc,0x1ead+-0x1*-0x119+-0x1fc6],0x209a+-0x136*-0xb+-0x1ff*0x17,bgColor),_0x4d0e58[_0x104eeb(0x358)](_0x40b1f6,_0x4d0e58[_0x104eeb(0x109d)](_0x560783,fullbirhgtobject,_0x184208)),_0x4d0e58[_0x104eeb(0x241)](_0x2b8a6a,fullbirhgtobject,_0x2e3e7d),_0x4d0e58[_0x104eeb(0x10b9)](_0xb288f,fullbirhgtobject)[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0x1dc)],0x269b*0x1+-0x1e52+-0x847)[_0x104eeb(0x9d0)](_0x4d0e58[_0x104eeb(0x8d2)](_0xb288f,_0x431304),![]);else{const _0x58f4f9=_0x4d0e58[_0x104eeb(0x1008)](_0xb288f,fullbirhgtobject);_0x58f4f9[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0x110b)])[_0x104eeb(0x9d0)](_0x4d0e58[_0x104eeb(0xea3)](_0xb288f,_0x431304)[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0x39e)])[_0x104eeb(0x9d0)]()),_0x58f4f9[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0x161)])[_0x104eeb(0x9d0)](_0x4d0e58[_0x104eeb(0xd12)](_0xb288f,_0x431304)[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0xa36)])[_0x104eeb(0x9d0)]());const _0x26a054=_0x4d0e58[_0x104eeb(0x2a6)](_0x560783,fullbirhgtobject,_0x2e3e7d);_0x4d0e58[_0x104eeb(0x110c)](_0x26a054,null)&&(_0x26a054[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0xdc9)])[_0x104eeb(0x9d0)](0x73d+-0x191b+0x1*0x11e3),_0x26a054[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0xed5)])[_0x104eeb(0x9d0)](-0x11c*-0x23+0xa14+-0x119*0x29)),fullbirhgtobject[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0x9e2)])[_0x104eeb(0x9d0)]()[_0x104eeb(0xbb1)](_0x4d0e58[_0x104eeb(0x6ad)])[_0x104eeb(0x9d0)](!![]);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x100e)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x89f)],'method':()=>{_0x2063c0=0x2223+-0x1*-0x1175+0x3398*-0x1,_0x468f75=0x9*-0xb9+0x1039*0x2+-0x19f1;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x107e)],'method':()=>{const _0x4f5e05=_0x5358ee;try{const _0x79146b=_0xcb2f35[_0x4f5e05(0xbb1)](_0x4d0e58[_0x4f5e05(0x1064)])[_0x4f5e05(0x9d0)]();if(!_0x79146b)return;const _0x5bd1e7=_0x79146b[_0x4f5e05(0xbb1)](_0x4d0e58[_0x4f5e05(0x737)],0x5*0x6aa+-0x239b+0x24a)[_0x4f5e05(0x9d0)](-0x223a+0x1*-0x266e+-0x1d1*-0x28);if(!_0x5bd1e7)return;const _0x3c3587=_0x5bd1e7[_0x4f5e05(0x398)](_0x4d0e58[_0x4f5e05(0x27b)])[_0x4f5e05(0x1081)];if(!_0x3c3587)return;const _0x1ec22a=_0x3c3587[_0x4f5e05(0xbb1)](_0x4d0e58[_0x4f5e05(0x61e)])[_0x4f5e05(0x9d0)]();if(!_0x1ec22a)return;_0x1ec22a[_0x4f5e05(0xbb1)](_0x4d0e58[_0x4f5e05(0x4b2)])[_0x4f5e05(0x9d0)](![]);}catch(_0x1525f1){console[_0x4f5e05(0x716)](_0x1525f1);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x175)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x844)],'method':()=>{const _0x18ec46=_0x5358ee;try{const _0x497e58=_0xcb2f35[_0x18ec46(0xbb1)](_0x4d0e58[_0x18ec46(0x1064)])[_0x18ec46(0x9d0)]();if(!_0x497e58)return;const _0x77eea7=_0x497e58[_0x18ec46(0xbb1)](_0x4d0e58[_0x18ec46(0x737)],-0xf47+0x22db*0x1+0x1393*-0x1)[_0x18ec46(0x9d0)](-0xfec+-0x5bc+0x58*0x3f);if(!_0x77eea7)return;const _0x4a0e63=_0x77eea7[_0x18ec46(0x398)](_0x4d0e58[_0x18ec46(0x27b)])[_0x18ec46(0x1081)];if(!_0x4a0e63)return;const _0x1b6787=_0x4a0e63[_0x18ec46(0xbb1)](_0x4d0e58[_0x18ec46(0x61e)])[_0x18ec46(0x9d0)]();if(!_0x1b6787)return;_0x1b6787[_0x18ec46(0xbb1)](_0x4d0e58[_0x18ec46(0x4b2)])[_0x18ec46(0x9d0)](!![]);}catch(_0x32aaec){console[_0x18ec46(0x716)](_0x32aaec);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x9cf)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x887)],'method':()=>{const _0x36e63b=_0x5358ee;try{const _0x443a71=_0xcb2f35[_0x36e63b(0xbb1)](_0x4d0e58[_0x36e63b(0x1064)])[_0x36e63b(0x9d0)]();if(!_0x443a71)return;const _0x30f08d=_0x443a71[_0x36e63b(0xbb1)](_0x4d0e58[_0x36e63b(0x737)],0x1d7f+0x1232+-0x2fb0)[_0x36e63b(0x9d0)](0x122e+-0x2*-0x9d0+-0x12e7*0x2);if(!_0x30f08d)return;const _0x3e158a=_0x30f08d[_0x36e63b(0x398)](_0x4d0e58[_0x36e63b(0x27b)])[_0x36e63b(0x1081)];if(!_0x3e158a)return;const _0x3463e9=_0x3e158a[_0x36e63b(0xbb1)](_0x4d0e58[_0x36e63b(0x61e)])[_0x36e63b(0x9d0)]();if(!_0x3463e9)return;if(rightPrimary&&_0x4d0e58[_0x36e63b(0x937)](scaleVal,0xfc6+-0x14e+-0xdf9))scaleVal++;if(rightGrab&&_0x4d0e58[_0x36e63b(0x105c)](scaleVal,-(-0x13dc+-0x2282+-0x36dd*-0x1)))scaleVal--;_0x3463e9[_0x36e63b(0xbb1)](_0x4d0e58[_0x36e63b(0xf37)])[_0x36e63b(0x9d0)](scaleVal);}catch(_0x36ef96){console[_0x36e63b(0x716)](_0x36ef96);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x48a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xfd4)],'method':()=>{const _0x49114a=_0x5358ee;try{const _0x1b38ef=_0xcb2f35[_0x49114a(0xbb1)](_0x4d0e58[_0x49114a(0x1064)])[_0x49114a(0x9d0)]();if(!_0x1b38ef)return;const _0x470dd1=_0x1b38ef[_0x49114a(0xbb1)](_0x4d0e58[_0x49114a(0x737)],-0x18d7+0x178f+0x2f*0x7)[_0x49114a(0x9d0)](0xb*0xe9+-0x2195+0x1792);if(!_0x470dd1)return;const _0x103487=_0x470dd1[_0x49114a(0x398)](_0x4d0e58[_0x49114a(0x27b)])[_0x49114a(0x1081)];if(!_0x103487)return;const _0x8a97c9=_0x103487[_0x49114a(0xbb1)](_0x4d0e58[_0x49114a(0x61e)])[_0x49114a(0x9d0)]();if(!_0x8a97c9)return;if(rightPrimary&&_0x4d0e58[_0x49114a(0xa70)](hueVal,-0x4b*-0xb+0x1*-0x343+-0x89*-0x1))hueVal++;if(rightGrab&&_0x4d0e58[_0x49114a(0x7f2)](hueVal,-(-0xbf5+-0x7a+-0x296*-0x5)))hueVal--;_0x8a97c9[_0x49114a(0xbb1)](_0x4d0e58[_0x49114a(0xea2)])[_0x49114a(0x9d0)](hueVal);}catch(_0x5a7888){console[_0x49114a(0x716)](_0x5a7888);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x700)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb7e)],'method':()=>{const _0x1fcaa6=_0x5358ee;try{const _0x4ce8c8=_0xcb2f35[_0x1fcaa6(0xbb1)](_0x4d0e58[_0x1fcaa6(0x1064)])[_0x1fcaa6(0x9d0)]();if(!_0x4ce8c8)return;const _0x3045de=_0x4ce8c8[_0x1fcaa6(0xbb1)](_0x4d0e58[_0x1fcaa6(0x737)],0x2*0x11a0+-0x1587+-0xdb8)[_0x1fcaa6(0x9d0)](-0x1183+-0xc0c+0x1d8f);if(!_0x3045de)return;const _0x4e4454=_0x3045de[_0x1fcaa6(0x398)](_0x4d0e58[_0x1fcaa6(0x27b)])[_0x1fcaa6(0x1081)];if(!_0x4e4454)return;const _0x33237b=_0x4e4454[_0x1fcaa6(0xbb1)](_0x4d0e58[_0x1fcaa6(0x61e)])[_0x1fcaa6(0x9d0)]();if(!_0x33237b)return;if(rightPrimary&&_0x4d0e58[_0x1fcaa6(0x914)](satVal,0x17*-0x105+-0xff6+-0x4*-0x9fa))satVal++;if(rightGrab&&_0x4d0e58[_0x1fcaa6(0xf00)](satVal,-(-0x94*-0x11+0x2e1*-0x3+-0xb2)))satVal--;_0x33237b[_0x1fcaa6(0xbb1)](_0x4d0e58[_0x1fcaa6(0x25c)])[_0x1fcaa6(0x9d0)](satVal);}catch(_0x40220f){console[_0x1fcaa6(0x716)](_0x40220f);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xe6f)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x833)],'method':()=>{const _0x4258c2=_0x5358ee;try{const _0x469293=_0xcb2f35[_0x4258c2(0xbb1)](_0x4d0e58[_0x4258c2(0x1064)])[_0x4258c2(0x9d0)]();if(!_0x469293)return;const _0xcdd060=_0x469293[_0x4258c2(0xbb1)](_0x4d0e58[_0x4258c2(0x737)],-0x1255+0xd6a+0x4ec)[_0x4258c2(0x9d0)](0x1bd6+-0x109d+-0xb39);if(!_0xcdd060)return;const _0x3cd53c=_0xcdd060[_0x4258c2(0x398)](_0x4d0e58[_0x4258c2(0x27b)])[_0x4258c2(0x1081)];if(!_0x3cd53c)return;const _0x409a6a=_0x3cd53c[_0x4258c2(0xbb1)](_0x4d0e58[_0x4258c2(0x61e)])[_0x4258c2(0x9d0)]();if(!_0x409a6a)return;const _0x13f6b6=_0x409a6a[_0x4258c2(0x398)](_0x4d0e58[_0x4258c2(0xfb9)])[_0x4258c2(0x1081)];_0x13f6b6[_0x4258c2(0x398)](_0x4d0e58[_0x4258c2(0x26a)])[_0x4258c2(0x1081)]=!![],_0x13f6b6[_0x4258c2(0x398)](_0x4d0e58[_0x4258c2(0x51f)])[_0x4258c2(0x1081)]=!![],_0x4d0e58[_0x4258c2(0x4be)](_0x415d60,_0x4d0e58[_0x4258c2(0xe7b)]);}catch(_0xaad567){console[_0x4258c2(0x716)](_0xaad567);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c6)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb51)],'method':()=>{const _0x44f455=_0x5358ee;try{const _0x6e2e80=_0xcb2f35[_0x44f455(0xbb1)](_0x4d0e58[_0x44f455(0x1064)])[_0x44f455(0x9d0)]();if(!_0x6e2e80)return;const _0x20c29c=_0x6e2e80[_0x44f455(0xbb1)](_0x4d0e58[_0x44f455(0x737)],-0x2*-0x523+-0x3a*0x38+0x26b)[_0x44f455(0x9d0)](0xad9+-0x4*0x22f+-0x21d*0x1);if(!_0x20c29c)return;const _0x43960c=_0x20c29c[_0x44f455(0x398)](_0x4d0e58[_0x44f455(0x27b)])[_0x44f455(0x1081)];if(!_0x43960c)return;const _0x1c76fb=_0x43960c[_0x44f455(0xbb1)](_0x4d0e58[_0x44f455(0x61e)])[_0x44f455(0x9d0)]();if(!_0x1c76fb)return;_0x1c76fb[_0x44f455(0x398)](_0x4d0e58[_0x44f455(0x676)])[_0x44f455(0x1081)]=!![],_0x4d0e58[_0x44f455(0xac6)](_0x415d60,_0x4d0e58[_0x44f455(0xe7b)]);}catch(_0x1b7911){console[_0x44f455(0x716)](_0x1b7911);}},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x56a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb0e)],'method':()=>{const _0x276dc7=_0x5358ee;try{hueVal+=0x1338+0x3*-0x42b+-0x6a8;if(_0x4d0e58[_0x276dc7(0x528)](hueVal,-0xa17+0x264c+-0x1bb6))hueVal=-(0xc58*-0x2+0xb*0x117+0xd32);if(rightGrab){const _0x5eacc5=_0x15c2bc[_0x276dc7(0xbb1)](_0x4d0e58[_0x276dc7(0xe09)])[_0x276dc7(0x2b5)](_0x2e62a6)[_0x276dc7(0x9d0)]();if(_0x5eacc5)for(let _0x43e9ee=0x1d39+0x18*0xeb+-0x3341;_0x4d0e58[_0x276dc7(0x980)](_0x43e9ee,_0x5eacc5[_0x276dc7(0x285)]);_0x43e9ee++){const _0x1e705f=_0x5eacc5[_0x276dc7(0xadb)](_0x43e9ee);_0x1e705f[_0x276dc7(0xbb1)](_0x4d0e58[_0x276dc7(0xea2)])[_0x276dc7(0x9d0)](hueVal);}}}catch(_0x43e50c){console[_0x276dc7(0x716)](_0x43e50c);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xe6f)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe2f)],'method':()=>{const _0x43ab35=_0x5358ee;if(rightGrab){const _0x3a7e5d=_0x4d0e58[_0x43ab35(0x5b9)](_0x32e0f2),_0x8028ee=_0x3a7e5d[_0x43ab35(0x2cd)];if(_0x4d0e58[_0x43ab35(0xe97)](rightTrigger,_0x8028ee)){const _0x237228=_0x4d0e58[_0x43ab35(0xda0)](_0x2c485b,_0x8028ee[_0x43ab35(0xbb1)](_0x4d0e58[_0x43ab35(0xb70)])[_0x43ab35(0x9d0)](),_0xcb2f35);_0x237228&&!_0x237228[_0x43ab35(0xfd5)][_0x43ab35(0xa74)]()&&_0x4d0e58[_0x43ab35(0x6a4)](_0x4133e7,tagGunDelay)&&(!_0x4d0e58[_0x43ab35(0x15b)](_0x4d8800,_0x237228)&&_0x237228[_0x43ab35(0xbb1)](_0x4d0e58[_0x43ab35(0xd3f)])[_0x43ab35(0x9d0)](jellywowes,jellywowes));}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xdc4)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x79b)],'method':()=>{const _0x6b8aed=_0x5358ee;if(rightGrab){const _0x12b75d=_0x4d0e58[_0x6b8aed(0x5b9)](_0x32e0f2),_0x2dfa96=_0x12b75d[_0x6b8aed(0x2cd)];if(_0x4d0e58[_0x6b8aed(0xba7)](rightTrigger,_0x2dfa96)){const _0x43c63b=_0x4d0e58[_0x6b8aed(0x4d7)](_0x2c485b,_0x2dfa96[_0x6b8aed(0xbb1)](_0x4d0e58[_0x6b8aed(0xb70)])[_0x6b8aed(0x9d0)](),_0xcb2f35);_0x43c63b&&!_0x43c63b[_0x6b8aed(0xfd5)][_0x6b8aed(0xa74)]()&&_0x4d0e58[_0x6b8aed(0x488)](_0x4133e7,tagGunDelay)&&(!_0x4d0e58[_0x6b8aed(0x2d7)](_0x4d8800,_0x43c63b)&&_0x43c63b[_0x6b8aed(0xbb1)](_0x4d0e58[_0x6b8aed(0x10f3)])[_0x6b8aed(0x9d0)](-(-0x3b3*-0x5+-0x720+0x3a9*-0x3)));}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x30b)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x49d)],'method':()=>{const _0x37898f=_0x5358ee;if(rightGrab){const _0x58dd83=_0x4d0e58[_0x37898f(0x110)](_0x32e0f2),_0x12b868=_0x58dd83[_0x37898f(0x2cd)];if(_0x4d0e58[_0x37898f(0x269)](rightTrigger,_0x12b868)){const _0x34b3c9=_0x4d0e58[_0x37898f(0x47d)](_0x2c485b,_0x12b868[_0x37898f(0xbb1)](_0x4d0e58[_0x37898f(0xb70)])[_0x37898f(0x9d0)](),_0xcb2f35);_0x34b3c9&&!_0x34b3c9[_0x37898f(0xfd5)][_0x37898f(0xa74)]()&&_0x4d0e58[_0x37898f(0xa12)](_0x4133e7,tagGunDelay)&&(!_0x4d0e58[_0x37898f(0xc1c)](_0x4d8800,_0x34b3c9)&&_0x34b3c9[_0x37898f(0xbb1)](_0x4d0e58[_0x37898f(0x10f3)])[_0x37898f(0x9d0)](0x12b8da9+0x111*-0xd6d5+0x5221fb));}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x68b)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xf07)],'method':()=>{const _0x10957e=_0x5358ee;if(rightGrab){const _0x457497=_0x4d0e58[_0x10957e(0xfcb)](_0x32e0f2),_0x1890a0=_0x457497[_0x10957e(0x2cd)],_0x3f4f9f=Il2Cpp[_0x10957e(0x1017)+'e'][_0x10957e(0xb87)][_0x10957e(0x80c)](-0x1*0x1c0f+0x2c6*-0x2+-0xc81*-0x3,0x16a1+0xe*0x26+0x1*-0x14cd,0x1ab2+0x10fc+0x3*-0xd42);if(_0x4d0e58[_0x10957e(0xf0f)](rightTrigger,_0x1890a0)){const _0x3b55bc=_0x4d0e58[_0x10957e(0xeee)](_0x2c485b,_0x1890a0[_0x10957e(0xbb1)](_0x4d0e58[_0x10957e(0xb70)])[_0x10957e(0x9d0)](),_0xcb2f35);_0x3b55bc&&!_0x3b55bc[_0x10957e(0xfd5)][_0x10957e(0xa74)]()&&_0x4d0e58[_0x10957e(0x999)](_0x4133e7,tagGunDelay)&&(!_0x4d0e58[_0x10957e(0x23b)](_0x4d8800,_0x3b55bc)&&_0x3b55bc[_0x10957e(0xbb1)](_0x4d0e58[_0x10957e(0x9ae)])[_0x10957e(0x9d0)](_0x3f4f9f));}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x350)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xd5b)],'method':()=>{const _0xdd34af=_0x5358ee;if(rightGrab){const _0x515d0d=_0x4d0e58[_0xdd34af(0x11d)](_0x32e0f2),_0x304c75=_0x515d0d[_0xdd34af(0x2cd)],_0x43a4a0=Il2Cpp[_0xdd34af(0x1017)+'e'][_0xdd34af(0xb87)][_0xdd34af(0x80c)](-0x7d1+-0xfb7+0x1b70,-0x4*-0x7af+0x1*-0x1e17+0x343,-0x2090*0x1+0x2f6+0x2182);if(_0x4d0e58[_0xdd34af(0xd14)](rightTrigger,_0x304c75)){const _0x50ad8b=_0x4d0e58[_0xdd34af(0x109d)](_0x2c485b,_0x304c75[_0xdd34af(0xbb1)](_0x4d0e58[_0xdd34af(0xb70)])[_0xdd34af(0x9d0)](),_0xcb2f35);_0x50ad8b&&!_0x50ad8b[_0xdd34af(0xfd5)][_0xdd34af(0xa74)]()&&_0x4d0e58[_0xdd34af(0x48f)](_0x4133e7,tagGunDelay)&&(!_0x4d0e58[_0xdd34af(0x1109)](_0x4d8800,_0x50ad8b)&&_0x50ad8b[_0xdd34af(0xbb1)](_0x4d0e58[_0xdd34af(0x10a0)])[_0xdd34af(0x9d0)](_0x43a4a0));}}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0x76c)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xb8b)],'method':()=>{const _0x4b02d1=_0x5358ee;try{scaleVal+=-0x1a54+-0x5*-0x5f3+0x56*-0xa;if(_0x4d0e58[_0x4b02d1(0x328)](scaleVal,0x1689+0x16de*-0x1+-0xd4*-0x1))scaleVal=-(-0x2132+-0x2b4*0x5+-0x2f35*-0x1);if(rightGrab){const _0x365de8=_0x15c2bc[_0x4b02d1(0xbb1)](_0x4d0e58[_0x4b02d1(0xe09)])[_0x4b02d1(0x2b5)](_0x2e62a6)[_0x4b02d1(0x9d0)]();if(_0x365de8)for(let _0x44865f=-0x41*-0x61+0x1f29+-0x1be5*0x2;_0x4d0e58[_0x4b02d1(0xd7a)](_0x44865f,_0x365de8[_0x4b02d1(0x285)]);_0x44865f++){const _0x57c783=_0x365de8[_0x4b02d1(0xadb)](_0x44865f);_0x57c783[_0x4b02d1(0xbb1)](_0x4d0e58[_0x4b02d1(0xf37)])[_0x4b02d1(0x9d0)](scaleVal);}}}catch(_0x2700b4){console[_0x4b02d1(0x716)](_0x2700b4);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xe6f)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xd97)],'method':()=>{const _0x5a8cd2=_0x5358ee;try{const _0x26b790=_0x4d0e58[_0x5a8cd2(0xfd3)](_0xb288f,_0x431304)[_0x5a8cd2(0xbb1)](_0x4d0e58[_0x5a8cd2(0x39e)])[_0x5a8cd2(0x9d0)](),_0x674673=_0x4c3978[_0x5a8cd2(0xbb1)](_0x4d0e58[_0x5a8cd2(0xf9b)])[_0x5a8cd2(0x9d0)](_0x4c3978[_0x5a8cd2(0x398)](_0x4d0e58[_0x5a8cd2(0x102c)])[_0x5a8cd2(0x1081)],-0x1af3*-0x1+-0x25a6+0xabd),_0x37529e=_0x4c3978[_0x5a8cd2(0xbb1)](_0x4d0e58[_0x5a8cd2(0x80e)])[_0x5a8cd2(0x9d0)](_0x26b790,_0x674673),_0x297125=_0x4c3978[_0x5a8cd2(0xbb1)](_0x4d0e58[_0x5a8cd2(0xf9b)])[_0x5a8cd2(0x9d0)](_0x4c3978[_0x5a8cd2(0x398)](_0x4d0e58[_0x5a8cd2(0x848)])[_0x5a8cd2(0x1081)],0x9c5+0x1*0x216e+-0x2b33*0x1+0.5),_0xe74873=_0x4c3978[_0x5a8cd2(0xbb1)](_0x4d0e58[_0x5a8cd2(0x80e)])[_0x5a8cd2(0x9d0)](_0x37529e,_0x297125),_0x5b3aa3=_0x4c3978[_0x5a8cd2(0xbb1)](_0x4d0e58[_0x5a8cd2(0xf9b)])[_0x5a8cd2(0x9d0)](_0x4c3978[_0x5a8cd2(0x398)](_0x4d0e58[_0x5a8cd2(0x102c)])[_0x5a8cd2(0x1081)],0xe*0x2bf+0x255*-0x9+-0x1170),_0x2245db=_0x4c3978[_0x5a8cd2(0xbb1)](_0x4d0e58[_0x5a8cd2(0x80e)])[_0x5a8cd2(0x9d0)](_0x26b790,_0x5b3aa3),_0x443dea=_0xe74873;_0x4d0e58[_0x5a8cd2(0x70d)](rightPrimary,!previoussaaakey)&&(_0x464f9d[_0x5a8cd2(0xbb1)](_0x4d0e58[_0x5a8cd2(0x126)],0x39*-0x76+-0x1*-0x1420+0x62a)[_0x5a8cd2(0x9d0)](Il2Cpp[_0x5a8cd2(0x404)](_0x4d0e58[_0x5a8cd2(0xad7)]),_0x2245db,_0x5490f3,null),_0x464f9d[_0x5a8cd2(0xbb1)](_0x4d0e58[_0x5a8cd2(0x126)],-0xb*-0x1b2+0x6b*-0xb+0xe09*-0x1)[_0x5a8cd2(0x9d0)](Il2Cpp[_0x5a8cd2(0x404)](_0x4d0e58[_0x5a8cd2(0xe9c)]),_0x443dea,_0x5490f3,null)),previoussaaakey=rightPrimary;}catch(_0x1e0f1d){console[_0x5a8cd2(0x716)](_0x1e0f1d);}},'isTogglable':!![],'toolTip':_0x4d0e58[_0x5358ee(0xe6f)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xcce)],'isTogglable':!![],'method':()=>{const _0x3d3340=_0x5358ee;if(_0x4d0e58[_0x3d3340(0x85f)](handTextObj,null)){const _0x42d897=_0x17e59a[_0x3d3340(0xbb1)](_0x4d0e58[_0x3d3340(0x39e)])[_0x3d3340(0x9d0)](),_0x528d23=_0x17e59a[_0x3d3340(0xbb1)](_0x4d0e58[_0x3d3340(0xa36)])[_0x3d3340(0x9d0)]();handTextObj=_0x4d0e58[_0x3d3340(0xafc)](_0x5afd16,_0x42d897,_0x528d23,[-0x34*0x2+-0x2d9+0x11*0x31+0.05,-0x1574+-0x44*0x5d+0x2e28+0.05,0xbcb+0x22dc+-0x2ea7+0.05],-0x124d+-0x1*-0x14fd+0x2ad*-0x1,[-0x1039*0x1+0x341+0xcf8,-0x377*-0xb+0x166c+0x1*-0x3c89,0x686+-0x13c5+0x1*0xd3f,-0x1f36+0xa46+-0x50*-0x43]);const _0x543832=_0x4d0e58[_0x3d3340(0xdb7)](_0x2b8a6a,handTextObj,_0x3873cf);_0x543832[_0x3d3340(0xbb1)](_0x4d0e58[_0x3d3340(0x533)])[_0x3d3340(0x9d0)](-0x1*0x12dd+0xa6d+0x2e*0x2f);const _0x21a49f=_0x4d0e58[_0x3d3340(0x91e)](_0x2b8a6a,handTextObj,_0x337a67);_0x21a49f[_0x3d3340(0xbb1)](_0x4d0e58[_0x3d3340(0xb6c)])[_0x3d3340(0x9d0)](0x19eb+-0x1e76+0x873),_0x4d0e58[_0x3d3340(0x10b8)](_0xb288f,handTextObj)[_0x3d3340(0xbb1)](_0x4d0e58[_0x3d3340(0x1dc)],-0x1*0x66a+0x254c+-0x1ee0)[_0x3d3340(0x9d0)](_0x17e59a,!![]);const _0x869f93=_0x4d0e58[_0x3d3340(0x8d2)](_0xb288f,handTextObj);_0x869f93[_0x3d3340(0xbb1)](_0x4d0e58[_0x3d3340(0x1dc)],0x17c7+-0x9fa+-0xdcb)[_0x3d3340(0x9d0)](_0x17e59a,!![]),_0x869f93[_0x3d3340(0xbb1)](_0x4d0e58[_0x3d3340(0xe21)])[_0x3d3340(0x9d0)](_0x2374fd[_0x3d3340(0xbb1)](_0x4d0e58[_0x3d3340(0xa13)])[_0x3d3340(0x9d0)](0xfaf+-0x233b+0x13e6,0x175*-0x15+-0xfb2*-0x1+-0xee7*-0x1,-0x1*-0x2462+0x1*-0xd5b+-0x1707)),_0x869f93[_0x3d3340(0xbb1)](_0x4d0e58[_0x3d3340(0x360)])[_0x3d3340(0x9d0)](_0x130c91),_0x4d0e58[_0x3d3340(0x3e4)](_0x5f11f0,handTextObj,_0x4d0e58[_0x3d3340(0x145)],_0x528d23,_0x42d897,[-0x2*-0x120a+0x63a*0x2+0x2fc0*-0x1,-0x674+-0x23e2*0x1+0x1*0x2a88]);const _0x2babaf=_0x4d0e58[_0x3d3340(0xeb7)](_0x560783,handTextObj,_0x184208);if(_0x2babaf)_0x4d0e58[_0x3d3340(0x182)](_0x40b1f6,_0x2babaf);}},'disableMethod':()=>{const _0x132741=_0x5358ee;_0x4d0e58[_0x132741(0x5c0)](handTextObj,null)&&(_0x15c2bc[_0x132741(0xbb1)](_0x4d0e58[_0x132741(0xa0e)],0x20db*-0x1+0x1*-0x1ef1+0x1*0x3fcd)[_0x132741(0x9d0)](handTextObj),handTextObj=null);},'toolTip':_0x4d0e58[_0x5358ee(0xb81)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x16c)],'method':()=>{_0x2063c0=-0x142c*-0x1+-0x1d49+0x91d,_0x468f75=0x244e+-0x14e*0x15+-0x8e8;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xaaa)],'method':()=>{const _0x2c6cae=_0x5358ee;currentWorldPrefabIndex=_0x4d0e58[_0x2c6cae(0x7df)](_0x4d0e58[_0x2c6cae(0x1107)](currentWorldPrefabIndex,-0x758+0x238d+0x4c*-0x5f),_0xd20588[_0x2c6cae(0x285)]),_0x4d0e58[_0x2c6cae(0x241)](_0x415d60,_0x4d0e58[_0x2c6cae(0xde8)](_0x4d0e58[_0x2c6cae(0x942)],_0xd20588[currentWorldPrefabIndex]),![]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0xbaf)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xdf1)],'method':()=>{const _0x30eead=_0x5358ee;currentWorldPrefabIndex=_0x4d0e58[_0x30eead(0x7df)](_0x4d0e58[_0x30eead(0xa09)](_0x4d0e58[_0x30eead(0xcbc)](currentWorldPrefabIndex,-0x1*-0x12f1+-0x3*-0x9bd+-0x3027),_0xd20588[_0x30eead(0x285)]),_0xd20588[_0x30eead(0x285)]),_0x4d0e58[_0x30eead(0x6e8)](_0x415d60,_0x4d0e58[_0x30eead(0x92b)](_0x4d0e58[_0x30eead(0x942)],_0xd20588[currentWorldPrefabIndex]),![]);},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x88d)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xfb4)],'isTogglable':![],'method':()=>{const _0x42f3dc=_0x5358ee;try{sizespawner+=0xf1a+0xab4+-0x19c4;if(_0x4d0e58[_0x42f3dc(0xec2)](sizespawner,-0xd30+-0x11*-0x121+-0x219))sizespawner=0xcd3*-0x1+0x2bf*0x1+-0x2cc*-0x5;const _0x4c32ee=_0x15c2bc[_0x42f3dc(0xbb1)](_0x4d0e58[_0x42f3dc(0xe09)])[_0x42f3dc(0x2b5)](_0x2a34d8)[_0x42f3dc(0x9d0)]();if(!_0x4c32ee)return;const _0x5e64b0=_0x4d0e58[_0x42f3dc(0x342)](_0xb288f,_0x431304)[_0x42f3dc(0xbb1)](_0x4d0e58[_0x42f3dc(0x39e)])[_0x42f3dc(0x9d0)]();for(let _0x21ae85=0x435+-0x168+-0x2cd;_0x4d0e58[_0x42f3dc(0x69f)](_0x21ae85,_0x4c32ee[_0x42f3dc(0x285)]);_0x21ae85++){const _0x4087b1=_0x4c32ee[_0x42f3dc(0xadb)](_0x21ae85);if(!_0x4087b1||_0x4087b1[_0x42f3dc(0xa74)]())continue;try{const _0x192732=_0x4c3978[_0x42f3dc(0xbb1)](_0x4d0e58[_0x42f3dc(0x90c)])[_0x42f3dc(0x9d0)](_0x5e64b0,_0x4d0e58[_0x42f3dc(0x86d)](_0xb288f,_0x4087b1)[_0x42f3dc(0xbb1)](_0x4d0e58[_0x42f3dc(0x39e)])[_0x42f3dc(0x9d0)]());_0x4d0e58[_0x42f3dc(0xc4e)](_0x192732,0x760+-0x66d+-0x2f5*-0x1)&&_0x4d0e58[_0x42f3dc(0x2b8)](_0xb288f,_0x4087b1)[_0x42f3dc(0xbb1)](_0x4d0e58[_0x42f3dc(0x1bd)])[_0x42f3dc(0x9d0)]([sizespawner,sizespawner,sizespawner]);}catch(_0x287721){}}const _0x4709d2=_0x15c2bc[_0x42f3dc(0xbb1)](_0x4d0e58[_0x42f3dc(0xe09)])[_0x42f3dc(0x2b5)](_0x2e62a6)[_0x42f3dc(0x9d0)]();if(_0x4709d2)for(let _0x4959a2=-0x4*0x6b2+-0x19e7*-0x1+0xe1;_0x4d0e58[_0x42f3dc(0xf63)](_0x4959a2,_0x4709d2[_0x42f3dc(0x285)]);_0x4959a2++){const _0x105c28=_0x4709d2[_0x42f3dc(0xadb)](_0x4959a2);if(!_0x105c28||_0x105c28[_0x42f3dc(0xa74)]())continue;try{const _0x149189=_0x4c3978[_0x42f3dc(0xbb1)](_0x4d0e58[_0x42f3dc(0x90c)])[_0x42f3dc(0x9d0)](_0x5e64b0,_0x4d0e58[_0x42f3dc(0xfd3)](_0xb288f,_0x105c28)[_0x42f3dc(0xbb1)](_0x4d0e58[_0x42f3dc(0x39e)])[_0x42f3dc(0x9d0)]());if(_0x4d0e58[_0x42f3dc(0x821)](_0x149189,0x1*0x1c01+-0x158f+-0x28a))try{_0x105c28[_0x42f3dc(0xbb1)](_0x4d0e58[_0x42f3dc(0xf37)])[_0x42f3dc(0x9d0)](Math[_0x42f3dc(0x61f)](_0x4d0e58[_0x42f3dc(0x3b1)](sizespawner,-0x44e+-0x10f*-0x11+-0xda5)));}catch(_0x1d7510){_0x4d0e58[_0x42f3dc(0x171)](_0xb288f,_0x105c28)[_0x42f3dc(0xbb1)](_0x4d0e58[_0x42f3dc(0x1bd)])[_0x42f3dc(0x9d0)]([sizespawner,sizespawner,sizespawner]);}}catch(_0x2e2ba9){}}_0x4d0e58[_0x42f3dc(0xd29)](_0x415d60,_0x4d0e58[_0x42f3dc(0xe44)](_0x4d0e58[_0x42f3dc(0x41f)],sizespawner[_0x42f3dc(0x804)](0x1a7d*-0x1+0x8cb*0x3+-0xa*-0x3)),![]);}catch(_0x248dc9){console[_0x42f3dc(0x716)](_0x4d0e58[_0x42f3dc(0x54e)],_0x248dc9);}},'toolTip':_0x4d0e58[_0x5358ee(0xfff)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x1aa)],'isTogglable':![],'method':()=>{const _0x4f96bb=_0x5358ee;try{sizespawner-=0x197a+-0x1686+-0x2ea;if(_0x4d0e58[_0x4f96bb(0x11f)](sizespawner,-0x1d02+0xb3*-0x17+0x2d17))sizespawner=0x1c15+0x32*0x67+-0x3033*0x1;const _0x259e85=_0x15c2bc[_0x4f96bb(0xbb1)](_0x4d0e58[_0x4f96bb(0xe09)])[_0x4f96bb(0x2b5)](_0x2a34d8)[_0x4f96bb(0x9d0)]();if(!_0x259e85)return;const _0x4d8372=_0x4d0e58[_0x4f96bb(0xbc2)](_0xb288f,_0x431304)[_0x4f96bb(0xbb1)](_0x4d0e58[_0x4f96bb(0x39e)])[_0x4f96bb(0x9d0)]();for(let _0x5d36ec=0x882+0x6a7+-0xf29*0x1;_0x4d0e58[_0x4f96bb(0x2f5)](_0x5d36ec,_0x259e85[_0x4f96bb(0x285)]);_0x5d36ec++){const _0x271689=_0x259e85[_0x4f96bb(0xadb)](_0x5d36ec);if(!_0x271689||_0x271689[_0x4f96bb(0xa74)]())continue;try{const _0x5cae7d=_0x4c3978[_0x4f96bb(0xbb1)](_0x4d0e58[_0x4f96bb(0x90c)])[_0x4f96bb(0x9d0)](_0x4d8372,_0x4d0e58[_0x4f96bb(0xd0b)](_0xb288f,_0x271689)[_0x4f96bb(0xbb1)](_0x4d0e58[_0x4f96bb(0x39e)])[_0x4f96bb(0x9d0)]());_0x4d0e58[_0x4f96bb(0x1b3)](_0x5cae7d,0x122b+-0x215*0x6+-0x1c5)&&_0x4d0e58[_0x4f96bb(0xf72)](_0xb288f,_0x271689)[_0x4f96bb(0xbb1)](_0x4d0e58[_0x4f96bb(0x1bd)])[_0x4f96bb(0x9d0)]([sizespawner,sizespawner,sizespawner]);}catch(_0x4f564d){}}const _0x19d50e=_0x15c2bc[_0x4f96bb(0xbb1)](_0x4d0e58[_0x4f96bb(0xe09)])[_0x4f96bb(0x2b5)](_0x2e62a6)[_0x4f96bb(0x9d0)]();if(_0x19d50e)for(let _0x249aaa=-0x11a5*-0x2+-0x27a+-0xf*0x230;_0x4d0e58[_0x4f96bb(0x9dc)](_0x249aaa,_0x19d50e[_0x4f96bb(0x285)]);_0x249aaa++){const _0x186aa5=_0x19d50e[_0x4f96bb(0xadb)](_0x249aaa);if(!_0x186aa5||_0x186aa5[_0x4f96bb(0xa74)]())continue;try{const _0x3a69fb=_0x4c3978[_0x4f96bb(0xbb1)](_0x4d0e58[_0x4f96bb(0x90c)])[_0x4f96bb(0x9d0)](_0x4d8372,_0x4d0e58[_0x4f96bb(0xf53)](_0xb288f,_0x186aa5)[_0x4f96bb(0xbb1)](_0x4d0e58[_0x4f96bb(0x39e)])[_0x4f96bb(0x9d0)]());if(_0x4d0e58[_0x4f96bb(0x523)](_0x3a69fb,-0x7*-0x296+-0x21ac+0x137a))try{_0x186aa5[_0x4f96bb(0xbb1)](_0x4d0e58[_0x4f96bb(0xf37)])[_0x4f96bb(0x9d0)](Math[_0x4f96bb(0x61f)](_0x4d0e58[_0x4f96bb(0x1c4)](sizespawner,-0xa51+-0x219f+0x2bfc)));}catch(_0x29e3de){_0x4d0e58[_0x4f96bb(0xd72)](_0xb288f,_0x186aa5)[_0x4f96bb(0xbb1)](_0x4d0e58[_0x4f96bb(0x1bd)])[_0x4f96bb(0x9d0)]([sizespawner,sizespawner,sizespawner]);}}catch(_0x196689){}}_0x4d0e58[_0x4f96bb(0xdb7)](_0x415d60,_0x4d0e58[_0x4f96bb(0x1055)](_0x4d0e58[_0x4f96bb(0x41f)],sizespawner[_0x4f96bb(0x804)](-0xb1c+0x345+-0x7*-0x11f)),![]);}catch(_0x4afed5){console[_0x4f96bb(0x716)](_0x4d0e58[_0x4f96bb(0x9d4)],_0x4afed5);}},'toolTip':_0x4d0e58[_0x5358ee(0xfff)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x63a)],'isTogglable':![],'method':()=>{const _0x1a1012=_0x5358ee;try{sizespawner=-0x2442+0x1*0x18b3+0xb90;const _0x4dc7d3=_0x4d0e58[_0x1a1012(0xd1f)](_0xb288f,_0x431304)[_0x1a1012(0xbb1)](_0x4d0e58[_0x1a1012(0x39e)])[_0x1a1012(0x9d0)](),_0x2777b2=_0x15c2bc[_0x1a1012(0xbb1)](_0x4d0e58[_0x1a1012(0xe09)])[_0x1a1012(0x2b5)](_0x2a34d8)[_0x1a1012(0x9d0)]();if(_0x2777b2)for(let _0x5c5513=-0x123f+0x1*-0x331+-0xc4*-0x1c;_0x4d0e58[_0x1a1012(0xde3)](_0x5c5513,_0x2777b2[_0x1a1012(0x285)]);_0x5c5513++){const _0x54ae6b=_0x2777b2[_0x1a1012(0xadb)](_0x5c5513);if(!_0x54ae6b||_0x54ae6b[_0x1a1012(0xa74)]())continue;try{const _0x447740=_0x4c3978[_0x1a1012(0xbb1)](_0x4d0e58[_0x1a1012(0x90c)])[_0x1a1012(0x9d0)](_0x4dc7d3,_0x4d0e58[_0x1a1012(0x54d)](_0xb288f,_0x54ae6b)[_0x1a1012(0xbb1)](_0x4d0e58[_0x1a1012(0x39e)])[_0x1a1012(0x9d0)]());_0x4d0e58[_0x1a1012(0x109c)](_0x447740,-0x1*0x261e+0x2*-0x655+0x1b58*0x2)&&_0x4d0e58[_0x1a1012(0x1a0)](_0xb288f,_0x54ae6b)[_0x1a1012(0xbb1)](_0x4d0e58[_0x1a1012(0x1bd)])[_0x1a1012(0x9d0)]([0x19bf+0x5*-0xc7+0x175*-0xf,0x38*0x74+0x1*-0x1df+0x5e*-0x40,0x1*-0x1f54+-0xdf*0xc+-0x13*-0x233]);}catch(_0x6455f6){}}const _0xc274d4=_0x15c2bc[_0x1a1012(0xbb1)](_0x4d0e58[_0x1a1012(0xe09)])[_0x1a1012(0x2b5)](_0x2e62a6)[_0x1a1012(0x9d0)]();if(_0xc274d4)for(let _0x1c00c4=-0xb8d+0x1767+-0xbda;_0x4d0e58[_0x1a1012(0x7f3)](_0x1c00c4,_0xc274d4[_0x1a1012(0x285)]);_0x1c00c4++){const _0x25e9f2=_0xc274d4[_0x1a1012(0xadb)](_0x1c00c4);if(!_0x25e9f2||_0x25e9f2[_0x1a1012(0xa74)]())continue;try{const _0x24ff97=_0x4c3978[_0x1a1012(0xbb1)](_0x4d0e58[_0x1a1012(0x90c)])[_0x1a1012(0x9d0)](_0x4dc7d3,_0x4d0e58[_0x1a1012(0xef8)](_0xb288f,_0x25e9f2)[_0x1a1012(0xbb1)](_0x4d0e58[_0x1a1012(0x39e)])[_0x1a1012(0x9d0)]());if(_0x4d0e58[_0x1a1012(0xa3e)](_0x24ff97,-0x26a6+0x4ef+0x259f))try{_0x25e9f2[_0x1a1012(0xbb1)](_0x4d0e58[_0x1a1012(0xf37)])[_0x1a1012(0x9d0)](0x15f8+0x2034*0x1+-0x362c);}catch(_0x219213){_0x4d0e58[_0x1a1012(0xef8)](_0xb288f,_0x25e9f2)[_0x1a1012(0xbb1)](_0x4d0e58[_0x1a1012(0x1bd)])[_0x1a1012(0x9d0)]([0x5*-0x1fd+0x1c1*0x3+0x4af*0x1,0x2*0x4ce+-0x4e8+-0x1*0x4b3,0x731*-0x5+-0x247*-0x9+0xf77]);}}catch(_0x4e5743){}}_0x4d0e58[_0x1a1012(0xe1e)](_0x415d60,_0x4d0e58[_0x1a1012(0x170)],![]);}catch(_0xd093f8){console[_0x1a1012(0x716)](_0x4d0e58[_0x1a1012(0x113)],_0xd093f8);}},'toolTip':_0x4d0e58[_0x5358ee(0xfff)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x72b)],'isTogglable':!![],'method':((()=>{const _0x5ebcec=_0x5358ee,_0x1ae1ba={'nfCuw':function(_0x53a8f6,_0x3dbce9){const _0x40dc65=_0x38eb;return _0x4d0e58[_0x40dc65(0x3c0)](_0x53a8f6,_0x3dbce9);},'BqsnL':function(_0x156456,_0x790151){const _0x3bbbf6=_0x38eb;return _0x4d0e58[_0x3bbbf6(0x9f9)](_0x156456,_0x790151);},'hoHHv':_0x4d0e58[_0x5ebcec(0xcc9)],'Kbqvd':_0x4d0e58[_0x5ebcec(0x134)],'gJjoN':_0x4d0e58[_0x5ebcec(0x45b)],'iSfqJ':_0x4d0e58[_0x5ebcec(0x3a7)],'UZetL':function(_0x2e0384,_0xffd129){const _0x193afa=_0x5ebcec;return _0x4d0e58[_0x193afa(0x5dc)](_0x2e0384,_0xffd129);},'zNyXn':_0x4d0e58[_0x5ebcec(0x39e)],'cjnmv':function(_0x299e97,_0x3f82c1){const _0x48f15a=_0x5ebcec;return _0x4d0e58[_0x48f15a(0xdca)](_0x299e97,_0x3f82c1);},'ovrar':function(_0x26da0a,_0x5e3b3e,_0x627b3f,_0x207bff){const _0x57ec2e=_0x5ebcec;return _0x4d0e58[_0x57ec2e(0xd43)](_0x26da0a,_0x5e3b3e,_0x627b3f,_0x207bff);},'YxhTm':_0x4d0e58[_0x5ebcec(0x126)],'lPINx':function(_0xd856cf,_0x377044,_0x3b93ec){const _0x1b2a92=_0x5ebcec;return _0x4d0e58[_0x1b2a92(0xe65)](_0xd856cf,_0x377044,_0x3b93ec);},'pGkZS':function(_0x1a5cc4,_0x5b6499){const _0x4ba764=_0x5ebcec;return _0x4d0e58[_0x4ba764(0x10cf)](_0x1a5cc4,_0x5b6499);},'pYZML':_0x4d0e58[_0x5ebcec(0x1056)],'GjXBT':function(_0x3f4a3a,_0x91f55f){const _0x3146a1=_0x5ebcec;return _0x4d0e58[_0x3146a1(0xb62)](_0x3f4a3a,_0x91f55f);},'cNbrr':function(_0x8ef4c5,_0x383320){const _0x380529=_0x5ebcec;return _0x4d0e58[_0x380529(0x6a4)](_0x8ef4c5,_0x383320);},'pohub':function(_0x4eef73,_0x1e5826){const _0x1cc180=_0x5ebcec;return _0x4d0e58[_0x1cc180(0xd17)](_0x4eef73,_0x1e5826);},'cGKkC':_0x4d0e58[_0x5ebcec(0xf9b)],'DfhZw':_0x4d0e58[_0x5ebcec(0x102c)],'YCbtb':function(_0x688265,_0x162bb5){const _0x4e931d=_0x5ebcec;return _0x4d0e58[_0x4e931d(0xea8)](_0x688265,_0x162bb5);},'ljYbH':_0x4d0e58[_0x5ebcec(0x80e)],'AMsuw':function(_0x1b1989,_0x118b6e){const _0x2b59cc=_0x5ebcec;return _0x4d0e58[_0x2b59cc(0x1019)](_0x1b1989,_0x118b6e);},'QiFQV':function(_0x155995,_0x44f63b){const _0x3f1ae9=_0x5ebcec;return _0x4d0e58[_0x3f1ae9(0x7d8)](_0x155995,_0x44f63b);},'yjBOB':function(_0x120e5d,_0x25a9f2){const _0x1f4d33=_0x5ebcec;return _0x4d0e58[_0x1f4d33(0x972)](_0x120e5d,_0x25a9f2);},'Uysoq':function(_0x1271fa,_0x18ea41){const _0x48d335=_0x5ebcec;return _0x4d0e58[_0x48d335(0x293)](_0x1271fa,_0x18ea41);},'jysgv':_0x4d0e58[_0x5ebcec(0x848)],'Mnrwg':_0x4d0e58[_0x5ebcec(0xfa7)],'JkpXu':_0x4d0e58[_0x5ebcec(0x10a0)],'nVwCi':_0x4d0e58[_0x5ebcec(0x110b)],'JqEta':function(_0x54724b,_0x44dcc0){const _0x4343df=_0x5ebcec;return _0x4d0e58[_0x4343df(0x9c2)](_0x54724b,_0x44dcc0);},'vQpCW':_0x4d0e58[_0x5ebcec(0xfbf)]};let _0x4057e8=0x1966+-0x1*0x66+-0x1900,_0x353c31=[],_0x5b58ac=-(-0x242e+0x30*-0x5e+0x35cf);const _0xc185c5=0x5*-0x14+-0x44c+0x4e2,_0x55bac6=-0x6ee+0x9*0x44e+-0x1fcb,_0x1b3d67=-0x63*-0x26+-0x1b53+-0x28*-0x51,_0xfe798f=0x13b7*0x1+-0x65+0x7*-0x2ba,_0x31a91e=0x2362+0x224b+-0x45ab;return()=>{const _0x2068eb=_0x5ebcec;try{if(_0x1ae1ba[_0x2068eb(0x10d5)](_0x5b58ac,currentWorldPrefabIndex)||_0x1ae1ba[_0x2068eb(0xade)](_0x353c31[_0x2068eb(0x285)],0x1a75+0x5bf*0x2+-0x797*0x5)){for(const _0x30d382 of _0x353c31){try{if(_0x30d382&&!_0x30d382[_0x2068eb(0xa74)]()){const _0xe19bfb=_0x464f9d[_0x2068eb(0x398)](_0x1ae1ba[_0x2068eb(0x98c)])[_0x2068eb(0x1081)][_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0x439)])[_0x2068eb(0x9d0)](),_0x1dc382=_0x30d382[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0xd58)],0x14ae+-0x24*-0x46+0x1*-0x1e85)[_0x2068eb(0x2b5)](_0x2a34d8)[_0x2068eb(0x9d0)]();_0x1dc382&&!_0x1dc382[_0x2068eb(0xa74)]()&&_0xe19bfb[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0x4db)],0x182d*0x1+-0x1*-0x43b+-0x1c67)[_0x2068eb(0x9d0)](_0x1dc382);}}catch(_0x2c9af2){}}_0x353c31=[];const _0x1a148b=_0x1ae1ba[_0x2068eb(0x998)](_0xb288f,_0x431304)[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0x7ad)])[_0x2068eb(0x9d0)](),_0x5d4d5b=_0xd20588[currentWorldPrefabIndex];for(let _0x2c3cae=0x1899*-0x1+0x1988+-0xef*0x1;_0x1ae1ba[_0x2068eb(0xcd6)](_0x2c3cae,_0xc185c5);_0x2c3cae++){try{let _0x6c4dd7=null;try{_0x6c4dd7=_0x1ae1ba[_0x2068eb(0x5ff)](_0x9507b4,_0x5d4d5b,_0x1a148b,_0x5490f3);}catch(_0x1a818a){_0x6c4dd7=_0x464f9d[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0x526)],-0xc8b+-0x20ba+-0x2d49*-0x1)[_0x2068eb(0x9d0)](Il2Cpp[_0x2068eb(0x404)](_0x5d4d5b),_0x1a148b,_0x5490f3,null);}_0x6c4dd7&&!_0x6c4dd7[_0x2068eb(0xa74)]()&&_0x353c31[_0x2068eb(0x917)](_0x6c4dd7);}catch(_0x2a86f2){}}_0x5b58ac=currentWorldPrefabIndex,_0x1ae1ba[_0x2068eb(0x4ce)](_0x415d60,_0x1ae1ba[_0x2068eb(0xc64)](_0x1ae1ba[_0x2068eb(0x936)],_0xd20588[currentWorldPrefabIndex]),![]);}_0x4057e8+=_0x1ae1ba[_0x2068eb(0xbc6)](_0xfe798f,deltaTime);if(_0x1ae1ba[_0x2068eb(0x10b0)](_0x4057e8,0x1*-0x11ed+0xe95+-0x4c0*-0x1))_0x4057e8-=0x1f3+0x17d*0xc+0x1*-0x1267;const _0x14b4e3=_0x1ae1ba[_0x2068eb(0xcf9)](_0xb288f,_0x431304)[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0x7ad)])[_0x2068eb(0x9d0)](),_0x3b4783=_0x4c3978[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0x57f)])[_0x2068eb(0x9d0)](_0x4c3978[_0x2068eb(0x398)](_0x1ae1ba[_0x2068eb(0xe63)])[_0x2068eb(0x1081)],_0x1ae1ba[_0x2068eb(0x22b)](-_0x1ae1ba[_0x2068eb(0xbc6)](_0xc185c5,_0x1b3d67),-0x8*0xfd+-0x45e+-0xc*-0x106)),_0x4bdded=_0x4c3978[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0xc30)])[_0x2068eb(0x9d0)](_0x14b4e3,_0x3b4783);for(let _0x1efbc2=-0xea4+0xe65*0x2+0x2*-0x713;_0x1ae1ba[_0x2068eb(0xcd6)](_0x1efbc2,_0x353c31[_0x2068eb(0x285)]);_0x1efbc2++){const _0x365a10=_0x353c31[_0x1efbc2];if(!_0x365a10||_0x365a10[_0x2068eb(0xa74)]())continue;const _0x58bb6d=_0x1ae1ba[_0x2068eb(0xbc6)](_0x1ae1ba[_0x2068eb(0x176)](_0x1efbc2,_0xc185c5),_0x1ae1ba[_0x2068eb(0xbc6)](0xcf4+-0x95*-0x21+-0x1ec1,_0x31a91e)),_0x3f5772=_0x1ae1ba[_0x2068eb(0xe28)](_0x1ae1ba[_0x2068eb(0x537)](_0x4057e8,_0x58bb6d),_0x1ae1ba[_0x2068eb(0x22b)](Math['PI'],0x14de*0x1+0x20b1*0x1+-0x34db)),_0x14e7bb=_0x1ae1ba[_0x2068eb(0xfd7)](Math[_0x2068eb(0xf74)](_0x3f5772),_0x55bac6),_0x1eef66=_0x1ae1ba[_0x2068eb(0xfd7)](Math[_0x2068eb(0x47e)](_0x3f5772),_0x55bac6),_0x3e3d46=_0x1ae1ba[_0x2068eb(0xfd7)](_0x1efbc2,_0x1b3d67),_0x1fd007=_0x4c3978[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0x57f)])[_0x2068eb(0x9d0)](_0x4c3978[_0x2068eb(0x398)](_0x1ae1ba[_0x2068eb(0xdc6)])[_0x2068eb(0x1081)],_0x14e7bb),_0x42b0a1=_0x4c3978[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0x57f)])[_0x2068eb(0x9d0)](_0x4c3978[_0x2068eb(0x398)](_0x1ae1ba[_0x2068eb(0xe63)])[_0x2068eb(0x1081)],_0x3e3d46),_0x4979cd=_0x4c3978[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0x57f)])[_0x2068eb(0x9d0)](_0x4c3978[_0x2068eb(0x398)](_0x1ae1ba[_0x2068eb(0xb3b)])[_0x2068eb(0x1081)],_0x1eef66),_0x23c3a4=_0x4c3978[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0xc30)])[_0x2068eb(0x9d0)](_0x4c3978[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0xc30)])[_0x2068eb(0x9d0)](_0x1fd007,_0x42b0a1),_0x4979cd),_0x4fc25d=_0x4c3978[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0xc30)])[_0x2068eb(0x9d0)](_0x4bdded,_0x23c3a4);try{const _0x47fec4=_0x365a10[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0xd58)],-0x390+-0x106a+0x13fb)[_0x2068eb(0x2b5)](_0x2e62a6)[_0x2068eb(0x9d0)]();_0x47fec4&&!_0x47fec4[_0x2068eb(0xa74)]()?_0x47fec4[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0x698)],0xa52+-0x2*0x58a+0xc4)[_0x2068eb(0x9d0)](_0x4fc25d,_0x5490f3,_0x130c91,_0x130c91,![],![]):_0x1ae1ba[_0x2068eb(0x998)](_0xb288f,_0x365a10)[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0xf4e)])[_0x2068eb(0x9d0)](_0x4fc25d);}catch(_0x2f3e4c){try{_0x1ae1ba[_0x2068eb(0x7ea)](_0xb288f,_0x365a10)[_0x2068eb(0xbb1)](_0x1ae1ba[_0x2068eb(0xf4e)])[_0x2068eb(0x9d0)](_0x4fc25d);}catch(_0x3c509e){}}}}catch(_0x3f9919){console[_0x2068eb(0x716)](_0x1ae1ba[_0x2068eb(0xe9b)],_0x3f9919);}};})()),'disableMethod':((()=>{return()=>{};})()),'toolTip':_0x4d0e58[_0x5358ee(0xfff)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x43e)],'isTogglable':![],'method':()=>{const _0x57484d=_0x5358ee;try{const _0x215558=_0x4d0e58[_0x57484d(0x3eb)](_0xb288f,_0x431304)[_0x57484d(0xbb1)](_0x4d0e58[_0x57484d(0x39e)])[_0x57484d(0x9d0)](),_0xb17dc2=_0xd20588[currentWorldPrefabIndex],_0x1b33bd=-0x1729+0xf*0xdb+-0xa59*-0x1,_0x124021=-0x3*0x6a1+0xde6+0x1*0x5fd+0.6,_0x2adb4a=[_0x4c3978[_0x57484d(0x398)](_0x4d0e58[_0x57484d(0xfa7)])[_0x57484d(0x1081)],_0x4c3978[_0x57484d(0xbb1)](_0x4d0e58[_0x57484d(0xf9b)])[_0x57484d(0x9d0)](_0x4c3978[_0x57484d(0x398)](_0x4d0e58[_0x57484d(0xfa7)])[_0x57484d(0x1081)],-(0x3ec*0x3+0x1*-0x4bd+-0x706)),_0x4c3978[_0x57484d(0x398)](_0x4d0e58[_0x57484d(0x848)])[_0x57484d(0x1081)],_0x4c3978[_0x57484d(0xbb1)](_0x4d0e58[_0x57484d(0xf9b)])[_0x57484d(0x9d0)](_0x4c3978[_0x57484d(0x398)](_0x4d0e58[_0x57484d(0x848)])[_0x57484d(0x1081)],-(-0x1c75*0x1+0x735+-0x1541*-0x1))];try{_0x4d0e58[_0x57484d(0xd68)](_0x9507b4,_0xb17dc2,_0x215558,_0x5490f3);}catch(_0x2de6ac){try{_0x464f9d[_0x57484d(0xbb1)](_0x4d0e58[_0x57484d(0x126)],-0x4c*-0x2d+-0x232c+0x15d4)[_0x57484d(0x9d0)](Il2Cpp[_0x57484d(0x404)](_0xb17dc2),_0x215558,_0x5490f3,null);}catch(_0x1e57a5){}}for(const _0x23ab0d of _0x2adb4a){for(let _0x3336a7=0x1759+-0x1b3*-0xd+-0x2d6f;_0x4d0e58[_0x57484d(0xacb)](_0x3336a7,_0x1b33bd);_0x3336a7++){const _0x4c31d3=_0x4c3978[_0x57484d(0xbb1)](_0x4d0e58[_0x57484d(0xf9b)])[_0x57484d(0x9d0)](_0x23ab0d,_0x4d0e58[_0x57484d(0xb32)](_0x3336a7,_0x124021)),_0x5b56f8=_0x4c3978[_0x57484d(0xbb1)](_0x4d0e58[_0x57484d(0x80e)])[_0x57484d(0x9d0)](_0x215558,_0x4c31d3);try{_0x4d0e58[_0x57484d(0x3e7)](_0x9507b4,_0xb17dc2,_0x5b56f8,_0x5490f3);}catch(_0x32a5de){try{_0x464f9d[_0x57484d(0xbb1)](_0x4d0e58[_0x57484d(0x126)],-0x3fe+-0x2cc*0xb+0x22c6)[_0x57484d(0x9d0)](Il2Cpp[_0x57484d(0x404)](_0xb17dc2),_0x5b56f8,_0x5490f3,null);}catch(_0x2cbfae){}}}}_0x4d0e58[_0x57484d(0x992)](_0x415d60,_0x4d0e58[_0x57484d(0xe50)](_0x4d0e58[_0x57484d(0x260)],_0xb17dc2),![]);}catch(_0x364175){console[_0x57484d(0x716)](_0x4d0e58[_0x57484d(0x2fb)],_0x364175);}},'toolTip':_0x4d0e58[_0x5358ee(0xfff)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xea9)],'isTogglable':![],'method':()=>{const _0x21f91d=_0x5358ee;try{const _0x59c882=_0x4d0e58[_0x21f91d(0x10b5)](_0xb288f,_0x431304)[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x39e)])[_0x21f91d(0x9d0)](),_0x282046=_0xd20588[currentWorldPrefabIndex],_0x47cd45=-0xb4*-0x29+0x1e92+-0x3b5a,_0x3d7c45=-0x26e9*-0x1+0x3c*-0x87+-0x721,_0x2ff3f8=-0x2506+0xb*-0x15d+0x4d*0xad,_0x16a4cf=-0xd9c*-0x1+0x15f1+-0x238d+0.25,_0x57fe69=0x7ec+0x1*-0xf4+-0x89*0xd;for(let _0x2dcb61=0x3*0x287+-0x1*0x12d3+0xb3e;_0x4d0e58[_0x21f91d(0x531)](_0x2dcb61,_0x3d7c45);_0x2dcb61++){const _0x287c9b=_0x4d0e58[_0x21f91d(0xf99)](_0x4d0e58[_0x21f91d(0x437)](_0x2dcb61,_0x47cd45),_0x4d0e58[_0x21f91d(0xe5f)](Math['PI'],0xb23*0x1+0x3*-0xb87+0x1774)),_0x4319cf=_0x4d0e58[_0x21f91d(0x59e)](_0x2dcb61,_0x16a4cf),_0x3733ac=_0x4d0e58[_0x21f91d(0x1e5)](Math[_0x21f91d(0xf74)](_0x287c9b),_0x2ff3f8),_0x17b85e=_0x4d0e58[_0x21f91d(0x1fa)](Math[_0x21f91d(0x47e)](_0x287c9b),_0x2ff3f8),_0x209260=_0x4d0e58[_0x21f91d(0xe5f)](Math[_0x21f91d(0xf74)](_0x4d0e58[_0x21f91d(0xc05)](_0x287c9b,Math['PI'])),_0x2ff3f8),_0x346561=_0x4d0e58[_0x21f91d(0x3b1)](Math[_0x21f91d(0x47e)](_0x4d0e58[_0x21f91d(0x972)](_0x287c9b,Math['PI'])),_0x2ff3f8),_0x3ed7ba=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0xf9b)])[_0x21f91d(0x9d0)](_0x4c3978[_0x21f91d(0x398)](_0x4d0e58[_0x21f91d(0x102c)])[_0x21f91d(0x1081)],_0x4319cf),_0x92d17b=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0xf9b)])[_0x21f91d(0x9d0)](_0x4c3978[_0x21f91d(0x398)](_0x4d0e58[_0x21f91d(0x848)])[_0x21f91d(0x1081)],_0x3733ac),_0x14fc80=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0xf9b)])[_0x21f91d(0x9d0)](_0x4c3978[_0x21f91d(0x398)](_0x4d0e58[_0x21f91d(0xfa7)])[_0x21f91d(0x1081)],_0x17b85e),_0x4a09ad=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x80e)])[_0x21f91d(0x9d0)](_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x80e)])[_0x21f91d(0x9d0)](_0x92d17b,_0x3ed7ba),_0x14fc80),_0x5a0f73=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x80e)])[_0x21f91d(0x9d0)](_0x59c882,_0x4a09ad);try{_0x4d0e58[_0x21f91d(0xd68)](_0x9507b4,_0x282046,_0x5a0f73,_0x5490f3);}catch(_0xb40c9e){try{_0x464f9d[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x126)],0x1*-0x98f+0x5*0x74a+-0x1*0x1adf)[_0x21f91d(0x9d0)](Il2Cpp[_0x21f91d(0x404)](_0x282046),_0x5a0f73,_0x5490f3,null);}catch(_0x353647){}}const _0x2cdb0a=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0xf9b)])[_0x21f91d(0x9d0)](_0x4c3978[_0x21f91d(0x398)](_0x4d0e58[_0x21f91d(0x848)])[_0x21f91d(0x1081)],_0x209260),_0x5470e7=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0xf9b)])[_0x21f91d(0x9d0)](_0x4c3978[_0x21f91d(0x398)](_0x4d0e58[_0x21f91d(0xfa7)])[_0x21f91d(0x1081)],_0x346561),_0xf074da=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x80e)])[_0x21f91d(0x9d0)](_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x80e)])[_0x21f91d(0x9d0)](_0x2cdb0a,_0x3ed7ba),_0x5470e7),_0x3bbcc2=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x80e)])[_0x21f91d(0x9d0)](_0x59c882,_0xf074da);try{_0x4d0e58[_0x21f91d(0x831)](_0x9507b4,_0x282046,_0x3bbcc2,_0x5490f3);}catch(_0xde4589){try{_0x464f9d[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x126)],0x196f*0x1+-0x6c5*-0x4+-0x347f)[_0x21f91d(0x9d0)](Il2Cpp[_0x21f91d(0x404)](_0x282046),_0x3bbcc2,_0x5490f3,null);}catch(_0x4af535){}}if(_0x4d0e58[_0x21f91d(0x10d1)](_0x4d0e58[_0x21f91d(0x7df)](_0x2dcb61,_0x57fe69),-0x2089+0xcf4+0x1395)){const _0xf48b85=0x4*-0x13d+0x6*-0x1be+-0x1*-0xf6b;for(let _0x33c5e2=0x12e7*0x1+-0x4*-0x6a1+-0x1*0x2d6a;_0x4d0e58[_0x21f91d(0x914)](_0x33c5e2,_0xf48b85);_0x33c5e2++){const _0x157a8f=_0x4d0e58[_0x21f91d(0x10fe)](_0x33c5e2,_0xf48b85),_0x7ab1b4=_0x4d0e58[_0x21f91d(0x92b)](_0x3733ac,_0x4d0e58[_0x21f91d(0x42d)](_0x4d0e58[_0x21f91d(0x5cc)](_0x209260,_0x3733ac),_0x157a8f)),_0x41e766=_0x4d0e58[_0x21f91d(0x854)](_0x17b85e,_0x4d0e58[_0x21f91d(0x5d9)](_0x4d0e58[_0x21f91d(0x741)](_0x346561,_0x17b85e),_0x157a8f)),_0x4deaa6=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0xf9b)])[_0x21f91d(0x9d0)](_0x4c3978[_0x21f91d(0x398)](_0x4d0e58[_0x21f91d(0x848)])[_0x21f91d(0x1081)],_0x7ab1b4),_0x497530=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0xf9b)])[_0x21f91d(0x9d0)](_0x4c3978[_0x21f91d(0x398)](_0x4d0e58[_0x21f91d(0xfa7)])[_0x21f91d(0x1081)],_0x41e766),_0x5d07c3=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x80e)])[_0x21f91d(0x9d0)](_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x80e)])[_0x21f91d(0x9d0)](_0x4deaa6,_0x3ed7ba),_0x497530),_0x29e8f9=_0x4c3978[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x80e)])[_0x21f91d(0x9d0)](_0x59c882,_0x5d07c3);try{_0x4d0e58[_0x21f91d(0x842)](_0x9507b4,_0x282046,_0x29e8f9,_0x5490f3);}catch(_0x155a2e){try{_0x464f9d[_0x21f91d(0xbb1)](_0x4d0e58[_0x21f91d(0x126)],0x1db5+-0x2ab*0xd+0x4fe)[_0x21f91d(0x9d0)](Il2Cpp[_0x21f91d(0x404)](_0x282046),_0x29e8f9,_0x5490f3,null);}catch(_0x5d75e4){}}}}}_0x4d0e58[_0x21f91d(0x35c)](_0x415d60,_0x4d0e58[_0x21f91d(0x11e)](_0x4d0e58[_0x21f91d(0xcbb)],_0x282046),![]);}catch(_0x34baf6){console[_0x21f91d(0x716)](_0x4d0e58[_0x21f91d(0x60f)],_0x34baf6);}},'toolTip':_0x4d0e58[_0x5358ee(0xfff)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x707)],'isTogglable':![],'method':()=>{const _0x386801=_0x5358ee;try{const _0x25062f=_0x4d0e58[_0x386801(0x6e5)](_0xb288f,_0x431304)[_0x386801(0xbb1)](_0x4d0e58[_0x386801(0x39e)])[_0x386801(0x9d0)](),_0xf04e35=_0xd20588[currentWorldPrefabIndex],_0x35e5ca=-0x1051*-0x1+-0x18de*0x1+0x5*0x1b7,_0x5053c7=-0x692*-0x3+-0x155f*-0x1+-0x290d,_0x18cea5=0x2ca*0xa+0xe47+0xfb*-0x2b;for(let _0x1eacda=0x797+-0x2297+0x18*0x120;_0x4d0e58[_0x386801(0x441)](_0x1eacda,_0x35e5ca);_0x1eacda++){const _0x24390e=_0x4d0e58[_0x386801(0xb32)](_0x4d0e58[_0x386801(0xc24)](Math['PI'],_0x4d0e58[_0x386801(0x83c)](_0x35e5ca,-0x219e+-0xd8d*0x1+0xbcb*0x4)),_0x1eacda);for(let _0x2c135c=0x25b9+-0x814+-0x1*0x1da5;_0x4d0e58[_0x386801(0x3b5)](_0x2c135c,_0x5053c7);_0x2c135c++){const _0x5bc15f=_0x4d0e58[_0x386801(0xa71)](_0x4d0e58[_0x386801(0xa4b)](_0x4d0e58[_0x386801(0x50a)](-0x2569+0x1776+0xdf5,Math['PI']),_0x5053c7),_0x2c135c),_0x18302c=_0x4d0e58[_0x386801(0x50a)](_0x4d0e58[_0x386801(0x3b3)](_0x18cea5,Math[_0x386801(0x47e)](_0x24390e)),Math[_0x386801(0xf74)](_0x5bc15f)),_0x3f047d=_0x4d0e58[_0x386801(0xb32)](_0x18cea5,Math[_0x386801(0xf74)](_0x24390e)),_0x446198=_0x4d0e58[_0x386801(0xf99)](_0x4d0e58[_0x386801(0x56f)](_0x18cea5,Math[_0x386801(0x47e)](_0x24390e)),Math[_0x386801(0x47e)](_0x5bc15f)),_0x339569=_0x4c3978[_0x386801(0x398)](_0x4d0e58[_0x386801(0x848)])[_0x386801(0x1081)],_0x5d6c0f=_0x4c3978[_0x386801(0x398)](_0x4d0e58[_0x386801(0x102c)])[_0x386801(0x1081)],_0x30bade=_0x4c3978[_0x386801(0x398)](_0x4d0e58[_0x386801(0xfa7)])[_0x386801(0x1081)],_0x3cc609=_0x4c3978[_0x386801(0xbb1)](_0x4d0e58[_0x386801(0xf9b)])[_0x386801(0x9d0)](_0x339569,_0x18302c),_0x461428=_0x4c3978[_0x386801(0xbb1)](_0x4d0e58[_0x386801(0xf9b)])[_0x386801(0x9d0)](_0x5d6c0f,_0x3f047d),_0xda0c0d=_0x4c3978[_0x386801(0xbb1)](_0x4d0e58[_0x386801(0xf9b)])[_0x386801(0x9d0)](_0x30bade,_0x446198),_0x5eb37d=_0x4c3978[_0x386801(0xbb1)](_0x4d0e58[_0x386801(0x80e)])[_0x386801(0x9d0)](_0x4c3978[_0x386801(0xbb1)](_0x4d0e58[_0x386801(0x80e)])[_0x386801(0x9d0)](_0x3cc609,_0x461428),_0xda0c0d),_0x258288=_0x4c3978[_0x386801(0xbb1)](_0x4d0e58[_0x386801(0x80e)])[_0x386801(0x9d0)](_0x25062f,_0x5eb37d);try{_0x4d0e58[_0x386801(0x933)](_0x9507b4,_0xf04e35,_0x258288,_0x5490f3);}catch(_0x42a096){try{_0x464f9d[_0x386801(0xbb1)](_0x4d0e58[_0x386801(0x126)],0x90*0x15+-0x63*0x24+0x220)[_0x386801(0x9d0)](Il2Cpp[_0x386801(0x404)](_0xf04e35),_0x258288,_0x5490f3,null);}catch(_0xef9010){}}}}_0x4d0e58[_0x386801(0x10c4)](_0x415d60,_0x4d0e58[_0x386801(0x1055)](_0x4d0e58[_0x386801(0x3df)],_0xf04e35),![]);}catch(_0x2927c7){console[_0x386801(0x716)](_0x4d0e58[_0x386801(0x357)],_0x2927c7);}},'toolTip':_0x4d0e58[_0x5358ee(0xfff)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x1006)],'isTogglable':!![],'method':((()=>{const _0x454719=_0x5358ee;let _0x1d7186=[],_0x40d6a6=0xc3d+-0x132d+0x6f0,_0x16da0f=![];const _0x593f1a=-0xe12+-0x16d4+0x24e9,_0x121abe=0x12*0x25+0x5*0x182+-0xa1e+0.2999999999999998,_0x42367f=0x490+0x53*0x6a+0x2694*-0x1,_0x5238ad=()=>{_0x1d7186=[],_0x16da0f=![];},_0x4fda5b=()=>{const _0x158bb5=_0x38eb;try{if(!_0x16da0f){_0x1d7186=[];for(let _0x19cfbd=-0xf18+0x1*-0x2635+0x5*0xaa9;_0x4d0e58[_0x158bb5(0x1b3)](_0x19cfbd,_0x593f1a);_0x19cfbd++){const _0x4b133c=_0x4d0e58[_0x158bb5(0x1bb)](_0x9507b4,_0xd20588[currentWorldPrefabIndex],_0x17e59a[_0x158bb5(0xbb1)](_0x4d0e58[_0x158bb5(0x39e)])[_0x158bb5(0x9d0)](),_0x5490f3);if(_0x4b133c)_0x1d7186[_0x158bb5(0x917)](_0x4b133c);}_0x16da0f=!![];}_0x40d6a6+=_0x4d0e58[_0x158bb5(0x10f0)](_0x42367f,deltaTime);if(_0x4d0e58[_0x158bb5(0x1de)](_0x40d6a6,-0x1806+0x6f+0x2c7*0x9))_0x40d6a6-=-0x1165+-0xd11*-0x1+0x5bc*0x1;const _0x474f62=_0x4d0e58[_0x158bb5(0x2d4)](_0xb288f,_0x431304)[_0x158bb5(0xbb1)](_0x4d0e58[_0x158bb5(0x39e)])[_0x158bb5(0x9d0)]();for(let _0x1b4230=0xbc*-0x1+-0x23ed*-0x1+-0x2331;_0x4d0e58[_0x158bb5(0x980)](_0x1b4230,_0x1d7186[_0x158bb5(0x285)]);_0x1b4230++){const _0x203ebf=_0x1d7186[_0x1b4230];if(!_0x203ebf||_0x203ebf[_0x158bb5(0xa74)]())continue;const _0x3640be=_0x4d0e58[_0x158bb5(0x311)](_0x4d0e58[_0x158bb5(0xbb7)](0x1c85+-0x1a36+-0xe7,_0x1d7186[_0x158bb5(0x285)]),_0x1b4230),_0xe11afd=_0x4d0e58[_0x158bb5(0x59e)](_0x4d0e58[_0x158bb5(0xe50)](_0x40d6a6,_0x3640be),_0x4d0e58[_0x158bb5(0x10f7)](Math['PI'],-0x53*0x34+-0x20a3+0xb5*0x47)),_0x5d3831=_0x4d0e58[_0x158bb5(0x1c4)](Math[_0x158bb5(0xf74)](_0xe11afd),_0x121abe),_0x5bd926=_0x4d0e58[_0x158bb5(0x39d)](Math[_0x158bb5(0x47e)](_0xe11afd),_0x121abe),_0x32805b=_0x4c3978[_0x158bb5(0xbb1)](_0x4d0e58[_0x158bb5(0x80e)])[_0x158bb5(0x9d0)](_0x4c3978[_0x158bb5(0xbb1)](_0x4d0e58[_0x158bb5(0xf9b)])[_0x158bb5(0x9d0)](_0x4c3978[_0x158bb5(0x398)](_0x4d0e58[_0x158bb5(0x848)])[_0x158bb5(0x1081)],_0x5d3831),_0x4c3978[_0x158bb5(0xbb1)](_0x4d0e58[_0x158bb5(0xf9b)])[_0x158bb5(0x9d0)](_0x4c3978[_0x158bb5(0x398)](_0x4d0e58[_0x158bb5(0xfa7)])[_0x158bb5(0x1081)],_0x5bd926)),_0x2fc50e=_0x4c3978[_0x158bb5(0xbb1)](_0x4d0e58[_0x158bb5(0x80e)])[_0x158bb5(0x9d0)](_0x474f62,_0x32805b);_0x4d0e58[_0x158bb5(0xf5d)](_0xb288f,_0x203ebf)[_0x158bb5(0xbb1)](_0x4d0e58[_0x158bb5(0x110b)])[_0x158bb5(0x9d0)](_0x2fc50e);}}catch(_0x23132c){console[_0x158bb5(0x716)](_0x4d0e58[_0x158bb5(0xd22)],_0x23132c);}};return _0x4fda5b[_0x454719(0xdc8)]=_0x5238ad,_0x4fda5b;})()),'disableMethod':function(){const _0x462443=_0x5358ee;var _0x57396c,_0x995253;const _0x2599af=_0x4d0e58[_0x462443(0xafd)](_0x995253=_0x4d0e58[_0x462443(0x5ae)](_0x57396c=_0x52028d[_0x462443(0x4aa)]()[_0x462443(0xbbe)](_0x2dc3c2=>_0x2dc3c2[_0x462443(0xd3c)]===_0x462443(0x5c1)+'it'),null)||_0x4d0e58[_0x462443(0x9f9)](_0x57396c,void(-0x214d+0x1e*-0x2b+0x2657))?void(-0xddd*0x2+0x925+-0x1295*-0x1):_0x57396c[_0x462443(0xbb1)],null)||_0x4d0e58[_0x462443(0x10d1)](_0x995253,void(-0xa4d+-0x22c6*0x1+0x2d13))?void(0xcbf+0x3*-0xb4e+0x152b):_0x995253[_0x462443(0xdc8)];if(_0x2599af)_0x4d0e58[_0x462443(0x5b9)](_0x2599af);},'toolTip':_0x4d0e58[_0x5358ee(0x104c)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x10f5)],'isTogglable':!![],'method':()=>{const _0x5b18c7=_0x5358ee;try{if(!rightGrab)return;if(!rightTrigger)return;const _0x3999ba=_0x17e59a[_0x5b18c7(0xbb1)](_0x4d0e58[_0x5b18c7(0x39e)])[_0x5b18c7(0x9d0)](),_0x13f413=_0x17e59a[_0x5b18c7(0xbb1)](_0x4d0e58[_0x5b18c7(0xa36)])[_0x5b18c7(0x9d0)](),_0x404b3a=_0xd20588[currentWorldPrefabIndex];try{_0x4d0e58[_0x5b18c7(0xe77)](_0x9507b4,_0x404b3a,_0x3999ba,_0x13f413);}catch(_0x490d21){try{_0x464f9d[_0x5b18c7(0xbb1)](_0x4d0e58[_0x5b18c7(0x126)],0x8e2+-0x1577+0x4b*0x2b)[_0x5b18c7(0x9d0)](Il2Cpp[_0x5b18c7(0x404)](_0x404b3a),_0x3999ba,_0x13f413,null);}catch(_0x1d426e){}}}catch(_0x713ba6){console[_0x5b18c7(0x716)](_0x4d0e58[_0x5b18c7(0xb28)],_0x713ba6);}},'toolTip':_0x4d0e58[_0x5358ee(0x3c5)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xe1a)],'isTogglable':!![],'method':()=>{const _0x514e81=_0x5358ee;try{if(!rightGrab)return;const _0x3c47af=_0x4d0e58[_0x514e81(0x4de)](_0x32e0f2),_0x2926fb=_0x3c47af[_0x514e81(0x1dd)];if(!_0x2926fb)return;if(rightTrigger&&_0x4d0e58[_0x514e81(0x1de)](_0x4133e7,tagGunDelay)){tagGunDelay=_0x4d0e58[_0x514e81(0xfec)](_0x4133e7,0xb8b+-0x2a6+-0x8e5+0.3);const _0x565035=_0x4d0e58[_0x514e81(0x918)](_0xb288f,_0x2926fb)[_0x514e81(0xbb1)](_0x4d0e58[_0x514e81(0x39e)])[_0x514e81(0x9d0)](),_0x2bf6b9=_0x5490f3,_0x74e127=_0xd20588[currentWorldPrefabIndex];try{_0x4d0e58[_0x514e81(0xe77)](_0x9507b4,_0x74e127,_0x565035,_0x2bf6b9);}catch(_0x4ad92c){try{_0x464f9d[_0x514e81(0xbb1)](_0x4d0e58[_0x514e81(0x126)],0x14ec+0x3*0x449+-0x21c3)[_0x514e81(0x9d0)](Il2Cpp[_0x514e81(0x404)](_0x74e127),_0x565035,_0x2bf6b9,null);}catch(_0x2dfd7d){}}_0x4d0e58[_0x514e81(0xe83)](_0x415d60,_0x4d0e58[_0x514e81(0xb4c)](_0x4d0e58[_0x514e81(0x91a)],_0x74e127),![]);}}catch(_0x1069b7){console[_0x514e81(0x716)](_0x4d0e58[_0x514e81(0x678)],_0x1069b7);}},'toolTip':_0x4d0e58[_0x5358ee(0x369)]})],[new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xfae)],'method':()=>{_0x2063c0=0x39e+0xcf1*-0x1+0x953,_0x468f75=-0x2625+-0x1*-0x1e1c+0x809;},'isTogglable':![],'toolTip':_0x4d0e58[_0x5358ee(0x7c9)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xfc9)],'isTogglable':![],'method':()=>{},'toolTip':_0x4d0e58[_0x5358ee(0x106e)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0xf69)],'isTogglable':![],'method':()=>{},'toolTip':_0x4d0e58[_0x5358ee(0xf61)]}),new _0x25dbde({'buttonText':'To','isTogglable':![],'method':()=>{},'toolTip':_0x4d0e58[_0x5358ee(0x69e)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x6c0)],'isTogglable':![],'method':()=>{},'toolTip':_0x4d0e58[_0x5358ee(0x98a)]}),new _0x25dbde({'buttonText':_0x4d0e58[_0x5358ee(0x337)],'isTogglable':![],'method':()=>{},'toolTip':_0x4d0e58[_0x5358ee(0x337)]})]];let _0x31ad70=new Map();_0x52028d[_0x5358ee(0x4aa)]()[_0x5358ee(0x637)](_0x140a79=>{const _0x3e7905=_0x5358ee;_0x31ad70[_0x3e7905(0xab7)](_0x140a79[_0x3e7905(0xd3c)],_0x140a79);});function _0x1b633c(_0x1d05f1){const _0x5e823d=_0x5358ee;return _0x31ad70[_0x5e823d(0xadb)](_0x1d05f1);}const _0x45a8c8=_0x5f43b5[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0xa47)]);_0x45a8c8[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(_0x29bbb0){const _0x25848c=_0x5358ee;var _0x50792c,_0x45b9ce,_0x4c2349;const _0x387327=this[_0x25848c(0xbb1)](_0x4d0e58[_0x25848c(0xeae)])[_0x25848c(0x9d0)]()[_0x25848c(0xd92)]();if(_0x4d0e58[_0x25848c(0x488)](_0x387327[_0x25848c(0x285)],-0xb7*-0x3+0x1cf4+-0xa*0x31c)&&_0x4d0e58[_0x25848c(0x22a)](_0x387327[-0xa88*0x1+-0x200+0xc89*0x1],'@')){if(_0x29bbb0[_0x25848c(0xfd5)][_0x25848c(0x13f)](referenceCollider[_0x25848c(0xfd5)])){const _0x189d78=_0x387327[_0x25848c(0x513)](0xb*0x331+-0x21*-0xc7+-0x288*0x18,_0x4d0e58[_0x25848c(0x83c)](_0x387327[_0x25848c(0x285)],0x1*0xa65+0xb03*-0x3+0x16a5)),_0x220771=_0x30f217[_0x25848c(0xbb1)](_0x4d0e58[_0x25848c(0xc2c)])[_0x25848c(0x9d0)]();if(_0x4d0e58[_0x25848c(0x340)](_0x220771,buttonClickDelay)){buttonClickDelay=_0x4d0e58[_0x25848c(0x9ed)](_0x220771,0x1349+-0x122f+-0x11a+0.2);const _0x41ac93=_0x4d0e58[_0x25848c(0x69b)](_0x1b633c,_0x189d78);_0x4d0e58[_0x25848c(0x172)](_0x53bd9b);if(_0x41ac93){if(_0x41ac93[_0x25848c(0x4cf)+'e']){_0x41ac93[_0x25848c(0x1086)]=!_0x41ac93[_0x25848c(0x1086)],_0x4d0e58[_0x25848c(0x6c6)](_0x1fb794);if(_0x4d0e58[_0x25848c(0x93b)](_0x41ac93,null)||_0x4d0e58[_0x25848c(0x12e)](_0x41ac93,void(-0x208*0xb+-0x1c1a*-0x1+-0x5c2))?void(-0x100e+0x184+0xe8a):_0x41ac93[_0x25848c(0x1086)]){if(_0x41ac93[_0x25848c(0x54a)]&&buttonNotifications)_0x4d0e58[_0x25848c(0xdcc)](_0x415d60,_0x4d0e58[_0x25848c(0xe04)](_0x4d0e58[_0x25848c(0x6f2)],_0x41ac93[_0x25848c(0x54a)]),![]);_0x4d0e58[_0x25848c(0x10d1)](_0x50792c=_0x41ac93[_0x25848c(0x87c)+'od'],null)||_0x4d0e58[_0x25848c(0x221)](_0x50792c,void(0x1691+-0x1b37*-0x1+0x24*-0x162))?void(0x38*0x72+-0x1*-0x23d+-0x1b2d):_0x50792c[_0x25848c(0xda8)](_0x41ac93);}else{if(_0x41ac93[_0x25848c(0x54a)]&&buttonNotifications)_0x4d0e58[_0x25848c(0x8c4)](_0x415d60,_0x4d0e58[_0x25848c(0x8ec)](_0x4d0e58[_0x25848c(0x71c)],_0x41ac93[_0x25848c(0x54a)]),![]);_0x4d0e58[_0x25848c(0x8f3)](_0x45b9ce=_0x4d0e58[_0x25848c(0x2de)](_0x41ac93,null)||_0x4d0e58[_0x25848c(0x94d)](_0x41ac93,void(0x24bb+0x39b+0x6b9*-0x6))?void(-0x248a+0x1*0x183f+0xc4b):_0x41ac93[_0x25848c(0x93e)+_0x25848c(0x1c0)],null)||_0x4d0e58[_0x25848c(0x101e)](_0x45b9ce,void(-0x1512+-0x1f72+0x3484))?void(-0x6e4+0x71*0x39+-0x3*0x617):_0x45b9ce[_0x25848c(0xda8)](_0x41ac93);}}else{_0x4d0e58[_0x25848c(0xfa8)](_0x1fb794);if(_0x41ac93[_0x25848c(0x54a)]&&buttonNotifications)_0x4d0e58[_0x25848c(0xe1e)](_0x415d60,_0x4d0e58[_0x25848c(0x62e)](_0x4d0e58[_0x25848c(0x6f2)],_0x41ac93[_0x25848c(0x54a)]),![]);_0x4d0e58[_0x25848c(0x190)](_0x4c2349=_0x4d0e58[_0x25848c(0x10eb)](_0x41ac93,null)||_0x4d0e58[_0x25848c(0xa4c)](_0x41ac93,void(-0x26df+0x9e9*0x3+0x924))?void(0xd00+-0x73*-0x1d+0x1*-0x1a07):_0x41ac93[_0x25848c(0xbb1)],null)||_0x4d0e58[_0x25848c(0x10d1)](_0x4c2349,void(0x891*0x1+0xa*-0x141+0x3f9))?void(-0x3*0x9ff+0x159a+0x863):_0x4c2349[_0x25848c(0xda8)](_0x41ac93);}}}}return;}return this[_0x25848c(0xbb1)](_0x4d0e58[_0x25848c(0xa47)])[_0x25848c(0x9d0)](_0x29bbb0);};{const _0x8bb5ea=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xc22)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0xee0)]);_0x8bb5ea[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){const _0x4ff955=_0x5358ee,_0xb0a8ca=this[_0x4ff955(0xbb1)](_0x4d0e58[_0x4ff955(0xee0)])[_0x4ff955(0x9d0)]();return allowPutGBO?!![]:_0xb0a8ca;};const _0x2c7303=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xc22)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x562)]);_0x2c7303[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){const _0x2fb552=_0x5358ee,_0x5b60ef=this[_0x2fb552(0xbb1)](_0x4d0e58[_0x2fb552(0x562)])[_0x2fb552(0x9d0)]();return allowPutGBO?!![]:_0x5b60ef;};const _0x1d8a4a=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x84e)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0xcec)]);_0x1d8a4a[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(_0xc3c6e,_0x3e02d4,_0x1df5da){const _0x1dcb6a=_0x5358ee;return stashAllowMoves?!![]:_0x1d8a4a[_0x1dcb6a(0x9d0)](_0xc3c6e,_0x3e02d4,_0x1df5da);};const _0x549450=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xed8)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0xae1)]);_0x549450[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(_0x26229e){const _0x3b841e=_0x5358ee;if(stashDupeEnabled)for(let _0x250be5=0x1d73+-0x1*-0x1c3+-0x1f36;_0x4d0e58[_0x3b841e(0xcd8)](_0x250be5,ejectDupeAmount);_0x250be5++){this[_0x3b841e(0xbb1)](_0x4d0e58[_0x3b841e(0xae1)])[_0x3b841e(0x9d0)](_0x26229e);}else this[_0x3b841e(0xbb1)](_0x4d0e58[_0x3b841e(0xae1)])[_0x3b841e(0x9d0)](_0x26229e);};const _0x3c076e=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xfa4)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x9e0)]);_0x3c076e[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(_0x2568be){const _0x540841=_0x5358ee;if(stashQOLFix)for(let _0x2c9e93=0x6a2+0x432+-0xad4;_0x4d0e58[_0x540841(0x5ec)](_0x2c9e93,-0x31a+-0x1f8d+0x47*0x7d);_0x2c9e93++){this[_0x540841(0xbb1)](_0x4d0e58[_0x540841(0x9e0)])[_0x540841(0x9d0)](_0x2568be);}else this[_0x540841(0xbb1)](_0x4d0e58[_0x540841(0x9e0)])[_0x540841(0x9d0)](_0x2568be);};}{const _0x5f06e7=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xfa0)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x6bd)]);_0x5f06e7[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){const _0x48079f=_0x5358ee;infAmmo?(this[_0x48079f(0xbb1)](_0x4d0e58[_0x48079f(0x6bd)])[_0x48079f(0x9d0)](),this[_0x48079f(0x398)](_0x4d0e58[_0x48079f(0x4e9)])[_0x48079f(0x1081)]=![]):this[_0x48079f(0xbb1)](_0x4d0e58[_0x48079f(0x6bd)])[_0x48079f(0x9d0)]();};const _0x42ff54=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xd6c)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x4f9)]);_0x42ff54[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){if(infAmmo)return!![];};const _0x3e756c=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x2ec)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x58a)]);_0x3e756c[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){if(infAmmo)return!![];};const _0x241dc5=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xa0d)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0xe8b)]);_0x241dc5[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){if(infAmmo)return-0x1*0x21f3+-0x1*-0x132f+0xf63;};const _0x14730c=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0xa0d)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x2e8)]);_0x14730c[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){if(infAmmo)return!![];};const _0x5561b5=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x671)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x146)]);_0x5561b5[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){if(infAmmo)return-0xaf3+0x1*0x4f9+0x233*0x3;};const _0x55b266=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x91f)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x146)]);_0x55b266[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){if(infAmmo)return-0x1*-0xa25+-0x1f1+-0x287*0x3;};const _0x446b3e=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x6ef)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x795)]);_0x446b3e[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){if(infAmmo)return[-0x7c9*-0x1+0x1*-0x15e1+0xe19,0x1*-0x1359+-0x2443*-0x1+-0x10e8];};}{const _0x3c47db=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x1e6)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x545)]);_0x3c47db[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){return![];};const _0x4896ab=_0x529163[_0x5358ee(0x9aa)](_0x4d0e58[_0x5358ee(0x38a)])[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x10a3)]);_0x4896ab[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(_0x4c0273){const _0x108360=_0x5358ee;if(backpackDupeEnabled)return![];else this[_0x108360(0xbb1)](_0x4d0e58[_0x108360(0x10a3)])[_0x108360(0x9d0)](_0x4c0273);};}function _0x516c7d(){const _0x9f14b=_0x5358ee,_0x409856=_0x323057[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x553)],-0xe*0x116+0x1292+-0x35d)[_0x9f14b(0x9d0)](-0x1686*0x1+-0x15eb+0x2c75),_0x4f8373=_0x323057[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x553)],0x26a*0xb+0x4b*0x18+-0x2195)[_0x9f14b(0x9d0)](-0x1540+0x88*0x15+-0x1*-0xa1d),_0x493262=Il2Cpp[_0x9f14b(0xc19)](-0x14ca+0xb2*-0x12+0x1*0x214f);_0x409856[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x662)],-0x1*-0x1949+0x1925+-0x39a*0xe)[_0x9f14b(0x9d0)](_0xe9df9c[_0x9f14b(0x398)](_0x4d0e58[_0x9f14b(0xa3f)])[_0x9f14b(0x1081)],_0x493262),leftPrimary=_0x4d0e58[_0x9f14b(0x6b9)](_0x493262[_0x9f14b(0x771)](),0xcae+0x1718+-0x23c6),_0x409856[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x662)],0x66c+-0x225f+0x1bf5)[_0x9f14b(0x9d0)](_0xe9df9c[_0x9f14b(0x398)](_0x4d0e58[_0x9f14b(0x1077)])[_0x9f14b(0x1081)],_0x493262),leftSecondary=_0x4d0e58[_0x9f14b(0x6b9)](_0x493262[_0x9f14b(0x771)](),0x1*-0x209+0x41*0x67+-0x181e),_0x409856[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x662)],0x1*0x206a+-0x49d+-0x5*0x58f)[_0x9f14b(0x9d0)](_0xe9df9c[_0x9f14b(0x398)](_0x4d0e58[_0x9f14b(0xa8d)])[_0x9f14b(0x1081)],_0x493262),leftGrab=_0x4d0e58[_0x9f14b(0x3a1)](_0x493262[_0x9f14b(0x771)](),-0x275+0x263c+-0x23c7),_0x409856[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x662)],0x1966+0x15*-0xe1+0x1*-0x6ef)[_0x9f14b(0x9d0)](_0xe9df9c[_0x9f14b(0x398)](_0x4d0e58[_0x9f14b(0xe27)])[_0x9f14b(0x1081)],_0x493262),leftTrigger=_0x4d0e58[_0x9f14b(0x97e)](_0x493262[_0x9f14b(0x771)](),-0x2416*-0x1+-0x1391+-0x1085),_0x409856[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x662)],0x137c+-0x1210+-0x1*0x16a)[_0x9f14b(0x9d0)](_0xe9df9c[_0x9f14b(0x398)](_0x4d0e58[_0x9f14b(0xd90)])[_0x9f14b(0x1081)],_0x493262),leftStick=_0x4d0e58[_0x9f14b(0x3a1)](_0x493262[_0x9f14b(0x771)](),0xed1+0x111+0xd6*-0x13),_0x4f8373[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x662)],0x5*0x579+-0x19a2+0x3*-0x93)[_0x9f14b(0x9d0)](_0xe9df9c[_0x9f14b(0x398)](_0x4d0e58[_0x9f14b(0xa3f)])[_0x9f14b(0x1081)],_0x493262),rightPrimary=_0x4d0e58[_0x9f14b(0xd1b)](_0x493262[_0x9f14b(0x771)](),0x2ac+0x1c35+-0x1ee1*0x1),_0x4f8373[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x662)],-0x13*0xe+-0x1425+0x7*0x307)[_0x9f14b(0x9d0)](_0xe9df9c[_0x9f14b(0x398)](_0x4d0e58[_0x9f14b(0x1077)])[_0x9f14b(0x1081)],_0x493262),rightSecondary=_0x4d0e58[_0x9f14b(0x74d)](_0x493262[_0x9f14b(0x771)](),0x1324+0x26ef*-0x1+0x233*0x9),_0x4f8373[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x662)],0x101*0x5+0x2053+0x639*-0x6)[_0x9f14b(0x9d0)](_0xe9df9c[_0x9f14b(0x398)](_0x4d0e58[_0x9f14b(0xe27)])[_0x9f14b(0x1081)],_0x493262),rightTrigger=_0x4d0e58[_0x9f14b(0x3c0)](_0x493262[_0x9f14b(0x771)](),0x1*0xf10+-0x2*0x4eb+-0x6*0xdf),_0x4f8373[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x662)],-0x1*-0x1181+0x6*0xa6+-0x5*0x447)[_0x9f14b(0x9d0)](_0xe9df9c[_0x9f14b(0x398)](_0x4d0e58[_0x9f14b(0xa8d)])[_0x9f14b(0x1081)],_0x493262),rightGrab=_0x4d0e58[_0x9f14b(0x444)](_0x493262[_0x9f14b(0x771)](),-0x21dd+0x6*0x210+0x157d*0x1),_0x4f8373[_0x9f14b(0xbb1)](_0x4d0e58[_0x9f14b(0x662)],-0x16a5+-0x1*0x2038+0x36df*0x1)[_0x9f14b(0x9d0)](_0xe9df9c[_0x9f14b(0x398)](_0x4d0e58[_0x9f14b(0xd90)])[_0x9f14b(0x1081)],_0x493262),rightStick=_0x4d0e58[_0x9f14b(0x2a4)](_0x493262[_0x9f14b(0x771)](),-0x2*-0x805+-0x47d*0x1+-0xb8d);}const _0x33155b=_0x515cbc[_0x5358ee(0xbb1)](_0x4d0e58[_0x5358ee(0x5e3)]);_0x33155b[_0x5358ee(0x7c3)+_0x5358ee(0x83d)]=function(){const _0x518f8d=_0x5358ee,_0x21c6cc={'MjfJY':_0x4d0e58[_0x518f8d(0x651)],'QHLME':_0x4d0e58[_0x518f8d(0x64f)],'SjXQg':_0x4d0e58[_0x518f8d(0x20f)],'dYIFG':function(_0x3ee981,_0x5ef8bb){const _0x252fea=_0x518f8d;return _0x4d0e58[_0x252fea(0x778)](_0x3ee981,_0x5ef8bb);},'XJcgC':_0x4d0e58[_0x518f8d(0x482)]};deltaTime=_0x30f217[_0x518f8d(0xbb1)](_0x4d0e58[_0x518f8d(0x954)])[_0x518f8d(0x9d0)](),frameCount++;!_0x2f1c8b&&console[_0x518f8d(0x13d)](_0x4d0e58[_0x518f8d(0x880)]);_0x4d0e58[_0x518f8d(0xfba)](_0x516c7d);if(_0x4d0e58[_0x518f8d(0x33a)](_0x28b282,rightSecondary)||_0x4d0e58[_0x518f8d(0x33a)](!_0x28b282,leftSecondary)){if(_0x4d0e58[_0x518f8d(0xd98)](currentNotification,'')&&_0x4d0e58[_0x518f8d(0xe13)](_0x4133e7,notifactionResetTime))_0x4d0e58[_0x518f8d(0x434)](_0x1fb794);_0x4d0e58[_0x518f8d(0x3d4)](menu,null)?_0x4d0e58[_0x518f8d(0x8ee)](_0x22214a):_0x4d0e58[_0x518f8d(0x132)](_0x593259);}else _0x4d0e58[_0x518f8d(0x5c0)](menu,null)&&(_0x4d0e58[_0x518f8d(0x10ff)](_0x40b1f6,menu),menu=null);_0x4d0e58[_0x518f8d(0xd78)](menu,null)?_0x4d0e58[_0x518f8d(0xb49)](reference,null)&&(_0x4d0e58[_0x518f8d(0xe3a)](_0x40b1f6,reference),reference=null):_0x4d0e58[_0x518f8d(0x2aa)](reference,null)&&_0x4d0e58[_0x518f8d(0x14d)](_0x2ad2d1);try{if(_0x4d0e58[_0x518f8d(0xf44)](_0x4d1c87,null)){if(!_0x4d1c87[_0x518f8d(0xbb1)](_0x4d0e58[_0x518f8d(0xb9e)])[_0x518f8d(0x9d0)]())_0x4d0e58[_0x518f8d(0x1032)](_0x40b1f6,_0x4d1c87),_0x4d1c87=null;else _0x4d1c87[_0x518f8d(0xbb1)](_0x4d0e58[_0x518f8d(0x6ad)])[_0x518f8d(0x9d0)](![]);}let _0x427701=_0x287aa3[_0x518f8d(0xbb1)](_0x4d0e58[_0x518f8d(0x9e2)])[_0x518f8d(0x9d0)]();if(_0x4d0e58[_0x518f8d(0xd98)](_0x427701,null)){if(!_0x427701[_0x518f8d(0xbb1)](_0x4d0e58[_0x518f8d(0xb9e)])[_0x518f8d(0x9d0)]())_0x4d0e58[_0x518f8d(0xbd5)](_0x40b1f6,_0x427701),_0x287aa3=null;else _0x427701[_0x518f8d(0xbb1)](_0x4d0e58[_0x518f8d(0x6ad)])[_0x518f8d(0x9d0)](![]);}}catch{}return _0x52028d[_0x518f8d(0x4aa)]()[_0x518f8d(0x92f)](_0x2d190e=>_0x2d190e[_0x518f8d(0x1086)])[_0x518f8d(0x637)](_0x2e8481=>{const _0x52f25f=_0x518f8d;if(_0x2e8481[_0x52f25f(0xbb1)])try{_0x2e8481[_0x52f25f(0xbb1)]();}catch(_0x2219c8){console[_0x52f25f(0x716)](_0x52f25f(0x1113)+_0x52f25f(0x6d2)+_0x52f25f(0x33f)+_0x52f25f(0xddc)+(_0x2e8481[_0x52f25f(0xd3c)]||_0x21c6cc[_0x52f25f(0x760)])+'\x27:',_0x2219c8),console[_0x52f25f(0x716)](_0x21c6cc[_0x52f25f(0xf35)],_0x2219c8[_0x52f25f(0xc43)]),console[_0x52f25f(0x716)](_0x21c6cc[_0x52f25f(0xe9f)],_0x2e8481);if(_0x2219c8[_0x52f25f(0xc43)]){const _0x12dbfb=_0x2219c8[_0x52f25f(0xc43)][_0x52f25f(0xe5d)]('\x0a');_0x21c6cc[_0x52f25f(0x86b)](_0x12dbfb[_0x52f25f(0x285)],-0x1*0x9c1+0x12c7*0x2+-0x6f3*0x4)&&console[_0x52f25f(0x716)](_0x21c6cc[_0x52f25f(0x249)],_0x12dbfb[0xd82+-0x604+0x3*-0x27f][_0x52f25f(0x912)]());}}}),_0x33155b[_0x518f8d(0x9d0)]();},stashAllowMoves=!![],stashQOLFix=!![],_0x4d0e58[_0x5358ee(0x100c)](_0x577a31),console[_0x5358ee(0x13d)](_0x5358ee(0x62c)+_0x5358ee(0x9e5)+_0x5358ee(0x288)+_0x5358ee(0xd69)+_0x5358ee(0x68f)+_0x5358ee(0x4b7)+_0x5358ee(0x140)+_0x5358ee(0xf87)+_0x5358ee(0xcf5)+_0x5358ee(0x656)+_0x5358ee(0x279)+_0x5358ee(0xa88)+_0x5358ee(0xf46)+_0x5358ee(0x452)+_0x5358ee(0x10fc)+_0x5358ee(0xe19)+'\x20'+version+(_0x5358ee(0x548)+_0x5358ee(0xd2b))+new Date()[_0x5358ee(0xf0c)+'g']()+'\x0a');},_0x8e9e14(0x598));
+"use strict";
+Il2Cpp.$config = { exports: {} };
+Il2Cpp.$config.exports = {
+    il2cpp_init: () => Il2Cpp.module.findExportByName("diSBvpqCEPZ"),
+    il2cpp_init_utf16: () => Il2Cpp.module.findExportByName("sdEQgFfKKlG"),
+    il2cpp_shutdown: () => Il2Cpp.module.findExportByName("BXEJfoFUQjv"),
+    il2cpp_set_config_dir: () => Il2Cpp.module.findExportByName("YWCxRtpGpvA"),
+    il2cpp_set_data_dir: () => Il2Cpp.module.findExportByName("KchNmAjgLim"),
+    il2cpp_set_temp_dir: () => Il2Cpp.module.findExportByName("WePqxEKMJyv"),
+    il2cpp_set_commandline_arguments: () => Il2Cpp.module.findExportByName("LcZLPfjPaVp"),
+    il2cpp_set_commandline_arguments_utf16: () => Il2Cpp.module.findExportByName("YEnHKsavQKT"),
+    il2cpp_set_config_utf16: () => Il2Cpp.module.findExportByName("DNsFBGNjcar"),
+    il2cpp_set_config: () => Il2Cpp.module.findExportByName("CiftREtePRA"),
+    il2cpp_set_memory_callbacks: () => Il2Cpp.module.findExportByName("qYRIkbLQkwI"),
+    il2cpp_memory_pool_set_region_size: () => Il2Cpp.module.findExportByName("JcOofOjMwoG"),
+    il2cpp_memory_pool_get_region_size: () => Il2Cpp.module.findExportByName("VHedccKUmIC"),
+    il2cpp_get_corlib: () => Il2Cpp.module.findExportByName("imivQxlcCWx"),
+    il2cpp_add_internal_call: () => Il2Cpp.module.findExportByName("oKRvWoslQpC"),
+    il2cpp_resolve_icall: () => Il2Cpp.module.findExportByName("xBjhEJoAZIH"),
+    il2cpp_alloc: () => Il2Cpp.module.findExportByName("ySEFIqZLl_O"),
+    il2cpp_free: () => Il2Cpp.module.findExportByName("ZGQNQrNQQBX"),
+    il2cpp_array_class_get: () => Il2Cpp.module.findExportByName("EJrenGMdOIA"),
+    il2cpp_array_length: () => Il2Cpp.module.findExportByName("pTyYhURRS_B"),
+    il2cpp_array_get_byte_length: () => Il2Cpp.module.findExportByName("rgUz_dNtlYL"),
+    il2cpp_array_new: () => Il2Cpp.module.findExportByName("mjLavYTXGrL"),
+    il2cpp_array_new_specific: () => Il2Cpp.module.findExportByName("VhGlOZTWtZY"),
+    il2cpp_array_new_full: () => Il2Cpp.module.findExportByName("QKcyhcnFzBk"),
+    il2cpp_bounded_array_class_get: () => Il2Cpp.module.findExportByName("Y_NMxAwTTrh"),
+    il2cpp_array_element_size: () => Il2Cpp.module.findExportByName("D_rIikIBqoj"),
+    il2cpp_assembly_get_image: () => Il2Cpp.module.findExportByName("qoMwWMVkSgv"),
+    il2cpp_class_for_each: () => Il2Cpp.module.findExportByName("QZOrmIYNTOH"),
+    il2cpp_class_enum_basetype: () => Il2Cpp.module.findExportByName("tEJMZjgtyjr"),
+    il2cpp_class_is_inited: () => Il2Cpp.module.findExportByName("HLRNwnQBJuq"),
+    il2cpp_class_is_generic: () => Il2Cpp.module.findExportByName("EBQvToaXmwd"),
+    il2cpp_class_is_inflated: () => Il2Cpp.module.findExportByName("OduZrFsXqLn"),
+    il2cpp_class_is_assignable_from: () => Il2Cpp.module.findExportByName("FiuZRjFhMRy"),
+    il2cpp_class_is_subclass_of: () => Il2Cpp.module.findExportByName("UtTchRkPkvY"),
+    il2cpp_class_has_parent: () => Il2Cpp.module.findExportByName("WvkCirdhAUM"),
+    il2cpp_class_from_il2cpp_type: () => Il2Cpp.module.findExportByName("SIKDsODdRV_"),
+    il2cpp_class_from_name: () => Il2Cpp.module.findExportByName("EvuKeiOu_HJ"),
+    il2cpp_class_from_system_type: () => Il2Cpp.module.findExportByName("UOtBAwDqIrX"),
+    il2cpp_class_get_element_class: () => Il2Cpp.module.findExportByName("LbqKXoPmpJM"),
+    il2cpp_class_get_events: () => Il2Cpp.module.findExportByName("QSbfZLkVzwU"),
+    il2cpp_class_get_fields: () => Il2Cpp.module.findExportByName("M_kmaXnJwSK"),
+    il2cpp_class_get_nested_types: () => Il2Cpp.module.findExportByName("TEf_VvzhzmB"),
+    il2cpp_class_get_interfaces: () => Il2Cpp.module.findExportByName("OEUScepyoNu"),
+    il2cpp_class_get_properties: () => Il2Cpp.module.findExportByName("USgBPDZxVDy"),
+    il2cpp_class_get_property_from_name: () => Il2Cpp.module.findExportByName("KXfJpUHaEtM"),
+    il2cpp_class_get_field_from_name: () => Il2Cpp.module.findExportByName("HtomPtiufmv"),
+    il2cpp_class_get_methods: () => Il2Cpp.module.findExportByName("EXoJUGdXOqW"),
+    il2cpp_class_get_method_from_name: () => Il2Cpp.module.findExportByName("CBSUjSaUHiM"),
+    il2cpp_class_get_name: () => Il2Cpp.module.findExportByName("AXCECZxEAJC"),
+    il2cpp_type_get_name_chunked: () => Il2Cpp.module.findExportByName("dBkoAVaPtBD"),
+    il2cpp_class_get_namespace: () => Il2Cpp.module.findExportByName("pLcAhyDpwVx"),
+    il2cpp_class_get_parent: () => Il2Cpp.module.findExportByName("jMitlyhMGsL"),
+    il2cpp_class_get_declaring_type: () => Il2Cpp.module.findExportByName("LzXRzG_CqwA"),
+    il2cpp_class_instance_size: () => Il2Cpp.module.findExportByName("dlKunxVfPHq"),
+    il2cpp_class_num_fields: () => Il2Cpp.module.findExportByName("YWhuDBZKyQA"),
+    il2cpp_class_is_valuetype: () => Il2Cpp.module.findExportByName("PhWugNKdPFn"),
+    il2cpp_class_value_size: () => Il2Cpp.module.findExportByName("wOPAwJlJdqa"),
+    il2cpp_class_is_blittable: () => Il2Cpp.module.findExportByName("YwobbhEfggc"),
+    il2cpp_class_get_flags: () => Il2Cpp.module.findExportByName("igxSVAmPpPW"),
+    il2cpp_class_is_abstract: () => Il2Cpp.module.findExportByName("zPsbxsnzfCK"),
+    il2cpp_class_is_interface: () => Il2Cpp.module.findExportByName("kGnjkkaYpkn"),
+    il2cpp_class_array_element_size: () => Il2Cpp.module.findExportByName("IJqPfqczDFO"),
+    il2cpp_class_from_type: () => Il2Cpp.module.findExportByName("siMq_QIXkzG"),
+    il2cpp_class_get_type: () => Il2Cpp.module.findExportByName("VESlHDPRqWr"),
+    il2cpp_class_get_type_token: () => Il2Cpp.module.findExportByName("fUgOAMVAkMF"),
+    il2cpp_class_has_attribute: () => Il2Cpp.module.findExportByName("bcCuSOPi_cx"),
+    il2cpp_class_has_references: () => Il2Cpp.module.findExportByName("SEudiEqiQyK"),
+    il2cpp_class_is_enum: () => Il2Cpp.module.findExportByName("nQbVNxtVtCS"),
+    il2cpp_class_get_image: () => Il2Cpp.module.findExportByName("tcWiSjsxVcQ"),
+    il2cpp_class_get_assemblyname: () => Il2Cpp.module.findExportByName("RMuRknJyzIs"),
+    il2cpp_class_get_rank: () => Il2Cpp.module.findExportByName("AQCyNoDaHZO"),
+    il2cpp_class_get_data_size: () => Il2Cpp.module.findExportByName("yYrLodcKdUo"),
+    il2cpp_class_get_static_field_data: () => Il2Cpp.module.findExportByName("OitYjfgdTbj"),
+    il2cpp_stats_dump_to_file: () => Il2Cpp.module.findExportByName("Tp_EZaASB_k"),
+    il2cpp_stats_get_value: () => Il2Cpp.module.findExportByName("RhPCVnitseY"),
+    il2cpp_domain_get: () => Il2Cpp.module.findExportByName("NdJtlbxgnzV"),
+    il2cpp_domain_assembly_open: () => Il2Cpp.module.findExportByName("fxhgCC_PBaE"),
+    il2cpp_domain_get_assemblies: () => Il2Cpp.module.findExportByName("SwsmnUDuYWs"),
+    il2cpp_raise_exception: () => Il2Cpp.module.findExportByName("sSoVmNJnmod"),
+    il2cpp_exception_from_name_msg: () => Il2Cpp.module.findExportByName("ufZLppesNor"),
+    il2cpp_get_exception_argument_null: () => Il2Cpp.module.findExportByName("DzKOPBxzOsA"),
+    il2cpp_format_exception: () => Il2Cpp.module.findExportByName("A_eWFwzncxf"),
+    il2cpp_format_stack_trace: () => Il2Cpp.module.findExportByName("ncOjSgXVXNs"),
+    il2cpp_unhandled_exception: () => Il2Cpp.module.findExportByName("fjoYRHCigtw"),
+    il2cpp_native_stack_trace: () => Il2Cpp.module.findExportByName("WWXgSo_YXTG"),
+    il2cpp_field_get_flags: () => Il2Cpp.module.findExportByName("MIYZlDioOQA"),
+    il2cpp_field_get_from_reflection: () => Il2Cpp.module.findExportByName("LZaOUJMBCgr"),
+    il2cpp_field_get_name: () => Il2Cpp.module.findExportByName("WENVsJrigiA"),
+    il2cpp_field_get_parent: () => Il2Cpp.module.findExportByName("gNmJDTxOBZS"),
+    il2cpp_field_get_object: () => Il2Cpp.module.findExportByName("gWIOOvqviFi"),
+    il2cpp_field_get_offset: () => Il2Cpp.module.findExportByName("ltKYrwDrfyE"),
+    il2cpp_field_get_type: () => Il2Cpp.module.findExportByName("MxYCiyKiEbG"),
+    il2cpp_field_get_value: () => Il2Cpp.module.findExportByName("oXfrmoYnmWI"),
+    il2cpp_field_get_value_object: () => Il2Cpp.module.findExportByName("hkbXbHQSVBN"),
+    il2cpp_field_has_attribute: () => Il2Cpp.module.findExportByName("hZqpOMQeWYE"),
+    il2cpp_field_set_value: () => Il2Cpp.module.findExportByName("MbJwoDdpvyv"),
+    il2cpp_field_static_get_value: () => Il2Cpp.module.findExportByName("wnFsbUFFdgv"),
+    il2cpp_field_static_set_value: () => Il2Cpp.module.findExportByName("dEKMePXnagR"),
+    il2cpp_field_set_value_object: () => Il2Cpp.module.findExportByName("chqMpqhvYKv"),
+    il2cpp_field_is_literal: () => Il2Cpp.module.findExportByName("eQCwOVZpfMp"),
+    il2cpp_gc_collect: () => Il2Cpp.module.findExportByName("EnqAHGJceQF"),
+    il2cpp_gc_collect_a_little: () => Il2Cpp.module.findExportByName("uCMjvwdBFZA"),
+    il2cpp_gc_start_incremental_collection: () => Il2Cpp.module.findExportByName("yVBrVktJFpF"),
+    il2cpp_gc_disable: () => Il2Cpp.module.findExportByName("lRzzSSbDHxo"),
+    il2cpp_gc_enable: () => Il2Cpp.module.findExportByName("Y_HZRLGieeS"),
+    il2cpp_gc_is_disabled: () => Il2Cpp.module.findExportByName("ukoeXbamtCf"),
+    il2cpp_gc_set_mode: () => Il2Cpp.module.findExportByName("KnXVLEDlxnQ"),
+    il2cpp_gc_get_max_time_slice_ns: () => Il2Cpp.module.findExportByName("IltdLuwErKH"),
+    il2cpp_gc_set_max_time_slice_ns: () => Il2Cpp.module.findExportByName("eBh_pNVdyqh"),
+    il2cpp_gc_is_incremental: () => Il2Cpp.module.findExportByName("uhcPKDeklmS"),
+    il2cpp_gc_get_used_size: () => Il2Cpp.module.findExportByName("IXCRKSvKPkq"),
+    il2cpp_gc_get_heap_size: () => Il2Cpp.module.findExportByName("Ze_pNOAmrog"),
+    il2cpp_gc_wbarrier_set_field: () => Il2Cpp.module.findExportByName("bcpTScfKZZx"),
+    il2cpp_gc_has_strict_wbarriers: () => Il2Cpp.module.findExportByName("VOoNjtrSuAV"),
+    il2cpp_gc_set_external_allocation_tracker: () => Il2Cpp.module.findExportByName("yLMpDpkbGrH"),
+    il2cpp_gc_set_external_wbarrier_tracker: () => Il2Cpp.module.findExportByName("NN_xXzFZBFi"),
+    il2cpp_gc_foreach_heap: () => Il2Cpp.module.findExportByName("hqhVZqMYiQE"),
+    il2cpp_stop_gc_world: () => Il2Cpp.module.findExportByName("ISX_MkcEEEr"),
+    il2cpp_start_gc_world: () => Il2Cpp.module.findExportByName("SNTLbUVTzed"),
+    il2cpp_gc_alloc_fixed: () => Il2Cpp.module.findExportByName("fHAEhWMSSAj"),
+    il2cpp_gc_free_fixed: () => Il2Cpp.module.findExportByName("AmwyAuIqPYQ"),
+    il2cpp_gchandle_new: () => Il2Cpp.module.findExportByName("BqYCFCefEEf"),
+    il2cpp_gchandle_new_weakref: () => Il2Cpp.module.findExportByName("PdhOsMNaSOH"),
+    il2cpp_gchandle_get_target: () => Il2Cpp.module.findExportByName("fAOhEaxOGiz"),
+    il2cpp_gchandle_free: () => Il2Cpp.module.findExportByName("OqNeDUhosmc"),
+    il2cpp_gchandle_foreach_get_target: () => Il2Cpp.module.findExportByName("rLFUYf_igqx"),
+    il2cpp_object_header_size: () => Il2Cpp.module.findExportByName("okMYWCYCMHk"),
+    il2cpp_array_object_header_size: () => Il2Cpp.module.findExportByName("uksSuLRnCOp"),
+    il2cpp_offset_of_array_length_in_array_object_header: () => Il2Cpp.module.findExportByName("tVpWLVNtQFQ"),
+    il2cpp_offset_of_array_bounds_in_array_object_header: () => Il2Cpp.module.findExportByName("cbgMORQpdlm"),
+    il2cpp_allocation_granularity: () => Il2Cpp.module.findExportByName("zHcgiUtSgZV"),
+    il2cpp_unity_liveness_allocate_struct: () => Il2Cpp.module.findExportByName("kPowXBmgXIo"),
+    il2cpp_unity_liveness_calculation_from_root: () => Il2Cpp.module.findExportByName("uWOTwAUfYMW"),
+    il2cpp_unity_liveness_calculation_from_statics: () => Il2Cpp.module.findExportByName("htGbVY_gQoO"),
+    il2cpp_unity_liveness_finalize: () => Il2Cpp.module.findExportByName("SrKRJqmSsHc"),
+    il2cpp_unity_liveness_free_struct: () => Il2Cpp.module.findExportByName("suneMYmFIcO"),
+    il2cpp_method_get_return_type: () => Il2Cpp.module.findExportByName("qalSOXFrOjI"),
+    il2cpp_method_get_declaring_type: () => Il2Cpp.module.findExportByName("OlxVBFyJkOg"),
+    il2cpp_method_get_name: () => Il2Cpp.module.findExportByName("JTwOhlLzq_z"),
+    il2cpp_method_get_from_reflection: () => Il2Cpp.module.findExportByName("Y_cAfpzAsuh"),
+    il2cpp_method_get_object: () => Il2Cpp.module.findExportByName("JUNyFiasFjX"),
+    il2cpp_method_is_generic: () => Il2Cpp.module.findExportByName("GQLsLtgPG_c"),
+    il2cpp_method_is_inflated: () => Il2Cpp.module.findExportByName("H_AESDQlVuQ"),
+    il2cpp_method_is_instance: () => Il2Cpp.module.findExportByName("LebQAplLmuU"),
+    il2cpp_method_get_param_count: () => Il2Cpp.module.findExportByName("cMnVkXbHobK"),
+    il2cpp_method_get_param: () => Il2Cpp.module.findExportByName("oLNNngcbvNZ"),
+    il2cpp_method_get_class: () => Il2Cpp.module.findExportByName("MAnPhiRqcFf"),
+    il2cpp_method_has_attribute: () => Il2Cpp.module.findExportByName("ICkKCjYkAnz"),
+    il2cpp_method_get_flags: () => Il2Cpp.module.findExportByName("xZKgJKPtnty"),
+    il2cpp_method_get_token: () => Il2Cpp.module.findExportByName("KVyfwFjDSPm"),
+    il2cpp_method_get_param_name: () => Il2Cpp.module.findExportByName("GKLLBZzCeog"),
+    il2cpp_property_get_flags: () => Il2Cpp.module.findExportByName("vSDETfQEFMI"),
+    il2cpp_property_get_get_method: () => Il2Cpp.module.findExportByName("sgMXraRcWjL"),
+    il2cpp_property_get_set_method: () => Il2Cpp.module.findExportByName("YDvszPSQrPA"),
+    il2cpp_property_get_name: () => Il2Cpp.module.findExportByName("FlKjIyrXhGh"),
+    il2cpp_property_get_parent: () => Il2Cpp.module.findExportByName("OyQDypRiAQO"),
+    il2cpp_object_get_class: () => Il2Cpp.module.findExportByName("FcyGavngFtw"),
+    il2cpp_object_get_size: () => Il2Cpp.module.findExportByName("dsZlEFghzpq"),
+    il2cpp_object_get_virtual_method: () => Il2Cpp.module.findExportByName("BqqownaXxSP"),
+    il2cpp_object_new: () => Il2Cpp.module.findExportByName("tjZApPjwjqm"),
+    il2cpp_object_unbox: () => Il2Cpp.module.findExportByName("EPAJaCUTlkk"),
+    il2cpp_value_box: () => Il2Cpp.module.findExportByName("DyAaebIQwvd"),
+    il2cpp_monitor_enter: () => Il2Cpp.module.findExportByName("gMswMplghKl"),
+    il2cpp_monitor_try_enter: () => Il2Cpp.module.findExportByName("pgySMhZhDOC"),
+    il2cpp_monitor_exit: () => Il2Cpp.module.findExportByName("GhPNSfoqhuY"),
+    il2cpp_monitor_pulse: () => Il2Cpp.module.findExportByName("oJPPCzuJMsj"),
+    il2cpp_monitor_pulse_all: () => Il2Cpp.module.findExportByName("IaVojaeVwSo"),
+    il2cpp_monitor_wait: () => Il2Cpp.module.findExportByName("q_mVNEaOIBr"),
+    il2cpp_monitor_try_wait: () => Il2Cpp.module.findExportByName("BE_HVPNbkMf"),
+    il2cpp_runtime_invoke: () => Il2Cpp.module.findExportByName("JCylXSCskYq"),
+    il2cpp_runtime_invoke_convert_args: () => Il2Cpp.module.findExportByName("fSiKvzpEMGx"),
+    il2cpp_runtime_class_init: () => Il2Cpp.module.findExportByName("bWkDnubAZEh"),
+    il2cpp_runtime_object_init: () => Il2Cpp.module.findExportByName("ABdgVryIYGP"),
+    il2cpp_runtime_object_init_exception: () => Il2Cpp.module.findExportByName("RUJNlZTWILq"),
+    il2cpp_runtime_unhandled_exception_policy_set: () => Il2Cpp.module.findExportByName("QFtXYB_JBSz"),
+    il2cpp_string_length: () => Il2Cpp.module.findExportByName("DqefQGegfJU"),
+    il2cpp_string_chars: () => Il2Cpp.module.findExportByName("YTghcZmpIsu"),
+    il2cpp_string_new: () => Il2Cpp.module.findExportByName("UsTniCZFQeW"),
+    il2cpp_string_new_len: () => Il2Cpp.module.findExportByName("JzdHpDtYlNO"),
+    il2cpp_string_new_utf16: () => Il2Cpp.module.findExportByName("ulCYHXzHbCm"),
+    il2cpp_string_new_wrapper: () => Il2Cpp.module.findExportByName("FYShFbwTQZJ"),
+    il2cpp_string_intern: () => Il2Cpp.module.findExportByName("gromELKVRnC"),
+    il2cpp_string_is_interned: () => Il2Cpp.module.findExportByName("dlHTAvAAIFm"),
+    il2cpp_thread_current: () => Il2Cpp.module.findExportByName("tGpHoIMtRPY"),
+    il2cpp_thread_attach: () => Il2Cpp.module.findExportByName("pZDjbKuBWkv"),
+    il2cpp_thread_detach: () => Il2Cpp.module.findExportByName("CicqYzFlWxc"),
+    il2cpp_is_vm_thread: () => Il2Cpp.module.findExportByName("Aji_gAFiTSj"),
+    il2cpp_current_thread_walk_frame_stack: () => Il2Cpp.module.findExportByName("QSIsjMzwiRD"),
+    il2cpp_thread_walk_frame_stack: () => Il2Cpp.module.findExportByName("_HXsAiCgtJb"),
+    il2cpp_current_thread_get_top_frame: () => Il2Cpp.module.findExportByName("bHrTSqpfuJV"),
+    il2cpp_thread_get_top_frame: () => Il2Cpp.module.findExportByName("DmJJQSFjyyd"),
+    il2cpp_current_thread_get_frame_at: () => Il2Cpp.module.findExportByName("QcMbUzSKXWp"),
+    il2cpp_thread_get_frame_at: () => Il2Cpp.module.findExportByName("KtCgBUAwyWW"),
+    il2cpp_current_thread_get_stack_depth: () => Il2Cpp.module.findExportByName("nyFnDZtUuGO"),
+    il2cpp_thread_get_stack_depth: () => Il2Cpp.module.findExportByName("RflBzTdKzVi"),
+    il2cpp_override_stack_backtrace: () => Il2Cpp.module.findExportByName("TtqQhPRWhdE"),
+    il2cpp_type_get_object: () => Il2Cpp.module.findExportByName("MkGvf_aHcPX"),
+    il2cpp_type_get_type: () => Il2Cpp.module.findExportByName("pBfqkiezekS"),
+    il2cpp_type_get_class_or_element_class: () => Il2Cpp.module.findExportByName("_nWpaWrROcJ"),
+    il2cpp_type_get_name: () => Il2Cpp.module.findExportByName("YUMigIrKAEl"),
+    il2cpp_type_is_byref: () => Il2Cpp.module.findExportByName("lDocxvYAMOr"),
+    il2cpp_type_get_attrs: () => Il2Cpp.module.findExportByName("ITpBBfKrILU"),
+    il2cpp_type_equals: () => Il2Cpp.module.findExportByName("PhmQLCnvpAI"),
+    il2cpp_type_get_assembly_qualified_name: () => Il2Cpp.module.findExportByName("zWRIwnfkdTO"),
+    il2cpp_type_get_reflection_name: () => Il2Cpp.module.findExportByName("fv_OIhYVdLx"),
+    il2cpp_type_is_static: () => Il2Cpp.module.findExportByName("JltKruNqcBY"),
+    il2cpp_type_is_pointer_type: () => Il2Cpp.module.findExportByName("bTyAhlXcnKU"),
+    il2cpp_image_get_assembly: () => Il2Cpp.module.findExportByName("xqPODzIRaTU"),
+    il2cpp_image_get_name: () => Il2Cpp.module.findExportByName("XJaaFs_raju"),
+    il2cpp_image_get_filename: () => Il2Cpp.module.findExportByName("ReYOvvNHZgI"),
+    il2cpp_image_get_entry_point: () => Il2Cpp.module.findExportByName("obgyYDTSH_l"),
+    il2cpp_image_get_class_count: () => Il2Cpp.module.findExportByName("xlKkZ_HlOoW"),
+    il2cpp_image_get_class: () => Il2Cpp.module.findExportByName("QIDqd_Tjarw"),
+    il2cpp_capture_memory_snapshot: () => Il2Cpp.module.findExportByName("aXhnfviCMax"),
+    il2cpp_free_captured_memory_snapshot: () => Il2Cpp.module.findExportByName("DLRcvnWVddJ"),
+    il2cpp_set_find_plugin_callback: () => Il2Cpp.module.findExportByName("hMKKVYTSWcU"),
+    il2cpp_register_log_callback: () => Il2Cpp.module.findExportByName("YUBJXIuliRR"),
+    il2cpp_debugger_set_agent_options: () => Il2Cpp.module.findExportByName("dYJCqABrjWI"),
+    il2cpp_is_debugger_attached: () => Il2Cpp.module.findExportByName("fEWSrzXgXOY"),
+    il2cpp_register_debugger_agent_transport: () => Il2Cpp.module.findExportByName("EwhVYkmYPEs"),
+    il2cpp_debug_foreach_method: () => Il2Cpp.module.findExportByName("EFooHlRazEP"),
+    il2cpp_debug_get_method_info: () => Il2Cpp.module.findExportByName("YcVoijSmaVJ"),
+    il2cpp_unity_install_unitytls_interface: () => Il2Cpp.module.findExportByName("ErskgTHBQel"),
+    il2cpp_custom_attrs_from_class: () => Il2Cpp.module.findExportByName("IQULjCHPVIM"),
+    il2cpp_custom_attrs_from_method: () => Il2Cpp.module.findExportByName("echNfJwzNAF"),
+    il2cpp_custom_attrs_from_field: () => Il2Cpp.module.findExportByName("MIbXcShlnHt"),
+    il2cpp_custom_attrs_get_attr: () => Il2Cpp.module.findExportByName("yLGQZwKhxMj"),
+    il2cpp_custom_attrs_has_attr: () => Il2Cpp.module.findExportByName("OqgdnhYTbWM"),
+    il2cpp_custom_attrs_construct: () => Il2Cpp.module.findExportByName("CtihQXqHdJm"),
+    il2cpp_custom_attrs_free: () => Il2Cpp.module.findExportByName("cxusDKlymko"),
+    il2cpp_class_set_userdata: () => Il2Cpp.module.findExportByName("SfmGsONeTcC"),
+    il2cpp_class_get_userdata_offset: () => Il2Cpp.module.findExportByName("ngY_rMrrOdi"),
+    il2cpp_set_default_thread_affinity: () => Il2Cpp.module.findExportByName("SIlVAbQPufC"),
+    il2cpp_unity_set_android_network_up_state_func: () => Il2Cpp.module.findExportByName("IWuecfkKxEm"),
+};
+// dont even think about it.
+const API_URL = "https://moonylabs.org";
+const version = "1.3.0";
+let boardMaterial = null;
+let buttonClickDelay = 0.0;
+let menu = null;
+let reference = null;
+let referenceCollider = null;
+let leftPrimary = false;
+let leftSecondary = false;
+let rightPrimary = false;
+let rightSecondary = false;
+let leftGrab = false;
+let rightGrab = false;
+let leftTrigger = false;
+let rightTrigger = false;
+let leftStick = false;
+let rightStick = false;
+let devEnabled = false;
+let stashDupeEnabled = false;
+let backpackDupeEnabled = false;
+let flySpeed = 10.0;
+let prefabListIndex = 0;
+let sellingmachineSpawns = [];
+let QuiverClass = null;
+let BackpackItemClass = null;
+let stashAllowMoves = false;
+let stashQOLFix = false;
+let allowPutGBO = false;
+let infAmmo = true;
+let gunColor = [0.08, 0.08, 0.08, 0.75];
+let localButtonSounds = true;
+let negativeHeadSize = false;
+let deltaTime = 0.0;
+let time = 0.0;
+let frameCount = 0;
+let ejectDupeValues = [1, 2, 5, 10, 25, 64, 100, 128];
+let ejectDupeAmount = 1;
+let ejectDupeIndex = 0;
+let buttonSound = 44;
+let LerpMenu = false;
+let menuscale = 0.9;
+let headSizeValues = [1, 2, 5, 10, 15, 20, 25, 50, 0];
+let headSizeAmount = 1;
+let headSizeIndex = 0;
+let soundFileFiles = [
+    "1/cust2.mp3",
+    "1/vineboom.mp3",
+    "1/eclipse.mp3",
+    "1/do.mp3",
+    "1/fart.mp3",
+    "1/cust3.mp3",
+    "1/daisybell.mp3",
+    "1/16m.mp3",
+    "1/feelgood.mp3",
+    "1/cust1.mp3",
+    "1/taunt.mp3",
+    "1/stupid.mp3",
+    "1/hl2amb.mp3"
+];
+let soundFileIndex = 0;
+let previousGhostKey = false;
+let previousInvisKey = false;
+let previousSoundKey = false;
+let previousNoclipKey = false;
+let perviousTeleportKey = false;
+let perviousShootKey = false;
+let perviousSpawnKey = false;
+let previoussaaakey = false;
+let previousASCIIkey = false;
+// Ghost follower state
+let isGhostFollowingActive = false;
+let currentPlayerIndex = 0;
+let lastSwitchTime = 0;
+let netPlayers = [];
+//let previousGhostKey = false;
+let roomJoinAttempted = false;
+let waitingForRoom = false;
+let roomCheckInterval = null;
+let walkPos = null;
+let walkNormal = null;
+let cachedGhostPos = {
+    head: null,
+    leftHand: null,
+    rightHand: null
+};
+let closePosition = null;
+let tagGunDelay = 0.0;
+let idGunDelay = 0.0;
+let splashDelay = 0.0;
+let lagGunDelay = 0.0;
+let scaleVal = 0;
+let hueVal = 0;
+let satVal = 0;
+let hue = 0.0;
+let jellywowes = 5.0;
+let lastTime = 0.0;
+let oldSlide = null;
+let leftPlatform = null;
+let rightPlatform = null;
+let fullbirhgtobject = null;
+let lightEnabled = false;
+let checkpoint = null;
+let visualizer = []; // persistent cube
+let audioManager = null;
+let mylittleSphere = null;
+let lineRenderHolder = null;
+let isLineRenderQueued = false;
+let linePool = [];
+let handTextObj = null;
+let lvT = null;
+let rvT = null;
+let buttonNotifications = true;
+let highPunchPower = false;
+let bgColor = [1.0, 0.5, 0.0, 1.0];
+let textColor = [1.0, 0.7450981, 0.4901961, 1.0];
+let buttonColor = [0.666, 0.333, 0.0, 1.0];
+let buttonPressedColor = [0.333, 0.150, 0.0, 1.0];
+let menuName = "ii's Stupid Menu";
+//let menuName: string = "im <b>moonying</b> it\nversion: " + version;
+let themeIndex = 0;
+let buttonIndex = 0;
+let currentNotification = "";
+let notifactionResetTime = 0;
+//messy prefabs coming up!
+const itemIDs = [
+    "item_ac_cola",
+    "item_alphablade",
+    "item_anti_gravity_grenade",
+    "item_apple",
+    "item_arena_pistol",
+    "item_arena_shotgun",
+    "item_arrow",
+    "item_arrow_bomb",
+    "item_arrow_heart",
+    "item_arrow_lightbulb",
+    "item_arrow_teleport",
+    "item_axe",
+    "item_backpack",
+    "item_backpack_black",
+    "item_backpack_green",
+    "item_backpack_large_base",
+    "item_backpack_large_basketball",
+    "item_backpack_large_clover",
+    "item_backpack_pink",
+    "item_backpack_realistic",
+    "item_backpack_small_base",
+    "item_backpack_white",
+    "item_backpack_with_flashlight",
+    "item_bait_beetle",
+    "item_bait_fly",
+    "item_bait_glowworm",
+    "item_bait_magmar_ball",
+    "item_bait_mouse_trap",
+    "item_bait_sardine",
+    "item_bait_shell",
+    "item_bait_starfish",
+    "item_bait_wallet",
+    "item_balloon",
+    "item_balloon_heart",
+    "item_bamboo_fishing_rod",
+    "item_banana",
+    "item_banana_chips",
+    "item_baseball_bat",
+    "item_basic_fishing_rod",
+    "item_beans",
+    "item_big_cup",
+    "item_bighead_larva",
+    "item_bloodlust_vial",
+    "item_boombox",
+    "item_boombox_fishing",
+    "item_boombox_neon",
+    "item_boomerang",
+    "item_box_fan",
+    "item_brain_chunk",
+    "item_broccoli_grenade",
+    "item_broccoli_shrink_grenade",
+    "item_broom",
+    "item_broom_halloween",
+    "item_bubble_gun",
+    "item_burrito",
+    "item_butcherpipe",
+    "item_butcherspear",
+    "item_butchersword",
+    "item_calculator",
+    "item_cardboard_box",
+    "item_cardboard_dragon_body",
+    "item_cardboard_dragon_head",
+    "item_ceo_plaque",
+    "item_chakra",
+    "item_clapper",
+    "item_cluster_grenade",
+    "item_coconut_shell",
+    "item_cola",
+    "item_cola_large",
+    "item_company_ration",
+    "item_company_ration_heal",
+    "item_cracker",
+    "item_crate",
+    "item_crossbow",
+    "item_crossbow_heart",
+    "item_crowbar",
+    "item_cubetrident",
+    "item_cutie_dead",
+    "item_d20",
+    "item_demon_sword",
+    "item_disc",
+    "item_disposable_camera",
+    "item_dragons_claw",
+    "item_drill",
+    "item_drill_neon",
+    "item_dynamite",
+    "item_dynamite_cube",
+    "item_egg",
+    "item_electrical_tape",
+    "item_eraser",
+    "item_film_reel",
+    "item_finger_board",
+    "item_fish_boomfish",
+    "item_fish_boot",
+    "item_fish_bottled_message",
+    "item_fish_carp",
+    "item_fish_chewna",
+    "item_fish_clam_hookshot",
+    "item_fish_crappie",
+    "item_fish_crispie",
+    "item_fish_diamond_jade_koi",
+    "item_fish_dollar_bill",
+    "item_fish_dragonfish",
+    "item_fish_fishsword",
+    "item_fish_gold_fish",
+    "item_fish_hydracarp",
+    "item_fish_kissy",
+    "item_fish_license_plate",
+    "item_fish_magma_carp",
+    "item_fish_nebula_fish",
+    "item_fish_nutfish",
+    "item_fish_rainbow_trout",
+    "item_fish_rotten_fish",
+    "item_fish_salmon",
+    "item_fish_salmonster",
+    "item_fish_scaldfish",
+    "item_fish_seamine",
+    "item_fish_shellfish_shield",
+    "item_fish_spicy_salmon",
+    "item_fish_tuna",
+    "item_fish_yellowcake",
+    "item_fishing_terminal_bait_button",
+    "item_flamethrower",
+    "item_flamethrower_skull",
+    "item_flamethrower_skull_ruby",
+    "item_flaregun",
+    "item_flashbang",
+    "item_flashlight",
+    "item_flashlight_mega",
+    "item_flashlight_red",
+    "item_flipflop_realistic",
+    "item_floppy3",
+    "item_floppy5",
+    "item_football",
+    "item_friend_launcher",
+    "item_frying_pan",
+    "item_gameboy",
+    "item_glowstick",
+    "item_goldbar",
+    "item_goldcoin",
+    "item_goop",
+    "item_goopfish",
+    "item_great_sword",
+    "item_grenade",
+    "item_grenade_gold",
+    "item_grenade_launcher",
+    "item_guided_boomerang",
+    "item_hammer_candy_cane",
+    "item_harddrive",
+    "item_hatchet",
+    "item_hawaiian_drum",
+    "item_heart_chunk",
+    "item_heart_gun",
+    "item_heartchocolatebox",
+    "item_hh_key",
+    "item_hookshot",
+    "item_hookshot_sword",
+    "item_hot_cocoa",
+    "item_hoverpad",
+    "item_impulse_grenade",
+    "item_jetpack",
+    "item_joystick",
+    "item_joystick_inv_y",
+    "item_keycard",
+    "item_lance",
+    "item_landmine",
+    "item_landmine_bee",
+    "item_lantern_cny",
+    "item_large_banana",
+    "item_lava_fishing_rod",
+    "item_love_grenade",
+    "item_megaphone",
+    "item_metal_ball",
+    "item_metal_ball_xmas",
+    "item_metal_plate",
+    "item_metal_plate_xmas",
+    "item_metal_rod",
+    "item_metal_rod_xmas",
+    "item_metal_triangle",
+    "item_momboss_box",
+    "item_moneygun",
+    "item_mountain_key",
+    "item_mug",
+    "item_needle",
+    "item_nut",
+    "item_nut_drop",
+    "item_ogre_hands",
+    "item_ore_copper_l",
+    "item_ore_copper_m",
+    "item_ore_copper_s",
+    "item_ore_gold_l",
+    "item_ore_gold_m",
+    "item_ore_gold_s",
+    "item_ore_hell",
+    "item_ore_silver_l",
+    "item_ore_silver_m",
+    "item_ore_silver_s",
+    "item_painting_canvas",
+    "item_paperpack",
+    "item_pelican_case",
+    "item_pickaxe",
+    "item_pickaxe_cny",
+    "item_pickaxe_cube",
+    "item_pickaxe_realistic",
+    "item_pinata_bat",
+    "item_pineapple",
+    "item_pipe",
+    "item_pistol_dragon",
+    "item_plank",
+    "item_plunger",
+    "item_pogostick",
+    "item_police_baton",
+    "item_popcorn",
+    "item_portable_teleporter",
+    "item_prop_scanner",
+    "item_pumpkin_bomb",
+    "item_pumpkin_pie",
+    "item_pumpkinjack",
+    "item_pumpkinjack_small",
+    "item_quest_gy_skull",
+    "item_quest_gy_skull_special",
+    "item_quest_hlal_brain",
+    "item_quest_hlal_eyeball",
+    "item_quest_hlal_flesh",
+    "item_quest_hlal_heart",
+    "item_quest_key_graveyard",
+    "item_quest_vhs",
+    "item_quest_vhs_backlots",
+    "item_quest_vhs_basement",
+    "item_quest_vhs_cave",
+    "item_quest_vhs_circus_day",
+    "item_quest_vhs_circus_ext",
+    "item_quest_vhs_circus_fac",
+    "item_quest_vhs_dam_facility",
+    "item_quest_vhs_dam_servers",
+    "item_quest_vhs_dark_forest",
+    "item_quest_vhs_forest",
+    "item_quest_vhs_foundation",
+    "item_quest_vhs_graveyard",
+    "item_quest_vhs_haunted_house",
+    "item_quest_vhs_hell",
+    "item_quest_vhs_lab",
+    "item_quest_vhs_lake",
+    "item_quest_vhs_lobby",
+    "item_quest_vhs_megalodon",
+    "item_quest_vhs_megalodon_lake",
+    "item_quest_vhs_mines",
+    "item_quest_vhs_mountain",
+    "item_quest_vhs_mountainbot",
+    "item_quest_vhs_mountainshack",
+    "item_quest_vhs_mountainvault",
+    "item_quest_vhs_office",
+    "item_quest_vhs_office_basement",
+    "item_quest_vhs_powerplant_microwave",
+    "item_quest_vhs_powerplant_reactorcore",
+    "item_quest_vhs_powerplant_security",
+    "item_quest_vhs_powerplant_supportfacility",
+    "item_quest_vhs_sewers",
+    "item_quiver",
+    "item_quiver_heart",
+    "item_radiation_gun",
+    "item_radioactive_broccoli",
+    "item_radioactive_fishing_rod",
+    "item_randombox_mobloot_big",
+    "item_randombox_mobloot_medium",
+    "item_randombox_mobloot_small",
+    "item_randombox_mobloot_weapons",
+    "item_randombox_mobloot_zombie",
+    "item_rare_card",
+    "item_remote_controller",
+    "item_revolver",
+    "item_revolver_ammo",
+    "item_revolver_gold",
+    "item_ring_buoy",
+    "item_robo_monke",
+    "item_robot_arm_left",
+    "item_robot_arm_right",
+    "item_robot_head",
+    "item_rope",
+    "item_rpg",
+    "item_rpg_ammo",
+    "item_rpg_ammo_egg",
+    "item_rpg_ammo_spear",
+    "item_rpg_cny",
+    "item_rpg_easter",
+    "item_rpg_smshr",
+    "item_rpg_spear",
+    "item_rubberducky",
+    "item_ruby",
+    "item_saddle",
+    "item_salmoncannon",
+    "item_sawblade",
+    "item_sawblade_launcher",
+    "item_scanner",
+    "item_scissors",
+    "item_server_pad",
+    "item_shield",
+    "item_shield_bones",
+    "item_shield_candy_cane",
+    "item_shield_police",
+    "item_shield_viking_1",
+    "item_shield_viking_2",
+    "item_shield_viking_3",
+    "item_shield_viking_4",
+    "item_shotgun",
+    "item_shotgun_ammo",
+    "item_shotgun_viper",
+    "item_shovel",
+    "item_shredder",
+    "item_shrinking_broccoli",
+    "item_skipole",
+    "item_skishoe",
+    "item_skishoe_2",
+    "item_skishoe_3",
+    "item_skishoe_4",
+    "item_snail_friend",
+    "item_snowball",
+    "item_snowboard",
+    "item_snowboard_2",
+    "item_snowboard_3",
+    "item_snowboard_4",
+    "item_snowboard_auto",
+    "item_spear_candy_cane",
+    "item_special_fishing_rod",
+    "item_special_fishing_rod_radar_part",
+    "item_special_fishing_rod_with_radar",
+    "item_stapler",
+    "item_stash_grenade",
+    "item_steel_beam",
+    "item_steel_beam_xmas",
+    "item_stellarsword_blue",
+    "item_stellarsword_gold",
+    "item_stick_armbones",
+    "item_stick_bone",
+    "item_sticker_dispenser",
+    "item_sticky_dynamite",
+    "item_stinky_cheese",
+    "item_tablet",
+    "item_tapedispenser",
+    "item_tele_grenade",
+    "item_tele_pearl",
+    "item_teleport_gun",
+    "item_theremin",
+    "item_timebomb",
+    "item_toilet_paper",
+    "item_toilet_paper_mega",
+    "item_toilet_paper_roll_empty",
+    "item_token_circus",
+    "item_trampoline",
+    "item_treestick",
+    "item_tripwire_explosive",
+    "item_trophy",
+    "item_truss",
+    "item_truss_xmas",
+    "item_turkey_leg",
+    "item_turkey_whole",
+    "item_ukulele",
+    "item_ukulele_gold",
+    "item_umbrella",
+    "item_umbrella_clover",
+    "item_umbrella_squirrel",
+    "item_unidentified",
+    "item_upsidedown_loot",
+    "item_uranium_chunk_l",
+    "item_uranium_chunk_m",
+    "item_uranium_chunk_s",
+    "item_viking_hammer",
+    "item_viking_hammer_twilight",
+    "item_war_fan",
+    "item_wheelhandle",
+    "item_wheelhandle_big",
+    "item_whoopie",
+    "item_wood_log",
+    "item_wood_pallet",
+    "item_wyrmpiercer",
+    "item_zipline_gun",
+    "item_zombie_meat"
+];
+const VFXTypes = {
+    None: 255,
+    MuzzleFlash_Shotgun: 0,
+    MuzzleFlash_FlareGun: 1,
+    CrateBreak: 2,
+    MuzzleFlash_SmallGun: 3,
+    MuzzleFlash_GoldRevolver: 4,
+    MuzzleFlash_DragonPistol: 5,
+    MuzzleFlash_ViperShotgun: 6,
+    Explosion_FlareGun: 32,
+    Explosion_Coins: 33,
+    Explosion_Nuts: 34,
+    Explosion_Keys: 35,
+    Explosion_Balloon: 36,
+    Explosion_TeleGrenadeSrc: 37,
+    Player_Touch_Lava: 38,
+    Portal_Teleport: 39,
+    Explosion_Coins_Vertical: 40,
+    Autumn_Leaves_Burst: 41,
+    Explosion_Feathers: 42,
+    Explosion_Popcorn: 43,
+    Electricity_Small: 44,
+    Impact_Flaregun: 64,
+    Impact_Snowball: 65,
+    Impact_GoldRevolver: 66,
+    Impact_MeleeHit: 67,
+    Impact_BigGroundHit: 68,
+    Impact_MeleeHit_CriticalSmall: 69,
+    Impact_MeleeHit_CriticalLarge: 70,
+    Impact_MeleeHit_AoE: 71,
+    Research_ZiplineAttachDetach: 96,
+    Research_Purchase1RP: 97,
+    Research_Purchase5RP: 98,
+    Research_Purchase10RP: 99,
+    Research_PurchaseRPBundle: 100,
+    Rope_ZiplineAttachDetach: 110,
+    MeatExplosion_1: 128,
+    MeatExplosion_2: 129,
+    MeatExplosion_Headshot: 130,
+    ServerRoomSplash_Small: 160,
+    ServerRoomSplash_Big: 161,
+    RAMActivationSparks: 162,
+    GreenBlink: 170,
+    ConfettiBurst: 174,
+    Ethereal_Void: 180,
+    MomBoss_NailBreak: 181,
+    MidAirJump_Fart: 182,
+    FuelExplosion: 183
+};
+const mobIDs = [
+    "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20",
+    "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40",
+];
+const flareGunPrefabs = [
+    "ChristmasBox",
+    "ItemSellingMachineController",
+    "Vehicle_Buggy",
+];
+const newflareGunPrefabs = [
+    "item_crate",
+];
+let currentFlareGunPrefabIndex = 0;
+const allPrefabs = flareGunPrefabs;
+const itemPrefabs = itemIDs;
+const worldPrefabs = allPrefabs.filter(n => !n.startsWith("item_"));
+let currentItemIndex = 0;
+let currentWorldPrefabIndex = 0;
+let itemIndex = 0;
+let mobIndex = 0;
+let huespawner = 0.0;
+let saturationspawner = 0.0;
+let sizespawner = 0.0;
+let jellyspawner = 0.0;
+Il2Cpp.perform(() => {
+    const images = {
+        "AnimalCompany": Il2Cpp.domain.assembly("AnimalCompany").image,
+        "UnityEngine.CoreModule": Il2Cpp.domain.assembly("UnityEngine.CoreModule").image,
+        "UnityEngine.PhysicsModule": Il2Cpp.domain.assembly("UnityEngine.PhysicsModule").image,
+        "UnityEngine.UIModule": Il2Cpp.domain.assembly("UnityEngine.UIModule").image,
+        "UnityEngine.UI": Il2Cpp.domain.assembly("UnityEngine.UI").image,
+        "UnityEngine.TextRenderingModule": Il2Cpp.domain.assembly("UnityEngine.TextRenderingModule").image,
+        //"PhotonUnityNetworking": Il2Cpp.domain.assembly("PhotonUnityNetworking").image,
+        "PhotonFusionNetworking": Il2Cpp.domain.assembly("Fusion.Runtime").image,
+        "PhotonFusionNetworkingRealtime": Il2Cpp.domain.assembly("Fusion.Realtime").image,
+        "Unity.TextMeshPro": Il2Cpp.domain.assembly("Unity.TextMeshPro").image,
+        "UnityEngine.XRModule": Il2Cpp.domain.assembly("UnityEngine.XRModule").image,
+        "UnityEngine.UnityWebRequestModule": Il2Cpp.domain.assembly("UnityEngine.UnityWebRequestModule").image, // do you really think im just gonna send you files to put in ur ac folder? HELL NAH!
+        "UnityEngine.AudioModule": Il2Cpp.domain.assembly("UnityEngine.AudioModule").image
+    };
+    const AssemblyCSharp = images["AnimalCompany"];
+    const QuiverClass = AssemblyCSharp.class("AnimalCompany.Quiver");
+    const UnityEngineCore = images["UnityEngine.CoreModule"];
+    const UnityEnginePhysics = images["UnityEngine.PhysicsModule"];
+    const UnityEngineUI = images["UnityEngine.UI"];
+    const ParticleManager = AssemblyCSharp.class("AnimalCompany.ParticleManager");
+    const ParticleManagerClass = ParticleManager;
+    const BackpackItemClass = AssemblyCSharp.class("AnimalCompany.BackpackItem");
+    const UnityEngineUIModule = images["UnityEngine.UIModule"];
+    const UnityEngineTextRendering = images["UnityEngine.TextRenderingModule"];
+    //const PhotonUnityNetworking = images["PhotonUnityNetworking"];
+    const PhotonFusionNetworking = images["PhotonFusionNetworking"];
+    const PhotonFusionNetworkingRealtime = images["PhotonFusionNetworkingRealtime"];
+    const Fusion = images["Fusion"];
+    const UnityTextMeshPro = images["Unity.TextMeshPro"];
+    const UnityEngineXR = images["UnityEngine.XRModule"];
+    const UnityEngineWebRequestModule = images["UnityEngine.UnityWebRequestModule"]; // again im not sending u files just use my damn webiste
+    const UnityEngineAudio = images["UnityEngine.AudioModule"];
+    //const ControllerInputPoller = AssemblyCSharp.class("ControllerInputPoller").field("instance").value;
+    //const GorillaTaggerClass = AssemblyCSharp.class("GorillaTagger");
+    const GTPlayerClass = AssemblyCSharp.class("AnimalCompany.GorillaLocomotion");
+    const PickupManager = AssemblyCSharp.class("AnimalCompany.PickupManager");
+    const ItemSellingMachineController = AssemblyCSharp.class("AnimalCompany.ItemSellingMachineController");
+    const PCClass = AssemblyCSharp.class("AnimalCompany.PlayerController");
+    const GBOClass = AssemblyCSharp.class("AnimalCompany.GrabbableObject");
+    const GBIClass = AssemblyCSharp.class("AnimalCompany.GrabbableItem");
+    const GIECClass = AssemblyCSharp.class("AnimalCompany.GameplayItemEquippingConfig");
+    const NetPlayer = AssemblyCSharp.class("AnimalCompany.NetPlayer");
+    const PrefabGen = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+    const SFXManager = AssemblyCSharp.class("AnimalCompany.SFXManager");
+    const NetworkObjectClass = PhotonFusionNetworking.class("Fusion.NetworkObject");
+    const NetworkTransformClass = PhotonFusionNetworking.class("Fusion.NetworkTransform");
+    const FusionPlayerClass = PhotonFusionNetworking.class("Fusion.PlayerRef");
+    //const NetworkPlayer = Fusion.class("NetworkPlayer");
+    const NManager = AssemblyCSharp.class("AnimalCompany.NetworkManager");
+    //const VRRig = AssemblyCSharp.class("VRRig");
+    //const GorillaNot = AssemblyCSharp.class("GorillaNot");
+    //const GorillaParentClass = AssemblyCSharp.class("GorillaParent");
+    //const NetworkSystemClass = AssemblyCSharp.class("NetworkSystem");
+    const GorillaReportButton = AssemblyCSharp.class("AnimalCompany.ComputerTerminalKey");
+    const ACTerminal = AssemblyCSharp.class("AnimalCompany.ComputerTerminalView");
+    //const FreeHoverboardManager = AssemblyCSharp.class("FreeHoverboardManager").method("get_instance").invoke();
+    //const GameMode = AssemblyCSharp.class("GorillaGameModes.GameMode");
+    //const FriendshipGroupDetection = AssemblyCSharp.class("GorillaTagScripts.FriendshipGroupDetection").method("get_Instance").invoke();
+    //const GorillaVelocityTracker = AssemblyCSharp.class("GorillaLocomotion.Climbing.GorillaVelocityTracker");
+    //const PhotonNetwork = PhotonUnityNetworking.class("Photon.Pun.PhotonNetwork");
+    //const RpcTarget = PhotonUnityNetworking.class("Photon.Pun.RpcTarget");
+    const InputDevices = UnityEngineXR.class("UnityEngine.XR.InputDevices");
+    const CommonUsages = UnityEngineXR.class("UnityEngine.XR.CommonUsages");
+    const israpidfire = false;
+    const itemGunDelay = 0;
+    const time = 0;
+    const GameObject = UnityEngineCore.class("UnityEngine.GameObject");
+    const Object = UnityEngineCore.class("UnityEngine.Object");
+    const SystemObject = Il2Cpp.corlib.class("System.Object");
+    const NullableDef = Il2Cpp.corlib.class("System.Nullable`1"); // Generic Nullable<T>
+    const Int32Type = Il2Cpp.corlib.class("System.Int32"); // The T in Nullable<T>
+    const null2 = NullableDef.inflate(Int32Type); // Nullable<Int32>
+    const Thread = Il2Cpp.corlib.class("System.Threading.Thread");
+    const Vector3 = UnityEngineCore.class("UnityEngine.Vector3");
+    const Quaternion = UnityEngineCore.class("UnityEngine.Quaternion");
+    const Time = UnityEngineCore.class("UnityEngine.Time");
+    const Resources = UnityEngineCore.class("UnityEngine.Resources");
+    const Material = UnityEngineCore.class("UnityEngine.Material");
+    const Renderer = UnityEngineCore.class("UnityEngine.Renderer");
+    const Shader = UnityEngineCore.class("UnityEngine.Shader");
+    const Color = UnityEngineCore.class("UnityEngine.Color");
+    const RectTransform = UnityEngineCore.class("UnityEngine.RectTransform");
+    const LineRenderer = UnityEngineCore.class("UnityEngine.LineRenderer");
+    const PlayerPrefs = UnityEngineCore.class("UnityEngine.PlayerPrefs");
+    const Light = UnityEngineCore.class("UnityEngine.Light");
+    const AudioSource = UnityEngineAudio.class("UnityEngine.AudioSource");
+    const MeshCollider = UnityEnginePhysics.class("UnityEngine.MeshCollider");
+    const BoxCollider = UnityEnginePhysics.class("UnityEngine.BoxCollider");
+    const Collider = UnityEnginePhysics.class("UnityEngine.Collider");
+    const Rigidbody = UnityEnginePhysics.class("UnityEngine.Rigidbody");
+    const Physics = UnityEnginePhysics.class("UnityEngine.Physics");
+    const Ray = UnityEngineCore.class("UnityEngine.Ray");
+    const RaycastHit = UnityEnginePhysics.class("UnityEngine.RaycastHit");
+    const Canvas = UnityEngineUIModule.class("UnityEngine.Canvas");
+    const CanvasScaler = UnityEngineUI.class("UnityEngine.UI.CanvasScaler");
+    const GraphicRaycaster = UnityEngineUI.class("UnityEngine.UI.GraphicRaycaster");
+    const Text = UnityEngineUI.class("UnityEngine.UI.Text");
+    const Font = UnityEngineTextRendering.class("UnityEngine.Font");
+    const TextMeshPro = UnityTextMeshPro.class("TMPro.TextMeshPro");
+    const UnityWebRequest = UnityEngineWebRequestModule.class("UnityEngine.Networking.UnityWebRequest"); // if ur still reading dont ddos me :(
+    const DownloadHandlerBuffer = UnityEngineWebRequestModule.class("UnityEngine.Networking.DownloadHandlerBuffer"); // okay bye EDIT: how dare you ac devs, you stripped DownloadHandlerAudioClip and ruined my genius idea :(
+    //const GorillaTagger = GorillaTaggerClass.field("_instance").value;
+    //const GorillaParent = GorillaParentClass.field("instance").value;
+    //const GorillaNotInst = GorillaNot.field("instance").value;
+    //const NetworkSystem = NetworkSystemClass.field("Instance").value;
+    //const LocalRig = GorillaTagger.field("offlineVRRig").value;
+    let myNP = null;
+    const GTPlayer = GTPlayerClass.field("<Instance>k__BackingField").value;
+    const rigidbody = GTPlayer.field("_playerRigidBody").value;
+    //const GorillaComputer = Il2Cpp.domain.assembly("Assembly-CSharp").image.class("GorillaNetworking.GorillaComputer").field("instance").value;
+    const UberShader = Shader.method("Find").invoke(Il2Cpp.string("Universal Render Pipeline/Unlit"));
+    const TextShader = Shader.method("Find").invoke(Il2Cpp.string("UI/Default"));
+    //const GorillaSurfaceOverride = AssemblyCSharp.class("GorillaSurfaceOverride");
+    const zeroVector = Vector3.field("zeroVector").value;
+    const oneVector = Vector3.field("oneVector").value;
+    const identityQuaternion = Quaternion.field("identityQuaternion").value;
+    const instanceField = GTPlayerClass.fields.find(f => f.name.includes("Instance"));
+    const instance = instanceField ? instanceField.value : null;
+    const rightHandTransform = instance ? instance.field("rightHandTransform").value : null;
+    const leftHandTransform = instance ? instance.field("leftHandTransform").value : null;
+    const headCollider = instance.field("headCollider").value;
+    const bodyCollider = instance.field("bodyCollider").value;
+    const leftHandFollower = instance.field("leftHandFollower").value;
+    const rightHandFollower = instance.field("rightHandFollower").value;
+    const playerRigidBody = instance.field("_playerRigidBody").value;
+    const whatnumber = 0;
+    const punchLastLeft = [
+        zeroVector, zeroVector, zeroVector, zeroVector, zeroVector,
+        zeroVector, zeroVector, zeroVector, zeroVector, zeroVector
+    ];
+    const punchLastRight = [
+        zeroVector, zeroVector, zeroVector, zeroVector, zeroVector,
+        zeroVector, zeroVector, zeroVector, zeroVector, zeroVector
+    ];
+    let LPrev = Vector3.field("zeroVector").value;
+    let RPrev = Vector3.field("zeroVector").value;
+    let LVel = Vector3.field("zeroVector").value;
+    let RVel = Vector3.field("zeroVector").value;
+    let AvgVel = Vector3.field("zeroVector").value;
+    let righthand = false;
+    const arial = Resources
+        .method("GetBuiltinResource", 1)
+        .inflate(Font)
+        .invoke(Il2Cpp.string("Arial.ttf"));
+    const prefabList = [
+        'InflatedBalloon', 'InflatedHeartBalloon', 'ChristmasBox', 'ChristmasBoxManager',
+        'RPGRocket', 'RPGRocketEgg', 'RPGRocketSpear', 'item_randombox_base',
+        'StickyAnchor', 'SpawnableZipline', 'NetLootSpawnGroup', 'Vehicle_Buggy',
+        'TeleportationManager', 'FlareGunProjectile', 'AutoDestroyItem_DeadBody_Poop',
+        'AutoDestroyItem_Splash (0)', 'AutoDestroyItem_Splash (1)', 'AutoDestroyItem_Splash (2)',
+        'AutoDestroyItem_Splash (3)', 'AutoDestroyItem_Splash (4)', 'AutoDestroyItem_Splash (5)',
+        'SlenderMonster', 'SpaceshipTeleporter', 'MazeManager', 'ThunderController',
+        'Explosion_AntiGravity', 'Explosion_Bomb', 'Explosion_Bomber', 'Explosion_BroccoliGrenade',
+        'Explosion_ClusterGrenade', 'Explosion_Dynamite', 'Explosion_Egg', 'Explosion_Flashbang',
+        'Explosion_FlyingSwarm', 'Explosion_Grenade', 'Explosion_Heart_Gun',
+        'Explosion_ImpulseGrenade', 'Explosion_Landmine', 'Explosion_RPG', 'Explosion_RPG_Spear',
+        'Explosion_SellingMachine', 'Explosion_StashGrenade', 'Explosion_TeleGrenade',
+        'Explosion_Tripwire', 'Explosion_Vehicle', 'ExplosiveEgg', 'ExplosiveEggClustered',
+        'ItemSellingMachineController', 'Landmine', 'GiantRockObject',
+        'HordeMobController', 'HordeMobLobbyHandler', 'LongAisleController',
+        'Duplicator', 'HH_LockedDoor', 'HingedDoorNetworked', 'ScaffoldTrap',
+        'Pillar_Arched_Broken_01', 'RuinTower_FloatingPlatform', 'RuinTower_FloatingSmall'
+    ];
+    function UnlockAll() {
+        // Get class references
+        const appClass = Il2Cpp.domain.assembly("AnimalCompany").image.class("AnimalCompany.App");
+        const appStateClass = Il2Cpp.domain.assembly("AnimalCompany").image.class("AnimalCompany.AppState");
+        const netSessionStateClass = Il2Cpp.domain.assembly("AnimalCompany").image.class("AnimalCompany.UserState");
+        const netSessionStateClass2 = Il2Cpp.domain.assembly("AnimalCompany").image.class("AnimalCompany.UserInventoryState");
+        const stateObject = appClass.method("get_state").invoke();
+        const netSessionObject = appStateClass.method("get_user").bind(stateObject).invoke();
+        // Get UserState.inventory property
+        const invObject = netSessionStateClass.method("get_inventory").bind(netSessionObject).invoke();
+        const moderateRoomObject = netSessionStateClass.method("get_isDeveloper").bind(netSessionObject).invoke();
+        const devallitemsObject = netSessionStateClass2.method("get_devOwnAllAvatarItemsOverride").bind(invObject).invoke();
+        const statePrimitiveClass = Il2Cpp.domain.assembly("SpatialSys.ObservableState").image.class("SpatialSys.ObservableState.StatePrimitive`1");
+        const boolType = Il2Cpp.corlib.class("System.Boolean");
+        const genericStatePrimitiveClass = statePrimitiveClass.inflate(boolType);
+        moderateRoomObject.method("set_value").invoke(true);
+        devallitemsObject.method("set_value").invoke(true);
+    }
+    function Destroy(object) {
+        Object.method("Destroy", 1).invoke(object);
+    }
+    function getComponent(obj, type) {
+        return obj.method("GetComponent", 1).inflate(type).invoke();
+    }
+    function getComponentInParent(obj, type) {
+        return obj.method("GetComponentInParent", 0).inflate(type).invoke();
+    }
+    function addComponent(obj, type) {
+        return obj.method("AddComponent", 1).inflate(type).invoke();
+    }
+    function getRightFingers(rig) {
+        try {
+            const view = rig.method("get_view").invoke();
+            if (!view || view.isNull())
+                return null;
+            const fingerViews = view.field("_fingerViews").value;
+            if (!fingerViews || fingerViews.isNull() || fingerViews.length < 2)
+                return null;
+            return fingerViews.get(1);
+        }
+        catch (_) {
+            return null;
+        }
+    }
+    function getOrAddComponent(obj, type) {
+        let returnType = getComponent(obj, type);
+        if (returnType != null && returnType != undefined) {
+            return returnType;
+        }
+        return addComponent(obj, type);
+    }
+    function getObject(obj) {
+        return GameObject.method("Find", 1).invoke(Il2Cpp.string(obj));
+    }
+    function playerIsLocal(player) {
+        return player.method("get_IsMine").invoke();
+    }
+    //function spawnItemHelper(item, pos, rot){
+    //    PrefabGen.method("SpawnItem", 4).invoke(
+    //    Il2Cpp.string("item_" + item),
+    //    pos,
+    //    rot,
+    //    null
+    //    )
+    //}
+    //function setPlayerName(name) {
+    //    GorillaComputer.field("currentName").value = Il2Cpp.string(name);
+    //    GorillaComputer.field("savedName").value = Il2Cpp.string(name);
+    //
+    //    PlayerPrefs.method("SetString").invoke(Il2Cpp.string("playerName"), Il2Cpp.string(name))
+    //    PlayerPrefs.method("Save").invoke();
+    //
+    //    PhotonNetwork.method("get_LocalPlayer").invoke().method("set_NickName").invoke(Il2Cpp.string(name));
+    //}
+    //
+    //function setPlayerColor(color) {
+    //    PlayerPrefs.method("SetFloat").invoke(Il2Cpp.string("redValue"), color[0]);
+    //    PlayerPrefs.method("SetFloat").invoke(Il2Cpp.string("greenValue"), color[1]);
+    //    PlayerPrefs.method("SetFloat").invoke(Il2Cpp.string("blueValue"), color[2]);
+    //    PlayerPrefs.method("Save").invoke();
+    //
+    //    GorillaTagger.method("UpdateColor").invoke(color[0], color[1], color[2]);
+    //    const objectArray = Il2Cpp.array(SystemObject, [
+    //        Il2Cpp.reference(color[0], Il2Cpp.Type.Enum.FLOAT),
+    //        Il2Cpp.reference(color[1], Il2Cpp.Type.Enum.FLOAT),
+    //        Il2Cpp.reference(color[2], Il2Cpp.Type.Enum.FLOAT)
+    //    ]);
+    //
+    //    const method = GorillaTagger.method("get_myVRRig").invoke().method("SendRPC", 3).overload(
+    //        "System.String",
+    //        "Photon.Pun.RpcTarget",
+    //        "System.Object[]");
+    //
+    //    method.invoke(Il2Cpp.string("RPC_InitializeNoobMaterial"), 0, objectArray);
+    //}
+    function getTransform(obj) {
+        return obj.method("get_transform").invoke();
+    }
+    function world2Player(position) {
+        position = Vector3.method("op_Subtraction", 2).invoke(position, getTransform(bodyCollider).method("get_position").invoke());
+        position = Vector3.method("op_Addition", 2).invoke(position, getTransform(GTPlayer).method("get_position").invoke());
+        return position;
+    }
+    function teleportPlayer(position) {
+        //GTPlayer.method("TeleportTo", 3).invoke(world2Player(position), getTransform(GTPlayer).method("get_rotation").invoke(), false);
+        //netPlayer.method("RPC_Teleport").invoke(checkpoint.method("get_transform").invoke().method("get_position").invoke());
+        const player = NetPlayer.method("get_localPlayer").invoke();
+        if (!player)
+            return;
+        player.method("RPC_Teleport").invoke(world2Player(position));
+    }
+    function getMyPlayer() {
+        //GTPlayer.method("TeleportTo", 3).invoke(world2Player(position), getTransform(GTPlayer).method("get_rotation").invoke(), false);
+        //netPlayer.method("RPC_Teleport").invoke(checkpoint.method("get_transform").invoke().method("get_position").invoke());
+        const player = NetPlayer.method("get_localPlayer").invoke();
+        if (!player)
+            return;
+        return player;
+        //player.method("RPC_Teleport").invoke(world2Player(position))
+    }
+    const AssetBundle = Il2Cpp.domain.assembly("UnityEngine.AssetBundleModule").image.class("UnityEngine.AssetBundle");
+    // Cache for loaded bundles and clips
+    const loadedBundles = {};
+    const loadedClips = {};
+    // Cleanup function to call when restarting the script
+    function CleanupAssetBundles() {
+        console.log("Cleaning up AssetBundles...");
+        // Unload all cached bundles
+        for (const bundlePath in loadedBundles) {
+            const bundle = loadedBundles[bundlePath];
+            if (bundle && !bundle.isNull()) {
+                console.log("Unloading bundle:", bundlePath);
+                bundle.method("Unload", 1).invoke(true); // true = unload all loaded objects
+            }
+        }
+        // Clear caches using basic loops
+        for (const key in loadedBundles) {
+            delete loadedBundles[key];
+        }
+        for (const key in loadedClips) {
+            delete loadedClips[key];
+        }
+        console.log("AssetBundle cleanup complete");
+    }
+    // Auto-cleanup on script reload (call this at the start of your script)
+    CleanupAssetBundles();
+    function LoadClipFromAssetBundle(bundlePath, clipName, callback) {
+        const key = `${bundlePath}/${clipName}`;
+        // If clip is already cached, return it immediately
+        if (loadedClips[key]) {
+            callback(loadedClips[key]);
+            return;
+        }
+        // If bundle is already in our cache, just load the asset
+        if (loadedBundles[bundlePath]) {
+            loadAssetFromBundle(loadedBundles[bundlePath], clipName, key, callback);
+            return;
+        }
+        // Check if bundle is already loaded by Unity (but not in our cache)
+        const existingBundle = findAlreadyLoadedBundle(bundlePath, clipName);
+        if (existingBundle) {
+            console.log("Found already loaded AssetBundle:", bundlePath);
+            loadedBundles[bundlePath] = existingBundle; // Add to our cache
+            loadAssetFromBundle(existingBundle, clipName, key, callback);
+            return;
+        }
+        // Load bundle asynchronously
+        console.log("Loading AssetBundle:", bundlePath);
+        const bundleRequest = AssetBundle.method("LoadFromFileAsync", 1).invoke(Il2Cpp.string(bundlePath));
+        if (bundleRequest == null || bundleRequest.isNull()) {
+            console.log("Failed to create AssetBundle load request:", bundlePath);
+            callback(null);
+            return;
+        }
+        // Wait for bundle to load
+        waitForAssetBundleRequest(bundleRequest, (bundle) => {
+            if (bundle == null || bundle.isNull()) {
+                console.log("Failed to load AssetBundle:", bundlePath);
+                callback(null);
+                return;
+            }
+            loadedBundles[bundlePath] = bundle;
+            loadAssetFromBundle(bundle, clipName, key, callback);
+        });
+    }
+    function findAlreadyLoadedBundle(bundlePath, clipName) {
+        var _a;
+        try {
+            const allBundles = AssetBundle.method("GetAllLoadedAssetBundles").invoke();
+            if (allBundles == null || allBundles.isNull()) {
+                return null;
+            }
+            // Get the bundle filename from the full path
+            const bundleFileName = ((_a = bundlePath.split('/').pop()) === null || _a === void 0 ? void 0 : _a.split('\\').pop()) || '';
+            console.log("Looking for bundle with filename:", bundleFileName);
+            // Convert IEnumerable to array-like iteration
+            const bundleEnum = allBundles.method("GetEnumerator").invoke();
+            while (bundleEnum.method("MoveNext").invoke()) {
+                const bundle = bundleEnum.method("get_Current").invoke();
+                if (bundle && !bundle.isNull()) {
+                    // First priority: Try to verify this bundle contains our target asset
+                    let hasTargetAsset = false;
+                    try {
+                        const testAsset = bundle.method("Contains", 1).invoke(Il2Cpp.string("assets/" + clipName));
+                        if (testAsset) {
+                            console.log("Bundle contains our target asset! Using existing bundle");
+                            return bundle;
+                        }
+                    }
+                    catch (e) {
+                        // Contains method might not exist or might fail, continue with name matching
+                    }
+                    // Second priority: Try exact name matching
+                    try {
+                        let bundleName = null;
+                        if (bundle.method("get_name")) {
+                            bundleName = bundle.method("get_name").invoke();
+                        }
+                        if (bundleName) {
+                            const nameStr = bundleName.toString();
+                            console.log("Found loaded bundle with name:", nameStr);
+                            // Only match if the names are exactly equal (avoid partial matches like "1" matching everything)
+                            if (nameStr === ("\"" + bundleFileName + "\"")) {
+                                console.log("Bundle name matches exactly! Verifying it contains target asset...");
+                                // Double-check by trying to load the asset
+                                try {
+                                    const AudioClip = Il2Cpp.domain.assembly("UnityEngine.AudioModule").image.class("UnityEngine.AudioClip");
+                                    const testLoadRequest = bundle.method("LoadAssetAsync", 2).invoke(Il2Cpp.string("assets/" + clipName), AudioClip.type.object);
+                                    if (testLoadRequest && !testLoadRequest.isNull()) {
+                                        console.log("Asset load test successful, this is the correct bundle");
+                                        return bundle;
+                                    }
+                                }
+                                catch (e) {
+                                    console.log("Asset load test failed, this might not be the right bundle");
+                                }
+                            }
+                        }
+                    }
+                    catch (e) {
+                        // Name method doesn't exist, skip this bundle
+                    }
+                }
+            }
+            console.log("No matching already-loaded bundle found");
+            return null;
+        }
+        catch (e) {
+            console.log("Error checking for already loaded bundles:", e);
+            return null;
+        }
+    }
+    function loadAssetFromBundle(bundle, clipName, cacheKey, callback) {
+        console.log("Loading asset:", clipName);
+        const AudioClip = Il2Cpp.domain.assembly("UnityEngine.AudioModule").image.class("UnityEngine.AudioClip");
+        const assetRequest = bundle.method("LoadAssetAsync", 2).invoke(Il2Cpp.string("assets/" + clipName), AudioClip.type.object);
+        if (assetRequest == null || assetRequest.isNull()) {
+            console.log("Failed to create asset load request:", clipName);
+            callback(null);
+            return;
+        }
+        // Wait for asset to load
+        waitForAssetRequest(assetRequest, (clip) => {
+            if (clip == null || clip.isNull()) {
+                console.log("Clip not found:", clipName);
+                callback(null);
+                return;
+            }
+            loadedClips[cacheKey] = clip;
+            callback(clip);
+        });
+    }
+    function waitForAssetBundleRequest(request, callback) {
+        const checkComplete = () => {
+            const isDone = request.method("get_isDone").invoke();
+            if (isDone) {
+                const bundle = request.method("get_assetBundle").invoke();
+                callback(bundle);
+            }
+            else {
+                setTimeout(checkComplete, 10); // Check again in 10ms
+            }
+        };
+        checkComplete();
+    }
+    function waitForAssetRequest(request, callback) {
+        const checkComplete = () => {
+            const isDone = request.method("get_isDone").invoke();
+            if (isDone) {
+                const asset = request.method("get_asset").invoke();
+                callback(asset);
+            }
+            else {
+                setTimeout(checkComplete, 10); // Check again in 10ms
+            }
+        };
+        checkComplete();
+    }
+    function PlayAudioFromFile(filePath, audioName) {
+        const PrefabGenerator = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+        const NetowrkRunner = PrefabGenerator.field("_instance").value.method("get_runner").invoke();
+        if (NetowrkRunner.field("_cloudServices").value.method("get_IsInRoom").invoke()) {
+            // Load clip from AssetBundle asynchronously
+            LoadClipFromAssetBundle(filePath, audioName, (sound) => {
+                if (sound == null) {
+                    console.log("Could not load AudioClip at path:", filePath);
+                    return;
+                }
+                playAudioClip(sound, filePath);
+            });
+        }
+    }
+    function playAudioClip(sound, path, extraDelay = 0) {
+        // Get PrimaryRecorder
+        const localPlayer = AssemblyCSharp.class("AnimalCompany.NetPlayer").method("get_localPlayer").invoke();
+        const myRecorder = localPlayer.field("_recorder").value;
+        if (myRecorder == null) {
+            console.log("PrimaryRecorder is null, can't play audio");
+            return;
+        }
+        // Set up audio clip playback
+        myRecorder.method("set_SourceType", 1).invoke(1); // 1 = AudioClip source
+        myRecorder.method("set_AudioClip", 1).invoke(sound);
+        myRecorder.method("set_DebugEchoMode", 1).invoke(true);
+        // Start recording and transmission
+        myRecorder.method("RestartRecording", 0).invoke();
+        console.log(`Playing AudioClip '${path}' through PrimaryRecorder`);
+        const length = sound.method("get_length").invoke();
+        setTimeout(() => {
+            console.log("done waiting!");
+            FixMic();
+        }, (length * 1000) + extraDelay);
+    }
+    function FixMic() {
+        const PrefabGenerator = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+        const NetowrkRunner = PrefabGenerator.field("_instance").value.method("get_runner").invoke();
+        if (NetowrkRunner.field("_cloudServices").value.method("get_IsInRoom").invoke()) {
+            // Get PrimaryRecorder
+            const localPlayer = AssemblyCSharp.class("AnimalCompany.NetPlayer").method("get_localPlayer").invoke();
+            const myRecorder = localPlayer.field("_recorder").value;
+            if (myRecorder == null) {
+                console.log("PrimaryRecorder is null, can't fix mic");
+                return;
+            }
+            myRecorder.method("set_SourceType", 1).invoke(0); // 1 = AudioClip source
+            myRecorder.method("set_AudioClip", 1).invoke(null);
+            myRecorder.method("set_DebugEchoMode", 1).invoke(false);
+            myRecorder.method("RestartRecording", 0).invoke();
+        }
+    }
+    //function sendAllOutgoing() {
+    //    GorillaNotInst.field("rpcErrorMax").value = Number.MAX_SAFE_INTEGER;
+    //    GorillaNotInst.field("rpcCallLimit").value = Number.MAX_SAFE_INTEGER;
+    //    GorillaNotInst.field("logErrorMax").value = Number.MAX_SAFE_INTEGER;
+    //    PhotonNetwork.method("set_MaxResendsBeforeDisconnect").invoke(Number.MAX_SAFE_INTEGER);
+    //    PhotonNetwork.method("set_QuickResends").invoke(Number.MAX_SAFE_INTEGER);
+    //    PhotonNetwork.method("SendAllOutgoingCommands").invoke();
+    //}
+    //
+    //function serialize() {
+    //    PhotonNetwork.method("RunViewUpdate").invoke();
+    //}
+    // 10000% skidded from iis.stupid.menu
+    /// <summary>
+    /// Plays a 2D audio clip at the specified volume using a singleton audio manager.
+    /// </summary>
+    /// <param name="sound">The audio clip to play.</param>
+    /// <param name="volume">The volume at which to play the audio clip. Defaults to 1f.</param>
+    //public static void Play2DAudio(AudioClip sound, float volume = 1f)
+    //{
+    //    if (audioManager == null)
+    //    {
+    //        audioManager = new GameObject("2DAudioMgr");
+    //        AudioSource temp = audioManager.AddComponent<AudioSource>();
+    //        temp.spatialBlend = 0f;
+    //    }
+    //    AudioSource ausrc = audioManager.GetComponent<AudioSource>();
+    //    ausrc.volume = volume;
+    //    ausrc.PlayOneShot(sound);
+    //}
+    function Play2DAudio(clip, volume) {
+        if (audioManager == null) {
+            audioManager = GameObject.new("2DAudioMgr");
+            let temp = addComponent(audioManager, AudioSource);
+            temp.method("set_spatialBlend").invoke(0);
+        }
+        let ausrc = getComponent(audioManager, AudioSource);
+        ausrc.method("set_volume").invoke(volume);
+        ausrc.method("PlayOneShot", 1).invoke(clip);
+    }
+    function kickPlayer(player) {
+        const PrefabGenerator = AssemblyCSharp.class("AnimalCompany.NetSessionRPCs");
+        console.log("starting kick...");
+        console.log("get net session rpc instance");
+        const netinst = PrefabGenerator.field("_instance").value;
+        if (!netinst)
+            return null;
+        console.log("not null, get method and call");
+        const kickplr = PrefabGenerator.method("KickPlayer");
+        if (!kickplr)
+            return null;
+        const rpckickplr = netinst.method("RPC_KickPlayer");
+        if (!rpckickplr)
+            return null;
+        console.log("methods valid, prepare player");
+        const plruserID = player.field("_userID").value;
+        if (!plruserID)
+            return null;
+        console.log("player user id is valid, call parse of guid");
+        const parsedid = Il2Cpp.corlib.class("System.Guid").method("Parse").invoke(plruserID);
+        console.log("parse user id: " + parsedid + " calling kick");
+        rpckickplr.invoke(parsedid);
+        console.log("rpc kick success, call local kick");
+        kickplr.invoke(plruserID);
+        console.log("success kick player");
+        console.log("end kick player");
+    }
+    function executeFullGhostCycle() {
+        if (waitingForRoom || isGhostFollowingActive)
+            return;
+        console.log("[+] Starting full ghost cycle: Join room -> Follow players -> Kick all -> Repeat");
+        // First, join a new room
+        if (joinNewRoom()) {
+            waitingForRoom = true;
+            roomJoinAttempted = true;
+            waitForNewRoomAndStartGhost();
+        }
+        else {
+            console.log("[-] Failed to join new room");
+        }
+    }
+    function joinNewRoom() {
+        console.log("[+] Attempting to join new room...");
+        try {
+            // Find ComputerTerminalMediator instance
+            const ComputerTerminalMediator = AssemblyCSharp.class("AnimalCompany.ComputerTerminalMediator");
+            // Find the mediator object
+            const mediatorInstance = Object.method("FindObjectOfType").inflate(ComputerTerminalMediator).invoke();
+            if (mediatorInstance.isNull()) {
+                console.log("[-] ComputerTerminalMediator instance is null");
+                return false;
+            }
+            // Call HandleJoinRandomPressed
+            console.log("[+] Calling HandleJoinRandomPressed...");
+            mediatorInstance.method("HandleJoinRandomPressed").invoke();
+            console.log("[+] Join random room request sent");
+            return true;
+        }
+        catch (e) {
+            console.log(`[-] Error joining new room: ${e}`);
+            return false;
+        }
+    }
+    function checkIfInNewRoom() {
+        try {
+            const PrefabGenerator = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+            const instance = PrefabGenerator.field("_instance").value;
+            if (instance.isNull()) {
+                console.log("[-] PrefabGenerator instance is null");
+                return false;
+            }
+            const NetworkRunner = instance.method("get_runner").invoke();
+            if (NetworkRunner.isNull()) {
+                console.log("[-] NetworkRunner is null");
+                return false;
+            }
+            // Use the cleaner IsInRoom check
+            const cloudServices = NetworkRunner.field("_cloudServices").value;
+            if (cloudServices.isNull()) {
+                console.log("[-] CloudServices is null");
+                return false;
+            }
+            const isInRoom = cloudServices.method("get_IsInRoom").invoke();
+            console.log(`[+] IsInRoom status: ${isInRoom}`);
+            if (!isInRoom) {
+                return false;
+            }
+            return isInRoom;
+        }
+        catch (e) {
+            console.log(`[-] Error in checkIfInNewRoom: ${e}`);
+            return false;
+        }
+    }
+    function waitForNewRoomAndStartGhost() {
+    }
+    function startGhostFollowing() {
+        if (isGhostFollowingActive) {
+            console.log("[!] Ghost following already active");
+            return;
+        }
+        PlayAudioFromFile("/sdcard/Android/data/woosterGames.animalCompany/files/1", "1/do.mp3");
+        isGhostFollowingActive = true;
+        currentPlayerIndex = 0;
+        lastSwitchTime = Date.now();
+        console.log("[+] Starting ghost following...");
+        // Find all NetPlayer objects
+        const NetPlayer = AssemblyCSharp.class("AnimalCompany.NetPlayer");
+        const findObjectsOfTypeMethod = Object.method("FindObjectsOfType").inflate(NetPlayer);
+        const netPlayersArray = findObjectsOfTypeMethod.invoke();
+        if (netPlayersArray.isNull()) {
+            console.log("[-] No NetPlayer objects found");
+            isGhostFollowingActive = false;
+            return;
+        }
+        // Convert array to JavaScript array
+        netPlayers = [];
+        console.log(`[+] Found ${netPlayersArray.length} NetPlayer objects`);
+        for (let i = 0; i < netPlayersArray.length; i++) {
+            const player = netPlayersArray.get(i);
+            if (!player.isNull()) {
+                netPlayers.push(player);
+            }
+        }
+        if (netPlayers.length === 0) {
+            console.log("[-] No valid NetPlayer objects found");
+            isGhostFollowingActive = false;
+            return;
+        }
+        console.log(`[+] Tracking ${netPlayers.length} players`);
+    }
+    function updateGhostFollowing() {
+        if (!isGhostFollowingActive || netPlayers.length === 0) {
+            return;
+        }
+        const currentTime = Date.now();
+        // Check if it's time to switch to next player (every 2 seconds)
+        if (currentTime - lastSwitchTime >= 700) {
+            currentPlayerIndex++;
+            // If we've gone through all players, kick them all and reset
+            if (currentPlayerIndex >= netPlayers.length) {
+                console.log("[+] Finished following all players, kicking everyone...");
+                kickAllPlayers();
+                return;
+            }
+            lastSwitchTime = currentTime;
+            console.log(`[+] Switching to player ${currentPlayerIndex + 1}/${netPlayers.length}`);
+        }
+        // Follow current player
+        const currentPlayer = netPlayers[currentPlayerIndex];
+        if (currentPlayer && !currentPlayer.isNull()) {
+            try {
+                // Get player position
+                const transform = currentPlayer.method("get_transform").invoke();
+                if (!transform.isNull()) {
+                    const position = transform.method("get_position").invoke();
+                    // Get your player's transform to move it
+                    const localPlayer = getLocalPlayer();
+                    if (localPlayer && !localPlayer.isNull()) {
+                        const localTransform = localPlayer.method("get_transform").invoke();
+                        if (!localTransform.isNull()) {
+                            // Set position
+                            localTransform.method("set_position").invoke(position);
+                        }
+                    }
+                }
+            }
+            catch (e) {
+                console.log(`[-] Error following player ${currentPlayerIndex}: ${e}`);
+            }
+        }
+    }
+    function kickAllPlayers() {
+        console.log("[+] Getting NetworkRunner instance for kicking...");
+        const PrefabGenerator = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+        try {
+            let kickCount = 0;
+            const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+            for (let i = 0; i < rigs.length; i++) {
+                const rig = rigs.get(i);
+                if (playerIsLocal(rig))
+                    continue;
+                kickPlayer(rig);
+                kickCount++;
+            }
+            console.log(`[+] Kicked ${kickCount} players`);
+            console.log("=============================");
+            // Reset and start new cycle after 3 seconds
+            resetGhostFollowing();
+            rightPrimary = false;
+            setTimeout(() => {
+                if (rightPrimary) { // Only restart if still holding the button
+                    executeFullGhostCycle();
+                }
+            }, 3000);
+        }
+        catch (e) {
+            console.log(`[-] Error in kickAllPlayers: ${e}`);
+            resetGhostFollowing();
+            rightPrimary = false;
+        }
+    }
+    function getLocalPlayer() {
+        try {
+            const PlayerController = AssemblyCSharp.class("AnimalCompany.PlayerController");
+            const player = PlayerController.method("get_instance").invoke();
+            if (!player.isNull()) {
+                const playerView = player.method("get_playerView").invoke();
+                if (!playerView.isNull()) {
+                    return playerView.field("_cameraTransform").value;
+                }
+            }
+        }
+        catch (e) {
+            console.log(`[-] Error getting local player: ${e}`);
+        }
+        return null;
+    }
+    function resetGhostFollowing() {
+        isGhostFollowingActive = false;
+        currentPlayerIndex = 0;
+        netPlayers = [];
+        waitingForRoom = false;
+        roomJoinAttempted = false;
+        if (roomCheckInterval) {
+            clearInterval(roomCheckInterval);
+            roomCheckInterval = null;
+        }
+        console.log("[+] Ghost following reset");
+    }
+    function stopGhostFollowing() {
+        resetGhostFollowing();
+        console.log("[+] Ghost following stopped");
+    }
+    function renderMenuText(canvasObject, text = "", color = [1, 1, 1, 1], pos = zeroVector, size = oneVector) {
+        const title = addComponent(createObject(zeroVector, identityQuaternion, oneVector, 3, [0, 0, 0, 0], getTransform(canvasObject)), Text);
+        title.method("set_text").invoke(Il2Cpp.string(text));
+        title.method("set_font").invoke(arial);
+        title.method("set_fontSize").invoke(1);
+        title.method("set_color").invoke(color);
+        title.method("set_fontStyle").invoke(2);
+        title.method("set_alignment").invoke(4);
+        title.method("set_resizeTextForBestFit").invoke(true);
+        title.method("set_resizeTextMinSize").invoke(0);
+        const rectTransform = getComponent(title, RectTransform);
+        rectTransform.method("set_sizeDelta").invoke(size);
+        rectTransform.method("set_position").invoke(pos);
+        rectTransform.method("set_rotation").invoke(Quaternion.method("Euler").invoke(180.0, 90.0, 90.0));
+    }
+    function createMaterial(shader) {
+        const material = Material.new();
+        return Material.method("CreateWithShader").invoke(material, shader);
+    }
+    function createObject(pos = zeroVector, rot = identityQuaternion, scale = oneVector, primitiveType = 3, colorArr = [1, 1, 1, 1], parent = null) {
+        const obj = GameObject.method("CreatePrimitive").invoke(primitiveType);
+        const renderer = getComponent(obj, Renderer);
+        if (colorArr[3] == 0) {
+            renderer.method("set_enabled").invoke(false);
+        }
+        else {
+            const material = renderer.method("get_material").invoke();
+            material.method("set_shader").invoke(UberShader);
+            material.method("set_color").invoke(colorArr);
+        }
+        const transform = getTransform(obj);
+        if (parent != null) {
+            transform.method("SetParent", 2).invoke(parent, false);
+        }
+        transform.method("set_position").invoke(pos);
+        transform.method("set_rotation").invoke(rot);
+        transform.method("set_localScale").invoke(scale);
+        return obj;
+    }
+    function sendNotification(NotificationText = "", requiresReload = true, clearTime = 5) {
+        const isOld = (currentNotification == NotificationText);
+        notifactionResetTime = time + clearTime;
+        currentNotification = NotificationText;
+        if (requiresReload && !isOld)
+            reloadMenu();
+    }
+    function renderMenu() {
+        menu = createObject(zeroVector, identityQuaternion, [0.1, 0.3, 0.3825], 3, [0, 0, 0, 0]);
+        Destroy(getComponent(menu, BoxCollider));
+        const menuBackground = createObject([0.1, 0, 0], identityQuaternion, [0.1, 1, 1], 3, bgColor, getTransform(menu));
+        Destroy(getComponent(menuBackground, BoxCollider));
+        const canvasObject = createObject(zeroVector, identityQuaternion, oneVector, 3, [0, 0, 0, 0], getTransform(menu));
+        const canvas = addComponent(canvasObject, Canvas);
+        Destroy(getComponent(canvasObject, BoxCollider));
+        const canvasScaler = addComponent(canvasObject, CanvasScaler);
+        addComponent(canvasObject, GraphicRaycaster);
+        canvas.method("set_renderMode").invoke(2);
+        canvasScaler.method("set_dynamicPixelsPerUnit").invoke(1000.0);
+        renderMenuText(canvasObject, "ii's Stupid Menu" + `<color=grey>[</color><color=white>${currentPage + 1}</color><color=grey>]</color>`, textColor, [0.11, 0, 0.175], [1, 0.1]);
+        if (time > notifactionResetTime)
+            currentNotification = "";
+        renderMenuText(canvasObject, currentNotification, textColor, [0.11, 0, 0.275], [1, 0.1]);
+        const disconnectButton = createObject([0.1, 0.0, 0.225], identityQuaternion, [0.09, 0.9, 0.08], 3, buttonColor, getTransform(menu));
+        disconnectButton.method("set_name").invoke(Il2Cpp.string("@Disconnect"));
+        addComponent(disconnectButton, GorillaReportButton);
+        getComponent(disconnectButton, BoxCollider).method("set_isTrigger").invoke(true);
+        renderMenuText(canvasObject, "Disconnect", textColor, [0.11, 0, 0.225], [1, 0.1]);
+        const returnButton = createObject([0.1, -0.175, -0.225], identityQuaternion, [0.09, 0.09, 0.09], 3, buttonColor, getTransform(menu));
+        returnButton.method("set_name").invoke(Il2Cpp.string("@GlobalReturn"));
+        addComponent(returnButton, GorillaReportButton);
+        getComponent(returnButton, BoxCollider).method("set_isTrigger").invoke(true);
+        renderMenuText(canvasObject, "<", textColor, [0.11, -0.175, -0.225], [1, 0.1]);
+        {
+            const pageButton = createObject([0.1, 0.2, 0], identityQuaternion, [0.09, 0.2, 0.9], 3, buttonColor, getTransform(menu));
+            pageButton.method("set_name").invoke(Il2Cpp.string("@PreviousPage"));
+            addComponent(pageButton, GorillaReportButton);
+            getComponent(pageButton, BoxCollider).method("set_isTrigger").invoke(true);
+            renderMenuText(canvasObject, "<", textColor, [0.11, 0.2, 0], [1, 0.1]);
+        }
+        {
+            const pageButton = createObject([0.1, -0.2, 0], identityQuaternion, [0.09, 0.2, 0.9], 3, buttonColor, getTransform(menu));
+            pageButton.method("set_name").invoke(Il2Cpp.string("@NextPage"));
+            addComponent(pageButton, GorillaReportButton);
+            getComponent(pageButton, BoxCollider).method("set_isTrigger").invoke(true);
+            renderMenuText(canvasObject, ">", textColor, [0.11, -0.2, 0], [1, 0.1]);
+        }
+        let i = 0;
+        const targetMods = buttons[currentCategory]
+            .slice(currentPage * 8)
+            .slice(0, 8);
+        targetMods.forEach((buttonData, index) => {
+            const button = createObject([0.105, 0, 0.13 - (i * 0.04)], identityQuaternion, [0.09, 0.9, 0.08], 3, buttonColor, getTransform(menu));
+            button.method("set_name").invoke(Il2Cpp.string("@" + buttonData.buttonText));
+            addComponent(button, GorillaReportButton);
+            getComponent(button, BoxCollider).method("set_isTrigger").invoke(true);
+            renderMenuText(canvasObject, buttonData.buttonText, textColor, [0.11, 0, 0.13 - (i * 0.04)], [1, 0.1]);
+            updateButtonColor(button, buttonData);
+            i++;
+        });
+        getTransform(menu).method("set_localScale").invoke(Vector3.method("op_Multiply").invoke(Vector3.method("op_Multiply").invoke(getTransform(menu).method("get_localScale").invoke(), GTPlayer.field("<playerScale>k__BackingField").value), menuscale));
+        //getTransform(menu).method("set_localScale").invoke(
+        //    Vector3.method("op_Multiply").invoke(
+        //        getTransform(menu).method("get_localScale").invoke(),
+        //        menuscale
+        //    )
+        //);
+        recenterMenu();
+    }
+    function renderReference() {
+        if (righthand) {
+            reference = createObject(zeroVector, identityQuaternion, [0.01, 0.01, 0.01], 0, bgColor, leftHandTransform);
+            referenceCollider = getComponent(reference, Collider);
+            getTransform(reference).method("set_localPosition").invoke([0.01, -0.117, 0.05]);
+            reference.method("set_layer").invoke(2);
+            addComponent(reference, Rigidbody).method("set_isKinematic").invoke(true);
+        }
+        else {
+            reference = createObject(zeroVector, identityQuaternion, [0.01, 0.01, 0.01], 0, bgColor, rightHandTransform);
+            referenceCollider = getComponent(reference, Collider);
+            getTransform(reference).method("set_localPosition").invoke([0.01, -0.117, 0.05]);
+            reference.method("set_layer").invoke(2);
+            addComponent(reference, Rigidbody).method("set_isKinematic").invoke(true);
+        }
+    }
+    let gunLocked = false;
+    let lockTarget = null;
+    let GunPointer = null;
+    let GunLine = null;
+    // Lagged visual positions — smoothly trail behind real hand/target positions
+    let lagSX = 0, lagSY = 0, lagSZ = 0; // origin (near hand)
+    let lagEX = 0, lagEY = 0, lagEZ = 0; // endpoint (target)
+    let lagInit = false;
+    function renderGun(overrideLayerMask = null) {
+        const StartPosition = rightHandTransform.method("get_position").invoke();
+        const Direction = rightHandTransform.method("get_forward").invoke();
+        const DirectionDivided = Vector3.method("op_Division").invoke(Direction, 4);
+        const rayStartPosition = Vector3.method("op_Addition").invoke(StartPosition, DirectionDivided);
+        const layerMask = overrideLayerMask || ~0;
+        const hits = Physics.method("RaycastAll", 4).invoke(rayStartPosition, Direction, 512.0, layerMask);
+        let finalDistance = Infinity;
+        let finalRay = null;
+        for (const hit of hits) {
+            const distance = Vector3.method("Distance").invoke(hit.method("get_point").invoke(), StartPosition);
+            try {
+                if (referenceCollider != null &&
+                    hit.method("get_collider").invoke().handle.equals(referenceCollider.handle)) {
+                    continue;
+                }
+            }
+            catch { }
+            if (distance < finalDistance) {
+                finalRay = hit;
+                finalDistance = distance;
+            }
+        } // closes for loop
+        if (GunPointer == null) {
+            GunPointer = createObject(zeroVector, identityQuaternion, [0.05, 0.05, 0.05], 0, bgColor);
+            Destroy(getComponent(GunPointer, BoxCollider));
+        }
+        GunPointer.method("SetActive").invoke(true);
+        if (finalRay != null) {
+            getTransform(GunPointer).method("set_position").invoke(finalRay.method("get_point").invoke());
+        }
+        else {
+            const fallback = Vector3.method("op_Addition").invoke(StartPosition, Vector3.method("op_Multiply").invoke(Direction, 10.0));
+            getTransform(GunPointer).method("set_position").invoke(fallback);
+        }
+        if (GunLine == null) {
+            const lineHolder = GameObject.new("GunLine");
+            GunLine = addComponent(lineHolder, LineRenderer);
+            const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("UI/Default"));
+            GunLine.method("get_material").invoke().method("set_shader").invoke(shader);
+            GunLine.method("set_startWidth").invoke(0.01);
+            GunLine.method("set_endWidth").invoke(0.01);
+            GunLine.method("set_useWorldSpace").invoke(true);
+            GunLine.method("set_startColor").invoke(bgColor);
+            GunLine.method("set_endColor").invoke(bgColor);
+        }
+        GunLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+        GunLine.method("SetPosition").invoke(0, StartPosition);
+        GunLine.method("SetPosition").invoke(1, getTransform(GunPointer).method("get_position").invoke());
+        return { gunPointer: GunPointer, ray: finalRay };
+    }
+    function recenterMenu() {
+        const menuTransform = getTransform(menu);
+        let targetPos, targetRot;
+        if (righthand) {
+            targetPos = rightHandTransform.method("get_position").invoke();
+            targetRot = rightHandTransform.method("get_rotation").invoke();
+            targetRot = Quaternion.method("op_Multiply").invoke(targetRot, Quaternion.method("Euler").invoke(0, 0, 180));
+        }
+        else {
+            targetPos = leftHandTransform.method("get_position").invoke();
+            targetRot = leftHandTransform.method("get_rotation").invoke();
+            targetRot = Quaternion.method("op_Multiply").invoke(targetRot, Quaternion.method("Euler").invoke(0, 0, 0));
+        }
+        if (LerpMenu) {
+            const menuPos = menuTransform.method("get_position").invoke();
+            const distance = Vector3.method("Distance").invoke(menuPos, zeroVector);
+            if (distance < 1) {
+                menuTransform.method("set_position").invoke(targetPos);
+                menuTransform.method("set_rotation").invoke(targetRot);
+            }
+            else {
+                const newPos = Vector3.method("Lerp").invoke(menuPos, targetPos, deltaTime * 15);
+                menuTransform.method("set_position").invoke(newPos);
+                const newRot = Quaternion.method("Slerp").invoke(menuTransform.method("get_rotation").invoke(), targetRot, deltaTime * 15);
+                menuTransform.method("set_rotation").invoke(newRot);
+            }
+        }
+        else {
+            menuTransform.method("set_position").invoke(targetPos);
+            menuTransform.method("set_rotation").invoke(targetRot);
+        }
+    }
+    function spawnNetworkPrefab(prefabName, pos, rot) {
+        try {
+            const runner = PrefabGen.field("_instance")
+                .value.method("get_runner")
+                .invoke();
+            if (!runner || runner.isNull())
+                return null;
+            const sources = runner
+                .field("_config")
+                .value.field("PrefabTable")
+                .value.field("_sources").value;
+            const count = sources.method("get_Count").invoke();
+            for (let i = 0; i < count; i++) {
+                try {
+                    const source = sources.method("get_Item").invoke(i);
+                    const desc = source
+                        .method("get_Description")
+                        .invoke()
+                        .toString();
+                    if (desc.includes(prefabName)) {
+                        const no = source.method("WaitForResult").invoke();
+                        if (!no || no.isNull())
+                            return null;
+                        const makeZeroForType = type => {
+                            if (type.class.isEnum || type.isPrimitive)
+                                return 0;
+                            if (!type.class.isValueType)
+                                return null;
+                            const fields = type.class.fields.filter(f => !f.isStatic);
+                            if (fields.length === 0)
+                                return 0;
+                            return fields.map(f => makeZeroForType(f.type));
+                        };
+                        const buildNullableArg = (nullableType, hasValue, value) => {
+                            const fields = nullableType.class.fields.filter(f => !f.isStatic);
+                            return fields.map(f => {
+                                const lname = f.name.toLowerCase();
+                                if (lname.includes("hasvalue"))
+                                    return hasValue ? 1 : 0;
+                                if (lname === "value")
+                                    return hasValue ? value : makeZeroForType(f.type);
+                                return makeZeroForType(f.type);
+                            });
+                        };
+                        const normalizeValue = (type, value) => {
+                            if (typeof value === "boolean")
+                                return value ? 1 : 0;
+                            if (value instanceof Il2Cpp.ValueType) {
+                                const fields = type.class.fields.filter(f => !f.isStatic);
+                                if (fields.length === 0)
+                                    return 0;
+                                return fields.map(f => normalizeValue(f.type, f.bind(value).value));
+                            }
+                            if (Array.isArray(value))
+                                return value.map(v => normalizeValue(type, v));
+                            return value;
+                        };
+                        const buildNullableFromValueType = (nullableType, valueType) => {
+                            return buildNullableArg(nullableType, true, normalizeValue(valueType.type, valueType));
+                        };
+                        let spawnMethod = null;
+                        for (const m of runner.method("Spawn").overloads()) {
+                            if (m.parameterCount !== 6 || m.isGeneric)
+                                continue;
+                            const p = m.parameters;
+                            if (p[0].type.name.includes("Fusion.NetworkObject") &&
+                                p[1].type.name.startsWith("System.Nullable") &&
+                                p[1].type.name.includes("Vector3") &&
+                                p[2].type.name.startsWith("System.Nullable") &&
+                                p[2].type.name.includes("Quaternion") &&
+                                p[3].type.name.startsWith("System.Nullable") &&
+                                p[3].type.name.includes("PlayerRef") &&
+                                p[4].type.name.includes("OnBeforeSpawned") &&
+                                p[5].type.name.includes("NetworkSpawnFlags")) {
+                                spawnMethod = m;
+                                break;
+                            }
+                        }
+                        if (!spawnMethod)
+                            return null;
+                        const posArg = buildNullableFromValueType(spawnMethod.parameters[1].type, pos);
+                        const rotArg = buildNullableFromValueType(spawnMethod.parameters[2].type, rot);
+                        const authArg = buildNullableArg(spawnMethod.parameters[3].type, false, makeZeroForType(spawnMethod.parameters[3].type));
+                        const onBeforeArg = spawnMethod.parameters[4].type.class.isValueType ?
+                            makeZeroForType(spawnMethod.parameters[4].type) :
+                            null;
+                        return spawnMethod
+                            .bind(runner)
+                            .invoke(no, posArg, rotArg, authArg, onBeforeArg, 0);
+                    }
+                }
+                catch (_) { }
+            }
+        }
+        catch (e) {
+            console.error("spawnNetworkPrefab error:", e);
+        }
+        return null;
+    }
+    function reloadMenu() {
+        if (menu != null) {
+            Object.method("Destroy", 1).invoke(menu);
+            menu = null;
+        }
+    }
+    function updateButtonColor(button, buttonData) {
+        const RendererClass = Il2Cpp.domain
+            .assembly("UnityEngine.CoreModule")
+            .image
+            .class("UnityEngine.Renderer");
+        const renderer = getComponent(button, RendererClass);
+        if (!renderer) {
+            return;
+        }
+        const material = renderer.method("get_material").invoke();
+        material.method("set_color").invoke(buttonData.enabled ? buttonPressedColor : buttonColor);
+    }
+    function playButtonSound() {
+        //LocalRig.method("PlayHandTapLocal").invoke(buttonSound, false, 0.3);
+        //if (righthand) {
+        //    GorillaTagger.method("StartVibration").invoke(true, 0.5, 0.075);
+        //}
+        //else {
+        //    GorillaTagger.method("StartVibration").invoke(false, 0.5, 0.075);
+        //}
+        //            AnimalCompany::SFXManager::RPC_PlaySFX(AnimalCompany::SFXManager::get__currentRunner(), Settings::sfxIndex, tran->GetPosition(), 1.0f);
+        const sound = buttonSound;
+        const NetworkRunner = SFXManager.method("get__currentRunner").invoke();
+        SFXManager.method("RPC_PlaySFX").invoke(NetworkRunner, sound, 1, leftHandTransform.method("get_position").invoke(), 1.0);
+        //if(!localButtonSounds) { SFXManager.method("RPC_PlaySFX").invoke(NetworkRunner, sound, 1, leftHandTransform.method("get_position").invoke(), 1.0); }
+        //else { SFXManager.method("PlaySFXLocal", ["Int16", "Vector3", "Single", "Single", "Single"]).invoke(sound, leftHandTransform.method("get_position").invoke(), 1.0, 1.0, 1.0); }
+        //	public static Void PlaySFXLocal(Int16 sfxID, Vector3 position, Single volume, Single spatialBlend, Single basePitch) { }
+        //plop 19
+        //elevator? 44
+        //magma (sounds clean and cool) 67! SIX SEVEN
+        //tech world glass (cuts off) 68
+        //arrow hit 75
+        //86 fart
+        //100 fart 2?
+        //hookshot (sounds good ig?) 119
+        //unloaded revolver (good button sound?) 138
+        //snowball ill keep it in cuz it has potential 160
+        //ore pickup like magma again 172
+        //that one vending machine thing button 178
+        //computer key or stash key whatev (cuts out) 180
+        //friend machine 182
+        //ducky 191
+    }
+    function toggleColliders(enabled) {
+        const meshColliders = Object.method("FindObjectsOfType").inflate(MeshCollider).invoke();
+        for (let i = 0; i < meshColliders.length; i++) {
+            const meshCollider = meshColliders.get(i);
+            meshCollider.method("set_enabled").invoke(enabled);
+        }
+    }
+    class ButtonInfo {
+        constructor(config) {
+            var _a, _b, _c;
+            this.buttonText = config.buttonText;
+            this.method = config.method;
+            this.enableMethod = config.enableMethod;
+            this.disableMethod = config.disableMethod;
+            this.isTogglable = (_a = config.isTogglable) !== null && _a !== void 0 ? _a : true;
+            this.toolTip = (_b = config.toolTip) !== null && _b !== void 0 ? _b : null;
+            this.enabled = (_c = config.enabled) !== null && _c !== void 0 ? _c : false;
+        }
+    }
+    let currentCategory = 0;
+    let currentPage = 0;
+    const buttons = [
+        [
+            new ButtonInfo({
+                buttonText: "Settings",
+                method: () => { currentCategory = 2; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the settings category."
+            }),
+            new ButtonInfo({
+                buttonText: "Movement Mods",
+                method: () => { currentCategory = 3; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the movement category."
+            }),
+            new ButtonInfo({
+                buttonText: "Fun Mods",
+                method: () => { currentCategory = 4; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the fun category."
+            }),
+            new ButtonInfo({
+                buttonText: "Advantage Mods",
+                method: () => { currentCategory = 5; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the advantage category."
+            }),
+            new ButtonInfo({
+                buttonText: "Rig Mods",
+                method: () => { currentCategory = 6; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the rig category."
+            }),
+            new ButtonInfo({
+                buttonText: "Misc Mods",
+                method: () => { currentCategory = 7; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the misc category."
+            }),
+            new ButtonInfo({
+                buttonText: "Visual Mods",
+                method: () => { currentCategory = 8; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the visual category."
+            }),
+            new ButtonInfo({
+                buttonText: "Overpowered Mods",
+                method: () => { currentCategory = 9; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the op category."
+            }),
+            new ButtonInfo({
+                buttonText: "Item Mods",
+                method: () => { currentCategory = 10; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the items category."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Mods",
+                method: () => { currentCategory = 11; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the mob category."
+            }),
+            new ButtonInfo({
+                buttonText: "<color=red>♥</color> BLTH",
+                method: () => { currentCategory = 12; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the BLTH category."
+            }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Disconnect",
+                method: () => {
+                    const networkrunner = SFXManager.method("get__currentRunner").invoke();
+                    const NManagerInst = NManager.method("get_instance").invoke();
+                    NManagerInst.method("OnPlayerLeft").invoke(networkrunner, networkrunner.method("get_LocalPlayer").invoke());
+                }, //sendNotification("stripped"),//NetworkSystem.method("ReturnToSinglePlayer").invoke(),
+                isTogglable: false,
+                toolTip: "Disconnects you from the room. "
+            }),
+            new ButtonInfo({
+                buttonText: "PreviousPage",
+                method: () => {
+                    const lastPage = Math.ceil(buttons[currentCategory].length / 8) - 1;
+                    currentPage--;
+                    if (currentPage < 0)
+                        currentPage = lastPage;
+                },
+                isTogglable: false
+            }),
+            new ButtonInfo({
+                buttonText: "NextPage",
+                method: () => {
+                    const lastPage = Math.ceil(buttons[currentCategory].length / 8) - 1;
+                    currentPage++;
+                    currentPage %= lastPage + 1;
+                },
+                isTogglable: false
+            }),
+            new ButtonInfo({
+                buttonText: "GlobalReturn",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            })
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Settings",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Change Menu Theme",
+                method: () => {
+                    themeIndex++;
+                    themeIndex %= 10;
+                    switch (themeIndex) {
+                        case 0:
+                            bgColor = [1.0, 0.5, 0.0, 1.0];
+                            textColor = [1.0, 0.7450981, 0.4901961, 1.0];
+                            buttonColor = [0.666, 0.333, 0.0, 1.0];
+                            buttonPressedColor = [0.333, 0.150, 0.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 1:
+                            bgColor = [1.0, 0.0, 0.0, 1.0];
+                            textColor = [1.0, 1.0, 1.0, 1.0];
+                            buttonColor = [0.0, 0.0, 0.0, 1.0];
+                            buttonPressedColor = [1.0, 0.0, 0.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 2:
+                            bgColor = [0.0, 1.0, 0.0, 1.0];
+                            textColor = [1.0, 1.0, 1.0, 1.0];
+                            buttonColor = [0.0, 0.0, 0.0, 1.0];
+                            buttonPressedColor = [0.0, 1.0, 0.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 3:
+                            bgColor = [0.0, 0.0, 1.0, 1.0];
+                            textColor = [1.0, 1.0, 1.0, 1.0];
+                            buttonColor = [0.0, 0.0, 0.0, 1.0];
+                            buttonPressedColor = [0.0, 0.0, 1.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 4:
+                            bgColor = [0.5, 0.0, 0.5, 1.0];
+                            textColor = [1.0, 0.9, 1.0, 1.0];
+                            buttonColor = [0.25, 0.0, 0.25, 1.0];
+                            buttonPressedColor = [0.7, 0.0, 0.7, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 5:
+                            bgColor = [0.0, 0.7, 0.7, 1.0];
+                            textColor = [1.0, 0.2, 0.8, 1.0];
+                            buttonColor = [0.0, 0.3, 0.3, 1.0];
+                            buttonPressedColor = [1.0, 0.0, 0.7, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 6:
+                            bgColor = [0.9, 0.7, 0.1, 1.0];
+                            textColor = [0.0, 0.0, 0.0, 1.0];
+                            buttonColor = [0.2, 0.2, 0.2, 1.0];
+                            buttonPressedColor = [1.0, 0.84, 0.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 7:
+                            bgColor = [0.7, 0.9, 1.0, 1.0];
+                            textColor = [0.1, 0.2, 0.4, 1.0];
+                            buttonColor = [0.5, 0.7, 0.9, 1.0];
+                            buttonPressedColor = [0.2, 0.4, 0.8, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 8:
+                            bgColor = [0.6, 0.0, 0.0, 1.0];
+                            textColor = [1.0, 0.7, 0.2, 1.0];
+                            buttonColor = [0.2, 0.0, 0.0, 1.0];
+                            buttonPressedColor = [1.0, 0.3, 0.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 9:
+                            bgColor = [0.05, 0.05, 0.1, 1.0];
+                            textColor = [0.6, 0.8, 1.0, 1.0];
+                            buttonColor = [0.1, 0.1, 0.2, 1.0];
+                            buttonPressedColor = [0.4, 0.6, 1.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes the theme of the menu."
+            }),
+            new ButtonInfo({
+                buttonText: "Change Eject Dupe Amount",
+                method: () => {
+                    ejectDupeIndex++;
+                    ejectDupeIndex %= ejectDupeValues.length;
+                    ejectDupeAmount = ejectDupeValues[ejectDupeIndex];
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New eject dupe amount: " + ejectDupeAmount, false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles through preset dupe amounts."
+            }),
+            new ButtonInfo({
+                buttonText: "Jelly Time & duration",
+                method: () => {
+                    jellywowes++;
+                    if (jellywowes > 1.0) {
+                        jellywowes = 1.0;
+                    }
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New jelly time & duration: " + jellywowes, false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles through preset dupe amounts."
+            }),
+            new ButtonInfo({
+                buttonText: "Change Head Size Amount",
+                method: () => {
+                    headSizeIndex++;
+                    headSizeIndex %= headSizeValues.length;
+                    headSizeAmount = headSizeValues[headSizeIndex];
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New head size amount: " + headSizeAmount, false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles through preset head size amounts."
+            }),
+            new ButtonInfo({
+                buttonText: "Change Sound File",
+                method: () => {
+                    soundFileIndex++;
+                    soundFileIndex %= soundFileFiles.length;
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New head size amount: " + soundFileFiles[soundFileIndex], false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles through preset head size amounts."
+            }),
+            new ButtonInfo({
+                buttonText: "Play Sound",
+                method: () => {
+                    if (rightSecondary && !previousSoundKey) {
+                        PlayAudioFromFile("/sdcard/Android/data/woosterGames.animalCompany/files/1", soundFileFiles[soundFileIndex]);
+                    }
+                    //if (!rightSecondary && previousSoundKey) {
+                    //    toggleColliders(true);
+                    //}
+                    previousSoundKey = rightSecondary;
+                },
+                isTogglable: true,
+                toolTip: "Changes the theme of the menu."
+            }),
+            new ButtonInfo({
+                buttonText: "Fix Mic",
+                method: () => {
+                    FixMic();
+                },
+                isTogglable: false,
+                toolTip: "Fixes your player mic."
+            }),
+            new ButtonInfo({
+                buttonText: "Negative Head Size",
+                method: () => negativeHeadSize = true,
+                disableMethod: () => negativeHeadSize = false,
+                isTogglable: true,
+                toolTip: "Makes the current set head size amount negative to make your head inside out."
+            }),
+            new ButtonInfo({
+                buttonText: "Local Button Sounds",
+                enabled: true,
+                enableMethod: () => localButtonSounds = true,
+                disableMethod: () => localButtonSounds = false,
+                toolTip: "Makes players not be able to hear your button sounds."
+            }),
+            new ButtonInfo({
+                buttonText: "Change Button Sound",
+                method: () => {
+                    //if(rightGrab){
+                    //   buttonIndex--;
+                    //}
+                    //else{
+                    //    buttonIndex++;
+                    //}
+                    //console.log(buttonIndex);
+                    buttonIndex++;
+                    buttonIndex %= 5;
+                    switch (buttonIndex) {
+                        case 0:
+                            buttonSound = 44;
+                            break;
+                        case 1:
+                            buttonSound = 67;
+                            break;
+                        case 2:
+                            buttonSound = 68;
+                            break;
+                        case 3:
+                            buttonSound = 75;
+                            break;
+                        case 4:
+                            buttonSound = 100;
+                            break;
+                        case 5:
+                            buttonSound = 119;
+                            break;
+                    }
+                    //sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New sound index: " + buttonIndex, false);
+                    // plop
+                    //plop 19
+                    //elevator? 44
+                    //magma (sounds clean and cool) 67! SIX SEVEN
+                    //tech world glass (cuts off) 68
+                    //arrow hit 75
+                    //86 fart
+                    //100 fart 2?
+                    //hookshot (sounds good ig?) 119
+                    //unloaded revolver (good button sound?) 138
+                    //snowball ill keep it in cuz it has potential 160
+                    //ore pickup like magma again 172
+                    //that one vending machine thing button 178
+                    //computer key or stash key whatev (cuts out) 180
+                    //friend machine 182
+                    //ducky 191
+                },
+                isTogglable: false,
+                toolTip: "Changes the button sound."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "button that does nothing",
+            //    method: () => {
+            //        return;
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Changes the button sound."
+            //}),
+            new ButtonInfo({
+                buttonText: "Change Item ID",
+                method: () => {
+                    if (rightGrab) {
+                        itemIndex--;
+                    }
+                    else {
+                        itemIndex++;
+                    }
+                    console.log(itemIDs[itemIndex]);
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New item index: " + itemIDs[itemIndex], false);
+                    //buttonIndex %= 5;
+                    //switch (buttonIndex) {
+                    //    case 0:
+                    //        buttonSound = 8;
+                    //        break;
+                    //    case 1:
+                    //        buttonSound = 66;
+                    //        break;
+                    //    case 2:
+                    //        buttonSound = 67;
+                    //        break;
+                    //    case 3:
+                    //        buttonSound = 84;
+                    //        break;
+                    //    case 4:
+                    //        buttonSound = 106;
+                    //        break;
+                    //    case 5:
+                    //        buttonSound = 189;
+                    //        break;
+                    //}
+                },
+                isTogglable: false,
+                toolTip: "Changes the item ID. Hold right grip to go down"
+            }),
+            new ButtonInfo({
+                buttonText: "Change hue",
+                method: () => {
+                    if (rightGrab) {
+                        huespawner += 1.0;
+                    }
+                    else if (!rightGrab) {
+                        huespawner -= 1.0;
+                    }
+                    if (huespawner > 170.0) {
+                        huespawner = 170.0;
+                    }
+                    else if (huespawner < -27.0) {
+                        huespawner = 0.0;
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes the hue. Hold right grip to go up"
+            }),
+            new ButtonInfo({
+                buttonText: "Change saturation",
+                method: () => {
+                    if (rightGrab) {
+                        saturationspawner += 1.0;
+                    }
+                    else if (!rightGrab) {
+                        saturationspawner -= 1.0;
+                    }
+                    if (saturationspawner > 120.0) {
+                        saturationspawner = 120.0;
+                    }
+                    else if (saturationspawner < 0.0) {
+                        saturationspawner = 0.0;
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes the saturation. Hold right grip to go up"
+            }),
+            new ButtonInfo({
+                buttonText: "Custom Scale Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        if (rightGrab) {
+                            scaleVal++;
+                            if (scaleVal > 127)
+                                scaleVal = -127;
+                        }
+                        if (leftGrab) {
+                            scaleVal--;
+                            if (scaleVal < -127)
+                                scaleVal = 127;
+                        }
+                        grabbable.method("set_scaleModifier").invoke(scaleVal);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease scale of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Snowball minigun [huge]",
+                isTogglable: true,
+                method: (() => {
+                    // IIFE — sexyassdelay lives in this closure, persists across frames
+                    let sexyassdelay = 0;
+                    function rand(min, max) {
+                        return Math.floor(Math.random() * (max - min + 1)) + min;
+                    }
+                    return () => {
+                        try {
+                            if (!rightGrab)
+                                return;
+                            if (!rightTrigger)
+                                return;
+                            // call Time directly — module-level `time` is shadowed by a const 0 inside perform()
+                            const now = Time.method("get_time").invoke();
+                            if (now < sexyassdelay)
+                                return;
+                            sexyassdelay = now + 0.00;
+                            const pos = rightHandTransform.method("get_position").invoke();
+                            const forward = rightHandTransform.method("get_forward").invoke();
+                            const result = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("item_snowball"), pos, identityQuaternion, null);
+                            if (!result || result.handle.isNull())
+                                return;
+                            const g = result.method("GetComponent", 1).inflate(GBOClass).invoke();
+                            if (g && !g.isNull()) {
+                                g.method("set_colorHue").invoke(rand(-120, 120));
+                                g.method("set_colorSaturation").invoke(rand(-127, 127));
+                                g.method("set_scaleModifier").invoke(127);
+                                g.method("AddExternalForceVelocity", 1).invoke(Vector3.method("op_Multiply", 2).invoke(forward, 100));
+                            }
+                        }
+                        catch (e) {
+                            console.error("sperm error:", e);
+                        }
+                    };
+                })(),
+                toolTip: "Spawns white snowballs in a stream (hold right grip)."
+            }),
+            new ButtonInfo({
+                buttonText: "Change jelly",
+                method: () => {
+                    if (rightGrab) {
+                        jellyspawner += 1.0;
+                    }
+                    else if (!rightGrab) {
+                        jellyspawner -= 1.0;
+                    }
+                    if (jellyspawner > 10.0) {
+                        jellyspawner = 10.0;
+                    }
+                    else if (jellyspawner < 0.0) {
+                        jellyspawner = 0.0;
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes the jelly. Hold right grip to go up"
+            }),
+            new ButtonInfo({
+                buttonText: "Change Mob ID",
+                method: () => {
+                    if (rightGrab) {
+                        mobIndex--;
+                    }
+                    else {
+                        mobIndex++;
+                    }
+                    console.log(mobIDs[mobIndex]);
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New mob index: " + mobIDs[mobIndex], false);
+                    //buttonIndex %= 5;
+                    //switch (buttonIndex) {
+                    //    case 0:
+                    //        buttonSound = 8;
+                    //        break;
+                    //    case 1:
+                    //        buttonSound = 66;
+                    //        break;
+                    //    case 2:
+                    //        buttonSound = 67;
+                    //        break;
+                    //    case 3:
+                    //        buttonSound = 84;
+                    //        break;
+                    //    case 4:
+                    //        buttonSound = 106;
+                    //        break;
+                    //    case 5:
+                    //        buttonSound = 189;
+                    //        break;
+                    //}
+                },
+                isTogglable: false,
+                toolTip: "Changes the mob ID. Hold right grip to go down"
+            }),
+            new ButtonInfo({
+                buttonText: "Change Menu Scale",
+                method: () => {
+                    menuscale += 0.1;
+                    if (menuscale > 1.5) {
+                        menuscale = 0.3;
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes the button sound."
+            }),
+            new ButtonInfo({
+                buttonText: "Freeze Player in Menu",
+                enabled: false,
+                method: () => {
+                    if (menu != null) {
+                        if (closePosition == null) {
+                            closePosition = getTransform(rigidbody).method("get_position").invoke();
+                        }
+                        else {
+                            getTransform(rigidbody).method("set_position").invoke(closePosition);
+                            rigidbody.method("set_linearVelocity").invoke(zeroVector);
+                        }
+                    }
+                    else {
+                        closePosition = null;
+                    }
+                },
+                toolTip: "Freezes your character while in the menu."
+            }),
+            new ButtonInfo({
+                buttonText: "Button Notifications",
+                enabled: true,
+                method: () => buttonNotifications = true,
+                disableMethod: () => buttonNotifications = false,
+                toolTip: "Shows notifications when clicking menu buttons, may cause lag."
+            }),
+            new ButtonInfo({
+                buttonText: "Right Hand",
+                method: () => righthand = true,
+                disableMethod: () => righthand = true,
+                toolTip: "Lets you switch menu hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Lerp Menu",
+                method: () => LerpMenu = true,
+                disableMethod: () => LerpMenu = false,
+                toolTip: "Makes the menu Lerped."
+            }),
+            new ButtonInfo({
+                buttonText: "High Punch Power",
+                enableMethod: () => highPunchPower = true,
+                disableMethod: () => highPunchPower = false,
+                toolTip: "Makes punch mod more powerful."
+            }),
+            new ButtonInfo({
+                buttonText: "+ prefab",
+                method: () => {
+                    currentWorldPrefabIndex =
+                        (currentWorldPrefabIndex + 1) % worldPrefabs.length;
+                    sendNotification(`Prefab: ${worldPrefabs[currentWorldPrefabIndex]}`);
+                },
+                isTogglable: false,
+                toolTip: "Next non-item prefab"
+            }),
+            new ButtonInfo({
+                buttonText: "- prefab",
+                method: () => {
+                    currentWorldPrefabIndex =
+                        (currentWorldPrefabIndex - 1 + worldPrefabs.length) % worldPrefabs.length;
+                    sendNotification(`Prefab: ${worldPrefabs[currentWorldPrefabIndex]}`);
+                },
+                isTogglable: false,
+                toolTip: "Previous non-item prefab"
+            }),
+            new ButtonInfo({
+                buttonText: "prefab spawnling",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const NetworkPrefabSheet = Il2Cpp
+                            .domain
+                            .assembly("AnimalCompany")
+                            .image
+                            .class("AnimalCompany.NetworkPrefabSheet");
+                        const globalRefs = NetworkPrefabSheet.method("get_globalRefs").invoke();
+                        if (!globalRefs)
+                            return;
+                        const prefabName = worldPrefabs[currentWorldPrefabIndex];
+                        const prefabNetObj = globalRefs.field(prefabName).value;
+                        if (!prefabNetObj)
+                            return;
+                        const prefabGameObject = prefabNetObj.method("get_gameObject").invoke();
+                        const FlareGun = Il2Cpp
+                            .domain
+                            .assembly("AnimalCompany")
+                            .image
+                            .class("AnimalCompany.FlareGun");
+                        for (let handIndex = 0; handIndex <= 1; handIndex++) {
+                            const interactor = player.method("GetHandInteractor", 1).invoke(handIndex);
+                            if (!interactor)
+                                continue;
+                            const itemAnchor = interactor.field("_itemAnchor").value;
+                            if (!itemAnchor)
+                                continue;
+                            const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                            if (!grabbable)
+                                continue;
+                            const gameObject = grabbable.method("get_gameObject").invoke();
+                            if (!gameObject)
+                                continue;
+                            const flareGun = gameObject
+                                .method("GetComponent", 1)
+                                .inflate(FlareGun)
+                                .invoke();
+                            if (!flareGun)
+                                continue;
+                            flareGun.field("_projectilePrefab").value = prefabGameObject;
+                            flareGun.field("_sfxShoot").value = null;
+                            flareGun.field("_sfxShootEmpty").value = null;
+                        }
+                        sendNotification(`prefab: ${prefabName}`);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Load selected non-item prefab into flare gun"
+            }),
+            new ButtonInfo({
+                buttonText: "+ item",
+                method: () => {
+                    currentItemIndex =
+                        (currentItemIndex + 1) % itemPrefabs.length;
+                    sendNotification(`Item: ${itemPrefabs[currentItemIndex]}`);
+                },
+                isTogglable: false,
+                toolTip: "Next item_ prefab"
+            }),
+            new ButtonInfo({
+                buttonText: "- item",
+                method: () => {
+                    currentItemIndex =
+                        (currentItemIndex - 1 + itemPrefabs.length) % itemPrefabs.length;
+                    sendNotification(`Item: ${itemPrefabs[currentItemIndex]}`);
+                },
+                isTogglable: false,
+                toolTip: "Previous item_ prefab"
+            }),
+            new ButtonInfo({
+                buttonText: "item spawnling",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const NetworkPrefabSheet = Il2Cpp
+                            .domain
+                            .assembly("AnimalCompany")
+                            .image
+                            .class("AnimalCompany.NetworkPrefabSheet");
+                        const globalRefs = NetworkPrefabSheet.method("get_globalRefs").invoke();
+                        if (!globalRefs)
+                            return;
+                        const prefabName = itemPrefabs[currentItemIndex];
+                        const prefabNetObj = globalRefs.field(prefabName).value;
+                        if (!prefabNetObj)
+                            return;
+                        const prefabGameObject = prefabNetObj.method("get_gameObject").invoke();
+                        const FlareGun = Il2Cpp
+                            .domain
+                            .assembly("AnimalCompany")
+                            .image
+                            .class("AnimalCompany.FlareGun");
+                        for (let handIndex = 0; handIndex <= 1; handIndex++) {
+                            const interactor = player.method("GetHandInteractor", 1).invoke(handIndex);
+                            if (!interactor)
+                                continue;
+                            const itemAnchor = interactor.field("_itemAnchor").value;
+                            if (!itemAnchor)
+                                continue;
+                            const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                            if (!grabbable)
+                                continue;
+                            const gameObject = grabbable.method("get_gameObject").invoke();
+                            if (!gameObject)
+                                continue;
+                            const flareGun = gameObject
+                                .method("GetComponent", 1)
+                                .inflate(FlareGun)
+                                .invoke();
+                            if (!flareGun)
+                                continue;
+                            flareGun.field("_projectilePrefab").value = prefabGameObject;
+                            flareGun.field("_sfxShoot").value = null;
+                            flareGun.field("_sfxShootEmpty").value = null;
+                        }
+                        sendNotification(`item: ${prefabName}`);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Load selected item_ prefab into flare gun"
+            }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Movement Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Joystick Fly",
+                method: (() => {
+                    let lx = 0, ly = 0, rx = 0, ry = 0;
+                    return () => {
+                        try {
+                            // read axes fresh each frame
+                            const leftDevice = InputDevices.method("GetDeviceAtXRNode", 1).invoke(4);
+                            const rightDevice = InputDevices.method("GetDeviceAtXRNode", 1).invoke(5);
+                            const leftAxisOut = Il2Cpp.alloc(8);
+                            const rightAxisOut = Il2Cpp.alloc(8);
+                            leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primary2DAxis").value, leftAxisOut);
+                            rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primary2DAxis").value, rightAxisOut);
+                            lx = leftAxisOut.readFloat();
+                            ly = leftAxisOut.add(4).readFloat();
+                            rx = rightAxisOut.readFloat();
+                            ry = rightAxisOut.add(4).readFloat();
+                            // only fly if any stick is being used
+                            if (Math.abs(lx) < 0.1 && Math.abs(ly) < 0.1 &&
+                                Math.abs(rx) < 0.1 && Math.abs(ry) < 0.1)
+                                return;
+                            const speed = 8.0;
+                            // get head directions so flight feels natural
+                            const headForward = getTransform(headCollider).method("get_forward").invoke();
+                            const headRight = getTransform(headCollider).method("get_right").invoke();
+                            const up = Vector3.field("upVector").value;
+                            // flatten forward/right so you dont fly into the ground when looking down
+                            const flatForward = Vector3.method("Normalize").invoke(Vector3.method("op_Subtraction").invoke(headForward, Vector3.method("op_Multiply").invoke(up, Vector3.method("Dot").invoke(headForward, up))));
+                            const flatRight = Vector3.method("Normalize").invoke(Vector3.method("op_Subtraction").invoke(headRight, Vector3.method("op_Multiply").invoke(up, Vector3.method("Dot").invoke(headRight, up))));
+                            // right stick = forward/back and strafe
+                            const forwardVec = Vector3.method("op_Multiply").invoke(flatForward, ry * speed * deltaTime);
+                            const rightVec = Vector3.method("op_Multiply").invoke(flatRight, rx * speed * deltaTime);
+                            // left stick Y = up/down, left stick X = yaw (optional strafe)
+                            const upVec = Vector3.method("op_Multiply").invoke(up, ly * speed * deltaTime);
+                            // combine all movement
+                            let combined = Vector3.method("op_Addition").invoke(forwardVec, rightVec);
+                            combined = Vector3.method("op_Addition").invoke(combined, upVec);
+                            // kill gravity and apply movement
+                            rigidbody.method("set_linearVelocity").invoke(zeroVector);
+                            const currentPos = getTransform(GTPlayer).method("get_position").invoke();
+                            const newPos = Vector3.method("op_Addition").invoke(currentPos, combined);
+                            getTransform(GTPlayer).method("set_position").invoke(newPos);
+                        }
+                        catch (e) {
+                            console.error("joystick fly error:", e);
+                        }
+                    };
+                })(),
+                isTogglable: true,
+                toolTip: "Right stick forward/back/strafe, left stick Y up/down. Flattened so looking down doesn't send you into the ground."
+            }),
+            new ButtonInfo({
+                buttonText: "Platforms",
+                method: () => {
+                    const adjustamount = -0.2;
+                    if (leftGrab) {
+                        if (leftPlatform == null) {
+                            const handTransform = leftHandTransform;
+                            leftPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+                            getTransform(leftPlatform).method("set_localPosition").invoke([0, adjustamount, 0]);
+                        }
+                    }
+                    else {
+                        if (leftPlatform != null) {
+                            Destroy(leftPlatform);
+                            leftPlatform = null;
+                        }
+                    }
+                    if (rightGrab) {
+                        if (rightPlatform == null) {
+                            const handTransform = rightHandTransform;
+                            rightPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+                            getTransform(rightPlatform).method("set_localPosition").invoke([0, adjustamount, 0]);
+                        }
+                    }
+                    else {
+                        if (rightPlatform != null) {
+                            Destroy(rightPlatform);
+                            rightPlatform = null;
+                        }
+                    }
+                },
+                toolTip: "Spawns platforms when pressing grip."
+            }),
+            new ButtonInfo({
+                buttonText: "Trigger Platforms",
+                method: () => {
+                    if (leftTrigger) {
+                        if (leftPlatform == null) {
+                            const handTransform = leftHandTransform;
+                            leftPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+                        }
+                    }
+                    else {
+                        if (leftPlatform != null) {
+                            Destroy(leftPlatform);
+                            leftPlatform = null;
+                        }
+                    }
+                    if (rightTrigger) {
+                        if (rightPlatform == null) {
+                            const handTransform = rightHandTransform;
+                            rightPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+                        }
+                    }
+                    else {
+                        if (rightPlatform != null) {
+                            Destroy(rightPlatform);
+                            rightPlatform = null;
+                        }
+                    }
+                },
+                toolTip: "Spawns platforms when pressing trigger."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Frozone",
+            //    method: () => {
+            //        if (leftGrab) {
+            //            if (leftPlatform == null) {
+            //                const handTransform = leftHandTransform;
+            //                leftPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+            //                addComponent(leftPlatform, GorillaSurfaceOverride).field("overrideIndex").value = 61;
+            //            }
+            //        } else {
+            //            if (leftPlatform != null) {
+            //                Destroy(leftPlatform);
+            //                leftPlatform = null;
+            //            }
+            //        }
+            //
+            //        if (rightGrab) {
+            //            if (rightPlatform == null) {
+            //                const handTransform = rightHandTransform;
+            //                rightPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+            //                addComponent(rightPlatform, GorillaSurfaceOverride).field("overrideIndex").value = 61;
+            //            }
+            //        } else {
+            //            if (rightPlatform != null) {
+            //                Destroy(rightPlatform);
+            //                rightPlatform = null;
+            //            }
+            //        }
+            //    },
+            //    toolTip: "Spawns slippy platforms when pressing grip."
+            //}),
+            new ButtonInfo({
+                buttonText: "Fly",
+                method: () => {
+                    if (rightPrimary) {
+                        rigidbody.method("set_linearVelocity").invoke(Vector3.field("zeroVector").value);
+                        const transform = getTransform(GTPlayer);
+                        let forward = getTransform(headCollider).method("get_forward").invoke();
+                        let position = transform.method("get_position").invoke();
+                        forward = Vector3.method("op_Multiply", 2).invoke(forward, 25.0 * deltaTime);
+                        position = Vector3.method("op_Addition", 2).invoke(position, forward);
+                        transform.method("set_position").invoke(position);
+                    }
+                },
+                toolTip: "Lets you fly around while holding A."
+            }),
+            new ButtonInfo({
+                buttonText: "Trigger Fly",
+                method: () => {
+                    if (rightTrigger) {
+                        rigidbody.method("set_linearVelocity").invoke(Vector3.field("zeroVector").value);
+                        const transform = getTransform(GTPlayer);
+                        let forward = getTransform(headCollider).method("get_forward").invoke();
+                        let position = transform.method("get_position").invoke();
+                        forward = Vector3.method("op_Multiply", 2).invoke(forward, 25.0 * deltaTime);
+                        position = Vector3.method("op_Addition", 2).invoke(position, forward);
+                        transform.method("set_position").invoke(position);
+                    }
+                },
+                toolTip: "Lets you fly around while holding trigger."
+            }),
+            new ButtonInfo({
+                buttonText: "Up And Down",
+                method: () => {
+                    if (rightTrigger && rightGrab) {
+                        rigidbody.method("set_linearVelocity").invoke(Vector3.field("zeroVector").value);
+                    }
+                    if (rightTrigger && !rightGrab) {
+                        rigidbody.method("AddForce").invoke(Vector3.field("upVector").value, 175 * deltaTime);
+                    }
+                    if (!rightTrigger && rightGrab) {
+                        rigidbody.method("AddForce").invoke(Vector3.field("downVector").value, 175 * deltaTime);
+                    }
+                },
+                toolTip: "Makes you go up when holding trigger, and down when holding grip."
+            }),
+            new ButtonInfo({
+                buttonText: "Size Changer",
+                disableMethod: () => {
+                    GTPlayer.field("<playerScale>k__BackingField").value = 1;
+                    //getTransform(LocalRig).method("set_localScale").invoke(Vector3.field("one").value.method("op_Multiply").invoke(LocalRig.field("NativeScale").value));
+                },
+                method: () => {
+                    if (rightTrigger) {
+                        GTPlayer.field("<playerScale>k__BackingField").value += 0.01;
+                        //getTransform(LocalRig).method("set_localScale").invoke(Vector3.field("one").value.method("op_Multiply").invoke(LocalRig.field("NativeScale").value));
+                    }
+                    if (leftTrigger) {
+                        GTPlayer.field("<playerScale>k__BackingField").value -= 0.01;
+                        //getTransform(LocalRig).method("set_localScale").invoke(Vector3.field("one").value.method("op_Multiply").invoke(LocalRig.field("NativeScale").value));
+                    }
+                },
+                toolTip: "Makes you able to change size with triggers."
+            }),
+            new ButtonInfo({
+                buttonText: "Checkpoint",
+                disableMethod: () => {
+                    if (checkpoint != null) {
+                        Destroy(checkpoint);
+                        checkpoint = null;
+                    }
+                },
+                method: () => {
+                    if (rightGrab && rightPrimary && leftPrimary) {
+                        if (checkpoint == null) {
+                            const handTransform = rightHandTransform;
+                            checkpoint = createObject(handTransform.method("get_position").invoke(), identityQuaternion, [0.2, 0.2, 0.2], 3, bgColor);
+                            Destroy(getComponent(checkpoint, BoxCollider));
+                        }
+                        else {
+                            const handTransform = rightHandTransform;
+                            checkpoint.method("get_transform").invoke().method("set_position").invoke(handTransform.method("get_position").invoke());
+                        }
+                    }
+                    if (rightPrimary && leftPrimary) {
+                        if (checkpoint != null) {
+                            teleportPlayer(checkpoint.method("get_transform").invoke().method("get_position").invoke());
+                            rigidbody.method("set_linearVelocity").invoke(zeroVector);
+                        }
+                    }
+                },
+                toolTip: "Place a checkpoint with grip and teleport to it with A."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "No Tag Freeze",
+            //    method: () => GTPlayer.field("disableMovement").value = false,
+            //    toolTip: "Disables tag freeze on your character.",
+            //}),
+            new ButtonInfo({
+                buttonText: "Low Gravity",
+                method: () => {
+                    const force = Vector3.method("op_Multiply", 2).invoke(Vector3.field("upVector").value, (deltaTime * (6.66 / deltaTime)));
+                    rigidbody.method("AddForce", 2).invoke(force, 5);
+                },
+                toolTip: "Makes gravity lower on your character."
+            }),
+            new ButtonInfo({
+                buttonText: "Zero Gravity",
+                method: () => {
+                    const force = Vector3.method("op_Multiply", 2).invoke(Vector3.field("upVector").value, (deltaTime * (9.81 / deltaTime)));
+                    rigidbody.method("AddForce", 2).invoke(force, 5);
+                },
+                toolTip: "Makes gravity lower on your character."
+            }),
+            new ButtonInfo({
+                buttonText: "High Gravity",
+                method: () => {
+                    const force = Vector3.method("op_Multiply", 2).invoke(Vector3.field("downVector").value, (deltaTime * (7.77 / deltaTime)));
+                    rigidbody.method("AddForce", 2).invoke(force, 5);
+                },
+                toolTip: "Makes gravity higher on your character."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Weak Wall Walk",
+            //    method: () => {
+            //        if (GTPlayer.method("IsHandTouching").invoke(true) || GTPlayer.method("IsHandTouching").invoke(false)) {
+            //            const ray = GTPlayer.field("lastHitInfoHand").value;
+            //            walkPos = ray.method("get_point").invoke();
+            //            walkNormal = ray.method("get_normal").invoke();
+            //        }
+            //        if (walkPos != Vector3.field("zeroVector").value && rightGrab) {
+            //            const force = Vector3.method("op_Multiply", 2).invoke(walkNormal, -5);
+            //            rigidbody.method("AddForce").invoke(force, 5);
+            //            const zeroForce = Vector3.method("op_Multiply", 2).invoke(Vector3.field("upVector").value, (deltaTime * (9.81 / deltaTime)));
+            //            rigidbody.method("AddForce", 2).invoke(zeroForce, 5);
+            //        }
+            //    },
+            //    toolTip: "Makes you get brought towards any wall you touch when holding grip, but weaker."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Wall Walk",
+            //    method: () => {
+            //        if (GTPlayer.method("IsHandTouching").invoke(true) || GTPlayer.method("IsHandTouching").invoke(false)) {
+            //            const ray = GTPlayer.field("lastHitInfoHand").value;
+            //            walkPos = ray.method("get_point").invoke();
+            //            walkNormal = ray.method("get_normal").invoke();
+            //        }
+            //        if (walkPos != Vector3.field("zeroVector").value && rightGrab) {
+            //            const force = Vector3.method("op_Multiply", 2).invoke(walkNormal, -9.81);
+            //            rigidbody.method("AddForce").invoke(force, 5);
+            //            const zeroForce = Vector3.method("op_Multiply", 2).invoke(Vector3.field("upVector").value, (deltaTime * (9.81 / deltaTime)));
+            //            rigidbody.method("AddForce", 2).invoke(zeroForce, 5);
+            //        }
+            //    },
+            //    toolTip: "Makes you get brought towards any wall you touch when holding grip."
+            //}),
+            new ButtonInfo({
+                buttonText: "Teleport Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const gunPointer = gunData.gunPointer;
+                        if (rightTrigger && !perviousTeleportKey) {
+                            teleportPlayer(getTransform(gunPointer).method("get_position").invoke());
+                            rigidbody.method("set_linearVelocity").invoke(zeroVector);
+                        }
+                        perviousTeleportKey = rightTrigger;
+                    }
+                },
+                toolTip: "Teleports you to wherever your hand desires."
+            }),
+            new ButtonInfo({
+                buttonText: "Teleport To Random",
+                method: () => {
+                    //const vrrigs = GorillaParent.field("vrrigs").value;
+                    //const vrrigtotal = vrrigs.method("get_Count").invoke();
+                    //const playerRig = vrrigs.method("get_Item").invoke(Math.floor(Math.random() * vrrigtotal));
+                    const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (!rigs)
+                        return null;
+                    const otherRigs = [];
+                    for (let i = 0; i < rigs.length; i++) {
+                        const rig = rigs.get(i);
+                        if (playerIsLocal(rig))
+                            continue;
+                        otherRigs.push(rig);
+                    }
+                    if (otherRigs.length === 0)
+                        return null;
+                    const playerRig = otherRigs[Math.floor(Math.random() * otherRigs.length)];
+                    teleportPlayer(getTransform(playerRig).method("get_position").invoke());
+                    rigidbody.method("set_linearVelocity").invoke(zeroVector);
+                },
+                isTogglable: false,
+                toolTip: "Teleports you to a random player."
+            }),
+            new ButtonInfo({
+                buttonText: "Iron Man",
+                method: () => {
+                    if (leftPrimary) {
+                        const leftRightVector = leftHandTransform.method("get_right").invoke();
+                        const leftForce = Vector3.method("op_Multiply", 2).invoke(leftRightVector, -15.0 * deltaTime);
+                        rigidbody.method("AddForce", 2).invoke(leftForce, 2);
+                    }
+                    if (rightPrimary) {
+                        const leftRightVector = rightHandTransform.method("get_right").invoke();
+                        const leftForce = Vector3.method("op_Multiply", 2).invoke(leftRightVector, 15.0 * deltaTime);
+                        rigidbody.method("AddForce", 2).invoke(leftForce, 2);
+                    }
+                },
+                toolTip: "Turns you into iron man. Use A and X to fly."
+            }),
+            new ButtonInfo({
+                buttonText: "Noclip",
+                method: () => {
+                    if (rightTrigger && !previousNoclipKey) {
+                        toggleColliders(false);
+                    }
+                    if (!rightTrigger && previousNoclipKey) {
+                        toggleColliders(true);
+                    }
+                    previousNoclipKey = rightTrigger;
+                },
+                toolTip: "Lets you clip through objects while holding right trigger."
+            }),
+            new ButtonInfo({
+                buttonText: "Noclip V2",
+                method: () => {
+                    if (rightTrigger && !previousNoclipKey) {
+                        //toggleColliders(false);
+                        //GTPlayer.field("<bodyColliderEnabled>k__BackingField").value = false;
+                        GTPlayer.field("<ignoreHeadCollisions>k__BackingField").value = true;
+                        //console.log(GTPlayer.field("<handSlideFriction>k__BackingField").value);
+                        //GTPlayer.field("<handSlideFriction>k__BackingField").value = 0;
+                    }
+                    if (!rightTrigger && previousNoclipKey) {
+                        //toggleColliders(true);
+                        //GTPlayer.field("<bodyColliderEnabled>k__BackingField").value = true;
+                        GTPlayer.field("<ignoreHeadCollisions>k__BackingField").value = false;
+                        //<handSlideFriction>k__BackingField
+                        //GTPlayer.field("<handSlideFriction>k__BackingField").value = 1.2000000476837158;
+                    }
+                    previousNoclipKey = rightTrigger;
+                },
+                toolTip: "Lets you clip through objects while holding right trigger."
+            }),
+            new ButtonInfo({
+                buttonText: "Legit Long Arms",
+                method: () => {
+                    getTransform(GTPlayer).method("set_localScale").invoke([1.08, 1.08, 1.08]);
+                },
+                disableMethod: () => {
+                    getTransform(GTPlayer).method("set_localScale").invoke(oneVector);
+                },
+                toolTip: "Gives you Slightly longer arms."
+            }),
+            new ButtonInfo({
+                buttonText: "Long Arms",
+                method: () => {
+                    getTransform(GTPlayer).method("set_localScale").invoke([1.25, 1.25, 1.25]);
+                },
+                disableMethod: () => {
+                    getTransform(GTPlayer).method("set_localScale").invoke(oneVector);
+                },
+                toolTip: "Gives you longer arms."
+            }),
+            new ButtonInfo({
+                buttonText: "Speed Boost",
+                method: () => {
+                    //GTPlayer.field("maxJumpSpeed").value = 9.0;
+                    GTPlayer.method("SetJumpVelocityMultiplier").invoke(2);
+                },
+                toolTip: "Gives you a speed boost."
+            }),
+            new ButtonInfo({
+                buttonText: "weird rotation mod",
+                method: () => {
+                    if (!GTPlayer || !rigidbody)
+                        return;
+                    const setConstraints = rigidbody.method("set_constraints");
+                    const getConstraints = rigidbody.method("get_constraints");
+                    const setLocalRotation = getTransform(GTPlayer).method("set_localRotation");
+                    const setVelocity = rigidbody.method("set_linearVelocity");
+                    const getVelocity = rigidbody.method("get_linearVelocity");
+                    const addForce = rigidbody.method("AddForce");
+                    if (rightStick) {
+                        setConstraints.invoke(0);
+                    }
+                    if (!rightStick) {
+                        if (getConstraints.invoke().field("value__").value === 0) {
+                            setConstraints.invoke(112);
+                            setLocalRotation.invoke(identityQuaternion);
+                        }
+                    }
+                },
+                toolTip: "Turns you into super man. Use X to fly."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Slide Control",
+            //    enableMethod: () => {
+            //        oldSlide = GTPlayer.field("slideControl").value;
+            //        GTPlayer.field("slideControl").value = 1;
+            //    },
+            //    disableMethod: () => GTPlayer.field("slideControl").value = oldSlide,
+            //    toolTip: "Lets you control yourself on ice perfectly."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Predictions",
+            //    enableMethod: () => {
+            //        lvT = createObject(zeroVector, identityQuaternion, zeroVector, 0, [0.0, 0.0, 0.0, 0.0]);
+            //        Destroy(getComponent(lvT, BoxCollider))
+            //        addComponent(lvT, GorillaVelocityTracker);
+            //
+            //        rvT = createObject(zeroVector, identityQuaternion, zeroVector, 0, [0.0, 0.0, 0.0, 0.0]);
+            //        Destroy(getComponent(rvT, BoxCollider))
+            //        addComponent(rvT, GorillaVelocityTracker);
+            //    },
+            //    method: () => {
+            //        let predCount = 0.02;
+            //
+            //        getTransform(lvT).method("set_position").invoke(Vector3.method("op_Subtraction", 2).invoke(getTransform(headCollider).method("get_position").invoke(), leftHandTransform.method("get_position").invoke()));
+            //        getTransform(rvT).method("set_position").invoke(Vector3.method("op_Subtraction", 2).invoke(getTransform(headCollider).method("get_position").invoke(), rightHandTransform.method("get_position").invoke()));
+            //
+            //        let leftHandPosition = leftHandTransform.method("get_position").invoke();
+            //        let rightHandPosition = rightHandTransform.method("get_position").invoke();
+            //
+            //        let leftHandVelocity = getComponent(lvT, GorillaVelocityTracker).method("GetAverageVelocity").invoke(true, 0.0, false);
+            //        let rightHandVelocity = getComponent(rvT, GorillaVelocityTracker).method("GetAverageVelocity").invoke(true, 0.0, false);
+            //
+            //        leftHandVelocity = Vector3.method("op_Multiply", 2).invoke(leftHandVelocity, predCount);
+            //        rightHandVelocity = Vector3.method("op_Multiply", 2).invoke(rightHandVelocity, predCount);
+            //
+            //        leftHandPosition = Vector3.method("op_Subtraction", 2).invoke(leftHandPosition, leftHandVelocity);
+            //        rightHandPosition = Vector3.method("op_Subtraction", 2).invoke(rightHandPosition, rightHandVelocity);
+            //
+            //        leftHandTransform.method("set_position").invoke(leftHandPosition);
+            //        rightHandTransform.method("set_position").invoke(rightHandPosition);
+            //    },
+            //    disableMethod: () => {
+            //        Destroy(lvT);
+            //        Destroy(rvT);
+            //    },
+            //    toolTip: "Gives your controllers higher predictions."
+            //}),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Fun Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Next Item",
+                method: () => {
+                    currentItemIndex = (currentItemIndex + 1) % itemIDs.length;
+                    sendNotification("Prefab: " + itemIDs[currentItemIndex], false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles to the next item."
+            }),
+            new ButtonInfo({
+                buttonText: "Prev Item",
+                method: () => {
+                    currentItemIndex = (currentItemIndex - 1 + itemIDs.length) % itemIDs.length;
+                    sendNotification("Prefab: " + itemIDs[currentItemIndex], false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles to the previous item."
+            }),
+            new ButtonInfo({
+                buttonText: "Item Orbit",
+                isTogglable: true,
+                method: (() => {
+                    let orbitAngle = 0;
+                    let spawnedItems = [];
+                    let lastSpawnIndex = -1;
+                    const ORBIT_RADIUS = 1.5;
+                    const ORBIT_SPEED = 90.0;
+                    return () => {
+                        try {
+                            // respawn items if the selected item changed
+                            if (lastSpawnIndex !== currentItemIndex) {
+                                // destroy old items
+                                for (const item of spawnedItems) {
+                                    try {
+                                        if (item && !item.isNull()) {
+                                            const no = item.method("GetComponent", 1)
+                                                .inflate(NetworkObjectClass).invoke();
+                                            if (no && !no.isNull()) {
+                                                const runner = PrefabGen.field("_instance")
+                                                    .value.method("get_runner").invoke();
+                                                runner.method("Despawn", 1).invoke(no);
+                                            }
+                                        }
+                                    }
+                                    catch (_) { }
+                                }
+                                spawnedItems = [];
+                                // spawn new items
+                                const spawnPos = getTransform(headCollider).method("get_position").invoke();
+                                for (let i = 0; i < 5; i++) {
+                                    try {
+                                        const spawned = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(itemIDs[currentItemIndex]), spawnPos, identityQuaternion, null);
+                                        if (spawned && !spawned.isNull()) {
+                                            spawnedItems.push(spawned);
+                                        }
+                                    }
+                                    catch (_) { }
+                                }
+                                lastSpawnIndex = currentItemIndex;
+                            }
+                            orbitAngle += ORBIT_SPEED * deltaTime;
+                            if (orbitAngle > 360)
+                                orbitAngle -= 360;
+                            const centerPos = getTransform(headCollider).method("get_position").invoke();
+                            for (let i = 0; i < spawnedItems.length; i++) {
+                                const item = spawnedItems[i];
+                                if (!item || item.isNull())
+                                    continue;
+                                const angleOffset = (360 / spawnedItems.length) * i;
+                                const rad = (orbitAngle + angleOffset) * (Math.PI / 180);
+                                const offsetX = Math.cos(rad) * ORBIT_RADIUS;
+                                const offsetZ = Math.sin(rad) * ORBIT_RADIUS;
+                                const offsetVec = Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, offsetX), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, offsetZ));
+                                const targetPos = Vector3.method("op_Addition").invoke(centerPos, offsetVec);
+                                try {
+                                    const gbo = item.method("GetComponent", 1).inflate(GBOClass).invoke();
+                                    if (gbo && !gbo.isNull()) {
+                                        gbo.method("RPC_Teleport", 2).invoke(targetPos, identityQuaternion, zeroVector, zeroVector, false, false);
+                                    }
+                                }
+                                catch (_) {
+                                    // fallback: move transform directly
+                                    try {
+                                        getTransform(item).method("set_position").invoke(targetPos);
+                                    }
+                                    catch (_) { }
+                                }
+                            }
+                        }
+                        catch (e) {
+                            console.error("item orbit error:", e);
+                        }
+                    };
+                })(),
+                disableMethod: (() => {
+                    // need a shared ref to clean up spawned items on disable
+                    return () => { };
+                })(),
+                toolTip: "Uh item orbit."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn item",
+                isTogglable: true,
+                method: () => {
+                    if (!rightGrab)
+                        return;
+                    try {
+                        const pos = rightHandTransform.method("get_position").invoke();
+                        const rot = rightHandTransform.method("get_rotation").invoke();
+                        const spawned = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(itemIDs[currentItemIndex]), pos, rot, null);
+                        // apply scale after spawn
+                        if (spawned && !spawned.isNull()) {
+                            try {
+                                const gbo = spawned.method("GetComponent", 1)
+                                    .inflate(GBOClass).invoke();
+                                if (gbo && !gbo.isNull()) {
+                                    gbo.method("set_scaleModifier").invoke(Math.floor(sizespawner));
+                                }
+                            }
+                            catch (_) { }
+                        }
+                    }
+                    catch (e) {
+                        console.error("Grip spawn error:", e);
+                    }
+                },
+                toolTip: "Item spawn lol."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Spawn Hoverboard",
+            //    method: () => {
+            //        GTPlayer.method("SetHoverAllowed").invoke(true, true)
+            //        FreeHoverboardManager.method("SendDropBoardRPC").invoke(rightHandTransform.method("get_position").invoke(), identityQuaternion, zeroVector, zeroVector, bgColor);
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Spawns you in a hoverboard."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Become Goldentrophy",
+            //    method: () => {
+            //        setPlayerName("goldentrophy");
+            //        setPlayerColor([1.0, 0.5, 0.0]);
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Turns you into goldentrophy."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Water Splash Hands",
+            //    method: () => {
+            //        if (leftGrab && time > splashDelay) {
+            //            splashDelay = time + 0.1;
+            //            const objectArray = Il2Cpp.array(SystemObject, [leftHandTransform.method("get_position").invoke(), leftHandTransform.method("get_rotation").invoke(), 1.0, 0.5, true, false]);
+            //
+            //            const method = GorillaTagger.method("get_myVRRig").invoke().method("SendRPC", 3).overload(
+            //                "System.String",
+            //                "Photon.Pun.RpcTarget",
+            //                "System.Object[]");
+            //
+            //            method.invoke(Il2Cpp.string("RPC_PlaySplashEffect"), 0, objectArray);
+            //        }
+            //        if (rightGrab && time > splashDelay) {
+            //            splashDelay = time + 0.1;
+            //            const objectArray = Il2Cpp.array(SystemObject, [rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke(), 1.0, 0.5, true, false]);
+            //
+            //            const method = GorillaTagger.method("get_myVRRig").invoke().method("SendRPC", 3).overload(
+            //                "System.String",
+            //                "Photon.Pun.RpcTarget",
+            //                "System.Object[]");
+            //
+            //            method.invoke(Il2Cpp.string("RPC_PlaySplashEffect"), 0, objectArray);
+            //        }
+            //    },
+            //    toolTip: "Splashes water on your hands when pressing your grips."
+            //}),
+            new ButtonInfo({
+                buttonText: "Get ID Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), FusionPlayerClass);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > idGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    idGunDelay = time + 0.5;
+                                    //const id = gunTarget.method("get_Creator").invoke().method("get_UserId").invoke();
+                                    const id = gunTarget.method("get_PlayerId").invoke();
+                                    sendNotification("ID: " + String(id));
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Logs the ID of whoever your hand desires."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Grab Players",
+            //    disableMethod: () => {
+            //        Destroy(mylittleSphere);
+            //        mylittleSphere = null;
+            //    },
+            //    enableMethod: () => {
+            //        const handTransform = rightHandTransform;
+            //
+            //        // create visual ghost sphere
+            //        mylittleSphere = createObject(
+            //            handTransform.method("get_position").invoke(),
+            //            handTransform.method("get_rotation").invoke(),
+            //            [0.3, 0.3, 0.3],
+            //            0,
+            //            bgColor
+            //        );
+            //
+            //        // destroy collider for purely visual
+            //        Destroy(getComponent(mylittleSphere, Collider));
+            //
+            //        // parent to hand
+            //        getTransform(mylittleSphere).method("set_parent").invoke(getTransform(handTransform));
+            //
+            //        if (rightGrab && mylittleSphere) {
+            //            const handPos = getTransform(rightHandTransform).method("get_position").invoke();
+            //            const handForward = getTransform(rightHandTransform).method("get_forward").invoke();
+            //                            
+            //            const sphereScale = getTransform(mylittleSphere).method("get_localScale").invoke();
+            //            const maxDistance = 0.5 * sphereScale[0]; // match visual sphere radius
+            //                            
+            //            // tiny raycast like ID Gun
+            //            const hits = Physics.method("RaycastAll", 4).invoke(
+            //                handPos,
+            //                handForward,
+            //                maxDistance,
+            //                -1 // all layers
+            //            );
+            //        
+            //            let finalHit = null;
+            //            let closestDistance = Infinity;
+            //            for (const hit of hits) {
+            //                const hitPoint = hit.method("get_point").invoke();
+            //                const distance = Vector3.method("Distance").invoke(handPos, hitPoint);
+            //                if (distance < closestDistance) {
+            //                    finalHit = hit;
+            //                    closestDistance = distance;
+            //                }
+            //            }
+            //        
+            //            if (finalHit) {
+            //                const netPlayer = getComponentInParent(finalHit.method("get_collider").invoke(), NetPlayer);
+            //                if (netPlayer && !playerIsLocal(netPlayer)) {
+            //                    console.log("NetPlayer touching ghost sphere via ray");
+            //                }
+            //            }
+            //        }
+            //
+            //
+            //
+            //
+            //        //new ButtonInfo({
+            ////    buttonText: "Cosmetic Tracers",
+            ////    disableMethod: () => {
+            ////        for (let line of linePool) {
+            ////            line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+            ////        }
+            ////    },
+            ////    method: () => {
+            ////        if (frameCount % 5 != 0) {
+            ////            for (let line of linePool) {
+            ////                line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+            ////            }
+            ////            const vrrigs = GorillaParent.field("vrrigs").value;
+            ////            const vrrigtotal = vrrigs.method("get_Count").invoke();
+            ////            const rigs = [];
+            ////            const cosmeticRigs = [];
+            ////            for (let i = 0; i < vrrigtotal; i++) {
+            ////                const playerRig = vrrigs.method("get_Item").invoke(i);
+            ////                rigs.push(playerRig);
+            ////                if (playerIsLocal(playerRig)) continue;
+            ////                const concat = String(playerRig.field("concatStringOfCosmeticsAllowed").value);
+            ////                if (concat.includes("LBAAD.")) { cosmeticRigs.push(i); continue; }; // Admin
+            ////                if (concat.includes("LBAAK.")) { cosmeticRigs.push(i); continue; }; // Stick
+            ////                if (concat.includes("LMAPY.")) { cosmeticRigs.push(i); continue; }; // Forest Guide
+            ////                if (concat.includes("LBAGS.")) { cosmeticRigs.push(i); continue; }; // Illustrator
+            ////                if (concat.includes("LBADE.")) { cosmeticRigs.push(i); continue; }; // Finger Painter
+            ////                if (concat.includes("LBANI.")) { cosmeticRigs.push(i); continue; }; // AA Creator
+            ////            }
+            ////            for (let i = 0; i < vrrigtotal; i++) {
+            ////                if (cosmeticRigs.includes(i) == false) continue;
+            ////                const playerRig = rigs[i];
+            ////                if (!playerIsLocal(playerRig)) {
+            ////                    const color = playerRig.field("playerColor").value;
+            ////                    if (lineRenderHolder == null) {
+            ////                        lineRenderHolder = GameObject.new("LineRender_Holder");
+            ////                    }
+            ////                    let finalRender = null;
+            ////                    let nl = false;
+            ////                    for (let line of linePool) {
+            ////                        if (finalRender != null) continue;
+            ////                        if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+            ////                            line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+            ////                            finalRender = line;
+            ////                            break;
+            ////                        }
+            ////                    }
+            ////                    if (finalRender == null) {
+            ////                        nl = true;
+            ////                        const lineHolder = GameObject.new("LineObject");
+            ////                        getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+            ////                        const newLine = addComponent(lineHolder, LineRenderer);
+            ////                        const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("GUI/Text Shader"));
+            ////                        newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+            ////                        newLine.method("set_startWidth").invoke(0.025);
+            ////                        newLine.method("set_endWidth").invoke(0.025);
+            ////                        newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+            ////                        newLine.method("set_useWorldSpace").invoke(true);
+            ////                        newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+            ////                        linePool.push(newLine);
+            ////                        finalRender = newLine;
+            ////                    }
+            ////                    finalRender.method("set_startColor").invoke(color);
+            ////                    finalRender.method("set_endColor").invoke(color);
+            ////                    finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+            ////                    finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+            ////                }
+            ////            }
+            ////        }
+            ////    },
+            ////    isTogglable: true,
+            ////    toolTip: "Puts tracers on your right hand. Only shows players with rare cosmetics."
+            ////}),
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Logs the ID of whoever your hand desires."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Get Platform Gun",
+            //    method: () => {
+            //        if (rightGrab) {
+            //            const gunData = renderGun();
+            //            const ray = gunData.ray;
+            //
+            //            if (rightTrigger) {
+            //                const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+            //                if (gunTarget && !gunTarget.handle.isNull() && time > idGunDelay) {
+            //                    if (!playerIsLocal(gunTarget)) {
+            //                        idGunDelay = time + 0.5;
+            //                        const player = gunTarget.method("get_Creator").invoke();
+            //                        const concat = String(gunTarget.field("concatStringOfCosmeticsAllowed").value);
+            //                        const isSteam = (concat.includes("S. FIRST LOGIN") || concat.includes("FIRST LOGIN")) && !concat.includes("LMAKT.");
+            //                        sendNotification(isSteam ? "PLATFORM: Steam" : "PLATFORM: Meta");
+            //                    }
+            //                }
+            //            }
+            //        }
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Logs the platform of whoever your hand desires."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Punch Mod",
+            //    method: () => {
+            //        // This is MORE optimized (BY A LOT) than the one in the steam menu.
+            //        const vrrigs = GorillaParent.field("vrrigs").value;
+            //        const vrrigtotal = vrrigs.method("get_Count").invoke();
+            //        let index = 0;
+            //        for (let i = 0; i < vrrigtotal; i++) {
+            //            const vrrig = vrrigs.method("get_Item").invoke(i);
+            //            index++;
+            //            let they = vrrig.field("rightHandTransform").value.method("get_position").invoke();
+            //            const notthem = getTransform(headCollider).method("get_position").invoke();
+            //            let distance = Vector3.method("Distance").invoke(they, notthem);
+            //            if (distance < 0.25) {
+            //                const vel = Vector3.method("op_Addition", 2).invoke(Vector3.method("op_Multiply").invoke(Vector3.method("Normalize").invoke(Vector3.method("op_Subtraction", 2).invoke(they, punchLastRight[index])), highPunchPower ? 10 : 5), rigidbody.method("get_velocity").invoke());
+            //                rigidbody.method("set_velocity").invoke(vel);
+            //            }
+            //            punchLastRight[index] = they;
+            //            they = vrrig.field("leftHandTransform").value.method("get_position").invoke();
+            //            distance = Vector3.method("Distance").invoke(they, notthem);
+            //            if (distance < 0.25) {
+            //                const vel = Vector3.method("op_Addition", 2).invoke(Vector3.method("op_Multiply").invoke(Vector3.method("Normalize").invoke(Vector3.method("op_Subtraction", 2).invoke(they, punchLastLeft[index])), highPunchPower ? 10 : 5), rigidbody.method("get_velocity").invoke());
+            //                rigidbody.method("set_velocity").invoke(vel);
+            //            }
+            //            punchLastLeft[index] = they;
+            //        }
+            //    },
+            //    toolTip: "Lets people punch you across the map."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Max Quest Score",
+            //    method: () => {
+            //        LocalRig.method("SetQuestScore")?.invoke(999999)
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Sets Your Quest Score To Max"
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Max Ranked Level",
+            //    method: () => {
+            //        LocalRig.method("SetRankedInfo", 4)?.invoke(4000.0, 7, 7, true);
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Sets Your Ranked Level To Max"
+            //}),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Advantage Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Stinky Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_TagAsStinky").invoke();
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Stinkies whoever your hand desires."
+            }),
+            new ButtonInfo({
+                buttonText: "Stinky All",
+                isTogglable: false,
+                method: () => {
+                    const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (!rigs)
+                        return null;
+                    for (let i = 0; i < rigs.length; i++) {
+                        const rig = rigs.get(i);
+                        if (rig.method("get_IsMine").invoke())
+                            continue;
+                        rig.method("RPC_TagAsStinky").invoke();
+                    }
+                },
+                toolTip: "Stinkies everyone"
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Get all player names",
+            //    isTogglable: false,
+            //    method: () => {
+            //        const rigs = Object.method("FindObjectsOfType").inflate(NetworkTransformClass).invoke();
+            //        if (!rigs) return null;
+            //
+            //    },
+            //    toolTip: "Stinkies everyone"
+            //}),
+            new ButtonInfo({
+                buttonText: "72 FPS",
+                method: () => {
+                    const targetDelta = 1 / 72;
+                    const elapsed = Time.method("get_realtimeSinceStartup").invoke() - lastTime;
+                    if (elapsed < targetDelta) {
+                        const sleepMs = Math.floor((targetDelta - elapsed) * 1000);
+                        if (sleepMs > 0)
+                            Thread.method("Sleep").invoke(sleepMs);
+                    }
+                    lastTime = Time.method("get_realtimeSinceStartup").invoke();
+                },
+                isTogglable: true,
+                toolTip: "Caps your FPS at 72 frames per second."
+            }),
+            new ButtonInfo({
+                buttonText: "60 FPS",
+                method: () => {
+                    const targetDelta = 1 / 60;
+                    const elapsed = Time.method("get_realtimeSinceStartup").invoke() - lastTime;
+                    if (elapsed < targetDelta) {
+                        const sleepMs = Math.floor((targetDelta - elapsed) * 1000);
+                        if (sleepMs > 0)
+                            Thread.method("Sleep").invoke(sleepMs);
+                    }
+                    lastTime = Time.method("get_realtimeSinceStartup").invoke();
+                },
+                isTogglable: true,
+                toolTip: "Caps your FPS at 60 frames per second."
+            }),
+            new ButtonInfo({
+                buttonText: "45 FPS",
+                method: () => {
+                    const targetDelta = 1 / 45;
+                    const elapsed = Time.method("get_realtimeSinceStartup").invoke() - lastTime;
+                    if (elapsed < targetDelta) {
+                        const sleepMs = Math.floor((targetDelta - elapsed) * 1000);
+                        if (sleepMs > 0)
+                            Thread.method("Sleep").invoke(sleepMs);
+                    }
+                    lastTime = Time.method("get_realtimeSinceStartup").invoke();
+                },
+                isTogglable: true,
+                toolTip: "Caps your FPS at 45 frames per second."
+            }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Rig Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Ghost",
+            //    method: () => {
+            //        if (rightPrimary && !previousGhostKey) {
+            //            //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+            //            const player = PCClass.method("get_instance").invoke();
+            //            const RIGTESTBETA = player.method("get_playerView").invoke()
+            //            if(!RIGTESTBETA) return null;
+            //
+            //            const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+            //            if (!bodyRootTF) return null;
+            //
+            //            const bodyRootTFOld = bodyRootTF.method("get_position").invoke()
+            //
+            //            bodyRootTF.method("set_position").invoke(bodyRootTFOld)
+            //        }
+            //        else if (!rightPrimary && previousGhostKey) {
+            //            const player = PCClass.method("get_instance").invoke();
+            //            const RIGTESTBETA = player.method("get_playerView").invoke()
+            //            if(!RIGTESTBETA) return null;
+            //
+            //            const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+            //            if (!bodyRootTF) return null;
+            //
+            //            bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke())
+            //        }
+            //        previousGhostKey = rightPrimary;
+            //    },
+            //    toolTip: "Freezes your rig when pressing A."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Ghost",
+            //    method: () => {
+            //        const player = PCClass.method("get_instance").invoke();
+            //        if (!player) return null;
+            //    
+            //        const rig = player.method("get_playerView").invoke();
+            //        if (!rig) return null;
+            //    
+            //        const bodyRootTF = rig.field("_cameraTransform").value;
+            //        const handLeftTF = rig.field("_handTargetLeft").value;
+            //        const handRightTF = rig.field("_handTargetRight").value;
+            //    
+            //        if (rightPrimary && !previousGhostKey) {
+            //            // Cache positions
+            //            if (bodyRootTF) cachedGhostPos.head = bodyRootTF.method("get_position").invoke();
+            //            if (handLeftTF) cachedGhostPos.leftHand = handLeftTF.method("get_position").invoke();
+            //            if (handRightTF) cachedGhostPos.rightHand = handRightTF.method("get_position").invoke();
+            //        }
+            //    
+            //        if (rightPrimary) {
+            //            // Keep freezing positions
+            //            if (bodyRootTF && cachedGhostPos.head) bodyRootTF.method("set_position").invoke(cachedGhostPos.head);
+            //            if (handLeftTF && cachedGhostPos.leftHand) handLeftTF.method("set_position").invoke(cachedGhostPos.leftHand);
+            //            if (handRightTF && cachedGhostPos.rightHand) handRightTF.method("set_position").invoke(cachedGhostPos.rightHand);
+            //        } else if (!rightPrimary && previousGhostKey) {
+            //            // On release, restore head to headCollider
+            //            if (bodyRootTF) bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+            //            cachedGhostPos = { head: null, leftHand: null, rightHand: null };
+            //        }
+            //    
+            //        previousGhostKey = rightPrimary;
+            //    },
+            //    toolTip: "Freezes your rig positions when pressing A."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "nothing here",
+            //    method: () => {
+            //    },
+            //    toolTip: ""
+            //}),
+            //
+            new ButtonInfo({
+                buttonText: "Invisible",
+                method: () => {
+                    if (rightPrimary && !previousInvisKey) { // && !previousInvisKey) {
+                        //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+                        const player = PCClass.method("get_instance").invoke();
+                        const RIGTESTBETA = player.method("get_playerView").invoke();
+                        if (!RIGTESTBETA)
+                            return null;
+                        const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                        if (!bodyRootTF)
+                            return null;
+                        bodyRootTF.method("set_position").invoke([0, -99999, 0]);
+                    }
+                    else if (!rightPrimary && previousInvisKey) {
+                        const player = PCClass.method("get_instance").invoke();
+                        const RIGTESTBETA = player.method("get_playerView").invoke();
+                        if (!RIGTESTBETA)
+                            return null;
+                        const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                        if (!bodyRootTF)
+                            return null;
+                        bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+                    }
+                    //if (!LocalRig.method("get_enabled").invoke()) {
+                    //    getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+                    //}
+                    //const player = NetPlayer.method("get_localPlayer").invoke();
+                    //if (!player) return;
+                    //if (rightSecondary && !previousInvisKey) {
+                    //    //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+                    //    //weird inverted giant head lol
+                    //    player.method("set_playerHeadSize").invoke(-50);
+                    //    //set_propBodyID is ss and number 8 is item_crate which is invis
+                    //    
+                    //}
+                    //if () {//(!LocalRig.method("get_enabled").invoke()) {
+                    //    //getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+                    //}
+                    previousInvisKey = rightPrimary;
+                },
+                toolTip: "Turns you invisible when holding right joystick." //pressing B."
+            }),
+            new ButtonInfo({
+                buttonText: "Ragdoll",
+                method: () => {
+                    if (rightStick && !previousInvisKey) { // && !previousInvisKey) {
+                        //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+                        const player = PCClass.method("get_instance").invoke();
+                        const RIGTESTBETA = player.method("get_playerView").invoke();
+                        if (!RIGTESTBETA)
+                            return null;
+                        //const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                        //if (!bodyRootTF) return null;
+                        RIGTESTBETA.method("SetRagdoll").invoke(true, [0, 0, 0], rigidbody, getTransform(headCollider));
+                    }
+                    else if (!rightStick && previousInvisKey) {
+                        const player = PCClass.method("get_instance").invoke();
+                        const RIGTESTBETA = player.method("get_playerView").invoke();
+                        if (!RIGTESTBETA)
+                            return null;
+                        //const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                        //if (!bodyRootTF) return null;
+                        //
+                        //bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke())
+                        RIGTESTBETA.method("SetRagdoll").invoke(false, [0, 0, 0], rigidbody, getTransform(headCollider));
+                    }
+                    //if (!LocalRig.method("get_enabled").invoke()) {
+                    //    getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+                    //}
+                    //const player = NetPlayer.method("get_localPlayer").invoke();
+                    //if (!player) return;
+                    //if (rightSecondary && !previousInvisKey) {
+                    //    //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+                    //    //weird inverted giant head lol
+                    //    player.method("set_playerHeadSize").invoke(-50);
+                    //    //set_propBodyID is ss and number 8 is item_crate which is invis
+                    //    
+                    //}
+                    //if () {//(!LocalRig.method("get_enabled").invoke()) {
+                    //    //getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+                    //}
+                    previousInvisKey = rightStick;
+                },
+                toolTip: "Ragdoll your rig when holding right joystick." //pressing B."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Third Person Cam?",
+            //    method: () => {
+            //        if (rightStick && !previousInvisKey) {// && !previousInvisKey) {
+            //            //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+            //            const player = PCClass.method("get_instance").invoke();
+            //            const RIGTESTBETA = player.method("get_playerView").invoke()
+            //            if(!RIGTESTBETA) return null;
+            //
+            //            //const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+            //            //if (!bodyRootTF) return null;
+            //
+            //            RIGTESTBETA.method("SetName").invoke(Il2Cpp.string("SetName"))
+            //            //                        const view = RIGTESTBETA.field("_mode").value;
+            //            //view.field("value__").value = 0;
+            //            
+            //        }
+            //        //else if (!rightStick && previousInvisKey) {
+            //        //    const player = PCClass.method("get_instance").invoke();
+            //        //    const RIGTESTBETA = player.method("get_playerView").invoke()
+            //        //    if(!RIGTESTBETA) return null;
+            ////
+            //        //    //const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+            //        //    //if (!bodyRootTF) return null;
+            //////
+            //        //    //bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke())
+            //        //    //const view = RIGTESTBETA.field("_mode").value;
+            //        //    //view.field("value__").value = 0;
+            //        //    RIGTESTBETA.method("SetName").invoke(1)
+            //        //}
+            //        //if (!LocalRig.method("get_enabled").invoke()) {
+            //        //    getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+            //        //}
+            //        //const player = NetPlayer.method("get_localPlayer").invoke();
+            //        //if (!player) return;
+            //        //if (rightSecondary && !previousInvisKey) {
+            //        //    //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+            //        //    //weird inverted giant head lol
+            //        //    player.method("set_playerHeadSize").invoke(-50);
+            //        //    //set_propBodyID is ss and number 8 is item_crate which is invis
+            //        //    
+            //        //}
+            //        //if () {//(!LocalRig.method("get_enabled").invoke()) {
+            //        //    //getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+            //        //}
+            //        previousInvisKey = rightStick;
+            //
+            //    },
+            //    toolTip: "Turns you invisible when holding B." //pressing B."
+            //}),
+            new ButtonInfo({
+                buttonText: "Rig Gun",
+                //disableMethod: () => {
+                //    LocalRig.method("set_enabled").invoke(true);
+                //},
+                method: () => {
+                    const player = PCClass.method("get_instance").invoke();
+                    const RIGTESTBETA = player.method("get_playerView").invoke();
+                    if (!RIGTESTBETA)
+                        return null;
+                    const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                    if (!bodyRootTF)
+                        return null;
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const gunPointer = gunData.gunPointer;
+                        if (rightTrigger) {
+                            //LocalRig.method("set_enabled").invoke(false);
+                            const position = Vector3.method("op_Addition", 2).invoke([0, 1, 0], getTransform(gunPointer).method("get_position").invoke());
+                            bodyRootTF.method("set_position").invoke(position);
+                        }
+                        else {
+                            bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+                        }
+                    }
+                },
+                toolTip: "Moves your rig to wherever your hand desires."
+            }),
+            new ButtonInfo({
+                buttonText: "Grab Rig",
+                method: () => {
+                    const player = PCClass.method("get_instance").invoke();
+                    const RIGTESTBETA = player.method("get_playerView").invoke();
+                    if (!RIGTESTBETA)
+                        return null;
+                    const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                    if (!bodyRootTF)
+                        return null;
+                    if (rightGrab) {
+                        //LocalRig.method("set_enabled").invoke(false);
+                        bodyRootTF.method("set_position").invoke(rightHandTransform.method("get_position").invoke());
+                        bodyRootTF.method("set_rotation").invoke(rightHandTransform.method("get_rotation").invoke());
+                    }
+                    else {
+                        bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+                        bodyRootTF.method("set_rotation").invoke(getTransform(headCollider).method("get_rotation").invoke());
+                    }
+                    if (leftGrab) {
+                        //LocalRig.method("set_enabled").invoke(false);
+                        bodyRootTF.method("set_position").invoke(leftHandTransform.method("get_position").invoke());
+                        bodyRootTF.method("set_rotation").invoke(leftHandTransform.method("get_rotation").invoke());
+                    }
+                    else {
+                        bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+                        bodyRootTF.method("set_rotation").invoke(getTransform(headCollider).method("get_rotation").invoke());
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you grab your rig"
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Spaz Rig",
+            //    method: () => {
+            //        const trackingRotationOffset = LocalRig.field("head").value.field("trackingRotationOffset").value;
+            //        trackingRotationOffset.field("x").value = Math.random() * 360.0;
+            //        trackingRotationOffset.field("y").value = Math.random() * 360.0;
+            //        trackingRotationOffset.field("z").value = Math.random() * 360.0;
+            //    },
+            //    disableMethod: () => {
+            //        const trackingRotationOffset = LocalRig.field("head").value.field("trackingRotationOffset").value;
+            //        trackingRotationOffset.field("x").value = 0.0;
+            //        trackingRotationOffset.field("y").value = 0.0;
+            //        trackingRotationOffset.field("z").value = 0.0;
+            //    },
+            //    toolTip: "Spazzes your rig out."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Spin Head X",
+            //    method: () => {
+            //        const trackingRotationOffset = LocalRig.field("head").value.field("trackingRotationOffset").value;
+            //        trackingRotationOffset.field("x").value += 15.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("x").value = 0.0;
+            //    },
+            //    toolTip: "Rotate head around the X axis."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Spin Head Y",
+            //    method: () => {
+            //        const trackingRotationOffset = LocalRig.field("head").value.field("trackingRotationOffset").value;
+            //        trackingRotationOffset.field("y").value += 15.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("y").value = 0.0;
+            //    },
+            //    toolTip: "Rotate head around the Y axis."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Spin Head Z",
+            //    method: () => {
+            //        const trackingRotationOffset = LocalRig.field("head").value.field("trackingRotationOffset").value;
+            //        trackingRotationOffset.field("z").value += 15.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("z").value = 0.0;
+            //    },
+            //    toolTip: "Rotate head around the Z axis."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Upside Down Head",
+            //    method: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("z").value = 180.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("z").value = 0.0;
+            //    },
+            //    toolTip: "Flip your head upside down."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Broken Neck",
+            //    method: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("z").value = 90.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("z").value = 0.0;
+            //    },
+            //    toolTip: "Tilt your head sideways."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Backwards Head",
+            //    method: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("y").value = 180.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("y").value = 0.0;
+            //    },
+            //    toolTip: "Turn your head backwards."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Sideways Head",
+            //    method: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("y").value = 90.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("y").value = 0.0;
+            //    },
+            //    toolTip: "Rotate your head sideways."
+            //}),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Misc Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Item In Stash???",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        // find the stash machine
+                        const StashMachine = AssemblyCSharp.class("AnimalCompany.StashMachine.StashMachineView");
+                        const stashes = Object.method("FindObjectsOfType").inflate(StashMachine).invoke();
+                        if (!stashes || stashes.length === 0) {
+                            sendNotification("No stash found in room!", false);
+                            return;
+                        }
+                        // use the first stash found
+                        const stash = stashes.get(0);
+                        if (!stash || stash.isNull()) {
+                            sendNotification("Stash is null!", false);
+                            return;
+                        }
+                        // get the stash transform to spawn at its position
+                        const stashTransform = getTransform(stash);
+                        const stashPos = stashTransform.method("get_position").invoke();
+                        // spawn the item at the stash position
+                        const spawned = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(itemIDs[currentItemIndex]), stashPos, identityQuaternion, null);
+                        if (!spawned || spawned.isNull()) {
+                            sendNotification("Spawn failed!", false);
+                            return;
+                        }
+                        // apply current scale
+                        try {
+                            const gbo = spawned.method("GetComponent", 1)
+                                .inflate(GBOClass).invoke();
+                            if (gbo && !gbo.isNull()) {
+                                if (sizespawner !== 0) {
+                                    gbo.method("set_scaleModifier").invoke(Math.floor(sizespawner));
+                                }
+                            }
+                        }
+                        catch (_) { }
+                        // try to add it directly into the stash slots
+                        try {
+                            const stashState = stash.field("_stashState").value;
+                            if (stashState && !stashState.isNull()) {
+                                const slots = stashState.field("_slots").value;
+                                if (slots && !slots.isNull()) {
+                                    const slotCount = slots.method("get_Count").invoke();
+                                    console.log("Stash slot count: " + slotCount);
+                                    // find first empty slot and put the item in it
+                                    for (let i = 0; i < slotCount; i++) {
+                                        try {
+                                            const slot = slots.method("get_Item").invoke(i);
+                                            if (!slot || slot.isNull())
+                                                continue;
+                                            const isEmpty = slot.method("get_isEmpty").invoke();
+                                            if (isEmpty) {
+                                                const networkObj = spawned.method("GetComponent", 1)
+                                                    .inflate(NetworkObjectClass).invoke();
+                                                if (networkObj && !networkObj.isNull()) {
+                                                    slot.method("RPC_SetItem").invoke(networkObj);
+                                                    sendNotification("Spawned in stash slot " + i + ": " + itemIDs[currentItemIndex], false);
+                                                    return;
+                                                }
+                                            }
+                                        }
+                                        catch (_) { }
+                                    }
+                                    sendNotification("No empty stash slots found, item spawned at stash!", false);
+                                }
+                            }
+                        }
+                        catch (e) {
+                            // fallback: item is still spawned at stash position even if slot insert fails
+                            sendNotification("Spawned at stash: " + itemIDs[currentItemIndex], false);
+                            console.log("slot insert failed, item still spawned at stash pos: " + e);
+                        }
+                    }
+                    catch (e) {
+                        console.error("spawn in stash error:", e);
+                        sendNotification("Error: " + e, false);
+                    }
+                },
+                toolTip: "Stash spawner lol."
+            }),
+            new ButtonInfo({
+                buttonText: "Shoot Flaregun Projectiles",
+                method: () => {
+                    const player = NetPlayer.method("get_localPlayer").invoke();
+                    if (!player)
+                        return;
+                    const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                    if (!interactor)
+                        return;
+                    const itemAnchor = interactor.field("_itemAnchor").value;
+                    if (!itemAnchor)
+                        return;
+                    const stick = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("item_treestick"), rightHandTransform.method("get_position").invoke(), identityQuaternion, null);
+                    const idofstick = stick.method("get_Id").invoke();
+                    //TryGrabObject
+                    //Destroy(stick);
+                },
+                isTogglable: false,
+                toolTip: "Lets you eject more times using your stash"
+            }),
+            new ButtonInfo({
+                buttonText: "Ding!",
+                method: () => {
+                    const File = Il2Cpp.corlib.class("System.IO.File");
+                    const Directory = Il2Cpp.corlib.class("System.IO.Directory");
+                    const url = API_URL + "/massets/ding.wav";
+                    const audioType = 20;
+                    const request = UnityWebRequest.alloc();
+                    request.method(".ctor", 2).invoke(Il2Cpp.string(url), Il2Cpp.string("GET"));
+                    const dh = DownloadHandlerBuffer.method(".ctor").invoke();
+                    request.method("set_downloadHandler").invoke(dh);
+                    const op = request.method("SendWebRequest").invoke();
+                    while (!request.method("get_isDone").invoke()) { }
+                    const bytes = dh.method("GetData").invoke();
+                    const basePath = Il2Cpp.application.persistentDataPath;
+                    const soundDir = Il2Cpp.string(basePath + "/skid_audio");
+                    if (!Directory.method("Exists").invoke(soundDir)) {
+                        Directory.method("CreateDirectory").invoke(soundDir);
+                    }
+                    const filePath = Il2Cpp.string(soundDir + "/ding.wav");
+                    File.method("WriteAllBytes")
+                        .invoke(filePath, bytes);
+                    //const clip = DownloadHandlerAudioClip.method("GetContent").invoke(request);
+                    //Play2DAudio(clip, 1.0)
+                },
+                isTogglable: false,
+                toolTip: ":)"
+            }),
+            new ButtonInfo({
+                buttonText: "Get Hand Position",
+                method: () => {
+                    if (rightGrab) {
+                        console.log(rightHandTransform.method("get_position").invoke());
+                    }
+                    //TryGrabObject
+                    //Destroy(stick);
+                },
+                isTogglable: false,
+                toolTip: "Lets you eject more times using your stash"
+            }),
+            new ButtonInfo({
+                buttonText: "XrInput Name",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        player.method("RPC_SetPlayerName").invoke(Il2Cpp.string("XrInput"));
+                    }
+                    catch (e) {
+                        console.error("name change error:", e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes your in game name."
+            }),
+            new ButtonInfo({
+                buttonText: "Stash Dupe",
+                method: () => stashDupeEnabled = true, //righthand = true,
+                disableMethod: () => stashDupeEnabled = false, //righthand = false,
+                toolTip: "Lets you eject more times using your stash"
+            }),
+            new ButtonInfo({
+                buttonText: "Backpack Dupe",
+                method: () => backpackDupeEnabled = true, //righthand = true,
+                disableMethod: () => backpackDupeEnabled = false, //righthand = false,
+                toolTip: "Any item you dump out of a backpack will stay in the bag"
+            }),
+            new ButtonInfo({
+                buttonText: "Stash Allow Move",
+                method: () => stashAllowMoves = true, //righthand = true,
+                disableMethod: () => stashAllowMoves = false, //righthand = false,
+                toolTip: "Lets you use any move in the stash (put anything in quivers, put black crates in bags, etc.)"
+            }),
+            new ButtonInfo({
+                buttonText: "Items in any slot",
+                method: () => allowPutGBO = true, //righthand = true,
+                disableMethod: () => allowPutGBO = false, //righthand = false,
+                toolTip: "Lets you put any item on your back, or hip slots"
+            }),
+            new ButtonInfo({
+                buttonText: "Infinite Ammo",
+                enabled: true,
+                method: () => infAmmo = true, //righthand = true,
+                disableMethod: () => infAmmo = false, //righthand = false,
+                toolTip: "Lets you use items infinitely! (IF OFF IT SPAMS ERRORS IN THE CONSOLE AND DOESNT LET YOU USE ITEMS.)"
+            }),
+            new ButtonInfo({
+                buttonText: "Head Size Self (SS) (NOT ON CS)",
+                method: () => {
+                    //if (rightGrab) {
+                    //    //const gunData = renderGun();
+                    //    //const ray = gunData.ray;
+                    ////
+                    //    //if (rightTrigger) {
+                    //    //    const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                    //    //    if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                    //    //        if (!playerIsLocal(gunTarget)) {
+                    //    //            //tagGunDelay = time + 0.5;
+                    //    //            //LocalRig.method("set_enabled").invoke(false);
+                    //    //            //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                    //    //            //serialize();
+                    //    //            //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                    //    //            //LocalRig.method("set_enabled").invoke(true);
+                    //    //            //sendAllOutgoing();
+                    //    //            gunTarget.method("set_playerHeadSize").invoke(-50);
+                    //    //            //set_playerHeadSize
+                    //    //        }
+                    //    //    }
+                    //    //}
+                    //}
+                    const player = getMyPlayer();
+                    if (negativeHeadSize) {
+                        player.method("set_playerHeadSize").invoke(-headSizeAmount);
+                    }
+                    else {
+                        player.method("set_playerHeadSize").invoke(headSizeAmount);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Sets your head size to the head size amount. (ONLY FOR OTHER PLAYERS) (NOT VISIBLE ON YOUR SCREEN)"
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Massive Inverted Head Gun",
+            //    method: () => {
+            //        if (rightGrab) {
+            //            const gunData = renderGun();
+            //            const ray = gunData.ray;
+            //
+            //            if (rightTrigger) {
+            //                const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+            //                if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+            //                    if (!playerIsLocal(gunTarget)) {
+            //                        //tagGunDelay = time + 0.5;
+            //                        //LocalRig.method("set_enabled").invoke(false);
+            //                        //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+            //                        //serialize();
+            //                        //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+            //                        //LocalRig.method("set_enabled").invoke(true);
+            //                        //sendAllOutgoing();
+            //                        gunTarget.method("set_playerHeadSize").invoke(-50);
+            //                        //set_playerHeadSize
+            //                    }
+            //                }
+            //            }
+            //        }
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Sets a players headsize to -50 which makes it big and inside out. (NW)"
+            //}),
+            new ButtonInfo({
+                buttonText: "Use Item Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), GBOClass);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                //if (!playerIsLocal(gunTarget)) {
+                                //tagGunDelay = time + 0.5;
+                                //LocalRig.method("set_enabled").invoke(false);
+                                //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                //serialize();
+                                //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                //LocalRig.method("set_enabled").invoke(true);
+                                //sendAllOutgoing();
+                                if (leftTrigger) {
+                                    gunTarget.method("HandleTriggerUse").invoke();
+                                }
+                                else if (leftPrimary) {
+                                    gunTarget.method("HandleUse").invoke();
+                                }
+                                else {
+                                    return null;
+                                }
+                                //}
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Uses an item, (flaregun, grenade, etc.)\nHold left trigger to trigger the trigger action on the item, hold left primary to trigger the use action on the item."
+            }),
+            new ButtonInfo({
+                buttonText: "Mic Echo (Photon Mic)",
+                disableMethod: () => {
+                    const player = NetPlayer.method("get_localPlayer").invoke();
+                    if (!player)
+                        return;
+                    const micobject = player.field("_recorder").value;
+                    if (!micobject)
+                        return;
+                    micobject.method("set_DebugEchoMode").invoke(false);
+                },
+                enableMethod: () => {
+                    const player = NetPlayer.method("get_localPlayer").invoke();
+                    if (!player)
+                        return;
+                    const micobject = player.field("_recorder").value;
+                    if (!micobject)
+                        return;
+                    micobject.method("set_DebugEchoMode").invoke(true);
+                    // PhotonVoice
+                    //                  class Photon.Voice.Unity.Recorder : Photon.Voice.Unity.VoiceComponent
+                    //                  {
+                    //                      static System.Int32 MIN_OPUS_BITRATE = 6000;
+                    //                      static System.Int32 MAX_OPUS_BITRATE = 510000;
+                    //                      System.Boolean voiceDetection; // 0x28
+                    //                      System.Single voiceDetectionThreshold; // 0x2c
+                    //                      System.Int32 voiceDetectionDelayMs; // 0x30
+                    //                      System.Object userData; // 0x38
+                    //                      Photon.Voice.LocalVoice voice; // 0x40
+                    //                      Photon.Voice.IAudioDesc inputSource; // 0x48
+                    //                      Photon.Voice.Unity.VoiceConnection voiceConnection; // 0x50
+                    //                      System.Byte interestGroup; // 0x58
+                    //                      System.Boolean useTargetPlayers; // 0x59
+                    //                      System.Int32[] targetPlayers; // 0x60
+                    //                      System.Boolean debugEchoMode; // 0x68
+                    //                      System.Boolean reliableMode; // 0x69
+                    //                      System.Boolean encrypt; // 0x6a
+                    //                      System.Boolean transmitEnabled; // 0x6b
+                    //                      POpusCodec.Enums.SamplingRate samplingRate; // 0x6c
+                    //                      Photon.Voice.OpusCodec.FrameDuration frameDuration; // 0x70
+                    //                      System.Int32 bitrate; // 0x74
+                    //                      Photon.Voice.Unity.Recorder.InputSourceType sourceType; // 0x78
+                    //                      Photon.Voice.Unity.Recorder.MicType microphoneType; // 0x7c
+                    //                      UnityEngine.AudioClip audioClip; // 0x80
+                    //                      System.Boolean loopAudioClip; // 0x88
+                    //                      System.Boolean recordingEnabled; // 0x89
+                    //                      System.Func<Photon.Voice.IAudioDesc> inputFactory; // 0x90
+                    //                      Photon.Voice.IOS.AudioSessionParameters audioSessionParameters; // 0x98
+                    //                      Photon.Voice.Unity.AndroidAudioInParameters androidMicrophoneSettings; // 0xa8
+                    //                      System.Boolean isPausedOrInBackground; // 0xab
+                    //                      System.Boolean stopRecordingWhenPaused; // 0xac
+                    //                      System.Boolean useOnAudioFilterRead; // 0xad
+                    //                      System.Boolean useMicrophoneTypeFallback; // 0xae
+                    //                      System.Boolean recordWhenJoined; // 0xaf
+                    //                      Photon.Voice.DeviceInfo microphoneDevice; // 0xb0
+                    //                      System.Int32 microphoneDeviceChangePending; // 0xd8
+                    //                      System.Int32 restartRecordingPending; // 0xdc
+                    //                      System.Void MicrophoneDeviceChangeDetected(); // 0x055dd008
+                    //                      System.Boolean get_TransmitEnabled(); // 0x055dd210
+                    //                      System.Void set_TransmitEnabled(System.Boolean value); // 0x055dd218
+                    //                      System.Boolean get_Encrypt(); // 0x055dd2c4
+                    //                      System.Void set_Encrypt(System.Boolean value); // 0x055dd2dc
+                    //                      System.Boolean get_DebugEchoMode(); // 0x055dd2fc
+                    //                      System.Void set_DebugEchoMode(System.Boolean value); // 0x055dd314
+                    //                      System.Boolean get_ReliableMode(); // 0x055dd34c
+                    //                      System.Void set_ReliableMode(System.Boolean value); // 0x055dd364
+                    //                      System.Boolean get_VoiceDetection(); // 0x055dd384
+                    //                      System.Void set_VoiceDetection(System.Boolean value); // 0x055dd38c
+                    //                      System.Single get_VoiceDetectionThreshold(); // 0x055dd52c
+                    //                      System.Void set_VoiceDetectionThreshold(System.Single value); // 0x055dd534
+                    //                      System.Int32 get_VoiceDetectionDelayMs(); // 0x055dd764
+                    //                      System.Void set_VoiceDetectionDelayMs(System.Int32 value); // 0x055dd76c
+                    //                      System.Object get_UserData(); // 0x055dd848
+                    //                      System.Void set_UserData(System.Object value); // 0x055dd850
+                    //                      System.Func<Photon.Voice.IAudioDesc> get_InputFactory(); // 0x055dd9e4
+                    //                      System.Void set_InputFactory(System.Func<Photon.Voice.IAudioDesc> value); // 0x055dd9ec
+                    //                      Photon.Voice.AudioUtil.IVoiceDetector get_VoiceDetector(); // 0x055dd46c
+                    //                      System.Byte get_InterestGroup(); // 0x055ddbc4
+                    //                      System.Void set_InterestGroup(System.Byte value); // 0x055ddbdc
+                    //                      System.Int32[] get_TargetPlayers(); // 0x055ddbf8
+                    //                      System.Void set_TargetPlayers(System.Int32[] value); // 0x055ddc10
+                    //                      System.Boolean get_IsCurrentlyTransmitting(); // 0x055ddc5c
+                    //                      Photon.Voice.AudioUtil.ILevelMeter get_LevelMeter(); // 0x055ddc8c
+                    //                      System.Boolean get_VoiceDetectorCalibrating(); // 0x055ddd50
+                    //                      Photon.Voice.ILocalVoiceAudio get_voiceAudio(); // 0x055ddb7c
+                    //                      Photon.Voice.Unity.Recorder.InputSourceType get_SourceType(); // 0x055dde20
+                    //                      System.Void set_SourceType(Photon.Voice.Unity.Recorder.InputSourceType value); // 0x055dde28
+                    //                      Photon.Voice.Unity.Recorder.MicType get_MicrophoneType(); // 0x055ddf94
+                    //                      System.Void set_MicrophoneType(Photon.Voice.Unity.Recorder.MicType value); // 0x055de000
+                    //                      UnityEngine.AudioClip get_AudioClip(); // 0x055de174
+                    //                      System.Void set_AudioClip(UnityEngine.AudioClip value); // 0x055de17c
+                    //                      System.Boolean get_LoopAudioClip(); // 0x055de334
+                    //                      System.Void set_LoopAudioClip(System.Boolean value); // 0x055de33c
+                    //                      POpusCodec.Enums.SamplingRate get_SamplingRate(); // 0x055de458
+                    //                      System.Void set_SamplingRate(POpusCodec.Enums.SamplingRate value); // 0x055de460
+                    //                      Photon.Voice.OpusCodec.FrameDuration get_FrameDuration(); // 0x055de5cc
+                    //                      System.Void set_FrameDuration(Photon.Voice.OpusCodec.FrameDuration value); // 0x055de5d4
+                    //                      System.Int32 get_Bitrate(); // 0x055de740
+                    //                      System.Void set_Bitrate(System.Int32 value); // 0x055de748
+                    //                      System.Boolean get_RecordingEnabled(); // 0x055dea90
+                    //                      System.Void set_RecordingEnabled(System.Boolean value); // 0x055dea98
+                    //                      System.Boolean get_StopRecordingWhenPaused(); // 0x055ded44
+                    //                      System.Void set_StopRecordingWhenPaused(System.Boolean value); // 0x055ded4c
+                    //                      System.Boolean get_UseOnAudioFilterRead(); // 0x055ded54
+                    //                      System.Void set_UseOnAudioFilterRead(System.Boolean value); // 0x055ded5c
+                    //                      System.Boolean get_UseMicrophoneTypeFallback(); // 0x055deedc
+                    //                      System.Void set_UseMicrophoneTypeFallback(System.Boolean value); // 0x055deee4
+                    //                      System.Boolean get_RecordWhenJoined(); // 0x055deeec
+                    //                      System.Void set_RecordWhenJoined(System.Boolean value); // 0x055deef4
+                    //                      Photon.Voice.DeviceInfo get_MicrophoneDevice(); // 0x055deefc
+                    //                      System.Void set_MicrophoneDevice(Photon.Voice.DeviceInfo value); // 0x055def10
+                    //                      System.Boolean get_AndroidMicrophoneAGC(); // 0x055df110
+                    //                      System.Boolean get_AndroidMicrophoneAEC(); // 0x055df118
+                    //                      System.Boolean get_AndroidMicrophoneNS(); // 0x055df120
+                    //                      System.Boolean Init(Photon.Voice.Unity.VoiceConnection connection); // 0x055df128
+                    //                      System.Boolean Deinit(Photon.Voice.Unity.VoiceConnection connection); // 0x055df3b0
+                    //                      System.Boolean RestartRecording(); // 0x055dd9c8
+                    //                      System.Void VoiceDetectorCalibrate(System.Int32 durationMs, System.Action<System.Single> detectionEndedCallback); // 0x055df3d8
+                    //                      System.Void StartRecording(); // 0x055df678
+                    //                      System.Void StopRecording(); // 0x055deac0
+                    //                      System.Boolean SetIosAudioSessionParameters(Photon.Voice.IOS.AudioSessionParameters asp); // 0x055e18c0
+                    //                      System.Boolean SetIosAudioSessionParameters(Photon.Voice.IOS.AudioSessionCategory category, Photon.Voice.IOS.AudioSessionMode mode, Photon.Voice.IOS.AudioSessionCategoryOption[] options); // 0x055e18d0
+                    //                      System.Boolean SetAndroidNativeMicrophoneSettings(System.Boolean aec, System.Boolean agc, System.Boolean ns); // 0x055e1b0c
+                    //                      System.Boolean ResetLocalAudio(); // 0x055e1d84
+                    //                      Photon.Voice.LocalVoice CreateLocalVoiceAudioAndSource(); // 0x055dfd38
+                    //                      System.Void SendPhotonVoiceCreatedMessage(); // 0x055e253c
+                    //                      System.Void Update(); // 0x055e25f8
+                    //                      System.Void OnDestroy(); // 0x055e2a40
+                    //                      System.Void HandleDeviceChange(); // 0x055e27c8
+                    //                      System.Void OnApplicationPause(System.Boolean paused); // 0x055e2cac
+                    //                      System.Void OnApplicationFocus(System.Boolean focused); // 0x055e3404
+                    //                      System.Void HandleApplicationPause(System.Boolean paused); // 0x055e2e64
+                    //                      System.Void .ctor(); // 0x055e35c0
+                    //                  }
+                },
+                isTogglable: true,
+                toolTip: "Be able to hear what other players hear from you."
+            }),
+            new ButtonInfo({
+                buttonText: "Good Mic Quality (Photon Mic)",
+                disableMethod: () => {
+                    const player = NetPlayer.method("get_localPlayer").invoke();
+                    if (!player)
+                        return;
+                    const micobject = player.field("_recorder").value;
+                    if (!micobject)
+                        return;
+                    //console.log("min opus bitrate: " + micobject.field("MIN_OPUS_BITRATE").value)
+                    //console.log("max opus bitrate: " + micobject.field("MAX_OPUS_BITRATE").value)
+                    micobject.method("set_Bitrate").invoke(20000);
+                    micobject.method("RestartRecording").invoke();
+                },
+                enableMethod: () => {
+                    const player = NetPlayer.method("get_localPlayer").invoke();
+                    if (!player)
+                        return;
+                    const micobject = player.field("_recorder").value;
+                    if (!micobject)
+                        return;
+                    //console.log("bitrate: " + micobject.field("bitrate").value)
+                    micobject.method("set_Bitrate").invoke(99999);
+                    micobject.method("RestartRecording").invoke();
+                    // PhotonVoice
+                    //                  class Photon.Voice.Unity.Recorder : Photon.Voice.Unity.VoiceComponent
+                    //                  {
+                    //                      static System.Int32 MIN_OPUS_BITRATE = 6000;
+                    //                      static System.Int32 MAX_OPUS_BITRATE = 510000;
+                    //                      System.Boolean voiceDetection; // 0x28
+                    //                      System.Single voiceDetectionThreshold; // 0x2c
+                    //                      System.Int32 voiceDetectionDelayMs; // 0x30
+                    //                      System.Object userData; // 0x38
+                    //                      Photon.Voice.LocalVoice voice; // 0x40
+                    //                      Photon.Voice.IAudioDesc inputSource; // 0x48
+                    //                      Photon.Voice.Unity.VoiceConnection voiceConnection; // 0x50
+                    //                      System.Byte interestGroup; // 0x58
+                    //                      System.Boolean useTargetPlayers; // 0x59
+                    //                      System.Int32[] targetPlayers; // 0x60
+                    //                      System.Boolean debugEchoMode; // 0x68
+                    //                      System.Boolean reliableMode; // 0x69
+                    //                      System.Boolean encrypt; // 0x6a
+                    //                      System.Boolean transmitEnabled; // 0x6b
+                    //                      POpusCodec.Enums.SamplingRate samplingRate; // 0x6c
+                    //                      Photon.Voice.OpusCodec.FrameDuration frameDuration; // 0x70
+                    //                      System.Int32 bitrate; // 0x74
+                    //                      Photon.Voice.Unity.Recorder.InputSourceType sourceType; // 0x78
+                    //                      Photon.Voice.Unity.Recorder.MicType microphoneType; // 0x7c
+                    //                      UnityEngine.AudioClip audioClip; // 0x80
+                    //                      System.Boolean loopAudioClip; // 0x88
+                    //                      System.Boolean recordingEnabled; // 0x89
+                    //                      System.Func<Photon.Voice.IAudioDesc> inputFactory; // 0x90
+                    //                      Photon.Voice.IOS.AudioSessionParameters audioSessionParameters; // 0x98
+                    //                      Photon.Voice.Unity.AndroidAudioInParameters androidMicrophoneSettings; // 0xa8
+                    //                      System.Boolean isPausedOrInBackground; // 0xab
+                    //                      System.Boolean stopRecordingWhenPaused; // 0xac
+                    //                      System.Boolean useOnAudioFilterRead; // 0xad
+                    //                      System.Boolean useMicrophoneTypeFallback; // 0xae
+                    //                      System.Boolean recordWhenJoined; // 0xaf
+                    //                      Photon.Voice.DeviceInfo microphoneDevice; // 0xb0
+                    //                      System.Int32 microphoneDeviceChangePending; // 0xd8
+                    //                      System.Int32 restartRecordingPending; // 0xdc
+                    //                      System.Void MicrophoneDeviceChangeDetected(); // 0x055dd008
+                    //                      System.Boolean get_TransmitEnabled(); // 0x055dd210
+                    //                      System.Void set_TransmitEnabled(System.Boolean value); // 0x055dd218
+                    //                      System.Boolean get_Encrypt(); // 0x055dd2c4
+                    //                      System.Void set_Encrypt(System.Boolean value); // 0x055dd2dc
+                    //                      System.Boolean get_DebugEchoMode(); // 0x055dd2fc
+                    //                      System.Void set_DebugEchoMode(System.Boolean value); // 0x055dd314
+                    //                      System.Boolean get_ReliableMode(); // 0x055dd34c
+                    //                      System.Void set_ReliableMode(System.Boolean value); // 0x055dd364
+                    //                      System.Boolean get_VoiceDetection(); // 0x055dd384
+                    //                      System.Void set_VoiceDetection(System.Boolean value); // 0x055dd38c
+                    //                      System.Single get_VoiceDetectionThreshold(); // 0x055dd52c
+                    //                      System.Void set_VoiceDetectionThreshold(System.Single value); // 0x055dd534
+                    //                      System.Int32 get_VoiceDetectionDelayMs(); // 0x055dd764
+                    //                      System.Void set_VoiceDetectionDelayMs(System.Int32 value); // 0x055dd76c
+                    //                      System.Object get_UserData(); // 0x055dd848
+                    //                      System.Void set_UserData(System.Object value); // 0x055dd850
+                    //                      System.Func<Photon.Voice.IAudioDesc> get_InputFactory(); // 0x055dd9e4
+                    //                      System.Void set_InputFactory(System.Func<Photon.Voice.IAudioDesc> value); // 0x055dd9ec
+                    //                      Photon.Voice.AudioUtil.IVoiceDetector get_VoiceDetector(); // 0x055dd46c
+                    //                      System.Byte get_InterestGroup(); // 0x055ddbc4
+                    //                      System.Void set_InterestGroup(System.Byte value); // 0x055ddbdc
+                    //                      System.Int32[] get_TargetPlayers(); // 0x055ddbf8
+                    //                      System.Void set_TargetPlayers(System.Int32[] value); // 0x055ddc10
+                    //                      System.Boolean get_IsCurrentlyTransmitting(); // 0x055ddc5c
+                    //                      Photon.Voice.AudioUtil.ILevelMeter get_LevelMeter(); // 0x055ddc8c
+                    //                      System.Boolean get_VoiceDetectorCalibrating(); // 0x055ddd50
+                    //                      Photon.Voice.ILocalVoiceAudio get_voiceAudio(); // 0x055ddb7c
+                    //                      Photon.Voice.Unity.Recorder.InputSourceType get_SourceType(); // 0x055dde20
+                    //                      System.Void set_SourceType(Photon.Voice.Unity.Recorder.InputSourceType value); // 0x055dde28
+                    //                      Photon.Voice.Unity.Recorder.MicType get_MicrophoneType(); // 0x055ddf94
+                    //                      System.Void set_MicrophoneType(Photon.Voice.Unity.Recorder.MicType value); // 0x055de000
+                    //                      UnityEngine.AudioClip get_AudioClip(); // 0x055de174
+                    //                      System.Void set_AudioClip(UnityEngine.AudioClip value); // 0x055de17c
+                    //                      System.Boolean get_LoopAudioClip(); // 0x055de334
+                    //                      System.Void set_LoopAudioClip(System.Boolean value); // 0x055de33c
+                    //                      POpusCodec.Enums.SamplingRate get_SamplingRate(); // 0x055de458
+                    //                      System.Void set_SamplingRate(POpusCodec.Enums.SamplingRate value); // 0x055de460
+                    //                      Photon.Voice.OpusCodec.FrameDuration get_FrameDuration(); // 0x055de5cc
+                    //                      System.Void set_FrameDuration(Photon.Voice.OpusCodec.FrameDuration value); // 0x055de5d4
+                    //                      System.Int32 get_Bitrate(); // 0x055de740
+                    //                      System.Void set_Bitrate(System.Int32 value); // 0x055de748
+                    //                      System.Boolean get_RecordingEnabled(); // 0x055dea90
+                    //                      System.Void set_RecordingEnabled(System.Boolean value); // 0x055dea98
+                    //                      System.Boolean get_StopRecordingWhenPaused(); // 0x055ded44
+                    //                      System.Void set_StopRecordingWhenPaused(System.Boolean value); // 0x055ded4c
+                    //                      System.Boolean get_UseOnAudioFilterRead(); // 0x055ded54
+                    //                      System.Void set_UseOnAudioFilterRead(System.Boolean value); // 0x055ded5c
+                    //                      System.Boolean get_UseMicrophoneTypeFallback(); // 0x055deedc
+                    //                      System.Void set_UseMicrophoneTypeFallback(System.Boolean value); // 0x055deee4
+                    //                      System.Boolean get_RecordWhenJoined(); // 0x055deeec
+                    //                      System.Void set_RecordWhenJoined(System.Boolean value); // 0x055deef4
+                    //                      Photon.Voice.DeviceInfo get_MicrophoneDevice(); // 0x055deefc
+                    //                      System.Void set_MicrophoneDevice(Photon.Voice.DeviceInfo value); // 0x055def10
+                    //                      System.Boolean get_AndroidMicrophoneAGC(); // 0x055df110
+                    //                      System.Boolean get_AndroidMicrophoneAEC(); // 0x055df118
+                    //                      System.Boolean get_AndroidMicrophoneNS(); // 0x055df120
+                    //                      System.Boolean Init(Photon.Voice.Unity.VoiceConnection connection); // 0x055df128
+                    //                      System.Boolean Deinit(Photon.Voice.Unity.VoiceConnection connection); // 0x055df3b0
+                    //                      System.Boolean RestartRecording(); // 0x055dd9c8
+                    //                      System.Void VoiceDetectorCalibrate(System.Int32 durationMs, System.Action<System.Single> detectionEndedCallback); // 0x055df3d8
+                    //                      System.Void StartRecording(); // 0x055df678
+                    //                      System.Void StopRecording(); // 0x055deac0
+                    //                      System.Boolean SetIosAudioSessionParameters(Photon.Voice.IOS.AudioSessionParameters asp); // 0x055e18c0
+                    //                      System.Boolean SetIosAudioSessionParameters(Photon.Voice.IOS.AudioSessionCategory category, Photon.Voice.IOS.AudioSessionMode mode, Photon.Voice.IOS.AudioSessionCategoryOption[] options); // 0x055e18d0
+                    //                      System.Boolean SetAndroidNativeMicrophoneSettings(System.Boolean aec, System.Boolean agc, System.Boolean ns); // 0x055e1b0c
+                    //                      System.Boolean ResetLocalAudio(); // 0x055e1d84
+                    //                      Photon.Voice.LocalVoice CreateLocalVoiceAudioAndSource(); // 0x055dfd38
+                    //                      System.Void SendPhotonVoiceCreatedMessage(); // 0x055e253c
+                    //                      System.Void Update(); // 0x055e25f8
+                    //                      System.Void OnDestroy(); // 0x055e2a40
+                    //                      System.Void HandleDeviceChange(); // 0x055e27c8
+                    //                      System.Void OnApplicationPause(System.Boolean paused); // 0x055e2cac
+                    //                      System.Void OnApplicationFocus(System.Boolean focused); // 0x055e3404
+                    //                      System.Void HandleApplicationPause(System.Boolean paused); // 0x055e2e64
+                    //                      System.Void .ctor(); // 0x055e35c0
+                    //                  }
+                },
+                isTogglable: true,
+                toolTip: "Enhances your mic quality for other players."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Connect to US",
+            //    method: () => {
+            //        PhotonNetwork.method("ConnectToRegion").invoke(Il2Cpp.string("us"));
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Connects you to the US region."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Connect to US West",
+            //    method: () => {
+            //        PhotonNetwork.method("ConnectToRegion").invoke(Il2Cpp.string("usw"));
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Connects you to the USW rwgion."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Connect to EU",
+            //    method: () => {
+            //        PhotonNetwork.method("ConnectToRegion").invoke(Il2Cpp.string("eu"));
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Connects you to the EU region."
+            //}),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Visual Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Cosmetic Tracers",
+            //    disableMethod: () => {
+            //        for (let line of linePool) {
+            //            line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+            //        }
+            //    },
+            //    method: () => {
+            //        if (frameCount % 5 != 0) {
+            //            for (let line of linePool) {
+            //                line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+            //            }
+            //            const vrrigs = GorillaParent.field("vrrigs").value;
+            //            const vrrigtotal = vrrigs.method("get_Count").invoke();
+            //            const rigs = [];
+            //            const cosmeticRigs = [];
+            //            for (let i = 0; i < vrrigtotal; i++) {
+            //                const playerRig = vrrigs.method("get_Item").invoke(i);
+            //                rigs.push(playerRig);
+            //                if (playerIsLocal(playerRig)) continue;
+            //                const concat = String(playerRig.field("concatStringOfCosmeticsAllowed").value);
+            //                if (concat.includes("LBAAD.")) { cosmeticRigs.push(i); continue; }; // Admin
+            //                if (concat.includes("LBAAK.")) { cosmeticRigs.push(i); continue; }; // Stick
+            //                if (concat.includes("LMAPY.")) { cosmeticRigs.push(i); continue; }; // Forest Guide
+            //                if (concat.includes("LBAGS.")) { cosmeticRigs.push(i); continue; }; // Illustrator
+            //                if (concat.includes("LBADE.")) { cosmeticRigs.push(i); continue; }; // Finger Painter
+            //                if (concat.includes("LBANI.")) { cosmeticRigs.push(i); continue; }; // AA Creator
+            //            }
+            //            for (let i = 0; i < vrrigtotal; i++) {
+            //                if (cosmeticRigs.includes(i) == false) continue;
+            //                const playerRig = rigs[i];
+            //                if (!playerIsLocal(playerRig)) {
+            //                    const color = playerRig.field("playerColor").value;
+            //                    if (lineRenderHolder == null) {
+            //                        lineRenderHolder = GameObject.new("LineRender_Holder");
+            //                    }
+            //                    let finalRender = null;
+            //                    let nl = false;
+            //                    for (let line of linePool) {
+            //                        if (finalRender != null) continue;
+            //                        if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+            //                            line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+            //                            finalRender = line;
+            //                            break;
+            //                        }
+            //                    }
+            //                    if (finalRender == null) {
+            //                        nl = true;
+            //                        const lineHolder = GameObject.new("LineObject");
+            //                        getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+            //                        const newLine = addComponent(lineHolder, LineRenderer);
+            //                        const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("GUI/Text Shader"));
+            //                        newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+            //                        newLine.method("set_startWidth").invoke(0.025);
+            //                        newLine.method("set_endWidth").invoke(0.025);
+            //                        newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+            //                        newLine.method("set_useWorldSpace").invoke(true);
+            //                        newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+            //                        linePool.push(newLine);
+            //                        finalRender = newLine;
+            //                    }
+            //                    finalRender.method("set_startColor").invoke(color);
+            //                    finalRender.method("set_endColor").invoke(color);
+            //                    finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+            //                    finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+            //                }
+            //            }
+            //        }
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Puts tracers on your right hand. Only shows players with rare cosmetics."
+            //}),
+            new ButtonInfo({
+                buttonText: "Item Tracers",
+                disableMethod: () => {
+                    for (let line of linePool) {
+                        line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                },
+                method: () => {
+                    //if (frameCount % 5 != 0) {
+                    //                        const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    //if (!rigs) return null;
+                    //
+                    //for (let i = 0; i < rigs.length; i++) {
+                    //    const rig = rigs.get(i);
+                    //    if (!playerIsLocal(rig)) {
+                    //        rig.method("RPC_TagAsStinky").invoke();
+                    //    }
+                    //    break;
+                    //}
+                    if (frameCount % 5 != 0) {
+                        for (let line of linePool) {
+                            line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                        }
+                        const rigs = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                        if (!rigs)
+                            return null;
+                        const rigstotal = rigs.length;
+                        for (let i = 0; i < rigstotal; i++) {
+                            const playerRig = rigs.get(i);
+                            //if (!playerIsLocal(playerRig)) {
+                            //const color = playerRig.field("playerColor").value;
+                            if (lineRenderHolder == null) {
+                                lineRenderHolder = GameObject.new("LineRender_Holder");
+                            }
+                            let finalRender = null;
+                            let nl = false;
+                            for (let line of linePool) {
+                                if (finalRender != null)
+                                    continue;
+                                if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+                                    line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                    finalRender = line;
+                                    break;
+                                }
+                            }
+                            if (finalRender == null) {
+                                nl = true;
+                                const lineHolder = GameObject.new("LineObject");
+                                getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+                                const newLine = addComponent(lineHolder, LineRenderer);
+                                const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("UI/Default"));
+                                newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+                                newLine.method("set_startWidth").invoke(0.025);
+                                newLine.method("set_endWidth").invoke(0.025);
+                                newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                newLine.method("set_useWorldSpace").invoke(true);
+                                newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+                                linePool.push(newLine);
+                                finalRender = newLine;
+                            }
+                            finalRender.method("set_startColor").invoke(bgColor);
+                            finalRender.method("set_endColor").invoke(bgColor);
+                            finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+                            finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Puts tracers on your right hand. Shows all items."
+            }),
+            new ButtonInfo({
+                buttonText: "Nearest Item Tracer",
+                disableMethod: () => {
+                    for (let line of linePool) {
+                        line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                },
+                method: () => {
+                    if (frameCount % 5 != 0) {
+                        let lowestDistance = Number.MAX_SAFE_INTEGER;
+                        let closest = 0;
+                        for (let line of linePool) {
+                            line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                        }
+                        const vrrigs = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                        if (!vrrigs)
+                            return null;
+                        const vrrigtotal = vrrigs.length;
+                        const rigs = [];
+                        for (let i = 0; i < vrrigtotal; i++) {
+                            const playerRig = vrrigs.get(i);
+                            rigs.push(playerRig);
+                            const dist = Vector3.method("Distance").invoke(getTransform(headCollider).method("get_position").invoke(), getTransform(playerRig).method("get_position").invoke());
+                            if (lowestDistance > dist) {
+                                lowestDistance = dist;
+                                closest = i;
+                            }
+                        }
+                        for (let i = 0; i < vrrigtotal; i++) {
+                            if (i != closest)
+                                continue;
+                            const playerRig = rigs[i];
+                            //if (!playerIsLocal(playerRig)) {
+                            //const color = playerRig.field("playerColor").value;
+                            if (lineRenderHolder == null) {
+                                lineRenderHolder = GameObject.new("LineRender_Holder");
+                            }
+                            let finalRender = null;
+                            let nl = false;
+                            for (let line of linePool) {
+                                if (finalRender != null)
+                                    continue;
+                                if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+                                    line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                    finalRender = line;
+                                    break;
+                                }
+                            }
+                            if (finalRender == null) {
+                                nl = true;
+                                const lineHolder = GameObject.new("LineObject");
+                                getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+                                const newLine = addComponent(lineHolder, LineRenderer);
+                                const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("UI/Default"));
+                                newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+                                newLine.method("set_startWidth").invoke(0.025);
+                                newLine.method("set_endWidth").invoke(0.025);
+                                newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                newLine.method("set_useWorldSpace").invoke(true);
+                                newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+                                linePool.push(newLine);
+                                finalRender = newLine;
+                            }
+                            finalRender.method("set_startColor").invoke(bgColor);
+                            finalRender.method("set_endColor").invoke(bgColor);
+                            finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+                            finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+                            //}
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Puts tracers on your right hand. Shows only the nearest item to reduce lag."
+            }),
+            new ButtonInfo({
+                buttonText: "Casual Tracers",
+                disableMethod: () => {
+                    for (let line of linePool) {
+                        line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                },
+                method: () => {
+                    //if (frameCount % 5 != 0) {
+                    //                        const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    //if (!rigs) return null;
+                    //
+                    //for (let i = 0; i < rigs.length; i++) {
+                    //    const rig = rigs.get(i);
+                    //    if (!playerIsLocal(rig)) {
+                    //        rig.method("RPC_TagAsStinky").invoke();
+                    //    }
+                    //    break;
+                    //}
+                    for (let line of linePool) {
+                        line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                    const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (!rigs)
+                        return null;
+                    const rigstotal = rigs.length;
+                    for (let i = 0; i < rigstotal; i++) {
+                        const playerRig = rigs.get(i);
+                        if (!playerIsLocal(playerRig)) {
+                            //const color = playerRig.field("playerColor").value;
+                            if (lineRenderHolder == null) {
+                                lineRenderHolder = GameObject.new("LineRender_Holder");
+                            }
+                            let finalRender = null;
+                            let nl = false;
+                            for (let line of linePool) {
+                                if (finalRender != null)
+                                    continue;
+                                if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+                                    line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                    finalRender = line;
+                                    break;
+                                }
+                            }
+                            if (finalRender == null) {
+                                nl = true;
+                                const lineHolder = GameObject.new("LineObject");
+                                getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+                                const newLine = addComponent(lineHolder, LineRenderer);
+                                const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("UI/Default"));
+                                newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+                                newLine.method("set_startWidth").invoke(0.025);
+                                newLine.method("set_endWidth").invoke(0.025);
+                                newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                newLine.method("set_useWorldSpace").invoke(true);
+                                newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+                                linePool.push(newLine);
+                                finalRender = newLine;
+                            }
+                            finalRender.method("set_startColor").invoke(bgColor);
+                            finalRender.method("set_endColor").invoke(bgColor);
+                            finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+                            finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Puts tracers on your right hand. Shows everyone."
+            }),
+            new ButtonInfo({
+                buttonText: "Nearest Tracer",
+                disableMethod: () => {
+                    for (let line of linePool) {
+                        line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                },
+                method: () => {
+                    if (frameCount % 5 != 0) {
+                        let lowestDistance = Number.MAX_SAFE_INTEGER;
+                        let closest = 0;
+                        for (let line of linePool) {
+                            line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                        }
+                        const vrrigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                        if (!vrrigs)
+                            return null;
+                        const vrrigtotal = vrrigs.length;
+                        const rigs = [];
+                        for (let i = 0; i < vrrigtotal; i++) {
+                            const playerRig = vrrigs.get(i);
+                            rigs.push(playerRig);
+                            if (playerIsLocal(playerRig))
+                                continue;
+                            const dist = Vector3.method("Distance").invoke(getTransform(headCollider).method("get_position").invoke(), getTransform(playerRig).method("get_position").invoke());
+                            if (lowestDistance > dist) {
+                                lowestDistance = dist;
+                                closest = i;
+                            }
+                        }
+                        for (let i = 0; i < vrrigtotal; i++) {
+                            if (i != closest)
+                                continue;
+                            const playerRig = rigs[i];
+                            if (!playerIsLocal(playerRig)) {
+                                //const color = playerRig.field("playerColor").value;
+                                if (lineRenderHolder == null) {
+                                    lineRenderHolder = GameObject.new("LineRender_Holder");
+                                }
+                                let finalRender = null;
+                                let nl = false;
+                                for (let line of linePool) {
+                                    if (finalRender != null)
+                                        continue;
+                                    if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+                                        line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                        finalRender = line;
+                                        break;
+                                    }
+                                }
+                                if (finalRender == null) {
+                                    nl = true;
+                                    const lineHolder = GameObject.new("LineObject");
+                                    getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+                                    const newLine = addComponent(lineHolder, LineRenderer);
+                                    const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("UI/Default"));
+                                    newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+                                    newLine.method("set_startWidth").invoke(0.025);
+                                    newLine.method("set_endWidth").invoke(0.025);
+                                    newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                    newLine.method("set_useWorldSpace").invoke(true);
+                                    newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+                                    linePool.push(newLine);
+                                    finalRender = newLine;
+                                }
+                                finalRender.method("set_startColor").invoke(bgColor);
+                                finalRender.method("set_endColor").invoke(bgColor);
+                                finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+                                finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Puts tracers on your right hand. Shows only the nearest player to reduce lag."
+            }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Overpowered Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Player Orbit",
+                isTogglable: true,
+                method: (() => {
+                    let orbitAngle = 0;
+                    const ORBIT_RADIUS = 1.5;
+                    const ORBIT_SPEED = 90.0;
+                    return () => {
+                        try {
+                            orbitAngle += ORBIT_SPEED * deltaTime;
+                            if (orbitAngle > 360)
+                                orbitAngle -= 360;
+                            const centerPos = getTransform(headCollider).method("get_position").invoke();
+                            const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                            if (!players)
+                                return;
+                            const otherPlayers = [];
+                            for (let i = 0; i < players.length; i++) {
+                                const p = players.get(i);
+                                if (!playerIsLocal(p))
+                                    otherPlayers.push(p);
+                            }
+                            if (otherPlayers.length === 0)
+                                return;
+                            for (let i = 0; i < otherPlayers.length; i++) {
+                                const player = otherPlayers[i];
+                                if (!player || player.isNull())
+                                    continue;
+                                const angleOffset = (360 / otherPlayers.length) * i;
+                                const rad = (orbitAngle + angleOffset) * (Math.PI / 180);
+                                const offsetX = Math.cos(rad) * ORBIT_RADIUS;
+                                const offsetZ = Math.sin(rad) * ORBIT_RADIUS;
+                                const offsetVec = Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, offsetX), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, offsetZ));
+                                const targetPos = Vector3.method("op_Addition").invoke(centerPos, offsetVec);
+                                player.method("RPC_Teleport").invoke(targetPos);
+                            }
+                        }
+                        catch (e) {
+                            console.error("player orbit error:", e);
+                        }
+                    };
+                })(),
+                toolTip: "Orbits all other players around you. Adjust ORBIT_RADIUS and ORBIT_SPEED in code."
+            }),
+            new ButtonInfo({
+                buttonText: "TP All To Me",
+                method: () => {
+                    const myPos = getTransform(GTPlayer).method("get_position").invoke();
+                    const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (!players)
+                        return;
+                    for (let i = 0; i < players.length; i++) {
+                        const netPlayer = players.get(i);
+                        if (playerIsLocal(netPlayer))
+                            continue;
+                        netPlayer.method("RPC_Teleport").invoke(myPos);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Teleports all players to your position."
+            }),
+            new ButtonInfo({
+                buttonText: "Inf Sell Value",
+                enableMethod: () => {
+                    try {
+                        GBIClass.method("get_sellValue").implementation = function () { return 999999; };
+                        GBIClass.method("get_additionalSellValue").implementation = function () { return 999999; };
+                    }
+                    catch (e) {
+                        sendNotification("Inf Sell: " + e, false);
+                    }
+                },
+                disableMethod: () => {
+                    try {
+                        GBIClass.method("get_sellValue").implementation = null;
+                        GBIClass.method("get_additionalSellValue").implementation = null;
+                    }
+                    catch (e) { }
+                },
+                isTogglable: true,
+                toolTip: "Every item sells for 300k."
+            }),
+            new ButtonInfo({
+                buttonText: "Give Money",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        player.method("RPC_AddPlayerMoney").invoke(100000000);
+                    }
+                    catch (e) {
+                        console.error("give money failed:", e);
+                    }
+                },
+                isTogglable: false
+            }),
+            new ButtonInfo({
+                buttonText: "Flare Gun",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (leftGrab && leftTrigger) {
+                            spawnNetworkPrefab("FlareGunProjectile", leftHandTransform.method("get_position").invoke(), leftHandTransform.method("get_rotation").invoke());
+                        }
+                        if (rightGrab && rightTrigger) {
+                            spawnNetworkPrefab("FlareGunProjectile", rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke());
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "Spawns selected prefab at right hand with right hand rotation."
+            }),
+            new ButtonInfo({
+                buttonText: "Rocket Launcher",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (leftGrab && leftTrigger) {
+                            spawnNetworkPrefab("RPGRocket", leftHandTransform.method("get_position").invoke(), leftHandTransform.method("get_rotation").invoke());
+                        }
+                        if (rightGrab && rightTrigger) {
+                            spawnNetworkPrefab("RPGRocket", rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke());
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "Spawns selected prefab at right hand with right hand rotation."
+            }),
+            new ButtonInfo({
+                buttonText: "BoomSpear Launcher",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (leftGrab && leftTrigger) {
+                            spawnNetworkPrefab("RPGRocketSpear", leftHandTransform.method("get_position").invoke(), leftHandTransform.method("get_rotation").invoke());
+                        }
+                        if (rightGrab && rightTrigger) {
+                            spawnNetworkPrefab("RPGRocketSpear", rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke());
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "Spawns selected prefab at right hand with right hand rotation."
+            }),
+            new ButtonInfo({
+                buttonText: "Egg Launcher",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (!rightGrab)
+                            return;
+                        if (!rightTrigger)
+                            return;
+                        const pos = rightHandTransform.method("get_position").invoke();
+                        const rot = rightHandTransform.method("get_rotation").invoke();
+                        const name = prefabList[5];
+                        const result = spawnNetworkPrefab(name, pos, rot);
+                        if (result)
+                            sendNotification("Spawned: " + name, false);
+                        else
+                            sendNotification("Spawn failed: " + name, false);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "Spawns selected prefab at right hand with right hand rotation."
+            }),
+            new ButtonInfo({
+                buttonText: "Nut spam",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (!rightGrab)
+                            return;
+                        const pos = rightHandTransform.method("get_position").invoke();
+                        const rot = rightHandTransform.method("get_rotation").invoke();
+                        const result = PickupManager.method("SpawnPickup", 4).invoke(2, pos, 5, true);
+                        if (result)
+                            sendNotification("Spawned: ", false);
+                        else
+                            sendNotification("Spawn failed: ", false);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "Spawns selected prefab at right hand with right hand rotation."
+            }),
+            new ButtonInfo({
+                buttonText: "Ammo spam",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (!rightGrab)
+                            return;
+                        const pos = rightHandTransform.method("get_position").invoke();
+                        const rot = rightHandTransform.method("get_rotation").invoke();
+                        const result = PickupManager.method("SpawnPickup", 4).invoke(1, pos, 5, true);
+                        if (result)
+                            sendNotification("Spawned: ", false);
+                        else
+                            sendNotification("Spawn failed: ", false);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "idk."
+            }),
+            new ButtonInfo({
+                buttonText: "Nut Gun",
+                isTogglable: true,
+                method: () => {
+                    if (!rightGrab)
+                        return;
+                    const gunData = renderGun();
+                    const ray = gunData.ray;
+                    if (!ray || ray.handle.isNull())
+                        return;
+                    if (rightTrigger && time > lagGunDelay) {
+                        lagGunDelay = time + 0.0;
+                        try {
+                            const hitPoint = ray.method("get_point").invoke();
+                            PickupManager.method("SpawnPickup", 4).invoke(2, hitPoint, 5, true);
+                        }
+                        catch (e) {
+                            sendNotification("Nut Pickup Gun: " + e, false);
+                        }
+                    }
+                },
+                toolTip: "Spawns nut pickups where you aim (hold grip + trigger)."
+            }),
+            new ButtonInfo({
+                buttonText: "Ammo Gun",
+                isTogglable: true,
+                method: () => {
+                    if (!rightGrab)
+                        return;
+                    const gunData = renderGun();
+                    const ray = gunData.ray;
+                    if (!ray || ray.handle.isNull())
+                        return;
+                    if (rightTrigger && time > lagGunDelay) {
+                        lagGunDelay = time + 0.0;
+                        try {
+                            const hitPoint = ray.method("get_point").invoke();
+                            PickupManager.method("SpawnPickup", 4).invoke(1, hitPoint, 5, true);
+                        }
+                        catch (e) {
+                            sendNotification("Ammo Pickup Gun: " + e, false);
+                        }
+                    }
+                },
+                toolTip: "Spawns ammo pickups where you aim (hold grip + trigger)."
+            }),
+            new ButtonInfo({
+                buttonText: "Explode All Machines",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const machines = Object.method("FindObjectsByType", 1).inflate(ItemSellingMachineController).invoke(0);
+                        if (!machines)
+                            return;
+                        for (let i = 0; i < machines.length; i++) {
+                            try {
+                                const m = machines.get(i);
+                                if (!m || m.handle.isNull())
+                                    continue;
+                                m.method("RPC_ExplodeMachine").invoke();
+                            }
+                            catch (e) { }
+                        }
+                        sendNotification("Exploded all machines!", false);
+                    }
+                    catch (e) { }
+                },
+                toolTip: "Explodes every selling machine in the room."
+            }),
+            new ButtonInfo({
+                buttonText: "Recover All Machines",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const machines = Object.method("FindObjectsByType", 1).inflate(ItemSellingMachineController).invoke(0);
+                        if (!machines)
+                            return;
+                        for (let i = 0; i < machines.length; i++) {
+                            try {
+                                const m = machines.get(i);
+                                if (!m || m.handle.isNull())
+                                    continue;
+                                m.method("RPC_RecoverExplosion").invoke();
+                            }
+                            catch (e) { }
+                        }
+                        sendNotification("Recovered all machines!", false);
+                    }
+                    catch (e) { }
+                },
+                toolTip: "Recovers every exploded selling machine."
+            }),
+            new ButtonInfo({
+                buttonText: "Money All From Machines",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const machines = Object.method("FindObjectsByType", 1).inflate(ItemSellingMachineController).invoke(0);
+                        if (!machines)
+                            return;
+                        for (let i = 0; i < machines.length; i++) {
+                            try {
+                                const m = machines.get(i);
+                                if (!m || m.handle.isNull())
+                                    continue;
+                                m.method("RPC_AddPlayerMoneyToAll").invoke(100000000, [], Il2Cpp.reference(Il2Cpp.domain.assembly("Fusion.Runtime").image.class("Fusion.RpcInfo").alloc()));
+                            }
+                            catch (e) { }
+                        }
+                        sendNotification("Gave money from all machines!", false);
+                    }
+                    catch (e) {
+                        console.error("money machines:", e);
+                    }
+                },
+                toolTip: "Triggers money payout from all selling machines."
+            }),
+            new ButtonInfo({
+                buttonText: "Spam Start Selling",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (time < lagGunDelay)
+                            return;
+                        lagGunDelay = time + 0.5;
+                        const machines = Object.method("FindObjectsByType", 1).inflate(ItemSellingMachineController).invoke(0);
+                        if (!machines)
+                            return;
+                        for (let i = 0; i < machines.length; i++) {
+                            try {
+                                const m = machines.get(i);
+                                if (!m || m.handle.isNull())
+                                    continue;
+                                m.method("RPC_StartItemSelling").invoke(0.0);
+                            }
+                            catch (e) { }
+                        }
+                    }
+                    catch (e) { }
+                },
+                toolTip: "Spams start selling on all machines."
+            }),
+            new ButtonInfo({
+                buttonText: "Break Game Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > lagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    lagGunDelay = time + 2;
+                                    //const plRef = gunTarget.method("get_Creator").invoke().method("get_ActorNumber"/*GetPlayerRef"*/).invoke();
+                                    //const arr = Il2Cpp.array(SystemObject, 0);
+                                    //const rpc = FriendshipGroupDetection.field("photonView").value.method("RPC");
+                                    //for (let i = 0; i < 425; i++) {
+                                    //    rpc.invoke(Il2Cpp.string("NotifyPartyMerging"), plRef, arr);
+                                    //}
+                                    //sendAllOutgoing();
+                                    const transform = gunTarget.method("get_transform").invoke();
+                                    const forward = transform.method("get_forward").invoke();
+                                    const forceVec = Vector3.method("op_Multiply", 2).invoke(forward, 1500 * deltaTime);
+                                    gunTarget.method("RPC_Teleport").invoke([0, -9999999, 0]);
+                                    gunTarget.method("RPC_AddForce").invoke(forceVec);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Kick Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    //gunTarget.method("RPC_TagAsStinky").invoke();
+                                    kickPlayer(gunTarget);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Kicks whoever your hand desires."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Kick Gun V2",
+            //    method: () => {
+            //        if (rightGrab) {
+            //            const gunData = renderGun();
+            //            const ray = gunData.ray;
+            //
+            //            if (rightTrigger) {
+            //                const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), FusionPlayerClass);
+            //                if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+            //                    if (!playerIsLocal(gunTarget)) {
+            //                        const NetworkRunner = SFXManager.method("get__currentRunner").invoke();
+            //                        //tagGunDelay = time + 0.5;
+            //                        //LocalRig.method("set_enabled").invoke(false);
+            //                        //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+            //                        //serialize();
+            //                        //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+            //                        //LocalRig.method("set_enabled").invoke(true);
+            //                        //sendAllOutgoing();
+            //                        //gunTarget.method("RPC_TagAsStinky").invoke();
+            //                        //kickPlayer(gunTarget);
+            //                        const plrtoken = NManager.method("GetPlayerToken").invoke(NetworkRunner, gunTarget)
+            //
+            //                        NetworkRunner.method("Disconnect").invoke(gunTarget, plrtoken);
+            //
+            //                            //static System.Int32 GetPlayerToken(Fusion.NetworkRunner runner, Fusion.PlayerRef player); // 0x02ea0180
+            //                            //static System.Byte[] NewToken(); // 0x02e9ccf8
+            //                            //static System.Int32 HashToken(System.Byte[] token); // 0x02ea029c
+            //                            //static System.String TokenToString(System.Byte[] token); // 0x02ea02dc
+            //
+            //                        //token is byte[]!
+            //
+            //                        // Disconnect(gunTarget, the token)
+            //                    }
+            //                }
+            //            }
+            //        }
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Kicks whoever your hand desires."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "BATS REBORN",
+            //    //enabled: true,
+            //    method: () => {
+            //        rightPrimary = true;
+            //        if (rightPrimary && !previousGhostKey) {
+            //            // Start ghost following cycle
+            //            if (!isGhostFollowingActive && !waitingForRoom) {
+            //                console.log("[+] Starting ghost following cycle...");
+            //                executeFullGhostCycle();
+            //            }
+            //        }
+            //        else if (!rightPrimary && previousGhostKey) {
+            //            // Stop ghost following
+            //            if (isGhostFollowingActive || waitingForRoom) {
+            //                console.log("[+] Stopping ghost following...");
+            //                stopGhostFollowing();
+            //            }
+            //        }
+            //    
+            //        // Update ghost following if active
+            //        if (isGhostFollowingActive && netPlayers.length > 0) {
+            //            updateGhostFollowing();
+            //        }
+            //    
+            //        previousGhostKey = rightPrimary;
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Lags whoever your hand desires. May be broken."
+            //}),
+            new ButtonInfo({
+                buttonText: "Gay Gun",
+                method: () => {
+                    //if (rightGrab) {
+                    //    const gunData = renderGun();
+                    //    const ray = gunData.ray;
+                    //
+                    //    if (rightTrigger) {
+                    //        const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                    //        if (gunTarget && !gunTarget.handle.isNull() && time > lagGunDelay) {
+                    //            if (!playerIsLocal(gunTarget)) {
+                    //                lagGunDelay = time + 2;
+                    //
+                    //                //const plRef = gunTarget.method("get_Creator").invoke().method("get_ActorNumber"/*GetPlayerRef"*/).invoke();
+                    //                //const arr = Il2Cpp.array(SystemObject, 0);
+                    //                //const rpc = FriendshipGroupDetection.field("photonView").value.method("RPC");
+                    //                //for (let i = 0; i < 425; i++) {
+                    //                //    rpc.invoke(Il2Cpp.string("NotifyPartyMerging"), plRef, arr);
+                    //                //}
+                    //                //sendAllOutgoing();
+                    //                const transform = gunTarget.method("get_transform").invoke();
+                    //                const forward = transform.method("get_forward").invoke();
+                    //                const forceVec = Vector3.method("op_Multiply", 2).invoke(forward, 1500 * deltaTime);
+                    //                gunTarget.method("RPC_Teleport").invoke([0, -9999999, 0]);
+                    //                gunTarget.method("RPC_AddForce").invoke(forceVec);
+                    //            }
+                    //        }
+                    //    }
+                    //}
+                    hue += 5;
+                    if (hue > 255)
+                        hue = 0.0;
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    gunTarget.method("RPC_SetColorHSV").invoke(5, hue, 1.0, 1.0);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Blind/BlackScreen Gun",
+                method: () => {
+                    //if (rightGrab) {
+                    //    const gunData = renderGun();
+                    //    const ray = gunData.ray;
+                    //
+                    //    if (rightTrigger) {
+                    //        const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                    //        if (gunTarget && !gunTarget.handle.isNull() && time > lagGunDelay) {
+                    //            if (!playerIsLocal(gunTarget)) {
+                    //                lagGunDelay = time + 2;
+                    //
+                    //                //const plRef = gunTarget.method("get_Creator").invoke().method("get_ActorNumber"/*GetPlayerRef"*/).invoke();
+                    //                //const arr = Il2Cpp.array(SystemObject, 0);
+                    //                //const rpc = FriendshipGroupDetection.field("photonView").value.method("RPC");
+                    //                //for (let i = 0; i < 425; i++) {
+                    //                //    rpc.invoke(Il2Cpp.string("NotifyPartyMerging"), plRef, arr);
+                    //                //}
+                    //                //sendAllOutgoing();
+                    //                const transform = gunTarget.method("get_transform").invoke();
+                    //                const forward = transform.method("get_forward").invoke();
+                    //                const forceVec = Vector3.method("op_Multiply", 2).invoke(forward, 1500 * deltaTime);
+                    //                gunTarget.method("RPC_Teleport").invoke([0, -9999999, 0]);
+                    //                gunTarget.method("RPC_AddForce").invoke(forceVec);
+                    //            }
+                    //        }
+                    //    }
+                    //}
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    gunTarget.method("RPC_SetColorHSV").invoke(NaN, NaN, NaN, NaN);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "getlayer Gun",
+                method: () => {
+                    //if (rightGrab) {
+                    //    const gunData = renderGun();
+                    //    const ray = gunData.ray;
+                    //
+                    //    if (rightTrigger) {
+                    //        const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                    //        if (gunTarget && !gunTarget.handle.isNull() && time > lagGunDelay) {
+                    //            if (!playerIsLocal(gunTarget)) {
+                    //                lagGunDelay = time + 2;
+                    //
+                    //                //const plRef = gunTarget.method("get_Creator").invoke().method("get_ActorNumber"/*GetPlayerRef"*/).invoke();
+                    //                //const arr = Il2Cpp.array(SystemObject, 0);
+                    //                //const rpc = FriendshipGroupDetection.field("photonView").value.method("RPC");
+                    //                //for (let i = 0; i < 425; i++) {
+                    //                //    rpc.invoke(Il2Cpp.string("NotifyPartyMerging"), plRef, arr);
+                    //                //}
+                    //                //sendAllOutgoing();
+                    //                const transform = gunTarget.method("get_transform").invoke();
+                    //                const forward = transform.method("get_forward").invoke();
+                    //                const forceVec = Vector3.method("op_Multiply", 2).invoke(forward, 1500 * deltaTime);
+                    //                gunTarget.method("RPC_Teleport").invoke([0, -9999999, 0]);
+                    //                gunTarget.method("RPC_AddForce").invoke(forceVec);
+                    //            }
+                    //        }
+                    //    }
+                    //}
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const collider = ray.method("get_collider").invoke();
+                            if (collider && !collider.handle.isNull()) {
+                                const go = collider.method("get_gameObject").invoke();
+                                if (go && !go.handle.isNull()) {
+                                    const layer = go.method("get_layer").invoke(); // <--- not field, it's a method
+                                    console.log("Collider layer:", layer);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Break Game All",
+                method: () => {
+                    const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (players) {
+                        for (let i = 0; i < players.length; i++) {
+                            const netPlayer = players.get(i);
+                            if (playerIsLocal(netPlayer))
+                                continue;
+                            //myNP = netPlayer; // cache it
+                            const transform = netPlayer.method("get_transform").invoke();
+                            const forward = transform.method("get_forward").invoke();
+                            const forceVec = Vector3.method("op_Multiply", 2).invoke(forward, 1500 * deltaTime);
+                            netPlayer.method("RPC_Teleport").invoke([0, -9999999, 0]);
+                            netPlayer.method("RPC_AddForce").invoke(forceVec);
+                        }
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Kick All",
+                method: () => {
+                    const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (players) {
+                        for (let i = 0; i < players.length; i++) {
+                            const netPlayer = players.get(i);
+                            if (playerIsLocal(netPlayer))
+                                continue;
+                            kickPlayer(netPlayer);
+                        }
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Gay All",
+                method: () => {
+                    hue += 5;
+                    if (hue > 255)
+                        hue = 0.0;
+                    if (rightGrab) {
+                        const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                        if (players) {
+                            for (let i = 0; i < players.length; i++) {
+                                const netPlayer = players.get(i);
+                                if (netPlayer.method("get_IsMine").invoke())
+                                    continue;
+                                //myNP = netPlayer; // cache it
+                                netPlayer.method("RPC_SetColorHSV").invoke(5, hue, 1.0, 1.0);
+                                //break; // stop once we found it
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Blind/BlackScreen All",
+                method: () => {
+                    if (rightGrab) {
+                        const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                        if (players) {
+                            for (let i = 0; i < players.length; i++) {
+                                const netPlayer = players.get(i);
+                                if (netPlayer.method("get_IsMine").invoke())
+                                    continue;
+                                //myNP = netPlayer; // cache it
+                                netPlayer.method("RPC_SetColorHSV").invoke(NaN, NaN, NaN, NaN);
+                                //break; // stop once we found it
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Blind/BlackScreen Self",
+                method: () => {
+                    if (rightGrab) {
+                        //const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                        //if (players) {
+                        //    for (let i = 0; i < players.length; i++) {
+                        //        const netPlayer = players.get(i);
+                        //        if (netPlayer.method("get_IsMine").invoke()) continue;
+                        //        //myNP = netPlayer; // cache it
+                        //        netPlayer.method("RPC_SetColorHSV").invoke(NaN, NaN, NaN, NaN)
+                        //        //break; // stop once we found it
+                        //    }
+                        //}
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        player.method("RPC_SetColorHSV").invoke(NaN, NaN, NaN, NaN);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Items",
+                method: () => {
+                    const handTransform = rightHandTransform;
+                    if (rightSecondary && rightGrab) {
+                        PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("" + itemIDs[itemIndex]), 
+                        //Il2Cpp.string("GiantRockObject"),
+                        handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), null);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Item 4x4",
+                disableMethod: () => {
+                    // hide/destroy all visualizer cubes
+                    if (visualizer && visualizer.length) {
+                        for (const cube of visualizer) {
+                            if (cube) {
+                                cube.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                                // optionally destroy: Destroy(cube);
+                            }
+                        }
+                        // clear array if you destroyed them
+                        // visualizer = [];
+                    }
+                },
+                method: () => {
+                    const handTransform = rightHandTransform;
+                    const prefabName = Il2Cpp.string("item_" + itemIDs[itemIndex]);
+                    const basePos = handTransform.method("get_position").invoke();
+                    const rot = identityQuaternion;
+                    const spacing = 0.5;
+                    if (time > tagGunDelay) {
+                        tagGunDelay = time + 0.1;
+                        for (let i = 0; i < 4; i++) {
+                            for (let j = 0; j < 4; j++) {
+                                const offset = Vector3.method("op_Addition").invoke(basePos, Vector3.method("op_Multiply").invoke(Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, i), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, j)), spacing));
+                                // create visualizer cube if not exists
+                                if (!visualizer[i * 4 + j]) {
+                                    const cube = GameObject.method("CreatePrimitive").invoke(3); // cube
+                                    Destroy(getComponent(cube, Collider));
+                                    const renderer = getComponent(cube, Renderer);
+                                    const mat = renderer.method("get_material").invoke();
+                                    mat.method("set_shader").invoke(UberShader);
+                                    mat.method("set_color").invoke([0, 1, 0, 0.3]); // semi-transparent green
+                                    const t = getTransform(cube);
+                                    t.method("set_localScale").invoke([0.1, 0.1, 0.1]);
+                                    visualizer[i * 4 + j] = cube;
+                                }
+                                // update position and rotation every frame
+                                const t = getTransform(visualizer[i * 4 + j]);
+                                t.method("set_position").invoke(offset);
+                                t.method("set_rotation").invoke(rot);
+                                visualizer[i * 4 + j].method("get_gameObject").invoke().method("SetActive").invoke(true);
+                            }
+                        }
+                    }
+                    if (rightPrimary && !perviousSpawnKey) {
+                        for (let i = 0; i < 4; i++) {
+                            for (let j = 0; j < 4; j++) {
+                                const offset = Vector3.method("op_Addition").invoke(basePos, Vector3.method("op_Multiply").invoke(Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, i), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, j)), spacing));
+                                PrefabGen.method("SpawnItem", 4).invoke(prefabName, offset, rot, null);
+                            }
+                        }
+                    }
+                    perviousSpawnKey = rightPrimary;
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Item 4x4 (ABOVE HEAD)",
+                disableMethod: () => {
+                    // hide/destroy all visualizer cubes
+                    if (visualizer && visualizer.length) {
+                        for (const cube of visualizer) {
+                            if (cube) {
+                                cube.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                                // optionally destroy: Destroy(cube);
+                            }
+                        }
+                        // clear array if you destroyed them
+                        // visualizer = [];
+                    }
+                },
+                method: () => {
+                    const prefabName = Il2Cpp.string("item_" + itemIDs[itemIndex]);
+                    const headPos = getTransform(headCollider).method("get_position").invoke(); // top of head
+                    const rot = identityQuaternion;
+                    const spacing = 0.5;
+                    const heightOffset = Vector3.field("upVector").value; // Vector3.up equivalent
+                    const basePos = Vector3.method("op_Addition").invoke(headPos, Vector3.method("op_Multiply").invoke(heightOffset, 2)); // 2 units above head
+                    if (time > tagGunDelay) {
+                        tagGunDelay = time + 0.1;
+                        for (let i = 0; i < 4; i++) {
+                            for (let j = 0; j < 4; j++) {
+                                const offset = Vector3.method("op_Addition").invoke(basePos, Vector3.method("op_Multiply").invoke(Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, i), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, j)), spacing));
+                                // create visualizer cube if not exists
+                                if (!visualizer[i * 4 + j]) {
+                                    const cube = GameObject.method("CreatePrimitive").invoke(3); // cube
+                                    Destroy(getComponent(cube, Collider));
+                                    const renderer = getComponent(cube, Renderer);
+                                    const mat = renderer.method("get_material").invoke();
+                                    mat.method("set_shader").invoke(UberShader);
+                                    mat.method("set_color").invoke([0, 1, 0, 0.3]); // semi-transparent green
+                                    const t = getTransform(cube);
+                                    t.method("set_localScale").invoke([0.1, 0.1, 0.1]);
+                                    visualizer[i * 4 + j] = cube;
+                                }
+                                // update position and rotation every frame
+                                const t = getTransform(visualizer[i * 4 + j]);
+                                t.method("set_position").invoke(offset);
+                                t.method("set_rotation").invoke(rot);
+                                visualizer[i * 4 + j].method("get_gameObject").invoke().method("SetActive").invoke(true);
+                            }
+                        }
+                    }
+                    // spawn actual prefabs if right trigger pressed
+                    if (rightPrimary && !perviousSpawnKey) {
+                        for (let i = 0; i < 4; i++) {
+                            for (let j = 0; j < 4; j++) {
+                                const offset = Vector3.method("op_Addition").invoke(basePos, Vector3.method("op_Multiply").invoke(Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, i), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, j)), spacing));
+                                PrefabGen.method("SpawnItem", 4).invoke(prefabName, offset, rot, null);
+                            }
+                        }
+                    }
+                    perviousSpawnKey = rightPrimary;
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Items Gun",
+                method: () => {
+                    //const handTransform = rightHandTransform;
+                    //if(rightSecondary && rightGrab){
+                    //    PrefabGen.method("SpawnItem", 4).invoke(
+                    //    Il2Cpp.string("item_" + itemIDs[itemIndex]),
+                    //    //Il2Cpp.string("GiantRockObject"),
+                    //    handTransform.method("get_position").invoke(),
+                    //    handTransform.method("get_rotation").invoke(),
+                    //    null
+                    //    )
+                    //}
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const gunPointer = gunData.gunPointer;
+                        if (rightTrigger) {
+                            //if(rightSecondary && rightGrab){
+                            PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("item_" + itemIDs[itemIndex]), 
+                            //Il2Cpp.string("GiantRockObject"),
+                            getTransform(gunPointer).method("get_position").invoke(), identityQuaternion, null);
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Drop Items Gun",
+                method: () => {
+                    //const handTransform = rightHandTransform;
+                    //if(rightSecondary && rightGrab){
+                    //    PrefabGen.method("SpawnItem", 4).invoke(
+                    //    Il2Cpp.string("item_" + itemIDs[itemIndex]),
+                    //    //Il2Cpp.string("GiantRockObject"),
+                    //    handTransform.method("get_position").invoke(),
+                    //    handTransform.method("get_rotation").invoke(),
+                    //    null
+                    //    )
+                    //}
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), GBOClass);
+                            gunTarget.method("RPC_Release", 6).invoke(rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke(), zeroVector, zeroVector, true, false);
+                            gunTarget.method("RPC_Teleport", 2).invoke(rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke(), zeroVector, zeroVector, true, false);
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "CRASH ALL",
+                method: () => {
+                    //const handTransform = rightHandTransform;
+                    //if(rightSecondary && rightGrab){
+                    //    PrefabGen.method("SpawnItem", 4).invoke(
+                    //    Il2Cpp.string("item_" + itemIDs[itemIndex]),
+                    //    //Il2Cpp.string("GiantRockObject"),
+                    //    handTransform.method("get_position").invoke(),
+                    //    handTransform.method("get_rotation").invoke(),
+                    //    null
+                    //    )
+                    //}
+                    if (rightGrab) {
+                        if (rightTrigger) {
+                            const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                            if (players) {
+                                for (let i = 0; i < players.length; i++) {
+                                    const netPlayer = players.get(i);
+                                    if (netPlayer.method("get_IsMine").invoke())
+                                        continue;
+                                    //myNP = netPlayer; // cache it
+                                    kickPlayer(netPlayer);
+                                    netPlayer.method("RPC_Teleport").invoke(new Vector3(-99999999, -99999999, -99999999), identityQuaternion);
+                                    //break; // stop once we found it
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "TP ALL Gun",
+                method: () => {
+                    //const handTransform = rightHandTransform;
+                    //if(rightSecondary && rightGrab){
+                    //    PrefabGen.method("SpawnItem", 4).invoke(
+                    //    Il2Cpp.string("item_" + itemIDs[itemIndex]),
+                    //    //Il2Cpp.string("GiantRockObject"),
+                    //    handTransform.method("get_position").invoke(),
+                    //    handTransform.method("get_rotation").invoke(),
+                    //    null
+                    //    )
+                    //}
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const gunPointer = gunData.gunPointer;
+                        if (rightTrigger) {
+                            const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                            if (players) {
+                                for (let i = 0; i < players.length; i++) {
+                                    const netPlayer = players.get(i);
+                                    if (netPlayer.method("get_IsMine").invoke())
+                                        continue;
+                                    //myNP = netPlayer; // cache it
+                                    netPlayer.method("RPC_Teleport").invoke(getTransform(gunPointer).method("get_position").invoke());
+                                    //break; // stop once we found it
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Mobs",
+                method: () => {
+                    const handTransform = rightHandTransform;
+                    if (rightSecondary && rightGrab) {
+                        PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("mob_prefab/" + mobIDs[mobIndex]), handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), null);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn mobs in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn ALL Mobs",
+                method: () => {
+                    const handTransform = rightHandTransform;
+                    for (let i = 0; i < mobIDs.length; i++) {
+                        PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("mob_prefab/" + mobIDs[i]), handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), null);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Lets you spawn mobs in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spoof developer mode",
+                method: () => {
+                    UnlockAll();
+                },
+                isTogglable: true,
+                toolTip: "Makes the game think you are a developer to unlock beta features."
+            }),
+            new ButtonInfo({
+                buttonText: "Developer mode for vending machine",
+                disableMethod: () => {
+                    try {
+                        const theclass = AssemblyCSharp.class("AnimalCompany.ItemVendingMachineView");
+                        if (!theclass)
+                            return;
+                        if (!devEnabled) {
+                            const vendingmachines = Object.method("FindObjectsOfType").inflate(theclass).invoke();
+                            for (let i = 0; i < vendingmachines.length; i++) {
+                                const vendingmachine = vendingmachines.get(i);
+                                vendingmachine.field("_devModeOn").value = false;
+                            }
+                            devEnabled = false;
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                method: () => {
+                    try {
+                        const theclass = AssemblyCSharp.class("AnimalCompany.ItemVendingMachineView");
+                        if (!theclass)
+                            return;
+                        if (!devEnabled) {
+                            const vendingmachines = Object.method("FindObjectsOfType").inflate(theclass).invoke();
+                            for (let i = 0; i < vendingmachines.length; i++) {
+                                const vendingmachine = vendingmachines.get(i);
+                                vendingmachine.field("_devModeOn").value = true;
+                            }
+                            devEnabled = true;
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Enables the developer mode for the vending machine so you can buy any item even if it isn't in the base game!"
+            }),
+            new ButtonInfo({
+                buttonText: "Rapid Fire",
+                method: () => {
+                    //UnlockAll();
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(1);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        const interactor2 = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor2)
+                            return;
+                        const itemAnchor2 = interactor2.field("_itemAnchor").value;
+                        if (!itemAnchor2)
+                            return;
+                        const grabbable2 = itemAnchor2.method("get_grabbableObject").invoke();
+                        if (!grabbable2)
+                            return;
+                        //const FlashlightClass = Il2Cpp.domain.assembly("AnimalCompany").image.class("AnimalCompany.ZiplineGun");
+                        //const flashlight = getComponent(grabbable, FlashlightClass);
+                        //if (rightPrimary && hueVal < 127) hueVal++;
+                        //if (rightGrab && hueVal > -127) hueVal--;
+                        if (rightTrigger) {
+                            //grabbable.method("UpdateReload").invoke();
+                            grabbable.method("HandleTriggerUse").invoke();
+                            //flashlight.method("Shoot").invoke();
+                        }
+                        if (leftTrigger) {
+                            //grabbable.method("UpdateReload").invoke();
+                            grabbable2.method("HandleTriggerUse").invoke();
+                        }
+                        //grabbable.method("set_colorHue").invoke(hueVal);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Rapid fire any item that is used with the trigger button"
+            }),
+            //new ButtonInfo({
+            //    buttonText: "BREAK THE GAME.",
+            //    method: () => {
+            //        //UnlockAll();
+            //      //  const theclass = AssemblyCSharp.class("AnimalCompany.ItemVendingMachineView");
+            //      //if (!theclass) return;
+            //        //if(!devEnabled){
+            //         const networkrunner = SFXManager.method("get__currentRunner").invoke();
+            //            //const vendingmachines = Object.method("FindObjectsOfType").inflate(NetworkObjectClass).invoke();
+            //            
+            //            //for (let i = 0; i < vendingmachines.length; i++) {
+            //            //  const vendingmachine = vendingmachines.get(i);
+            //            //  //vendingmachine.field("_devModeOn").value = true;
+            //            //  //vendingmachine.method("ReleaseStateAuthority").invoke();
+            //            //  //vendingmachine.method("RequestStateAuthority").invoke();
+            //            //  networkrunner.method("UnloadScene").invoke(0)
+            //            //  //networkrunner.method("Shutdown").invoke(vendingmachine)
+            //            //}
+            //            networkrunner.method("Spawn").invoke(
+            //                Il2Cpp.string("GameObject/NetSpectator"),
+            //                //Il2Cpp.string("GiantRockObject"),
+            //                null,
+            //                null,
+            //                null,
+            //                null,
+            //                1
+            //            )
+            //            //console.log(networkrunner.method("GetAllNetworkObjects").invoke())
+            //            //const lobbyinfo = networkrunner.method("get_LobbyInfo").invoke();
+            //            //console.log("VALID: " + lobbyinfo.method("get_IsValid").invoke() + " NAME: " + lobbyinfo.method("get_Name").invoke() + " REGION: " + lobbyinfo.method("get_Region").invoke());
+            //
+            //            //devEnabled = true;
+            //        //Despawn
+            //    },
+            //      isTogglable: false,
+            //      toolTip: "Makes the game think you are a developer to unlock beta features."
+            //    }),
+            new ButtonInfo({
+                buttonText: "Activate all robo-monkes",
+                method: () => {
+                    const networkrunner = SFXManager.method("get__currentRunner").invoke();
+                    const vendingmachines = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.RoboMonkeItem")).invoke();
+                    for (let i = 0; i < vendingmachines.length; i++) {
+                        const vendingmachine = vendingmachines.get(i);
+                        vendingmachine.method("RPC_Startup").invoke(networkrunner.method("get_LocalPlayer").invoke());
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Activates all robo-monke items."
+            }),
+            new ButtonInfo({
+                buttonText: "Grind ores",
+                method: () => {
+                    if (rightGrab) {
+                        const vendingmachines = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.Ore")).invoke();
+                        for (let i = 0; i < vendingmachines.length; i++) {
+                            const vendingmachine = vendingmachines.get(i);
+                            vendingmachine.method("Hit").invoke(999, 4, zeroVector, zeroVector);
+                        }
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Breaks every single ore. (right grip!)"
+            }),
+            new ButtonInfo({
+                buttonText: "Attach everyone to ogre hand (buggy!)",
+                method: () => {
+                    //UnlockAll();
+                    //  const theclass = AssemblyCSharp.class("AnimalCompany.ItemVendingMachineView");
+                    //if (!theclass) return;
+                    //if(!devEnabled){
+                    //const networkrunner = SFXManager.method("get__currentRunner").invoke();
+                    const vendingmachines = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.GiantController")).invoke();
+                    const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (!rigs)
+                        return null;
+                    PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("mob_prefab/GiantController"), rightHandTransform.method("get_position").invoke(), identityQuaternion, null);
+                    for (let i = 0; i < vendingmachines.length; i++) {
+                        const vendingmachine = vendingmachines.get(i);
+                        //vendingmachine.method("RPC_Startup").invoke(networkrunner.method("get_LocalPlayer").invoke());
+                        //console.log(vendingmachine.field("attachTransform").value.method("get_position").invoke());
+                        for (let i = 0; i < rigs.length; i++) {
+                            const rig = rigs.get(i);
+                            if (playerIsLocal(rig))
+                                continue;
+                            rig.method("RPC_AttachToGiantHand").invoke(true, vendingmachine, true, zeroVector);
+                        }
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Spawns a new ogre and attaches everyone to the hand of it."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Items Gun",
+                isTogglable: true,
+                method: () => {
+                    if (!rightGrab) {
+                        return;
+                    }
+                    const gunData = renderGun();
+                    const ray = gunData.ray;
+                    if (!ray)
+                        return;
+                    if (rightTrigger) {
+                        try {
+                            const hitPoint = ray.method("get_point").invoke();
+                            const PrefabGen2 = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+                            const itemPrefab = PrefabGen2.method("GetItemPrefab").invoke(Il2Cpp.string(itemIDs[itemIndex]));
+                            if (!itemPrefab || itemPrefab.handle.isNull()) {
+                                sendNotification("Item prefab not found!", false);
+                                console.error("Failed to get prefab for:", itemIDs[itemIndex]);
+                                return;
+                            }
+                            //const component = itemPrefab.method("GetComponent").invoke(GBOClass.type);
+                            //component.method("SetColorHue").invoke(huespawner);
+                            //component.method("SetColorSaturation").invoke(saturationspawner);
+                            //component.method("SetNormalizedScaleModifier").invoke(sizespawner);
+                            //component.method("SetJellyStrength").invoke(jellyspawner);
+                            //if (!component || component.handle.isNull()) {
+                            // console.error("Component not found on prefab");
+                            // return;
+                            //   }
+                            PrefabGen2.method("SpawnItemAsync", 4).overload("AnimalCompany.GrabbableItemPrefab", "UnityEngine.Vector3", "UnityEngine.Quaternion", 
+                            // @ts-ignore
+                            "Fusion.NetworkObjectSpawnDelegate").invoke(itemPrefab, hitPoint, identityQuaternion, null);
+                            console.log("\u2713 Spawned item:", itemIDs[itemIndex]);
+                            sendNotification("Spawned: " + itemIDs[itemIndex], false);
+                        }
+                        catch (e) {
+                            console.error("Item spawn error:", e);
+                            sendNotification("Spawn failed: " + e, false);
+                        }
+                    }
+                },
+                toolTip: "Spawns items where you aim (hold grip, pull trigger)."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Mobs Gun",
+                isTogglable: true,
+                method: () => {
+                    if (!rightGrab) {
+                        return;
+                    }
+                    const gunData = renderGun();
+                    const ray = gunData.ray;
+                    if (!ray)
+                        return;
+                    if (rightTrigger) {
+                        try {
+                            const hitPoint = ray.method("get_point").invoke();
+                            const PrefabGen2 = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+                            const itemPrefab = PrefabGen2.method("GetMobPrefab").invoke(Il2Cpp.string(mobIDs[mobIndex]));
+                            if (!itemPrefab || itemPrefab.handle.isNull()) {
+                                sendNotification("Item prefab not found!", false);
+                                console.error("Failed to get prefab for:", mobIDs[mobIndex]);
+                                return;
+                            }
+                            PrefabGen2.method("SpawnMobAsync", 4).overload("AnimalCompany.MobID", "UnityEngine.Vector3", "UnityEngine.Quaternion", 
+                            // @ts-ignore
+                            "Fusion.NetworkObjectSpawnDelegate").invoke(mobIDs[mobIndex], hitPoint, identityQuaternion, null);
+                            console.log("\u2713 Spawned item:", mobIDs[mobIndex]);
+                            sendNotification("Spawned: " + mobIDs[mobIndex], false);
+                        }
+                        catch (e) {
+                            console.error("Item spawn error:", e);
+                            sendNotification("Spawn failed: " + e, false);
+                        }
+                    }
+                },
+                toolTip: "Spawns items where you aim (hold grip, pull trigger)."
+            }),
+            new ButtonInfo({
+                buttonText: "Use All Cameras",
+                method: () => {
+                    //UnlockAll();
+                    //  const theclass = AssemblyCSharp.class("AnimalCompany.ItemVendingMachineView");
+                    //if (!theclass) return;
+                    //if(!devEnabled){
+                    //const networkrunner = SFXManager.method("get__currentRunner").invoke();
+                    //const vendingmachines = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.GiantController")).invoke();
+                    //const rigs = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.DisposableCamera")).invoke();
+                    //if (!rigs) return null;
+                    //const head = getTransform(headCollider);
+                    //if(!head) return null;
+                    //PrefabGen.method("SpawnItem", 4).invoke(
+                    //    Il2Cpp.string("mob_prefab/GiantController"),
+                    //    rightHandTransform.method("get_position").invoke(),
+                    //    identityQuaternion,
+                    //    null
+                    //)
+                    //
+                    //for (let i = 0; i < vendingmachines.length; i++) {
+                    //  const vendingmachine = vendingmachines.get(i);
+                    //  //vendingmachine.method("RPC_Startup").invoke(networkrunner.method("get_LocalPlayer").invoke());
+                    //  //console.log(vendingmachine.field("attachTransform").value.method("get_position").invoke());
+                    //System.Void RPC_CameraShoot(UnityEngine.Vector3 cameraPosition, UnityEngine.Quaternion cameraRotation, UnityEngine.Vector3 cameraForward);
+                    //for (let i = 0; i < rigs.length; i++) {
+                    //        const rig = rigs.get(i);
+                    //        //if (rig.method("get_IsMine").invoke()) continue;
+                    //        rig.method("RPC_CameraShoot").invoke(head.method("get_position").invoke(), head.method("get_rotation").invoke(), head.method("get_forward").invoke());//getTransform(headCollider).method("get_position").invoke(), getTransform(headCollider).method("get_rotation").invoke(), getTransform(headCollider).method("get_forward").invoke());
+                    //}
+                    if (rightStick && !perviousShootKey) {
+                        const rigs = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.DisposableCamera")).invoke();
+                        if (!rigs)
+                            return null;
+                        const head = getTransform(headCollider);
+                        if (!head)
+                            return null;
+                        for (let i = 0; i < rigs.length; i++) {
+                            const rig = rigs.get(i);
+                            //if (rig.method("get_IsMine").invoke()) continue;
+                            rig.method("RPC_CameraShoot").invoke(head.method("get_position").invoke(), head.method("get_rotation").invoke(), head.method("get_forward").invoke()); //getTransform(headCollider).method("get_position").invoke(), getTransform(headCollider).method("get_rotation").invoke(), getTransform(headCollider).method("get_forward").invoke());
+                        }
+                    }
+                    //if (rightTrigger && !previousNoclipKey) {
+                    //    toggleColliders(false);
+                    //}
+                    //
+                    //if (!rightTrigger && previousNoclipKey) {
+                    //    toggleColliders(true);
+                    //}
+                    //
+                    //previousNoclipKey = rightTrigger;
+                    perviousShootKey = rightStick;
+                },
+                isTogglable: true,
+                toolTip: "Press right joystick to use every camera object in the room. (DOESNT WORK FOR SOME CAMERAS DUE TO STATE AUTHORITY)"
+            }),
+            new ButtonInfo({
+                buttonText: "Fullbright",
+                disableMethod: () => {
+                    lightEnabled = false;
+                    if (fullbirhgtobject != null) {
+                        fullbirhgtobject.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                },
+                enableMethod: () => {
+                    lightEnabled = true;
+                    if (fullbirhgtobject != null) {
+                        fullbirhgtobject.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                    }
+                },
+                method: () => {
+                    if (!lightEnabled)
+                        return;
+                    if (fullbirhgtobject == null) {
+                        fullbirhgtobject = createObject(getTransform(headCollider).method("get_position").invoke(), getTransform(headCollider).method("get_rotation").invoke(), [0, 0, 0], 3, bgColor);
+                        Destroy(getComponent(fullbirhgtobject, Collider));
+                        addComponent(fullbirhgtobject, Light);
+                        getTransform(fullbirhgtobject).method("SetParent", 2).invoke(getTransform(headCollider), false);
+                    }
+                    else {
+                        // update position/rotation every frame to follow head
+                        const t = getTransform(fullbirhgtobject);
+                        t.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+                        t.method("set_rotation").invoke(getTransform(headCollider).method("get_rotation").invoke());
+                        const lightComp = getComponent(fullbirhgtobject, Light);
+                        if (lightComp != null) {
+                            lightComp.method("set_intensity").invoke(5.0);
+                            lightComp.method("set_range").invoke(999.0); // <— crank it up! change 5.0 to whatever you want
+                        }
+                        fullbirhgtobject.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Press right joystick to toggle a light on your head."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Spoof stash mode",
+            //    method: () => {
+            //        UnlockAll2();
+            //    },
+            //      isTogglable: true,
+            //      toolTip: "Makes the game think you are a developer to unlock beta features."
+            //    }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Item Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "No Gravity On Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        grabbable.method("set_useGravity").invoke(false);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Disables gravity on the item in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Add Gravity To Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        grabbable.method("set_useGravity").invoke(true);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Enables gravity on the item in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Custom Scale Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        if (rightPrimary && scaleVal < 127)
+                            scaleVal++;
+                        if (rightGrab && scaleVal > -127)
+                            scaleVal--;
+                        grabbable.method("set_scaleModifier").invoke(scaleVal);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease scale of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Custom Hue Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        if (rightPrimary && hueVal < 127)
+                            hueVal++;
+                        if (rightGrab && hueVal > -127)
+                            hueVal--;
+                        grabbable.method("set_colorHue").invoke(hueVal);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease hue of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Custom Sat Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        if (rightPrimary && satVal < 127)
+                            satVal++;
+                        if (rightGrab && satVal > -127)
+                            satVal--;
+                        grabbable.method("set_colorSaturation").invoke(satVal);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease sat of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Bypass adding to containers held item",
+                //enableMethod: () => {
+                //  throwvelocityTest = true;
+                //},
+                //disableMethod: () => {
+                //  throwvelocityTest = false;
+                //},
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        //if (rightPrimary && hueVal < 127) hueVal++;
+                        //if (rightGrab && hueVal > -127) hueVal--;
+                        const GIECInstance = grabbable.field("equippingConfig").value;
+                        GIECInstance.field("allowAddToQuiver").value = true;
+                        GIECInstance.field("allowAddToBag").value = true;
+                        sendNotification("success!");
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Allows the item you are currently holding to be put in bags, quivers, your back, your hip, etc."
+            }),
+            new ButtonInfo({
+                buttonText: "Allow grabbing anywhere in held item",
+                //enableMethod: () => {
+                //  throwvelocityTest = true;
+                //},
+                //disableMethod: () => {
+                //  throwvelocityTest = false;
+                //},
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        //if (rightPrimary && hueVal < 127) hueVal++;
+                        //if (rightGrab && hueVal > -127) hueVal--;
+                        //const GIECInstance = grabbable.field("equippingConfig").value;
+                        //GIECInstance.field("allowAddToQuiver").value = true;
+                        //GIECInstance.field("allowAddToBag").value = true;
+                        grabbable.field("_allowGrabAnywhere").value = true;
+                        sendNotification("success!");
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Lets you grab on any point for the held item. Some items lock where you hold them (eg. Revolver, RPG) This mod removes the limitation!"
+            }),
+            new ButtonInfo({
+                buttonText: "Rainbow all items",
+                method: () => {
+                    try {
+                        //grabbable.method("set_colorSaturation").invoke(satVal);
+                        hueVal += 15;
+                        if (hueVal > 127)
+                            hueVal = -127;
+                        if (rightGrab) {
+                            const players = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                            if (players) {
+                                for (let i = 0; i < players.length; i++) {
+                                    const netPlayer = players.get(i);
+                                    //if (netPlayer.method("get_IsMine").invoke()) continue;
+                                    //myNP = netPlayer; // cache it
+                                    netPlayer.method("set_colorHue").invoke(hueVal);
+                                    //break; // stop once we found it
+                                }
+                            }
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease sat of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Jelly Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_SetJellyEffect").invoke(jellywowes, jellywowes);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "jellifies whoever your hand desires."
+            }),
+            new ButtonInfo({
+                buttonText: "Poor Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_AddPlayerMoney").invoke(-100);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "makes whoever your hand desires POOR."
+            }),
+            new ButtonInfo({
+                buttonText: "Rich Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_AddPlayerMoney").invoke(9999999);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "makes whoever your hand desires rich."
+            }),
+            new ButtonInfo({
+                buttonText: "Fling Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        const yes = Il2Cpp.UnityEngine.Vector3.new(1000.0, 1000.0, 1000.0);
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_AddForce").invoke(yes);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "flings whoever your hands desires"
+            }),
+            new ButtonInfo({
+                buttonText: "Kill Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        const yes = Il2Cpp.UnityEngine.Vector3.new(1000.0, 1000.0, 1000.0);
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_Teleport").invoke(yes);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "kills whoever your hands desires"
+            }),
+            new ButtonInfo({
+                buttonText: "Scale all items",
+                method: () => {
+                    try {
+                        //grabbable.method("set_colorSaturation").invoke(satVal);
+                        scaleVal += 15;
+                        if (scaleVal > 127)
+                            scaleVal = -127;
+                        if (rightGrab) {
+                            const players = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                            if (players) {
+                                for (let i = 0; i < players.length; i++) {
+                                    const netPlayer = players.get(i);
+                                    //if (netPlayer.method("get_IsMine").invoke()) continue;
+                                    //myNP = netPlayer; // cache it
+                                    netPlayer.method("set_scaleModifier").invoke(scaleVal);
+                                    //break; // stop once we found i
+                                }
+                            }
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease sat of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Nuke",
+                method: () => {
+                    try {
+                        const handPos = getTransform(headCollider).method("get_position").invoke();
+                        // Upward offset
+                        const upwardOffset = Vector3.method("op_Multiply").invoke(Vector3.field("upVector").value, 10.0);
+                        // Apply upward offset to hand position
+                        const arrowsss = Vector3.method("op_Addition").invoke(handPos, upwardOffset);
+                        // Rightward offset
+                        const rightOffset = Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, 0.5 // tweak distance
+                        );
+                        // Final arrow spawn position: hand + up + right
+                        const arrowSpawnPos = Vector3.method("op_Addition").invoke(arrowsss, rightOffset);
+                        // Also spawn RPG ammo slightly lower
+                        const upwardOffsetv2 = Vector3.method("op_Multiply").invoke(Vector3.field("upVector").value, 5.0);
+                        const spawnPosv2 = Vector3.method("op_Addition").invoke(handPos, upwardOffsetv2);
+                        // Assign final position for arrow (fix: no extra add!)
+                        const spawnPos = arrowSpawnPos;
+                        if (rightPrimary && !previoussaaakey) {
+                            PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("item_rpg_ammo"), spawnPosv2, identityQuaternion, null);
+                            PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("item_arrow_bomb"), spawnPos, identityQuaternion, null);
+                        }
+                        previoussaaakey = rightPrimary;
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease sat of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Text Test",
+                isTogglable: true, // now it’s a toggle
+                method: () => {
+                    if (handTextObj == null) {
+                        const handPos = rightHandTransform.method("get_position").invoke();
+                        const handRot = rightHandTransform.method("get_rotation").invoke();
+                        // create tiny world-space canvas
+                        handTextObj = createObject(handPos, handRot, [0.05, 0.05, 0.05], 3, [0, 0, 0, 0]);
+                        const canvas = addComponent(handTextObj, Canvas);
+                        canvas.method("set_renderMode").invoke(2); // world space
+                        const scaler = addComponent(handTextObj, CanvasScaler);
+                        scaler.method("set_dynamicPixelsPerUnit").invoke(1000.0);
+                        // parent to hand so it follows
+                        getTransform(handTextObj).method("SetParent", 2).invoke(rightHandTransform, true);
+                        const transform = getTransform(handTextObj);
+                        transform.method("SetParent", 2).invoke(rightHandTransform, true);
+                        transform.method("set_localRotation").invoke(Quaternion.method("Euler").invoke(90, 0, 0)); // tilt to face player
+                        transform.method("set_localPosition").invoke(zeroVector); // tilt to face player
+                        // render the text
+                        renderMenuText(handTextObj, "Floating Text", handRot, handPos, [200, 50]);
+                        // destroy collider so it doesn’t block
+                        const col = getComponent(handTextObj, Collider);
+                        if (col)
+                            Destroy(col);
+                    }
+                },
+                disableMethod: () => {
+                    if (handTextObj != null) {
+                        Object.method("Destroy", 1).invoke(handTextObj);
+                        handTextObj = null;
+                    }
+                },
+                toolTip: "Toggles floating hand text"
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Loader Test",
+            //    //enableMethod: () => {
+            //    //  throwvelocityTest = true;
+            //    //},
+            //    //disableMethod: () => {
+            //    //  throwvelocityTest = false;
+            //    //},
+            //    method: () => {
+            //        try {
+            //            
+            //      } catch (e) { console.error(e); }
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Lets you grab on any point for the held item. Some items lock where you hold them (eg. Revolver, RPG) This mod removes the limitation!"
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Anti Moderator",
+            //    isTogglable: true,
+            //    method: () => {
+            //        if (frameCount % 5 != 0) {
+            //            const vrrigs = GorillaParent.field("vrrigs").value;
+            //            const vrrigtotal = vrrigs.method("get_Count").invoke();
+            //            let shouldLeave = false;
+            //            for (let i = 0; i < vrrigtotal; i++) {
+            //                const playerRig = vrrigs.method("get_Item").invoke(i);
+            //                if (playerIsLocal(playerRig)) continue;
+            //                const concat = String(playerRig.field("concatStringOfCosmeticsAllowed").value);
+            //                if (concat.includes("LBAAD.")) { shouldLeave = true; break; }; // Admin
+            //                if (concat.includes("LBAAK.")) { shouldLeave = true; break; }; // Stick
+            //                if (concat.includes("LMAPY.")) { shouldLeave = true; break; }; // Forest Guide
+            //            }
+            //            if (shouldLeave == true) {
+            //                let room = "";
+            //                try {
+            //                    room = String(PhotonNetwork.method("get_CurrentRoom").invoke().method("get_Name").invoke());
+            //                } finally {
+            //                    NetworkSystem.method("ReturnToSinglePlayer").invoke();
+            //                }
+            //                for (let i = 0; i < 10; i++) {
+            //                    console.log("Moderator in code " + room);
+            //                }
+            //                sendNotification("Moderator in code " + room, true, 20);
+            //            }
+            //        }
+            //    },
+            //    toolTip: "When someone with the stick joins, you get disconnected.",
+            //}),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Prefab Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Next Prefab",
+                method: () => {
+                    currentWorldPrefabIndex = (currentWorldPrefabIndex + 1) % prefabList.length;
+                    sendNotification("Prefab: " + prefabList[currentWorldPrefabIndex], false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles to the next prefab."
+            }),
+            new ButtonInfo({
+                buttonText: "Prev Prefab",
+                method: () => {
+                    currentWorldPrefabIndex = (currentWorldPrefabIndex - 1 + prefabList.length) % prefabList.length;
+                    sendNotification("Prefab: " + prefabList[currentWorldPrefabIndex], false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles to the previous mob."
+            }),
+            new ButtonInfo({
+                buttonText: "Scale Prefab Up",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        sizespawner += 10;
+                        if (sizespawner > 1000.0)
+                            sizespawner = 1000.0;
+                        const items = Object.method("FindObjectsOfType").inflate(NetworkObjectClass).invoke();
+                        if (!items)
+                            return;
+                        const playerPos = getTransform(headCollider).method("get_position").invoke();
+                        for (let i = 0; i < items.length; i++) {
+                            const item = items.get(i);
+                            if (!item || item.isNull())
+                                continue;
+                            try {
+                                const dist = Vector3.method("Distance").invoke(playerPos, getTransform(item).method("get_position").invoke());
+                                if (dist < 1000.0) {
+                                    getTransform(item).method("set_localScale").invoke([sizespawner, sizespawner, sizespawner]);
+                                }
+                            }
+                            catch (_) { }
+                        }
+                        const gbos = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                        if (gbos) {
+                            for (let i = 0; i < gbos.length; i++) {
+                                const gbo = gbos.get(i);
+                                if (!gbo || gbo.isNull())
+                                    continue;
+                                try {
+                                    const dist = Vector3.method("Distance").invoke(playerPos, getTransform(gbo).method("get_position").invoke());
+                                    if (dist < 1000.0) {
+                                        try {
+                                            gbo.method("set_scaleModifier").invoke(Math.floor(sizespawner * 12));
+                                        }
+                                        catch (_) {
+                                            getTransform(gbo).method("set_localScale").invoke([sizespawner, sizespawner, sizespawner]);
+                                        }
+                                    }
+                                }
+                                catch (_) { }
+                            }
+                        }
+                        sendNotification("Prefab scale: " + sizespawner.toFixed(2), false);
+                    }
+                    catch (e) {
+                        console.error("scale up error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Scale Prefab Down",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        sizespawner -= 10;
+                        if (sizespawner < 0)
+                            sizespawner = 0;
+                        const items = Object.method("FindObjectsOfType").inflate(NetworkObjectClass).invoke();
+                        if (!items)
+                            return;
+                        const playerPos = getTransform(headCollider).method("get_position").invoke();
+                        for (let i = 0; i < items.length; i++) {
+                            const item = items.get(i);
+                            if (!item || item.isNull())
+                                continue;
+                            try {
+                                const dist = Vector3.method("Distance").invoke(playerPos, getTransform(item).method("get_position").invoke());
+                                if (dist < 1000.0) {
+                                    getTransform(item).method("set_localScale").invoke([sizespawner, sizespawner, sizespawner]);
+                                }
+                            }
+                            catch (_) { }
+                        }
+                        const gbos = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                        if (gbos) {
+                            for (let i = 0; i < gbos.length; i++) {
+                                const gbo = gbos.get(i);
+                                if (!gbo || gbo.isNull())
+                                    continue;
+                                try {
+                                    const dist = Vector3.method("Distance").invoke(playerPos, getTransform(gbo).method("get_position").invoke());
+                                    if (dist < 1000.0) {
+                                        try {
+                                            gbo.method("set_scaleModifier").invoke(Math.floor(sizespawner * 12));
+                                        }
+                                        catch (_) {
+                                            getTransform(gbo).method("set_localScale").invoke([sizespawner, sizespawner, sizespawner]);
+                                        }
+                                    }
+                                }
+                                catch (_) { }
+                            }
+                        }
+                        sendNotification("Prefab scale: " + sizespawner.toFixed(2), false);
+                    }
+                    catch (e) {
+                        console.error("scale down error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Reset Prefab Scale",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        sizespawner = 1.0;
+                        const playerPos = getTransform(headCollider).method("get_position").invoke();
+                        const items = Object.method("FindObjectsOfType").inflate(NetworkObjectClass).invoke();
+                        if (items) {
+                            for (let i = 0; i < items.length; i++) {
+                                const item = items.get(i);
+                                if (!item || item.isNull())
+                                    continue;
+                                try {
+                                    const dist = Vector3.method("Distance").invoke(playerPos, getTransform(item).method("get_position").invoke());
+                                    if (dist < 1000.0) {
+                                        getTransform(item).method("set_localScale").invoke([1.0, 1.0, 1.0]);
+                                    }
+                                }
+                                catch (_) { }
+                            }
+                        }
+                        const gbos = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                        if (gbos) {
+                            for (let i = 0; i < gbos.length; i++) {
+                                const gbo = gbos.get(i);
+                                if (!gbo || gbo.isNull())
+                                    continue;
+                                try {
+                                    const dist = Vector3.method("Distance").invoke(playerPos, getTransform(gbo).method("get_position").invoke());
+                                    if (dist < 1000.0) {
+                                        try {
+                                            gbo.method("set_scaleModifier").invoke(0);
+                                        }
+                                        catch (_) {
+                                            getTransform(gbo).method("set_localScale").invoke([1.0, 1.0, 1.0]);
+                                        }
+                                    }
+                                }
+                                catch (_) { }
+                            }
+                        }
+                        sendNotification("Prefab scale reset to 1.0", false);
+                    }
+                    catch (e) {
+                        console.error("scale reset error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Spiral",
+                isTogglable: true,
+                method: (() => {
+                    let orbitAngle = 0;
+                    let spawnedPrefabs = [];
+                    let lastPrefabIndex = -1;
+                    const TOTAL_PREFABS = 50;
+                    const RADIUS = 5;
+                    const HEIGHT_STEP = 7;
+                    const ORBIT_SPEED = 60.0;
+                    const REVOLUTIONS = 2.0;
+                    return () => {
+                        try {
+                            // respawn if prefab changed or not spawned yet
+                            if (lastPrefabIndex !== currentWorldPrefabIndex || spawnedPrefabs.length === 0) {
+                                // despawn old prefabs
+                                for (const p of spawnedPrefabs) {
+                                    try {
+                                        if (p && !p.isNull()) {
+                                            const runner = PrefabGen.field("_instance")
+                                                .value.method("get_runner").invoke();
+                                            const no = p.method("GetComponent", 1)
+                                                .inflate(NetworkObjectClass).invoke();
+                                            if (no && !no.isNull()) {
+                                                runner.method("Despawn", 1).invoke(no);
+                                            }
+                                        }
+                                    }
+                                    catch (_) { }
+                                }
+                                spawnedPrefabs = [];
+                                // spawn new prefabs
+                                const spawnPos = getTransform(headCollider).method("get_position").invoke();
+                                const prefabName = prefabList[currentWorldPrefabIndex];
+                                for (let i = 0; i < TOTAL_PREFABS; i++) {
+                                    try {
+                                        let spawned = null;
+                                        try {
+                                            spawned = spawnNetworkPrefab(prefabName, spawnPos, identityQuaternion);
+                                        }
+                                        catch (_) {
+                                            spawned = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), spawnPos, identityQuaternion, null);
+                                        }
+                                        if (spawned && !spawned.isNull()) {
+                                            spawnedPrefabs.push(spawned);
+                                        }
+                                    }
+                                    catch (_) { }
+                                }
+                                lastPrefabIndex = currentWorldPrefabIndex;
+                                sendNotification("Spiral: " + prefabList[currentWorldPrefabIndex], false);
+                            }
+                            // update rotation angle
+                            orbitAngle += ORBIT_SPEED * deltaTime;
+                            if (orbitAngle > 360)
+                                orbitAngle -= 360;
+                            const centerPos = getTransform(headCollider).method("get_position").invoke();
+                            // offset the spiral so it starts at feet level
+                            const heightOffset = Vector3.method("op_Multiply").invoke(Vector3.field("upVector").value, -(TOTAL_PREFABS * HEIGHT_STEP) / 2);
+                            const basePos = Vector3.method("op_Addition").invoke(centerPos, heightOffset);
+                            for (let i = 0; i < spawnedPrefabs.length; i++) {
+                                const prefab = spawnedPrefabs[i];
+                                if (!prefab || prefab.isNull())
+                                    continue;
+                                // each prefab gets its own angle offset based on position in spiral
+                                const angleOffset = (i / TOTAL_PREFABS) * (360 * REVOLUTIONS);
+                                const rad = (orbitAngle + angleOffset) * (Math.PI / 180);
+                                const offsetX = Math.cos(rad) * RADIUS;
+                                const offsetZ = Math.sin(rad) * RADIUS;
+                                const offsetY = i * HEIGHT_STEP;
+                                const xPart = Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, offsetX);
+                                const yPart = Vector3.method("op_Multiply").invoke(Vector3.field("upVector").value, offsetY);
+                                const zPart = Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, offsetZ);
+                                const offset = Vector3.method("op_Addition").invoke(Vector3.method("op_Addition").invoke(xPart, yPart), zPart);
+                                const targetPos = Vector3.method("op_Addition").invoke(basePos, offset);
+                                // try RPC_Teleport on GBO first, fallback to transform
+                                try {
+                                    const gbo = prefab.method("GetComponent", 1).inflate(GBOClass).invoke();
+                                    if (gbo && !gbo.isNull()) {
+                                        gbo.method("RPC_Teleport", 2).invoke(targetPos, identityQuaternion, zeroVector, zeroVector, false, false);
+                                    }
+                                    else {
+                                        getTransform(prefab).method("set_position").invoke(targetPos);
+                                    }
+                                }
+                                catch (_) {
+                                    try {
+                                        getTransform(prefab).method("set_position").invoke(targetPos);
+                                    }
+                                    catch (_) { }
+                                }
+                            }
+                        }
+                        catch (e) {
+                            console.error("prefab spiral orbit error:", e);
+                        }
+                    };
+                })(),
+                disableMethod: (() => {
+                    return () => {
+                    };
+                })(),
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Cross",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const centerPos = getTransform(headCollider).method("get_position").invoke();
+                        const prefabName = prefabList[currentWorldPrefabIndex];
+                        const armLength = 5; // how many prefabs per arm
+                        const spacing = 0.6; // distance between each prefab
+                        const directions = [
+                            Vector3.field("forwardVector").value,
+                            Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, -1),
+                            Vector3.field("rightVector").value,
+                            Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, -1),
+                        ];
+                        // center piece
+                        try {
+                            spawnNetworkPrefab(prefabName, centerPos, identityQuaternion);
+                        }
+                        catch (_) {
+                            try {
+                                PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), centerPos, identityQuaternion, null);
+                            }
+                            catch (_) { }
+                        }
+                        for (const dir of directions) {
+                            for (let i = 1; i <= armLength; i++) {
+                                const offset = Vector3.method("op_Multiply").invoke(dir, i * spacing);
+                                const spawnPos = Vector3.method("op_Addition").invoke(centerPos, offset);
+                                try {
+                                    spawnNetworkPrefab(prefabName, spawnPos, identityQuaternion);
+                                }
+                                catch (_) {
+                                    try {
+                                        PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), spawnPos, identityQuaternion, null);
+                                    }
+                                    catch (_) { }
+                                }
+                            }
+                        }
+                        sendNotification("Spawned cross of: " + prefabName, false);
+                    }
+                    catch (e) {
+                        console.error("prefab cross error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab DNA",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const centerPos = getTransform(headCollider).method("get_position").invoke();
+                        const prefabName = prefabList[currentWorldPrefabIndex];
+                        const stepsPerRevolution = 12;
+                        const totalSteps = 36;
+                        const radius = 4;
+                        const heightStep = 0.25;
+                        const rungEvery = 3;
+                        for (let i = 0; i < totalSteps; i++) {
+                            const angle = (i / stepsPerRevolution) * (Math.PI * 2);
+                            const height = i * heightStep;
+                            const x1 = Math.cos(angle) * radius;
+                            const z1 = Math.sin(angle) * radius;
+                            const x2 = Math.cos(angle + Math.PI) * radius;
+                            const z2 = Math.sin(angle + Math.PI) * radius;
+                            const yPart = Vector3.method("op_Multiply").invoke(Vector3.field("upVector").value, height);
+                            const xPart1 = Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, x1);
+                            const zPart1 = Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, z1);
+                            const offset1 = Vector3.method("op_Addition").invoke(Vector3.method("op_Addition").invoke(xPart1, yPart), zPart1);
+                            const spawnPos1 = Vector3.method("op_Addition").invoke(centerPos, offset1);
+                            try {
+                                spawnNetworkPrefab(prefabName, spawnPos1, identityQuaternion);
+                            }
+                            catch (_) {
+                                try {
+                                    PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), spawnPos1, identityQuaternion, null);
+                                }
+                                catch (_) { }
+                            }
+                            // spawn strand 2
+                            const xPart2 = Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, x2);
+                            const zPart2 = Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, z2);
+                            const offset2 = Vector3.method("op_Addition").invoke(Vector3.method("op_Addition").invoke(xPart2, yPart), zPart2);
+                            const spawnPos2 = Vector3.method("op_Addition").invoke(centerPos, offset2);
+                            try {
+                                spawnNetworkPrefab(prefabName, spawnPos2, identityQuaternion);
+                            }
+                            catch (_) {
+                                try {
+                                    PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), spawnPos2, identityQuaternion, null);
+                                }
+                                catch (_) { }
+                            }
+                            if (i % rungEvery === 0) {
+                                const rungSteps = 3;
+                                for (let r = 1; r < rungSteps; r++) {
+                                    const t = r / rungSteps;
+                                    // lerp between strand 1 and strand 2 positions
+                                    const rx = x1 + (x2 - x1) * t;
+                                    const rz = z1 + (z2 - z1) * t;
+                                    const rxPart = Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, rx);
+                                    const rzPart = Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, rz);
+                                    const rungOffset = Vector3.method("op_Addition").invoke(Vector3.method("op_Addition").invoke(rxPart, yPart), rzPart);
+                                    const rungPos = Vector3.method("op_Addition").invoke(centerPos, rungOffset);
+                                    try {
+                                        spawnNetworkPrefab(prefabName, rungPos, identityQuaternion);
+                                    }
+                                    catch (_) {
+                                        try {
+                                            PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), rungPos, identityQuaternion, null);
+                                        }
+                                        catch (_) { }
+                                    }
+                                }
+                            }
+                        }
+                        sendNotification("Spawned DNA of: " + prefabName, false);
+                    }
+                    catch (e) {
+                        console.error("prefab DNA error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Sphere",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const centerPos = getTransform(headCollider).method("get_position").invoke();
+                        const prefabName = prefabList[currentWorldPrefabIndex];
+                        const rings = 6;
+                        const countPerRing = 8;
+                        const radius = 2.0;
+                        for (let r = 0; r < rings; r++) {
+                            const phi = (Math.PI / (rings - 1)) * r;
+                            for (let i = 0; i < countPerRing; i++) {
+                                const theta = ((2 * Math.PI) / countPerRing) * i;
+                                // spherical to cartesian
+                                const offsetX = radius * Math.sin(phi) * Math.cos(theta);
+                                const offsetY = radius * Math.cos(phi);
+                                const offsetZ = radius * Math.sin(phi) * Math.sin(theta);
+                                const rightVec = Vector3.field("rightVector").value;
+                                const upVec = Vector3.field("upVector").value;
+                                const fwdVec = Vector3.field("forwardVector").value;
+                                const xPart = Vector3.method("op_Multiply").invoke(rightVec, offsetX);
+                                const yPart = Vector3.method("op_Multiply").invoke(upVec, offsetY);
+                                const zPart = Vector3.method("op_Multiply").invoke(fwdVec, offsetZ);
+                                const offset = Vector3.method("op_Addition").invoke(Vector3.method("op_Addition").invoke(xPart, yPart), zPart);
+                                const spawnPos = Vector3.method("op_Addition").invoke(centerPos, offset);
+                                try {
+                                    spawnNetworkPrefab(prefabName, spawnPos, identityQuaternion);
+                                }
+                                catch (_) {
+                                    try {
+                                        PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), spawnPos, identityQuaternion, null);
+                                    }
+                                    catch (_) { }
+                                }
+                            }
+                        }
+                        sendNotification("Spawned sphere of: " + prefabName, false);
+                    }
+                    catch (e) {
+                        console.error("prefab sphere error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Orbit",
+                isTogglable: true,
+                method: (() => {
+                    let orbitObjects = [];
+                    let orbitAngle = 0;
+                    let orbitInitialized = false;
+                    const ORBIT_COUNT = 3;
+                    const ORBIT_RADIUS = 6.3;
+                    const ORBIT_SPEED = 90.0;
+                    const disable = () => {
+                        orbitObjects = [];
+                        orbitInitialized = false;
+                    };
+                    const update = () => {
+                        try {
+                            if (!orbitInitialized) {
+                                orbitObjects = [];
+                                for (let i = 0; i < ORBIT_COUNT; i++) {
+                                    const spawned = spawnNetworkPrefab(prefabList[currentWorldPrefabIndex], rightHandTransform.method("get_position").invoke(), identityQuaternion);
+                                    if (spawned)
+                                        orbitObjects.push(spawned);
+                                }
+                                orbitInitialized = true;
+                            }
+                            orbitAngle += ORBIT_SPEED * deltaTime;
+                            if (orbitAngle > 360)
+                                orbitAngle -= 360;
+                            const centerPos = getTransform(headCollider).method("get_position").invoke();
+                            for (let i = 0; i < orbitObjects.length; i++) {
+                                const obj = orbitObjects[i];
+                                if (!obj || obj.isNull())
+                                    continue;
+                                const angleOffset = (360 / orbitObjects.length) * i;
+                                const rad = (orbitAngle + angleOffset) * (Math.PI / 180);
+                                const offsetX = Math.cos(rad) * ORBIT_RADIUS;
+                                const offsetZ = Math.sin(rad) * ORBIT_RADIUS;
+                                const offsetVec = Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, offsetX), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, offsetZ));
+                                const targetPos = Vector3.method("op_Addition").invoke(centerPos, offsetVec);
+                                getTransform(obj).method("set_position").invoke(targetPos);
+                            }
+                        }
+                        catch (e) {
+                            console.error("orbit error:", e);
+                        }
+                    };
+                    update._disable = disable;
+                    return update;
+                })(),
+                disableMethod: function () {
+                    var _a, _b;
+                    // call the shared disable via the attached reference
+                    const d = (_b = (_a = buttons.flat().find(b => b.buttonText === "Prefab Orbit")) === null || _a === void 0 ? void 0 : _a.method) === null || _b === void 0 ? void 0 : _b._disable;
+                    if (d)
+                        d();
+                },
+                toolTip: "Orbit lol."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab thing spawn",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (!rightGrab)
+                            return;
+                        if (!rightTrigger)
+                            return;
+                        const pos = rightHandTransform.method("get_position").invoke();
+                        const rot = rightHandTransform.method("get_rotation").invoke();
+                        const prefabName = prefabList[currentWorldPrefabIndex];
+                        try {
+                            spawnNetworkPrefab(prefabName, pos, rot);
+                        }
+                        catch (_) {
+                            try {
+                                PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), pos, rot, null);
+                            }
+                            catch (_) { }
+                        }
+                    }
+                    catch (e) {
+                        console.error("prefab spawn hand error:", e);
+                    }
+                },
+                toolTip: "Prefab lol."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Gun",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (!rightGrab)
+                            return;
+                        const gunData = renderGun();
+                        const gunPointer = gunData.gunPointer;
+                        if (!gunPointer)
+                            return;
+                        if (rightTrigger && time > tagGunDelay) {
+                            tagGunDelay = time + 0.3;
+                            const pos = getTransform(gunPointer).method("get_position").invoke();
+                            const rot = identityQuaternion;
+                            const prefabName = prefabList[currentWorldPrefabIndex];
+                            try {
+                                spawnNetworkPrefab(prefabName, pos, rot);
+                            }
+                            catch (_) {
+                                try {
+                                    PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), pos, rot, null);
+                                }
+                                catch (_) { }
+                            }
+                            sendNotification("Spawned: " + prefabName, false);
+                        }
+                    }
+                    catch (e) {
+                        console.error("prefab gun error:", e);
+                    }
+                },
+                toolTip: "Prefab gun lol."
+            }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit BLTH Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Big",
+                isTogglable: false,
+                method: () => {
+                },
+                toolTip: "Big."
+            }),
+            new ButtonInfo({
+                buttonText: "Love",
+                isTogglable: false,
+                method: () => {
+                },
+                toolTip: "Love."
+            }),
+            new ButtonInfo({
+                buttonText: "To",
+                isTogglable: false,
+                method: () => {
+                },
+                toolTip: "To."
+            }),
+            new ButtonInfo({
+                buttonText: "Harmony",
+                isTogglable: false,
+                method: () => {
+                },
+                toolTip: "Harmony."
+            }),
+            new ButtonInfo({
+                buttonText: "<color=red>♥</color>",
+                isTogglable: false,
+                method: () => {
+                },
+                toolTip: "<color=red>♥</color>"
+            }),
+        ],
+    ];
+    let buttonMap = new Map();
+    buttons.flat().forEach(button => {
+        buttonMap.set(button.buttonText, button);
+    });
+    function getIndex(buttonText) {
+        return buttonMap.get(buttonText);
+    }
+    const ButtonActivation = GorillaReportButton.method("OnTriggerEnter");
+    ButtonActivation.implementation = function (collider) {
+        var _a, _b, _c;
+        const rawName = this.method("get_name").invoke().toString();
+        if (rawName.length > 1 && rawName[1] == "@") {
+            if (collider.handle.equals(referenceCollider.handle)) {
+                const goName = rawName.substring(2, rawName.length - 1);
+                const _time = Time.method("get_time").invoke();
+                if (_time > buttonClickDelay) {
+                    buttonClickDelay = _time + 0.2;
+                    const button = getIndex(goName);
+                    playButtonSound();
+                    if (button) {
+                        if (button.isTogglable) {
+                            button.enabled = !button.enabled;
+                            reloadMenu();
+                            if (button === null || button === void 0 ? void 0 : button.enabled) {
+                                if (button.toolTip && buttonNotifications)
+                                    sendNotification("<color=grey>[</color><color=green>ENABLE</color><color=grey>]</color> " + button.toolTip, false);
+                                (_a = button.enableMethod) === null || _a === void 0 ? void 0 : _a.call(button);
+                            }
+                            else {
+                                if (button.toolTip && buttonNotifications)
+                                    sendNotification("<color=grey>[</color><color=red>DISABLE</color><color=grey>]</color> " + button.toolTip, false);
+                                (_b = button === null || button === void 0 ? void 0 : button.disableMethod) === null || _b === void 0 ? void 0 : _b.call(button);
+                            }
+                        }
+                        else {
+                            reloadMenu();
+                            if (button.toolTip && buttonNotifications)
+                                sendNotification("<color=grey>[</color><color=green>ENABLE</color><color=grey>]</color> " + button.toolTip, false);
+                            (_c = button === null || button === void 0 ? void 0 : button.method) === null || _c === void 0 ? void 0 : _c.call(button);
+                        }
+                    }
+                }
+            }
+            return;
+        }
+        return this.method("OnTriggerEnter").invoke(collider);
+    };
+    //const VRRigOnDisable = VRRig.method("OnDisable");
+    //VRRigOnDisable.implementation = function () {
+    //    if (this.handle.equals(LocalRig.handle)) {
+    //        return;
+    //    }
+    //
+    //    return this.method("OnDisable").invoke();
+    //};
+    //
+    //const SendReport = GorillaNot.method("SendReport");
+    //SendReport.implementation = function () {
+    //    return;
+    //}
+    // Custom boards
+    //{
+    //    let boardIndex = 0;
+    //    const forest = getTransform(getObject("Environment Objects/LocalObjects_Prefab/TreeRoom"));
+    //    const childCount = forest.method("get_childCount").invoke();
+    //
+    //    for (let i = 0; i < childCount; i++) {
+    //        const child = forest.method("GetChild").invoke(i);
+    //        const gameObject = child.method("get_gameObject").invoke();
+    //        if (gameObject.method("get_name").invoke().toString().includes("UnityTempFile")) {
+    //            boardIndex++;
+    //            if (boardIndex == 5) {
+    //                boardMaterial = Material.new();
+    //                Material.method("CreateWithShader").invoke(boardMaterial, UberShader);
+    //
+    //                getComponent(gameObject, Renderer).method("set_material").invoke(boardMaterial);
+    //                boardMaterial.method("set_color").invoke(bgColor);
+    //                break;
+    //            }
+    //        }
+    //    }
+    //
+    //    const motdTitle = getComponent(getObject("Environment Objects/LocalObjects_Prefab/TreeRoom/motdHeadingText"), TextMeshPro);
+    //    motdTitle.method("set_text").invoke(Il2Cpp.string("Thanks for using ii's Stupid Menu!"));
+    //
+    //    const motdText = getComponent(getObject("Environment Objects/LocalObjects_Prefab/TreeRoom/motdBodyText"), TextMeshPro);
+    //    motdText.method("set_fontSize").invoke(100);
+    //    motdText.method("set_text").invoke(Il2Cpp.string(`You are currently using build ${version}. Thank you for supporting me on Patreon, it means a lot! This menu runs completely standalone. I, iiDk, am not responsible for any bans using this menu. If you get banned while using this, it's your responsibility.`));
+    //}
+    // Stash and Object stuff
+    {
+        const GBOAnywhere1 = AssemblyCSharp.class("AnimalCompany.GrabbableObject").method("get_allowAttachToBack");
+        GBOAnywhere1.implementation = function () {
+            const originalValue = this.method("get_allowAttachToBack").invoke(); // call OG method
+            return allowPutGBO ? true : originalValue;
+        };
+        const GBOAnywhere2 = AssemblyCSharp.class("AnimalCompany.GrabbableObject").method("get_allowAttachToHip");
+        GBOAnywhere2.implementation = function () {
+            const originalValue = this.method("get_allowAttachToHip").invoke(); // call OG method
+            return allowPutGBO ? true : originalValue;
+        };
+        const GBOAnywhere3 = AssemblyCSharp.class("AnimalCompany.StashMachine.StashMachineActionsUtility").method("CanPerformMove");
+        GBOAnywhere3.implementation = function (_state, _src, _dest) {
+            if (stashAllowMoves) {
+                return true;
+            }
+            else {
+                return GBOAnywhere3.invoke(_state, _src, _dest);
+            }
+        };
+        const EjectItem = AssemblyCSharp.class("AnimalCompany.StashMachine.StashMachineTrashChuteView").method("EjectItem");
+        EjectItem.implementation = function (item) {
+            if (stashDupeEnabled) {
+                for (let i = 0; i < ejectDupeAmount; i++) {
+                    this.method("EjectItem").invoke(item);
+                }
+            }
+            else {
+                this.method("EjectItem").invoke(item);
+            }
+        };
+        const StashQOL = AssemblyCSharp.class("AnimalCompany.StashMachineSecurityKeypad").method("HandleKeyPressed");
+        StashQOL.implementation = function (key) {
+            if (stashQOLFix) {
+                for (let i = 0; i < 4; i++) {
+                    this.method("HandleKeyPressed").invoke(key);
+                }
+            }
+            else {
+                this.method("HandleKeyPressed").invoke(key);
+            }
+        };
+    }
+    // Infinite stuff
+    {
+        const InfJetpack = AssemblyCSharp.class("AnimalCompany.JetpackHandy").method("RPC_UseJetpack");
+        InfJetpack.implementation = function () {
+            if (infAmmo) {
+                this.method("RPC_UseJetpack").invoke();
+                this.field("_isUsed").value = false;
+            }
+            else {
+                this.method("RPC_UseJetpack").invoke();
+            }
+        };
+        const InfFlare = AssemblyCSharp.class("AnimalCompany.FlareGun").method("get_hasAmmo");
+        InfFlare.implementation = function () {
+            if (infAmmo) {
+                return true;
+            }
+        };
+        const InfZipline = AssemblyCSharp.class("AnimalCompany.ZiplineGun").method("get_isLoaded");
+        InfZipline.implementation = function () {
+            if (infAmmo) {
+                return true;
+            }
+        };
+        const InfAmmoRevolver = AssemblyCSharp.class("AnimalCompany.Revolver").method("get_ammoLoaded");
+        InfAmmoRevolver.implementation = function () {
+            if (infAmmo) {
+                return 159;
+            }
+        };
+        const CockedRevolver = AssemblyCSharp.class("AnimalCompany.Revolver").method("get_isHammerCocked");
+        CockedRevolver.implementation = function () {
+            if (infAmmo) {
+                return true;
+            }
+        };
+        const InfAmmoRevolverArena = AssemblyCSharp.class("AnimalCompany.AutoReloadGun").method("get__ammoLeft");
+        InfAmmoRevolverArena.implementation = function () {
+            if (infAmmo) {
+                return 159;
+            }
+        };
+        const ShotgunInfAmmo = AssemblyCSharp.class("AnimalCompany.Shotgun").method("get__ammoLeft");
+        ShotgunInfAmmo.implementation = function () {
+            if (infAmmo) {
+                return 159;
+            }
+        };
+        //const ShotgunInfAmmo2 = AssemblyCSharp.class("AnimalCompany.Shotgun").method("ResetHeldReload");
+        //ShotgunInfAmmo2.implementation = function () {
+        //    if(infAmmo){
+        //        return false;
+        //    }
+        //}
+        const RPGInfAmmo = AssemblyCSharp.class("AnimalCompany.RPG").method("get_loadedState");
+        RPGInfAmmo.implementation = function () {
+            if (infAmmo) {
+                return [1, 2];
+            }
+        };
+    }
+    // Misc
+    {
+        const ArenaItemKillerGoByeBye = AssemblyCSharp.class("AnimalCompany.ArenaItemKiller").method("DespawnIfNecessary");
+        ArenaItemKillerGoByeBye.implementation = function () {
+            return false;
+        };
+        const BackpackDupe = AssemblyCSharp.class("AnimalCompany.BackpackItem").method("RemoveItem");
+        BackpackDupe.implementation = function (key) {
+            if (backpackDupeEnabled) {
+                return false;
+            }
+            else {
+                this.method("RemoveItem").invoke(key);
+            }
+        };
+    }
+    function updateInput() {
+        const leftDevice = InputDevices.method("GetDeviceAtXRNode", 1).invoke(4); // LeftHand
+        const rightDevice = InputDevices.method("GetDeviceAtXRNode", 1).invoke(5); // RightHand
+        const outBool = Il2Cpp.alloc(1);
+        leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primaryButton").value, outBool);
+        leftPrimary = outBool.readU8() !== 0;
+        leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("secondaryButton").value, outBool);
+        leftSecondary = outBool.readU8() !== 0;
+        leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("gripButton").value, outBool);
+        leftGrab = outBool.readU8() !== 0;
+        leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("triggerButton").value, outBool);
+        leftTrigger = outBool.readU8() !== 0;
+        leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primary2DAxisClick").value, outBool);
+        leftStick = outBool.readU8() !== 0;
+        rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primaryButton").value, outBool);
+        rightPrimary = outBool.readU8() !== 0;
+        rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("secondaryButton").value, outBool);
+        rightSecondary = outBool.readU8() !== 0;
+        rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("triggerButton").value, outBool);
+        rightTrigger = outBool.readU8() !== 0;
+        rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("gripButton").value, outBool);
+        rightGrab = outBool.readU8() !== 0;
+        rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primary2DAxisClick").value, outBool);
+        rightStick = outBool.readU8() !== 0;
+    }
+    const LateUpdate = GTPlayer.method("OnLateUpdate");
+    LateUpdate.implementation = function () {
+        deltaTime = Time.method("get_deltaTime").invoke();
+        frameCount++;
+        if (!instance) {
+            console.log("GorillaLocomotion instance not initialized yet");
+        }
+        //  if (whatnumber == 0) {
+        //      const fields = GTPlayer.class.fields;
+        //      fields.forEach(f => console.log(f.name + " | static=" + f.isStatic)); 
+        //      whatnumber + 1;
+        //  }
+        updateInput();
+        if ((righthand && rightSecondary) || (!righthand && leftSecondary)) {
+            if (currentNotification != "" && time > notifactionResetTime)
+                reloadMenu();
+            if (menu == null) {
+                renderMenu();
+            }
+            else {
+                recenterMenu();
+            }
+        }
+        else {
+            if (menu != null) {
+                Destroy(menu);
+                menu = null;
+            }
+        }
+        if (menu == null) {
+            if (reference != null) {
+                Destroy(reference);
+                reference = null;
+            }
+        }
+        else {
+            if (reference == null) {
+                renderReference();
+            }
+        }
+        try {
+            if (GunPointer != null) {
+                if (!(GunPointer.method("get_activeSelf").invoke())) {
+                    Destroy(GunPointer);
+                    GunPointer = null;
+                }
+                else
+                    GunPointer.method("SetActive").invoke(false);
+            }
+            let lineObj = GunLine.method("get_gameObject").invoke();
+            if (lineObj != null) {
+                if (!(lineObj.method("get_activeSelf").invoke())) {
+                    Destroy(lineObj);
+                    GunLine = null;
+                }
+                else
+                    lineObj.method("SetActive").invoke(false);
+            }
+        }
+        catch { }
+        buttons.flat()
+            .filter(button => button.enabled)
+            .forEach(button => {
+            if (button.method) {
+                try {
+                    button.method();
+                }
+                catch (error) {
+                    console.error(`Error executing method for button '${button.buttonText || 'unnamed'}':`, error);
+                    console.error('Error stack:', error.stack);
+                    console.error('Button object:', button);
+                    if (error.stack) {
+                        const stackLines = error.stack.split('\n');
+                        if (stackLines.length > 1) {
+                            console.error('Error occurred at:', stackLines[1].trim());
+                        }
+                    }
+                }
+            }
+        });
+        //if (myNP == null) {
+        //    const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+        //    if (players) {
+        //        for (let i = 0; i < players.length; i++) {
+        //            const netPlayer = players.get(i);
+        //            if (!netPlayer.method("get_IsMine").invoke()) continue;
+        //            myNP = netPlayer; // cache it
+        //            break; // stop once we found it
+        //        }
+        //    }
+        //}
+        return LateUpdate.invoke();
+    };
+    stashAllowMoves = true;
+    stashQOLFix = true;
+    UnlockAll();
+    console.log(`
+
+     ••╹   ┏┓     • ┓  ┳┳┓      
+     ┓┓ ┏  ┗┓╋┓┏┏┓┓┏┫  ┃┃┃┏┓┏┓┓┏
+     ┗┗ ┛  ┗┛┗┗┻┣┛┗┗┻  ┛ ┗┗ ┛┗┗┻
+                ┛               
+    ii's Stupid Menu Quest ${version}
+    Compiled ${new Date().toISOString()}
+`);
+}, "main");
