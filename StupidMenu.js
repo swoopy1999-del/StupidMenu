@@ -1,1 +1,7993 @@
-'use strict';const _0x3e4ce9=_0x5dc6;function _0x5dc6(_0x38c688,_0x2fa82c){_0x38c688=_0x38c688-0x1aa;const _0x5dc6a1=_0x2fa8();let _0x20fba6=_0x5dc6a1[_0x38c688];return _0x20fba6;}Il2Cpp[_0x3e4ce9(0x1aa)]={'exports':{}},Il2Cpp[_0x3e4ce9(0x1aa)][_0x3e4ce9(0x1ab)]={'il2cpp_init':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1ad)),'il2cpp_init_utf16':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1ae)),'il2cpp_shutdown':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1b0)),'il2cpp_set_config_dir':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1b1)),'il2cpp_set_data_dir':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('KchNmAjgLim'),'il2cpp_set_temp_dir':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('WePqxEKMJyv'),'il2cpp_set_commandline_arguments':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1b2)),'il2cpp_set_commandline_arguments_utf16':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1b3)),'il2cpp_set_config_utf16':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1b4)),'il2cpp_set_config':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1b5)),'il2cpp_set_memory_callbacks':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1b6)),'il2cpp_memory_pool_set_region_size':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1b7)),'il2cpp_memory_pool_get_region_size':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1b8)),'il2cpp_get_corlib':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('imivQxlcCWx'),'il2cpp_add_internal_call':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1b9)),'il2cpp_resolve_icall':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1ba)),'il2cpp_alloc':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)]('ySEFIqZLl_O'),'il2cpp_free':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1bb)),'il2cpp_array_class_get':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1bc)),'il2cpp_array_length':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1bd)),'il2cpp_array_get_byte_length':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1be)),'il2cpp_array_new':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1bf)),'il2cpp_array_new_specific':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1c0)),'il2cpp_array_new_full':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1c1)),'il2cpp_bounded_array_class_get':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('Y_NMxAwTTrh'),'il2cpp_array_element_size':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1c2)),'il2cpp_assembly_get_image':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1c3)),'il2cpp_class_for_each':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1c4)),'il2cpp_class_enum_basetype':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('tEJMZjgtyjr'),'il2cpp_class_is_inited':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('HLRNwnQBJuq'),'il2cpp_class_is_generic':()=>Il2Cpp['module']['findExportByName'](_0x3e4ce9(0x1c5)),'il2cpp_class_is_inflated':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1c6)),'il2cpp_class_is_assignable_from':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('FiuZRjFhMRy'),'il2cpp_class_is_subclass_of':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1c7)),'il2cpp_class_has_parent':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1c8)),'il2cpp_class_from_il2cpp_type':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1c9)),'il2cpp_class_from_name':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1ca)),'il2cpp_class_from_system_type':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1cb)),'il2cpp_class_get_element_class':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1cc)),'il2cpp_class_get_events':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1cd)),'il2cpp_class_get_fields':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1ce)),'il2cpp_class_get_nested_types':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('TEf_VvzhzmB'),'il2cpp_class_get_interfaces':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1cf)),'il2cpp_class_get_properties':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('USgBPDZxVDy'),'il2cpp_class_get_property_from_name':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1d0)),'il2cpp_class_get_field_from_name':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1d1)),'il2cpp_class_get_methods':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1d2)),'il2cpp_class_get_method_from_name':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1d3)),'il2cpp_class_get_name':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('AXCECZxEAJC'),'il2cpp_type_get_name_chunked':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1d4)),'il2cpp_class_get_namespace':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1d5)),'il2cpp_class_get_parent':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('jMitlyhMGsL'),'il2cpp_class_get_declaring_type':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1d6)),'il2cpp_class_instance_size':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1d7)),'il2cpp_class_num_fields':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1d8)),'il2cpp_class_is_valuetype':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1d9)),'il2cpp_class_value_size':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1da)),'il2cpp_class_is_blittable':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1db)),'il2cpp_class_get_flags':()=>Il2Cpp['module']['findExportByName'](_0x3e4ce9(0x1dc)),'il2cpp_class_is_abstract':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('zPsbxsnzfCK'),'il2cpp_class_is_interface':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1dd)),'il2cpp_class_array_element_size':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1de)),'il2cpp_class_from_type':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1df)),'il2cpp_class_get_type':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1e0)),'il2cpp_class_get_type_token':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1e1)),'il2cpp_class_has_attribute':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1e2)),'il2cpp_class_has_references':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('SEudiEqiQyK'),'il2cpp_class_is_enum':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1e3)),'il2cpp_class_get_image':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('tcWiSjsxVcQ'),'il2cpp_class_get_assemblyname':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1e4)),'il2cpp_class_get_rank':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1e5)),'il2cpp_class_get_data_size':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1e6)),'il2cpp_class_get_static_field_data':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)]('OitYjfgdTbj'),'il2cpp_stats_dump_to_file':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1e7)),'il2cpp_stats_get_value':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)]('RhPCVnitseY'),'il2cpp_domain_get':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1e8)),'il2cpp_domain_assembly_open':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1e9)),'il2cpp_domain_get_assemblies':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1ea)),'il2cpp_raise_exception':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1eb)),'il2cpp_exception_from_name_msg':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1ec)),'il2cpp_get_exception_argument_null':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1ed)),'il2cpp_format_exception':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('A_eWFwzncxf'),'il2cpp_format_stack_trace':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1ee)),'il2cpp_unhandled_exception':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1ef)),'il2cpp_native_stack_trace':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1f0)),'il2cpp_field_get_flags':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('MIYZlDioOQA'),'il2cpp_field_get_from_reflection':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1f1)),'il2cpp_field_get_name':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1f2)),'il2cpp_field_get_parent':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1f3)),'il2cpp_field_get_object':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1f4)),'il2cpp_field_get_offset':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)]('ltKYrwDrfyE'),'il2cpp_field_get_type':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1f5)),'il2cpp_field_get_value':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1f6)),'il2cpp_field_get_value_object':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1f7)),'il2cpp_field_has_attribute':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1f8)),'il2cpp_field_set_value':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('MbJwoDdpvyv'),'il2cpp_field_static_get_value':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('wnFsbUFFdgv'),'il2cpp_field_static_set_value':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1f9)),'il2cpp_field_set_value_object':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1fa)),'il2cpp_field_is_literal':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1fb)),'il2cpp_gc_collect':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('EnqAHGJceQF'),'il2cpp_gc_collect_a_little':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1fc)),'il2cpp_gc_start_incremental_collection':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1fd)),'il2cpp_gc_disable':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('lRzzSSbDHxo'),'il2cpp_gc_enable':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x1fe)),'il2cpp_gc_is_disabled':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x1ff)),'il2cpp_gc_set_mode':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x200)),'il2cpp_gc_get_max_time_slice_ns':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x201)),'il2cpp_gc_set_max_time_slice_ns':()=>Il2Cpp['module']['findExportByName'](_0x3e4ce9(0x202)),'il2cpp_gc_is_incremental':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x203)),'il2cpp_gc_get_used_size':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x204)),'il2cpp_gc_get_heap_size':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x205)),'il2cpp_gc_wbarrier_set_field':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x206)),'il2cpp_gc_has_strict_wbarriers':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x207)),'il2cpp_gc_set_external_allocation_tracker':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x208)),'il2cpp_gc_set_external_wbarrier_tracker':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('NN_xXzFZBFi'),'il2cpp_gc_foreach_heap':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x209)),'il2cpp_stop_gc_world':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x20a)),'il2cpp_start_gc_world':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x20b)),'il2cpp_gc_alloc_fixed':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('fHAEhWMSSAj'),'il2cpp_gc_free_fixed':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('AmwyAuIqPYQ'),'il2cpp_gchandle_new':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x20c)),'il2cpp_gchandle_new_weakref':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('PdhOsMNaSOH'),'il2cpp_gchandle_get_target':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x20d)),'il2cpp_gchandle_free':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('OqNeDUhosmc'),'il2cpp_gchandle_foreach_get_target':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x20e)),'il2cpp_object_header_size':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('okMYWCYCMHk'),'il2cpp_array_object_header_size':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('uksSuLRnCOp'),'il2cpp_offset_of_array_length_in_array_object_header':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x20f)),'il2cpp_offset_of_array_bounds_in_array_object_header':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('cbgMORQpdlm'),'il2cpp_allocation_granularity':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x210)),'il2cpp_unity_liveness_allocate_struct':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x211)),'il2cpp_unity_liveness_calculation_from_root':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x212)),'il2cpp_unity_liveness_calculation_from_statics':()=>Il2Cpp['module']['findExportByName'](_0x3e4ce9(0x213)),'il2cpp_unity_liveness_finalize':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x214)),'il2cpp_unity_liveness_free_struct':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x215)),'il2cpp_method_get_return_type':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x216)),'il2cpp_method_get_declaring_type':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x217)),'il2cpp_method_get_name':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x218)),'il2cpp_method_get_from_reflection':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x219)),'il2cpp_method_get_object':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x21a)),'il2cpp_method_is_generic':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x21b)),'il2cpp_method_is_inflated':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('H_AESDQlVuQ'),'il2cpp_method_is_instance':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x21c)),'il2cpp_method_get_param_count':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('cMnVkXbHobK'),'il2cpp_method_get_param':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x21d)),'il2cpp_method_get_class':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)]('MAnPhiRqcFf'),'il2cpp_method_has_attribute':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('ICkKCjYkAnz'),'il2cpp_method_get_flags':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('xZKgJKPtnty'),'il2cpp_method_get_token':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x21e)),'il2cpp_method_get_param_name':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x21f)),'il2cpp_property_get_flags':()=>Il2Cpp['module']['findExportByName'](_0x3e4ce9(0x220)),'il2cpp_property_get_get_method':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('sgMXraRcWjL'),'il2cpp_property_get_set_method':()=>Il2Cpp['module']['findExportByName'](_0x3e4ce9(0x221)),'il2cpp_property_get_name':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x222)),'il2cpp_property_get_parent':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('OyQDypRiAQO'),'il2cpp_object_get_class':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x223)),'il2cpp_object_get_size':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x224)),'il2cpp_object_get_virtual_method':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)]('BqqownaXxSP'),'il2cpp_object_new':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x225)),'il2cpp_object_unbox':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x226)),'il2cpp_value_box':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x227)),'il2cpp_monitor_enter':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x228)),'il2cpp_monitor_try_enter':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x229)),'il2cpp_monitor_exit':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('GhPNSfoqhuY'),'il2cpp_monitor_pulse':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x22a)),'il2cpp_monitor_pulse_all':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x22b)),'il2cpp_monitor_wait':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x22c)),'il2cpp_monitor_try_wait':()=>Il2Cpp['module']['findExportByName']('BE_HVPNbkMf'),'il2cpp_runtime_invoke':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('JCylXSCskYq'),'il2cpp_runtime_invoke_convert_args':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x22d)),'il2cpp_runtime_class_init':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('bWkDnubAZEh'),'il2cpp_runtime_object_init':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x22e)),'il2cpp_runtime_object_init_exception':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x22f)),'il2cpp_runtime_unhandled_exception_policy_set':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x230)),'il2cpp_string_length':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x231)),'il2cpp_string_chars':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x232)),'il2cpp_string_new':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x233)),'il2cpp_string_new_len':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x234)),'il2cpp_string_new_utf16':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x235)),'il2cpp_string_new_wrapper':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x236)),'il2cpp_string_intern':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x237)),'il2cpp_string_is_interned':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x238)),'il2cpp_thread_current':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)]('tGpHoIMtRPY'),'il2cpp_thread_attach':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x239)),'il2cpp_thread_detach':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x23a)),'il2cpp_is_vm_thread':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x23b)),'il2cpp_current_thread_walk_frame_stack':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x23c)),'il2cpp_thread_walk_frame_stack':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('_HXsAiCgtJb'),'il2cpp_current_thread_get_top_frame':()=>Il2Cpp['module']['findExportByName'](_0x3e4ce9(0x23d)),'il2cpp_thread_get_top_frame':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x23e)),'il2cpp_current_thread_get_frame_at':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x23f)),'il2cpp_thread_get_frame_at':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('KtCgBUAwyWW'),'il2cpp_current_thread_get_stack_depth':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x240)),'il2cpp_thread_get_stack_depth':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x241)),'il2cpp_override_stack_backtrace':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x242)),'il2cpp_type_get_object':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x243)),'il2cpp_type_get_type':()=>Il2Cpp['module']['findExportByName'](_0x3e4ce9(0x244)),'il2cpp_type_get_class_or_element_class':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('_nWpaWrROcJ'),'il2cpp_type_get_name':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('YUMigIrKAEl'),'il2cpp_type_is_byref':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x245)),'il2cpp_type_get_attrs':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x246)),'il2cpp_type_equals':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x247)),'il2cpp_type_get_assembly_qualified_name':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x248)),'il2cpp_type_get_reflection_name':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('fv_OIhYVdLx'),'il2cpp_type_is_static':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('JltKruNqcBY'),'il2cpp_type_is_pointer_type':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x249)),'il2cpp_image_get_assembly':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x24a)),'il2cpp_image_get_name':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x24b)),'il2cpp_image_get_filename':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x24c)),'il2cpp_image_get_entry_point':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x24d)),'il2cpp_image_get_class_count':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x24e)),'il2cpp_image_get_class':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('QIDqd_Tjarw'),'il2cpp_capture_memory_snapshot':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('aXhnfviCMax'),'il2cpp_free_captured_memory_snapshot':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x24f)),'il2cpp_set_find_plugin_callback':()=>Il2Cpp['module']['findExportByName']('hMKKVYTSWcU'),'il2cpp_register_log_callback':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x250)),'il2cpp_debugger_set_agent_options':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)]('dYJCqABrjWI'),'il2cpp_is_debugger_attached':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('fEWSrzXgXOY'),'il2cpp_register_debugger_agent_transport':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName'](_0x3e4ce9(0x251)),'il2cpp_debug_foreach_method':()=>Il2Cpp['module']['findExportByName']('EFooHlRazEP'),'il2cpp_debug_get_method_info':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x252)),'il2cpp_unity_install_unitytls_interface':()=>Il2Cpp[_0x3e4ce9(0x1af)]['findExportByName']('ErskgTHBQel'),'il2cpp_custom_attrs_from_class':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x253)),'il2cpp_custom_attrs_from_method':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)]('echNfJwzNAF'),'il2cpp_custom_attrs_from_field':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x254)),'il2cpp_custom_attrs_get_attr':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x255)),'il2cpp_custom_attrs_has_attr':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x256)),'il2cpp_custom_attrs_construct':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x257)),'il2cpp_custom_attrs_free':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x258)),'il2cpp_class_set_userdata':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x259)),'il2cpp_class_get_userdata_offset':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x25a)),'il2cpp_set_default_thread_affinity':()=>Il2Cpp[_0x3e4ce9(0x1af)][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x25b)),'il2cpp_unity_set_android_network_up_state_func':()=>Il2Cpp['module'][_0x3e4ce9(0x1ac)](_0x3e4ce9(0x25c))};const API_URL=_0x3e4ce9(0x25d),version=_0x3e4ce9(0x25e);let boardMaterial=null,buttonClickDelay=0x0,menu=null,reference=null,referenceCollider=null,leftPrimary=![],leftSecondary=![],rightPrimary=![],rightSecondary=![],leftGrab=![],rightGrab=![],leftTrigger=![],rightTrigger=![],leftStick=![],rightStick=![],devEnabled=![],stashDupeEnabled=![],backpackDupeEnabled=![],flySpeed=0xa,prefabListIndex=0x0,sellingmachineSpawns=[],QuiverClass=null,BackpackItemClass=null,stashAllowMoves=![],stashQOLFix=![],allowPutGBO=![],infAmmo=!![],gunColor=[0.08,0.08,0.08,0.75],localButtonSounds=!![],negativeHeadSize=![],deltaTime=0x0,time=0x0,frameCount=0x0,ejectDupeValues=[0x1,0x2,0x5,0xa,0x19,0x40,0x64,0x80],ejectDupeAmount=0x1,ejectDupeIndex=0x0,buttonSound=0x2c,LerpMenu=![],menuscale=0.9,headSizeValues=[0x1,0x2,0x5,0xa,0xf,0x14,0x19,0x32,0x0],headSizeAmount=0x1,headSizeIndex=0x0,soundFileFiles=['1/cust2.mp3',_0x3e4ce9(0x25f),_0x3e4ce9(0x260),_0x3e4ce9(0x261),_0x3e4ce9(0x262),_0x3e4ce9(0x263),_0x3e4ce9(0x264),'1/16m.mp3',_0x3e4ce9(0x265),_0x3e4ce9(0x266),'1/taunt.mp3',_0x3e4ce9(0x267),_0x3e4ce9(0x268)],soundFileIndex=0x0,previousGhostKey=![],previousInvisKey=![],previousSoundKey=![],previousNoclipKey=![],perviousTeleportKey=![],perviousShootKey=![],perviousSpawnKey=![],previoussaaakey=![],previousASCIIkey=![],isGhostFollowingActive=![],currentPlayerIndex=0x0,lastSwitchTime=0x0,netPlayers=[],roomJoinAttempted=![],waitingForRoom=![],roomCheckInterval=null,walkPos=null,walkNormal=null,cachedGhostPos={'head':null,'leftHand':null,'rightHand':null},closePosition=null,tagGunDelay=0x0,idGunDelay=0x0,splashDelay=0x0,lagGunDelay=0x0,scaleVal=0x0,hueVal=0x0,satVal=0x0,hue=0x0,jellywowes=0x5,lastTime=0x0,oldSlide=null,leftPlatform=null,rightPlatform=null,fullbirhgtobject=null,lightEnabled=![],checkpoint=null,visualizer=[],audioManager=null,mylittleSphere=null,lineRenderHolder=null,isLineRenderQueued=![],linePool=[],handTextObj=null,lvT=null,rvT=null,buttonNotifications=!![],highPunchPower=![],bgColor=[0x1,0.5,0x0,0x1],textColor=[0x1,0.7450981,0.4901961,0x1],buttonColor=[0.666,0.333,0x0,0x1],buttonPressedColor=[0.333,0.15,0x0,0x1],menuName='ii\x27s\x20Stupid\x20Menu',themeIndex=0x0,buttonIndex=0x0,currentNotification='',notifactionResetTime=0x0;const itemIDs=['item_ac_cola','item_alphablade','item_anti_gravity_grenade','item_apple',_0x3e4ce9(0x269),'item_arena_shotgun',_0x3e4ce9(0x26a),_0x3e4ce9(0x26b),_0x3e4ce9(0x26c),_0x3e4ce9(0x26d),_0x3e4ce9(0x26e),'item_axe',_0x3e4ce9(0x26f),'item_backpack_black',_0x3e4ce9(0x270),_0x3e4ce9(0x271),_0x3e4ce9(0x272),'item_backpack_large_clover',_0x3e4ce9(0x273),'item_backpack_realistic',_0x3e4ce9(0x274),'item_backpack_white','item_backpack_with_flashlight','item_bait_beetle','item_bait_fly',_0x3e4ce9(0x275),_0x3e4ce9(0x276),_0x3e4ce9(0x277),_0x3e4ce9(0x278),_0x3e4ce9(0x279),_0x3e4ce9(0x27a),_0x3e4ce9(0x27b),'item_balloon',_0x3e4ce9(0x27c),_0x3e4ce9(0x27d),_0x3e4ce9(0x27e),_0x3e4ce9(0x27f),'item_baseball_bat','item_basic_fishing_rod','item_beans',_0x3e4ce9(0x280),_0x3e4ce9(0x281),_0x3e4ce9(0x282),_0x3e4ce9(0x283),'item_boombox_fishing',_0x3e4ce9(0x284),_0x3e4ce9(0x285),'item_box_fan','item_brain_chunk',_0x3e4ce9(0x286),_0x3e4ce9(0x287),'item_broom',_0x3e4ce9(0x288),_0x3e4ce9(0x289),_0x3e4ce9(0x28a),_0x3e4ce9(0x28b),'item_butcherspear',_0x3e4ce9(0x28c),_0x3e4ce9(0x28d),_0x3e4ce9(0x28e),_0x3e4ce9(0x28f),_0x3e4ce9(0x290),_0x3e4ce9(0x291),_0x3e4ce9(0x292),_0x3e4ce9(0x293),_0x3e4ce9(0x294),_0x3e4ce9(0x295),_0x3e4ce9(0x296),_0x3e4ce9(0x297),_0x3e4ce9(0x298),_0x3e4ce9(0x299),'item_cracker',_0x3e4ce9(0x29a),_0x3e4ce9(0x29b),'item_crossbow_heart',_0x3e4ce9(0x29c),'item_cubetrident',_0x3e4ce9(0x29d),_0x3e4ce9(0x29e),_0x3e4ce9(0x29f),_0x3e4ce9(0x2a0),_0x3e4ce9(0x2a1),_0x3e4ce9(0x2a2),_0x3e4ce9(0x2a3),'item_drill_neon',_0x3e4ce9(0x2a4),_0x3e4ce9(0x2a5),'item_egg',_0x3e4ce9(0x2a6),_0x3e4ce9(0x2a7),_0x3e4ce9(0x2a8),_0x3e4ce9(0x2a9),_0x3e4ce9(0x2aa),_0x3e4ce9(0x2ab),'item_fish_bottled_message','item_fish_carp',_0x3e4ce9(0x2ac),_0x3e4ce9(0x2ad),_0x3e4ce9(0x2ae),_0x3e4ce9(0x2af),'item_fish_diamond_jade_koi','item_fish_dollar_bill',_0x3e4ce9(0x2b0),_0x3e4ce9(0x2b1),_0x3e4ce9(0x2b2),_0x3e4ce9(0x2b3),_0x3e4ce9(0x2b4),_0x3e4ce9(0x2b5),_0x3e4ce9(0x2b6),'item_fish_nebula_fish',_0x3e4ce9(0x2b7),'item_fish_rainbow_trout','item_fish_rotten_fish',_0x3e4ce9(0x2b8),_0x3e4ce9(0x2b9),_0x3e4ce9(0x2ba),'item_fish_seamine',_0x3e4ce9(0x2bb),_0x3e4ce9(0x2bc),'item_fish_tuna',_0x3e4ce9(0x2bd),'item_fishing_terminal_bait_button',_0x3e4ce9(0x2be),'item_flamethrower_skull',_0x3e4ce9(0x2bf),'item_flaregun',_0x3e4ce9(0x2c0),_0x3e4ce9(0x2c1),'item_flashlight_mega',_0x3e4ce9(0x2c2),_0x3e4ce9(0x2c3),_0x3e4ce9(0x2c4),_0x3e4ce9(0x2c5),_0x3e4ce9(0x2c6),_0x3e4ce9(0x2c7),'item_frying_pan',_0x3e4ce9(0x2c8),_0x3e4ce9(0x2c9),_0x3e4ce9(0x2ca),_0x3e4ce9(0x2cb),_0x3e4ce9(0x2cc),_0x3e4ce9(0x2cd),'item_great_sword','item_grenade',_0x3e4ce9(0x2ce),_0x3e4ce9(0x2cf),_0x3e4ce9(0x2d0),_0x3e4ce9(0x2d1),_0x3e4ce9(0x2d2),_0x3e4ce9(0x2d3),_0x3e4ce9(0x2d4),_0x3e4ce9(0x2d5),'item_heart_gun',_0x3e4ce9(0x2d6),_0x3e4ce9(0x2d7),_0x3e4ce9(0x2d8),_0x3e4ce9(0x2d9),_0x3e4ce9(0x2da),_0x3e4ce9(0x2db),'item_impulse_grenade',_0x3e4ce9(0x2dc),_0x3e4ce9(0x2dd),_0x3e4ce9(0x2de),_0x3e4ce9(0x2df),_0x3e4ce9(0x2e0),_0x3e4ce9(0x2e1),'item_landmine_bee',_0x3e4ce9(0x2e2),'item_large_banana',_0x3e4ce9(0x2e3),_0x3e4ce9(0x2e4),_0x3e4ce9(0x2e5),_0x3e4ce9(0x2e6),_0x3e4ce9(0x2e7),_0x3e4ce9(0x2e8),_0x3e4ce9(0x2e9),_0x3e4ce9(0x2ea),_0x3e4ce9(0x2eb),_0x3e4ce9(0x2ec),_0x3e4ce9(0x2ed),_0x3e4ce9(0x2ee),_0x3e4ce9(0x2ef),'item_mug',_0x3e4ce9(0x2f0),_0x3e4ce9(0x2f1),_0x3e4ce9(0x2f2),_0x3e4ce9(0x2f3),_0x3e4ce9(0x2f4),_0x3e4ce9(0x2f5),_0x3e4ce9(0x2f6),'item_ore_gold_l',_0x3e4ce9(0x2f7),_0x3e4ce9(0x2f8),_0x3e4ce9(0x2f9),_0x3e4ce9(0x2fa),_0x3e4ce9(0x2fb),_0x3e4ce9(0x2fc),_0x3e4ce9(0x2fd),'item_paperpack','item_pelican_case','item_pickaxe',_0x3e4ce9(0x2fe),_0x3e4ce9(0x2ff),_0x3e4ce9(0x300),'item_pinata_bat',_0x3e4ce9(0x301),'item_pipe','item_pistol_dragon',_0x3e4ce9(0x302),'item_plunger','item_pogostick',_0x3e4ce9(0x303),_0x3e4ce9(0x304),_0x3e4ce9(0x305),_0x3e4ce9(0x306),_0x3e4ce9(0x307),_0x3e4ce9(0x308),_0x3e4ce9(0x309),_0x3e4ce9(0x30a),_0x3e4ce9(0x30b),_0x3e4ce9(0x30c),_0x3e4ce9(0x30d),'item_quest_hlal_eyeball','item_quest_hlal_flesh',_0x3e4ce9(0x30e),_0x3e4ce9(0x30f),_0x3e4ce9(0x310),_0x3e4ce9(0x311),_0x3e4ce9(0x312),_0x3e4ce9(0x313),_0x3e4ce9(0x314),_0x3e4ce9(0x315),_0x3e4ce9(0x316),_0x3e4ce9(0x317),_0x3e4ce9(0x318),_0x3e4ce9(0x319),_0x3e4ce9(0x31a),'item_quest_vhs_foundation',_0x3e4ce9(0x31b),'item_quest_vhs_haunted_house','item_quest_vhs_hell',_0x3e4ce9(0x31c),'item_quest_vhs_lake',_0x3e4ce9(0x31d),'item_quest_vhs_megalodon',_0x3e4ce9(0x31e),_0x3e4ce9(0x31f),_0x3e4ce9(0x320),_0x3e4ce9(0x321),_0x3e4ce9(0x322),_0x3e4ce9(0x323),'item_quest_vhs_office',_0x3e4ce9(0x324),_0x3e4ce9(0x325),'item_quest_vhs_powerplant_reactorcore',_0x3e4ce9(0x326),_0x3e4ce9(0x327),_0x3e4ce9(0x328),_0x3e4ce9(0x329),_0x3e4ce9(0x32a),'item_radiation_gun','item_radioactive_broccoli',_0x3e4ce9(0x32b),_0x3e4ce9(0x32c),_0x3e4ce9(0x32d),_0x3e4ce9(0x32e),'item_randombox_mobloot_weapons','item_randombox_mobloot_zombie',_0x3e4ce9(0x32f),_0x3e4ce9(0x330),_0x3e4ce9(0x331),_0x3e4ce9(0x332),_0x3e4ce9(0x333),_0x3e4ce9(0x334),'item_robo_monke',_0x3e4ce9(0x335),_0x3e4ce9(0x336),_0x3e4ce9(0x337),_0x3e4ce9(0x338),_0x3e4ce9(0x339),_0x3e4ce9(0x33a),'item_rpg_ammo_egg','item_rpg_ammo_spear',_0x3e4ce9(0x33b),_0x3e4ce9(0x33c),_0x3e4ce9(0x33d),'item_rpg_spear','item_rubberducky',_0x3e4ce9(0x33e),'item_saddle','item_salmoncannon','item_sawblade',_0x3e4ce9(0x33f),'item_scanner',_0x3e4ce9(0x340),_0x3e4ce9(0x341),_0x3e4ce9(0x342),_0x3e4ce9(0x343),_0x3e4ce9(0x344),_0x3e4ce9(0x345),'item_shield_viking_1',_0x3e4ce9(0x346),_0x3e4ce9(0x347),_0x3e4ce9(0x348),_0x3e4ce9(0x349),_0x3e4ce9(0x34a),_0x3e4ce9(0x34b),'item_shovel','item_shredder',_0x3e4ce9(0x34c),'item_skipole',_0x3e4ce9(0x34d),_0x3e4ce9(0x34e),'item_skishoe_3',_0x3e4ce9(0x34f),_0x3e4ce9(0x350),_0x3e4ce9(0x351),'item_snowboard',_0x3e4ce9(0x352),_0x3e4ce9(0x353),'item_snowboard_4',_0x3e4ce9(0x354),_0x3e4ce9(0x355),_0x3e4ce9(0x356),_0x3e4ce9(0x357),_0x3e4ce9(0x358),'item_stapler',_0x3e4ce9(0x359),_0x3e4ce9(0x35a),_0x3e4ce9(0x35b),_0x3e4ce9(0x35c),'item_stellarsword_gold','item_stick_armbones',_0x3e4ce9(0x35d),_0x3e4ce9(0x35e),_0x3e4ce9(0x35f),'item_stinky_cheese',_0x3e4ce9(0x360),'item_tapedispenser',_0x3e4ce9(0x361),_0x3e4ce9(0x362),_0x3e4ce9(0x363),_0x3e4ce9(0x364),_0x3e4ce9(0x365),_0x3e4ce9(0x366),_0x3e4ce9(0x367),'item_toilet_paper_roll_empty',_0x3e4ce9(0x368),_0x3e4ce9(0x369),_0x3e4ce9(0x36a),_0x3e4ce9(0x36b),_0x3e4ce9(0x36c),_0x3e4ce9(0x36d),_0x3e4ce9(0x36e),_0x3e4ce9(0x36f),_0x3e4ce9(0x370),_0x3e4ce9(0x371),_0x3e4ce9(0x372),_0x3e4ce9(0x373),_0x3e4ce9(0x374),'item_umbrella_squirrel',_0x3e4ce9(0x375),'item_upsidedown_loot',_0x3e4ce9(0x376),_0x3e4ce9(0x377),'item_uranium_chunk_s','item_viking_hammer',_0x3e4ce9(0x378),_0x3e4ce9(0x379),_0x3e4ce9(0x37a),'item_wheelhandle_big','item_whoopie','item_wood_log',_0x3e4ce9(0x37b),_0x3e4ce9(0x37c),'item_zipline_gun',_0x3e4ce9(0x37d)],VFXTypes={'None':0xff,'MuzzleFlash_Shotgun':0x0,'MuzzleFlash_FlareGun':0x1,'CrateBreak':0x2,'MuzzleFlash_SmallGun':0x3,'MuzzleFlash_GoldRevolver':0x4,'MuzzleFlash_DragonPistol':0x5,'MuzzleFlash_ViperShotgun':0x6,'Explosion_FlareGun':0x20,'Explosion_Coins':0x21,'Explosion_Nuts':0x22,'Explosion_Keys':0x23,'Explosion_Balloon':0x24,'Explosion_TeleGrenadeSrc':0x25,'Player_Touch_Lava':0x26,'Portal_Teleport':0x27,'Explosion_Coins_Vertical':0x28,'Autumn_Leaves_Burst':0x29,'Explosion_Feathers':0x2a,'Explosion_Popcorn':0x2b,'Electricity_Small':0x2c,'Impact_Flaregun':0x40,'Impact_Snowball':0x41,'Impact_GoldRevolver':0x42,'Impact_MeleeHit':0x43,'Impact_BigGroundHit':0x44,'Impact_MeleeHit_CriticalSmall':0x45,'Impact_MeleeHit_CriticalLarge':0x46,'Impact_MeleeHit_AoE':0x47,'Research_ZiplineAttachDetach':0x60,'Research_Purchase1RP':0x61,'Research_Purchase5RP':0x62,'Research_Purchase10RP':0x63,'Research_PurchaseRPBundle':0x64,'Rope_ZiplineAttachDetach':0x6e,'MeatExplosion_1':0x80,'MeatExplosion_2':0x81,'MeatExplosion_Headshot':0x82,'ServerRoomSplash_Small':0xa0,'ServerRoomSplash_Big':0xa1,'RAMActivationSparks':0xa2,'GreenBlink':0xaa,'ConfettiBurst':0xae,'Ethereal_Void':0xb4,'MomBoss_NailBreak':0xb5,'MidAirJump_Fart':0xb6,'FuelExplosion':0xb7},mobIDs=['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40'],flareGunPrefabs=[_0x3e4ce9(0x37e),'ItemSellingMachineController',_0x3e4ce9(0x37f)],newflareGunPrefabs=[_0x3e4ce9(0x29a)];function _0x2fa8(){const _0x1da792=['$config','exports','findExportByName','diSBvpqCEPZ','sdEQgFfKKlG','module','BXEJfoFUQjv','YWCxRtpGpvA','LcZLPfjPaVp','YEnHKsavQKT','DNsFBGNjcar','CiftREtePRA','qYRIkbLQkwI','JcOofOjMwoG','VHedccKUmIC','oKRvWoslQpC','xBjhEJoAZIH','ZGQNQrNQQBX','EJrenGMdOIA','pTyYhURRS_B','rgUz_dNtlYL','mjLavYTXGrL','VhGlOZTWtZY','QKcyhcnFzBk','D_rIikIBqoj','qoMwWMVkSgv','QZOrmIYNTOH','EBQvToaXmwd','OduZrFsXqLn','UtTchRkPkvY','WvkCirdhAUM','SIKDsODdRV_','EvuKeiOu_HJ','UOtBAwDqIrX','LbqKXoPmpJM','QSbfZLkVzwU','M_kmaXnJwSK','OEUScepyoNu','KXfJpUHaEtM','HtomPtiufmv','EXoJUGdXOqW','CBSUjSaUHiM','dBkoAVaPtBD','pLcAhyDpwVx','LzXRzG_CqwA','dlKunxVfPHq','YWhuDBZKyQA','PhWugNKdPFn','wOPAwJlJdqa','YwobbhEfggc','igxSVAmPpPW','kGnjkkaYpkn','IJqPfqczDFO','siMq_QIXkzG','VESlHDPRqWr','fUgOAMVAkMF','bcCuSOPi_cx','nQbVNxtVtCS','RMuRknJyzIs','AQCyNoDaHZO','yYrLodcKdUo','Tp_EZaASB_k','NdJtlbxgnzV','fxhgCC_PBaE','SwsmnUDuYWs','sSoVmNJnmod','ufZLppesNor','DzKOPBxzOsA','ncOjSgXVXNs','fjoYRHCigtw','WWXgSo_YXTG','LZaOUJMBCgr','WENVsJrigiA','gNmJDTxOBZS','gWIOOvqviFi','MxYCiyKiEbG','oXfrmoYnmWI','hkbXbHQSVBN','hZqpOMQeWYE','dEKMePXnagR','chqMpqhvYKv','eQCwOVZpfMp','uCMjvwdBFZA','yVBrVktJFpF','Y_HZRLGieeS','ukoeXbamtCf','KnXVLEDlxnQ','IltdLuwErKH','eBh_pNVdyqh','uhcPKDeklmS','IXCRKSvKPkq','Ze_pNOAmrog','bcpTScfKZZx','VOoNjtrSuAV','yLMpDpkbGrH','hqhVZqMYiQE','ISX_MkcEEEr','SNTLbUVTzed','BqYCFCefEEf','fAOhEaxOGiz','rLFUYf_igqx','tVpWLVNtQFQ','zHcgiUtSgZV','kPowXBmgXIo','uWOTwAUfYMW','htGbVY_gQoO','SrKRJqmSsHc','suneMYmFIcO','qalSOXFrOjI','OlxVBFyJkOg','JTwOhlLzq_z','Y_cAfpzAsuh','JUNyFiasFjX','GQLsLtgPG_c','LebQAplLmuU','oLNNngcbvNZ','KVyfwFjDSPm','GKLLBZzCeog','vSDETfQEFMI','YDvszPSQrPA','FlKjIyrXhGh','FcyGavngFtw','dsZlEFghzpq','tjZApPjwjqm','EPAJaCUTlkk','DyAaebIQwvd','gMswMplghKl','pgySMhZhDOC','oJPPCzuJMsj','IaVojaeVwSo','q_mVNEaOIBr','fSiKvzpEMGx','ABdgVryIYGP','RUJNlZTWILq','QFtXYB_JBSz','DqefQGegfJU','YTghcZmpIsu','UsTniCZFQeW','JzdHpDtYlNO','ulCYHXzHbCm','FYShFbwTQZJ','gromELKVRnC','dlHTAvAAIFm','pZDjbKuBWkv','CicqYzFlWxc','Aji_gAFiTSj','QSIsjMzwiRD','bHrTSqpfuJV','DmJJQSFjyyd','QcMbUzSKXWp','nyFnDZtUuGO','RflBzTdKzVi','TtqQhPRWhdE','MkGvf_aHcPX','pBfqkiezekS','lDocxvYAMOr','ITpBBfKrILU','PhmQLCnvpAI','zWRIwnfkdTO','bTyAhlXcnKU','xqPODzIRaTU','XJaaFs_raju','ReYOvvNHZgI','obgyYDTSH_l','xlKkZ_HlOoW','DLRcvnWVddJ','YUBJXIuliRR','EwhVYkmYPEs','YcVoijSmaVJ','IQULjCHPVIM','MIbXcShlnHt','yLGQZwKhxMj','OqgdnhYTbWM','CtihQXqHdJm','cxusDKlymko','SfmGsONeTcC','ngY_rMrrOdi','SIlVAbQPufC','IWuecfkKxEm','https://moonylabs.org','1.3.0','1/vineboom.mp3','1/eclipse.mp3','1/do.mp3','1/fart.mp3','1/cust3.mp3','1/daisybell.mp3','1/feelgood.mp3','1/cust1.mp3','1/stupid.mp3','1/hl2amb.mp3','item_arena_pistol','item_arrow','item_arrow_bomb','item_arrow_heart','item_arrow_lightbulb','item_arrow_teleport','item_backpack','item_backpack_green','item_backpack_large_base','item_backpack_large_basketball','item_backpack_pink','item_backpack_small_base','item_bait_glowworm','item_bait_magmar_ball','item_bait_mouse_trap','item_bait_sardine','item_bait_shell','item_bait_starfish','item_bait_wallet','item_balloon_heart','item_bamboo_fishing_rod','item_banana','item_banana_chips','item_big_cup','item_bighead_larva','item_bloodlust_vial','item_boombox','item_boombox_neon','item_boomerang','item_broccoli_grenade','item_broccoli_shrink_grenade','item_broom_halloween','item_bubble_gun','item_burrito','item_butcherpipe','item_butchersword','item_calculator','item_cardboard_box','item_cardboard_dragon_body','item_cardboard_dragon_head','item_ceo_plaque','item_chakra','item_clapper','item_cluster_grenade','item_coconut_shell','item_cola','item_cola_large','item_company_ration','item_company_ration_heal','item_crate','item_crossbow','item_crowbar','item_cutie_dead','item_d20','item_demon_sword','item_disc','item_disposable_camera','item_dragons_claw','item_drill','item_dynamite','item_dynamite_cube','item_electrical_tape','item_eraser','item_film_reel','item_finger_board','item_fish_boomfish','item_fish_boot','item_fish_chewna','item_fish_clam_hookshot','item_fish_crappie','item_fish_crispie','item_fish_dragonfish','item_fish_fishsword','item_fish_gold_fish','item_fish_hydracarp','item_fish_kissy','item_fish_license_plate','item_fish_magma_carp','item_fish_nutfish','item_fish_salmon','item_fish_salmonster','item_fish_scaldfish','item_fish_shellfish_shield','item_fish_spicy_salmon','item_fish_yellowcake','item_flamethrower','item_flamethrower_skull_ruby','item_flashbang','item_flashlight','item_flashlight_red','item_flipflop_realistic','item_floppy3','item_floppy5','item_football','item_friend_launcher','item_gameboy','item_glowstick','item_goldbar','item_goldcoin','item_goop','item_goopfish','item_grenade_gold','item_grenade_launcher','item_guided_boomerang','item_hammer_candy_cane','item_harddrive','item_hatchet','item_hawaiian_drum','item_heart_chunk','item_heartchocolatebox','item_hh_key','item_hookshot','item_hookshot_sword','item_hot_cocoa','item_hoverpad','item_jetpack','item_joystick','item_joystick_inv_y','item_keycard','item_lance','item_landmine','item_lantern_cny','item_lava_fishing_rod','item_love_grenade','item_megaphone','item_metal_ball','item_metal_ball_xmas','item_metal_plate','item_metal_plate_xmas','item_metal_rod','item_metal_rod_xmas','item_metal_triangle','item_momboss_box','item_moneygun','item_mountain_key','item_needle','item_nut','item_nut_drop','item_ogre_hands','item_ore_copper_l','item_ore_copper_m','item_ore_copper_s','item_ore_gold_m','item_ore_gold_s','item_ore_hell','item_ore_silver_l','item_ore_silver_m','item_ore_silver_s','item_painting_canvas','item_pickaxe_cny','item_pickaxe_cube','item_pickaxe_realistic','item_pineapple','item_plank','item_police_baton','item_popcorn','item_portable_teleporter','item_prop_scanner','item_pumpkin_bomb','item_pumpkin_pie','item_pumpkinjack','item_pumpkinjack_small','item_quest_gy_skull','item_quest_gy_skull_special','item_quest_hlal_brain','item_quest_hlal_heart','item_quest_key_graveyard','item_quest_vhs','item_quest_vhs_backlots','item_quest_vhs_basement','item_quest_vhs_cave','item_quest_vhs_circus_day','item_quest_vhs_circus_ext','item_quest_vhs_circus_fac','item_quest_vhs_dam_facility','item_quest_vhs_dam_servers','item_quest_vhs_dark_forest','item_quest_vhs_forest','item_quest_vhs_graveyard','item_quest_vhs_lab','item_quest_vhs_lobby','item_quest_vhs_megalodon_lake','item_quest_vhs_mines','item_quest_vhs_mountain','item_quest_vhs_mountainbot','item_quest_vhs_mountainshack','item_quest_vhs_mountainvault','item_quest_vhs_office_basement','item_quest_vhs_powerplant_microwave','item_quest_vhs_powerplant_security','item_quest_vhs_powerplant_supportfacility','item_quest_vhs_sewers','item_quiver','item_quiver_heart','item_radioactive_fishing_rod','item_randombox_mobloot_big','item_randombox_mobloot_medium','item_randombox_mobloot_small','item_rare_card','item_remote_controller','item_revolver','item_revolver_ammo','item_revolver_gold','item_ring_buoy','item_robot_arm_left','item_robot_arm_right','item_robot_head','item_rope','item_rpg','item_rpg_ammo','item_rpg_cny','item_rpg_easter','item_rpg_smshr','item_ruby','item_sawblade_launcher','item_scissors','item_server_pad','item_shield','item_shield_bones','item_shield_candy_cane','item_shield_police','item_shield_viking_2','item_shield_viking_3','item_shield_viking_4','item_shotgun','item_shotgun_ammo','item_shotgun_viper','item_shrinking_broccoli','item_skishoe','item_skishoe_2','item_skishoe_4','item_snail_friend','item_snowball','item_snowboard_2','item_snowboard_3','item_snowboard_auto','item_spear_candy_cane','item_special_fishing_rod','item_special_fishing_rod_radar_part','item_special_fishing_rod_with_radar','item_stash_grenade','item_steel_beam','item_steel_beam_xmas','item_stellarsword_blue','item_stick_bone','item_sticker_dispenser','item_sticky_dynamite','item_tablet','item_tele_grenade','item_tele_pearl','item_teleport_gun','item_theremin','item_timebomb','item_toilet_paper','item_toilet_paper_mega','item_token_circus','item_trampoline','item_treestick','item_tripwire_explosive','item_trophy','item_truss','item_truss_xmas','item_turkey_leg','item_turkey_whole','item_ukulele','item_ukulele_gold','item_umbrella','item_umbrella_clover','item_unidentified','item_uranium_chunk_l','item_uranium_chunk_m','item_viking_hammer_twilight','item_war_fan','item_wheelhandle','item_wood_pallet','item_wyrmpiercer','item_zombie_meat','ChristmasBox','Vehicle_Buggy','filter','item_','domain','assembly','image','UnityEngine.PhysicsModule','UnityEngine.UIModule','UnityEngine.UI','UnityEngine.TextRenderingModule','Fusion.Runtime','UnityEngine.XRModule','UnityEngine.UnityWebRequestModule','UnityEngine.AudioModule','AnimalCompany','class','AnimalCompany.Quiver','UnityEngine.CoreModule','AnimalCompany.ParticleManager','AnimalCompany.BackpackItem','PhotonFusionNetworking','Fusion','Unity.TextMeshPro','AnimalCompany.GorillaLocomotion','AnimalCompany.PickupManager','AnimalCompany.ItemSellingMachineController','AnimalCompany.PlayerController','AnimalCompany.GrabbableItem','AnimalCompany.GameplayItemEquippingConfig','AnimalCompany.NetPlayer','AnimalCompany.PrefabGenerator','Fusion.NetworkObject','Fusion.NetworkTransform','Fusion.PlayerRef','AnimalCompany.ComputerTerminalKey','AnimalCompany.ComputerTerminalView','UnityEngine.XR.InputDevices','UnityEngine.GameObject','UnityEngine.Object','System.Object','corlib','System.Int32','inflate','UnityEngine.Quaternion','UnityEngine.Time','UnityEngine.Resources','UnityEngine.Material','UnityEngine.Renderer','UnityEngine.Shader','UnityEngine.LineRenderer','UnityEngine.PlayerPrefs','UnityEngine.Light','UnityEngine.AudioSource','UnityEngine.MeshCollider','UnityEngine.BoxCollider','UnityEngine.Rigidbody','UnityEngine.Physics','UnityEngine.Ray','UnityEngine.RaycastHit','UnityEngine.Canvas','UnityEngine.UI.CanvasScaler','UnityEngine.Font','TMPro.TextMeshPro','UnityEngine.Networking.DownloadHandlerBuffer','<Instance>k__BackingField','value','field','_playerRigidBody','method','Find','Universal\x20Render\x20Pipeline/Unlit','invoke','UI/Default','oneVector','identityQuaternion','fields','find','name','includes','rightHandTransform','leftHandTransform','headCollider','bodyCollider','leftHandFollower','rightHandFollower','zeroVector','Arial.ttf','InflatedHeartBalloon','RPGRocketEgg','RPGRocketSpear','StickyAnchor','SpawnableZipline','TeleportationManager','FlareGunProjectile','AutoDestroyItem_DeadBody_Poop','AutoDestroyItem_Splash\x20(0)','AutoDestroyItem_Splash\x20(2)','AutoDestroyItem_Splash\x20(3)','AutoDestroyItem_Splash\x20(4)','AutoDestroyItem_Splash\x20(5)','SlenderMonster','MazeManager','ThunderController','Explosion_AntiGravity','Explosion_Bomb','Explosion_Bomber','Explosion_BroccoliGrenade','Explosion_ClusterGrenade','Explosion_Dynamite','Explosion_Egg','Explosion_Flashbang','Explosion_FlyingSwarm','Explosion_Grenade','Explosion_Heart_Gun','Explosion_ImpulseGrenade','Explosion_Landmine','Explosion_RPG','Explosion_RPG_Spear','Explosion_StashGrenade','Explosion_TeleGrenade','Explosion_Tripwire','Explosion_Vehicle','ExplosiveEgg','ExplosiveEggClustered','ItemSellingMachineController','Landmine','GiantRockObject','HordeMobController','HordeMobLobbyHandler','LongAisleController','Duplicator','HH_LockedDoor','HingedDoorNetworked','ScaffoldTrap','Pillar_Arched_Broken_01','RuinTower_FloatingPlatform','RuinTower_FloatingSmall','AnimalCompany.App','AnimalCompany.AppState','get_state','get_user','bind','get_isDeveloper','get_devOwnAllAvatarItemsOverride','SpatialSys.ObservableState','SpatialSys.ObservableState.StatePrimitive`1','System.Boolean','set_value','GetComponent','GetComponentInParent','AddComponent','get_view','isNull','_fingerViews','length','get','string','get_transform','op_Subtraction','get_position','op_Addition','RPC_Teleport','get_localPlayer','UnityEngine.AssetBundleModule','UnityEngine.AssetBundle','log','Cleaning\x20up\x20AssetBundles...','Unloading\x20bundle:','Unload','Found\x20already\x20loaded\x20AssetBundle:','Loading\x20AssetBundle:','Failed\x20to\x20load\x20AssetBundle:','pop','split','Looking\x20for\x20bundle\x20with\x20filename:','GetEnumerator','MoveNext','Contains','assets/','Bundle\x20contains\x20our\x20target\x20asset!\x20Using\x20existing\x20bundle','get_name','toString','Found\x20loaded\x20bundle\x20with\x20name:','Bundle\x20name\x20matches\x20exactly!\x20Verifying\x20it\x20contains\x20target\x20asset...','type','object','Asset\x20load\x20test\x20successful,\x20this\x20is\x20the\x20correct\x20bundle','Asset\x20load\x20test\x20failed,\x20this\x20might\x20not\x20be\x20the\x20right\x20bundle','Loading\x20asset:','UnityEngine.AudioClip','LoadAssetAsync','Failed\x20to\x20create\x20asset\x20load\x20request:','Clip\x20not\x20found:','get_isDone','get_assetBundle','get_asset','_instance','_cloudServices','get_IsInRoom','_recorder','PrimaryRecorder\x20is\x20null,\x20can\x27t\x20play\x20audio','set_SourceType','set_AudioClip','set_DebugEchoMode','RestartRecording','Playing\x20AudioClip\x20\x27','\x27\x20through\x20PrimaryRecorder','get_length','done\x20waiting!','get_runner','new','2DAudioMgr','PlayOneShot','AnimalCompany.NetSessionRPCs','starting\x20kick...','get\x20net\x20session\x20rpc\x20instance','not\x20null,\x20get\x20method\x20and\x20call','methods\x20valid,\x20prepare\x20player','player\x20user\x20id\x20is\x20valid,\x20call\x20parse\x20of\x20guid','\x20calling\x20kick','rpc\x20kick\x20success,\x20call\x20local\x20kick','success\x20kick\x20player','end\x20kick\x20player','[+]\x20Starting\x20full\x20ghost\x20cycle:\x20Join\x20room\x20->\x20Follow\x20players\x20->\x20Kick\x20all\x20->\x20Repeat','[-]\x20Failed\x20to\x20join\x20new\x20room','[+]\x20Attempting\x20to\x20join\x20new\x20room...','AnimalCompany.ComputerTerminalMediator','FindObjectOfType','[-]\x20ComputerTerminalMediator\x20instance\x20is\x20null','HandleJoinRandomPressed','[+]\x20Join\x20random\x20room\x20request\x20sent','[-]\x20PrefabGenerator\x20instance\x20is\x20null','[-]\x20NetworkRunner\x20is\x20null','[+]\x20IsInRoom\x20status:\x20','[!]\x20Ghost\x20following\x20already\x20active','/sdcard/Android/data/woosterGames.animalCompany/files/1','now','[+]\x20Starting\x20ghost\x20following...','[-]\x20No\x20NetPlayer\x20objects\x20found','[+]\x20Found\x20','\x20NetPlayer\x20objects','[-]\x20No\x20valid\x20NetPlayer\x20objects\x20found','[+]\x20Finished\x20following\x20all\x20players,\x20kicking\x20everyone...','[+]\x20Switching\x20to\x20player\x20','set_position','[-]\x20Error\x20following\x20player\x20','[+]\x20Getting\x20NetworkRunner\x20instance\x20for\x20kicking...','FindObjectsOfType','[+]\x20Kicked\x20','\x20players','=============================','[-]\x20Error\x20in\x20kickAllPlayers:\x20','get_instance','get_playerView','[-]\x20Error\x20getting\x20local\x20player:\x20','[+]\x20Ghost\x20following\x20reset','[+]\x20Ghost\x20following\x20stopped','set_text','set_font','set_fontSize','set_color','set_fontStyle','set_resizeTextForBestFit','set_resizeTextMinSize','set_sizeDelta','set_rotation','Euler','CreateWithShader','CreatePrimitive','set_shader','SetParent','set_localScale','set_dynamicPixelsPerUnit','ii\x27s\x20Stupid\x20Menu','<color=grey>[</color><color=white>','set_name','@Disconnect','Disconnect','@GlobalReturn','set_isTrigger','@PreviousPage','slice','forEach','buttonText','op_Multiply','get_localScale','<playerScale>k__BackingField','set_localPosition','set_layer','set_isKinematic','get_forward','RaycastAll','Distance','get_point','get_collider','equals','handle','SetActive','GunLine','overload','System.String','get_material','set_endWidth','set_useWorldSpace','set_startColor','set_endColor','SetPosition','get_rotation','Lerp','Slerp','_config','PrefabTable','_sources','get_Description','WaitForResult','isEnum','isStatic','map','toLowerCase','hasvalue','boolean','ValueType','isArray','overloads','parameterCount','isGeneric','parameters','startsWith','System.Nullable','Vector3','Quaternion','OnBeforeSpawned','NetworkSpawnFlags','error','spawnNetworkPrefab\x20error:','Destroy','enabled','get__currentRunner','set_enabled','enableMethod','disableMethod','isTogglable','toolTip','Settings','Opens\x20the\x20fun\x20category.','Advantage\x20Mods','Opens\x20the\x20advantage\x20category.','Opens\x20the\x20rig\x20category.','Misc\x20Mods','Overpowered\x20Mods','Opens\x20the\x20op\x20category.','Item\x20Mods','Prefab\x20Mods','Opens\x20the\x20mob\x20category.','Opens\x20the\x20BLTH\x20category.','OnPlayerLeft','Disconnects\x20you\x20from\x20the\x20room.\x20','ceil','Exit\x20Settings','Change\x20Menu\x20Theme','Changes\x20the\x20theme\x20of\x20the\x20menu.','<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color>\x20','Cycles\x20through\x20preset\x20dupe\x20amounts.','Jelly\x20Time\x20&\x20duration','New\x20jelly\x20time\x20&\x20duration:\x20','Change\x20Head\x20Size\x20Amount','New\x20head\x20size\x20amount:\x20','Cycles\x20through\x20preset\x20head\x20size\x20amounts.','Change\x20Sound\x20File','Play\x20Sound','Fix\x20Mic','Fixes\x20your\x20player\x20mic.','Negative\x20Head\x20Size','Makes\x20the\x20current\x20set\x20head\x20size\x20amount\x20negative\x20to\x20make\x20your\x20head\x20inside\x20out.','Local\x20Button\x20Sounds','Makes\x20players\x20not\x20be\x20able\x20to\x20hear\x20your\x20button\x20sounds.','Change\x20Button\x20Sound','Change\x20Item\x20ID','New\x20item\x20index:\x20','Change\x20hue','Change\x20saturation','Changes\x20the\x20saturation.\x20Hold\x20right\x20grip\x20to\x20go\x20up','GetHandInteractor','_itemAnchor','set_scaleModifier','Hold\x20A\x20to\x20increase,\x20grip\x20to\x20decrease\x20scale\x20of\x20held\x20item.','Snowball\x20minigun\x20[huge]','floor','get_time','SpawnItem','set_colorHue','set_colorSaturation','AddExternalForceVelocity','sperm\x20error:','Spawns\x20white\x20snowballs\x20in\x20a\x20stream\x20(hold\x20right\x20grip).','Change\x20jelly','Changes\x20the\x20jelly.\x20Hold\x20right\x20grip\x20to\x20go\x20up','Change\x20Mob\x20ID','New\x20mob\x20index:\x20','Changes\x20the\x20mob\x20ID.\x20Hold\x20right\x20grip\x20to\x20go\x20down','Change\x20Menu\x20Scale','Changes\x20the\x20button\x20sound.','Freeze\x20Player\x20in\x20Menu','set_linearVelocity','Freezes\x20your\x20character\x20while\x20in\x20the\x20menu.','Shows\x20notifications\x20when\x20clicking\x20menu\x20buttons,\x20may\x20cause\x20lag.','Right\x20Hand','Lets\x20you\x20switch\x20menu\x20hand.','Lerp\x20Menu','Makes\x20the\x20menu\x20Lerped.','High\x20Punch\x20Power','Makes\x20punch\x20mod\x20more\x20powerful.','+\x20prefab','Next\x20non-item\x20prefab','-\x20prefab','Prefab:\x20','get_globalRefs','AnimalCompany.FlareGun','get_grabbableObject','get_gameObject','_sfxShoot','prefab:\x20','Load\x20selected\x20non-item\x20prefab\x20into\x20flare\x20gun','+\x20item','Item:\x20','Next\x20item_\x20prefab','-\x20item','item\x20spawnling','AnimalCompany.NetworkPrefabSheet','_projectilePrefab','_sfxShootEmpty','Exit\x20Movement\x20Mods','GetDeviceAtXRNode','alloc','TryGetFeatureValue','primary2DAxis','readFloat','add','abs','upVector','Normalize','Dot','Right\x20stick\x20forward/back/strafe,\x20left\x20stick\x20Y\x20up/down.\x20Flattened\x20so\x20looking\x20down\x20doesn\x27t\x20send\x20you\x20into\x20the\x20ground.','Spawns\x20platforms\x20when\x20pressing\x20grip.','Trigger\x20Platforms','Spawns\x20platforms\x20when\x20pressing\x20trigger.','Fly','Lets\x20you\x20fly\x20around\x20while\x20holding\x20A.','Trigger\x20Fly','Lets\x20you\x20fly\x20around\x20while\x20holding\x20trigger.','Up\x20And\x20Down','Makes\x20you\x20go\x20up\x20when\x20holding\x20trigger,\x20and\x20down\x20when\x20holding\x20grip.','Size\x20Changer','Makes\x20you\x20able\x20to\x20change\x20size\x20with\x20triggers.','Checkpoint','Place\x20a\x20checkpoint\x20with\x20grip\x20and\x20teleport\x20to\x20it\x20with\x20A.','Low\x20Gravity','AddForce','Makes\x20gravity\x20lower\x20on\x20your\x20character.','High\x20Gravity','downVector','Makes\x20gravity\x20higher\x20on\x20your\x20character.','Teleport\x20Gun','gunPointer','Teleports\x20you\x20to\x20wherever\x20your\x20hand\x20desires.','push','random','Teleports\x20you\x20to\x20a\x20random\x20player.','Iron\x20Man','get_right','Lets\x20you\x20clip\x20through\x20objects\x20while\x20holding\x20right\x20trigger.','<ignoreHeadCollisions>k__BackingField','Legit\x20Long\x20Arms','Long\x20Arms','Gives\x20you\x20longer\x20arms.','Speed\x20Boost','SetJumpVelocityMultiplier','Gives\x20you\x20a\x20speed\x20boost.','weird\x20rotation\x20mod','get_constraints','set_localRotation','Turns\x20you\x20into\x20super\x20man.\x20Use\x20X\x20to\x20fly.','Exit\x20Fun\x20Mods','Returns\x20you\x20back\x20to\x20the\x20main\x20category.','Next\x20Item','Cycles\x20to\x20the\x20next\x20item.','Prev\x20Item','Cycles\x20to\x20the\x20previous\x20item.','Item\x20Orbit','Despawn','cos','sin','rightVector','forwardVector','item\x20orbit\x20error:','Uh\x20item\x20orbit.','Spawn\x20item','Item\x20spawn\x20lol.','Get\x20ID\x20Gun','ID:\x20','Exit\x20Advantage\x20Mods','Stinky\x20Gun','ray','Stinkies\x20whoever\x20your\x20hand\x20desires.','Stinky\x20All','get_IsMine','RPC_TagAsStinky','Stinkies\x20everyone','get_realtimeSinceStartup','Sleep','Caps\x20your\x20FPS\x20at\x2072\x20frames\x20per\x20second.','60\x20FPS','Caps\x20your\x20FPS\x20at\x2060\x20frames\x20per\x20second.','45\x20FPS','Caps\x20your\x20FPS\x20at\x2045\x20frames\x20per\x20second.','Exit\x20Rig\x20Mods','Invisible','_cameraTransform','Turns\x20you\x20invisible\x20when\x20holding\x20right\x20joystick.','Ragdoll','SetRagdoll','Ragdoll\x20your\x20rig\x20when\x20holding\x20right\x20joystick.','Rig\x20Gun','Moves\x20your\x20rig\x20to\x20wherever\x20your\x20hand\x20desires.','Grab\x20Rig','Lets\x20you\x20grab\x20your\x20rig','AnimalCompany.StashMachine.StashMachineView','No\x20stash\x20found\x20in\x20room!','Stash\x20is\x20null!','Spawn\x20failed!','_slots','get_Count','Stash\x20slot\x20count:\x20','get_Item','get_isEmpty','RPC_SetItem','Spawned\x20in\x20stash\x20slot\x20','No\x20empty\x20stash\x20slots\x20found,\x20item\x20spawned\x20at\x20stash!','Spawned\x20at\x20stash:\x20','Error:\x20','Stash\x20spawner\x20lol.','get_Id','Lets\x20you\x20eject\x20more\x20times\x20using\x20your\x20stash','Ding!','System.IO.File','System.IO.Directory','/massets/ding.wav','.ctor','GET','set_downloadHandler','SendWebRequest','GetData','application','persistentDataPath','/skid_audio','CreateDirectory','RPC_SetPlayerName','XrInput','name\x20change\x20error:','Changes\x20your\x20in\x20game\x20name.','Stash\x20Dupe','Backpack\x20Dupe','Any\x20item\x20you\x20dump\x20out\x20of\x20a\x20backpack\x20will\x20stay\x20in\x20the\x20bag','Stash\x20Allow\x20Move','Lets\x20you\x20use\x20any\x20move\x20in\x20the\x20stash\x20(put\x20anything\x20in\x20quivers,\x20put\x20black\x20crates\x20in\x20bags,\x20etc.)','Items\x20in\x20any\x20slot','Lets\x20you\x20put\x20any\x20item\x20on\x20your\x20back,\x20or\x20hip\x20slots','Infinite\x20Ammo','Lets\x20you\x20use\x20items\x20infinitely!\x20(IF\x20OFF\x20IT\x20SPAMS\x20ERRORS\x20IN\x20THE\x20CONSOLE\x20AND\x20DOESNT\x20LET\x20YOU\x20USE\x20ITEMS.)','set_playerHeadSize','Use\x20Item\x20Gun','HandleUse','Uses\x20an\x20item,\x20(flaregun,\x20grenade,\x20etc.)\x0aHold\x20left\x20trigger\x20to\x20trigger\x20the\x20trigger\x20action\x20on\x20the\x20item,\x20hold\x20left\x20primary\x20to\x20trigger\x20the\x20use\x20action\x20on\x20the\x20item.','Mic\x20Echo\x20(Photon\x20Mic)','Be\x20able\x20to\x20hear\x20what\x20other\x20players\x20hear\x20from\x20you.','Good\x20Mic\x20Quality\x20(Photon\x20Mic)','set_Bitrate','Enhances\x20your\x20mic\x20quality\x20for\x20other\x20players.','Exit\x20Visual\x20Mods','Item\x20Tracers','get_activeInHierarchy','LineObject','set_parent','get_layer','Puts\x20tracers\x20on\x20your\x20right\x20hand.\x20Shows\x20all\x20items.','Nearest\x20Item\x20Tracer','MAX_SAFE_INTEGER','LineRender_Holder','Puts\x20tracers\x20on\x20your\x20right\x20hand.\x20Shows\x20only\x20the\x20nearest\x20item\x20to\x20reduce\x20lag.','Casual\x20Tracers','set_startWidth','Puts\x20tracers\x20on\x20your\x20right\x20hand.\x20Shows\x20everyone.','Nearest\x20Tracer','Puts\x20tracers\x20on\x20your\x20right\x20hand.\x20Shows\x20only\x20the\x20nearest\x20player\x20to\x20reduce\x20lag.','Exit\x20Overpowered\x20Mods','Player\x20Orbit','player\x20orbit\x20error:','Orbits\x20all\x20other\x20players\x20around\x20you.\x20Adjust\x20ORBIT_RADIUS\x20and\x20ORBIT_SPEED\x20in\x20code.','TP\x20All\x20To\x20Me','Teleports\x20all\x20players\x20to\x20your\x20position.','Inf\x20Sell\x20Value','get_sellValue','implementation','get_additionalSellValue','Inf\x20Sell:\x20','Every\x20item\x20sells\x20for\x20300k.','Give\x20Money','RPC_AddPlayerMoney','give\x20money\x20failed:','Flare\x20Gun','Spawns\x20selected\x20prefab\x20at\x20right\x20hand\x20with\x20right\x20hand\x20rotation.','RPGRocket','Egg\x20Launcher','Spawned:\x20','Spawn\x20failed:\x20','Nut\x20spam','Ammo\x20spam','SpawnPickup','idk.','Nut\x20Gun','Nut\x20Pickup\x20Gun:\x20','Spawns\x20nut\x20pickups\x20where\x20you\x20aim\x20(hold\x20grip\x20+\x20trigger).','Ammo\x20Gun','Ammo\x20Pickup\x20Gun:\x20','Spawns\x20ammo\x20pickups\x20where\x20you\x20aim\x20(hold\x20grip\x20+\x20trigger).','Explode\x20All\x20Machines','FindObjectsByType','RPC_ExplodeMachine','Exploded\x20all\x20machines!','Recover\x20All\x20Machines','RPC_RecoverExplosion','Recovered\x20all\x20machines!','Recovers\x20every\x20exploded\x20selling\x20machine.','Money\x20All\x20From\x20Machines','reference','Fusion.RpcInfo','money\x20machines:','Spam\x20Start\x20Selling','RPC_StartItemSelling','Spams\x20start\x20selling\x20on\x20all\x20machines.','Break\x20Game\x20Gun','Lags\x20whoever\x20your\x20hand\x20desires.\x20May\x20be\x20broken.','Kick\x20Gun','RPC_SetColorHSV','Blind/BlackScreen\x20Gun','getlayer\x20Gun','Collider\x20layer:','Break\x20Game\x20All','Gay\x20All','Blind/BlackScreen\x20Self','Spawn\x20Items','Lets\x20you\x20spawn\x20items\x20in\x20your\x20right\x20hand.','Spawn\x20Item\x204x4\x20(ABOVE\x20HEAD)','Spawn\x20Items\x20Gun','RPC_Release','CRASH\x20ALL','TP\x20ALL\x20Gun','Spawn\x20Mobs','mob_prefab/','Lets\x20you\x20spawn\x20mobs\x20in\x20your\x20right\x20hand.','Makes\x20the\x20game\x20think\x20you\x20are\x20a\x20developer\x20to\x20unlock\x20beta\x20features.','AnimalCompany.ItemVendingMachineView','_devModeOn','Enables\x20the\x20developer\x20mode\x20for\x20the\x20vending\x20machine\x20so\x20you\x20can\x20buy\x20any\x20item\x20even\x20if\x20it\x20isn\x27t\x20in\x20the\x20base\x20game!','Rapid\x20Fire','HandleTriggerUse','Activate\x20all\x20robo-monkes','RPC_Startup','get_LocalPlayer','Activates\x20all\x20robo-monke\x20items.','Grind\x20ores','AnimalCompany.Ore','Hit','Breaks\x20every\x20single\x20ore.\x20(right\x20grip!)','Attach\x20everyone\x20to\x20ogre\x20hand\x20(buggy!)','AnimalCompany.GiantController','mob_prefab/GiantController','RPC_AttachToGiantHand','Spawns\x20a\x20new\x20ogre\x20and\x20attaches\x20everyone\x20to\x20the\x20hand\x20of\x20it.','GetItemPrefab','Item\x20prefab\x20not\x20found!','Failed\x20to\x20get\x20prefab\x20for:','SpawnItemAsync','AnimalCompany.GrabbableItemPrefab','UnityEngine.Vector3','Fusion.NetworkObjectSpawnDelegate','Spawn\x20Mobs\x20Gun','GetMobPrefab','SpawnMobAsync','AnimalCompany.MobID','✓\x20Spawned\x20item:','Item\x20spawn\x20error:','Spawns\x20items\x20where\x20you\x20aim\x20(hold\x20grip,\x20pull\x20trigger).','Use\x20All\x20Cameras','AnimalCompany.DisposableCamera','RPC_CameraShoot','Press\x20right\x20joystick\x20to\x20use\x20every\x20camera\x20object\x20in\x20the\x20room.\x20(DOESNT\x20WORK\x20FOR\x20SOME\x20CAMERAS\x20DUE\x20TO\x20STATE\x20AUTHORITY)','Fullbright','Press\x20right\x20joystick\x20to\x20toggle\x20a\x20light\x20on\x20your\x20head.','Exit\x20Item\x20Mods','No\x20Gravity\x20On\x20Held\x20Item','Disables\x20gravity\x20on\x20the\x20item\x20in\x20your\x20right\x20hand.','set_useGravity','Enables\x20gravity\x20on\x20the\x20item\x20in\x20your\x20right\x20hand.','Custom\x20Scale\x20Held\x20Item','Hold\x20A\x20to\x20increase,\x20grip\x20to\x20decrease\x20hue\x20of\x20held\x20item.','Custom\x20Sat\x20Held\x20Item','Hold\x20A\x20to\x20increase,\x20grip\x20to\x20decrease\x20sat\x20of\x20held\x20item.','allowAddToQuiver','success!','Allows\x20the\x20item\x20you\x20are\x20currently\x20holding\x20to\x20be\x20put\x20in\x20bags,\x20quivers,\x20your\x20back,\x20your\x20hip,\x20etc.','Allow\x20grabbing\x20anywhere\x20in\x20held\x20item','_allowGrabAnywhere','Lets\x20you\x20grab\x20on\x20any\x20point\x20for\x20the\x20held\x20item.\x20Some\x20items\x20lock\x20where\x20you\x20hold\x20them\x20(eg.\x20Revolver,\x20RPG)\x20This\x20mod\x20removes\x20the\x20limitation!','Rainbow\x20all\x20items','RPC_SetJellyEffect','jellifies\x20whoever\x20your\x20hand\x20desires.','Poor\x20Gun','makes\x20whoever\x20your\x20hand\x20desires\x20POOR.','Rich\x20Gun','makes\x20whoever\x20your\x20hand\x20desires\x20rich.','UnityEngine','Kill\x20Gun','kills\x20whoever\x20your\x20hands\x20desires','Nuke','Text\x20Test','Floating\x20Text','Toggles\x20floating\x20hand\x20text','Exit\x20Prefab\x20Mods','Next\x20Prefab','Cycles\x20to\x20the\x20next\x20prefab.','Prev\x20Prefab','Cycles\x20to\x20the\x20previous\x20mob.','Scale\x20Prefab\x20Up','scale\x20up\x20error:','Larp\x20:).','Scale\x20Prefab\x20Down','toFixed','Reset\x20Prefab\x20Scale','Prefab\x20scale\x20reset\x20to\x201.0','scale\x20reset\x20error:','Prefab\x20Spiral','Spiral:\x20','prefab\x20spiral\x20orbit\x20error:','Prefab\x20Cross','prefab\x20cross\x20error:','Prefab\x20DNA','Spawned\x20DNA\x20of:\x20','prefab\x20DNA\x20error:','Prefab\x20Sphere','prefab\x20sphere\x20error:','Prefab\x20Orbit','_disable','flat','Orbit\x20lol.','Prefab\x20thing\x20spawn','prefab\x20spawn\x20hand\x20error:','Prefab\x20lol.','prefab\x20gun\x20error:','Prefab\x20gun\x20lol.','Exit\x20BLTH\x20Mods','Love','Love.','To.','Harmony','Harmony.','<color=red>♥</color>','set','substring','call','<color=grey>[</color><color=green>ENABLE</color><color=grey>]</color>\x20','AnimalCompany.GrabbableObject','get_allowAttachToBack','get_allowAttachToHip','AnimalCompany.StashMachine.StashMachineActionsUtility','AnimalCompany.StashMachine.StashMachineTrashChuteView','EjectItem','HandleKeyPressed','AnimalCompany.JetpackHandy','RPC_UseJetpack','_isUsed','get_hasAmmo','AnimalCompany.ZiplineGun','get_isLoaded','AnimalCompany.Revolver','get_ammoLoaded','get_isHammerCocked','AnimalCompany.AutoReloadGun','AnimalCompany.Shotgun','get_loadedState','DespawnIfNecessary','primaryButton','readU8','secondaryButton','gripButton','triggerButton','primary2DAxisClick','OnLateUpdate','GorillaLocomotion\x20instance\x20not\x20initialized\x20yet','get_activeSelf','Error\x20executing\x20method\x20for\x20button\x20\x27','unnamed','Error\x20stack:','stack','Button\x20object:','Error\x20occurred\x20at:','\x0a\x20\x20\x20\x20Compiled\x20','main'];_0x2fa8=function(){return _0x1da792;};return _0x2fa8();}let currentFlareGunPrefabIndex=0x0;const allPrefabs=flareGunPrefabs,itemPrefabs=itemIDs,worldPrefabs=allPrefabs[_0x3e4ce9(0x380)](_0x3e9b6e=>!_0x3e9b6e['startsWith'](_0x3e4ce9(0x381)));let currentItemIndex=0x0,currentWorldPrefabIndex=0x0,itemIndex=0x0,mobIndex=0x0,huespawner=0x0,saturationspawner=0x0,sizespawner=0x0,jellyspawner=0x0;Il2Cpp['perform'](()=>{const _0x31bcbe=_0x3e4ce9,_0x5ba81a={'AnimalCompany':Il2Cpp[_0x31bcbe(0x382)][_0x31bcbe(0x383)]('AnimalCompany')['image'],'UnityEngine.CoreModule':Il2Cpp[_0x31bcbe(0x382)]['assembly']('UnityEngine.CoreModule')[_0x31bcbe(0x384)],'UnityEngine.PhysicsModule':Il2Cpp[_0x31bcbe(0x382)][_0x31bcbe(0x383)](_0x31bcbe(0x385))[_0x31bcbe(0x384)],'UnityEngine.UIModule':Il2Cpp[_0x31bcbe(0x382)]['assembly'](_0x31bcbe(0x386))[_0x31bcbe(0x384)],'UnityEngine.UI':Il2Cpp[_0x31bcbe(0x382)]['assembly'](_0x31bcbe(0x387))[_0x31bcbe(0x384)],'UnityEngine.TextRenderingModule':Il2Cpp['domain'][_0x31bcbe(0x383)](_0x31bcbe(0x388))[_0x31bcbe(0x384)],'PhotonFusionNetworking':Il2Cpp[_0x31bcbe(0x382)][_0x31bcbe(0x383)](_0x31bcbe(0x389))[_0x31bcbe(0x384)],'PhotonFusionNetworkingRealtime':Il2Cpp[_0x31bcbe(0x382)][_0x31bcbe(0x383)]('Fusion.Realtime')[_0x31bcbe(0x384)],'Unity.TextMeshPro':Il2Cpp[_0x31bcbe(0x382)][_0x31bcbe(0x383)]('Unity.TextMeshPro')[_0x31bcbe(0x384)],'UnityEngine.XRModule':Il2Cpp[_0x31bcbe(0x382)][_0x31bcbe(0x383)](_0x31bcbe(0x38a))[_0x31bcbe(0x384)],'UnityEngine.UnityWebRequestModule':Il2Cpp['domain']['assembly'](_0x31bcbe(0x38b))[_0x31bcbe(0x384)],'UnityEngine.AudioModule':Il2Cpp['domain'][_0x31bcbe(0x383)](_0x31bcbe(0x38c))[_0x31bcbe(0x384)]},_0x991208=_0x5ba81a[_0x31bcbe(0x38d)],_0xcfea73=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x38f)),_0x330a40=_0x5ba81a[_0x31bcbe(0x390)],_0xefac8=_0x5ba81a[_0x31bcbe(0x385)],_0x6a58e4=_0x5ba81a[_0x31bcbe(0x387)],_0x2280e7=_0x991208['class'](_0x31bcbe(0x391)),_0x1b4164=_0x2280e7,_0x851749=_0x991208['class'](_0x31bcbe(0x392)),_0x96aab8=_0x5ba81a[_0x31bcbe(0x386)],_0xe80133=_0x5ba81a[_0x31bcbe(0x388)],_0x518f7f=_0x5ba81a[_0x31bcbe(0x393)],_0x197475=_0x5ba81a['PhotonFusionNetworkingRealtime'],_0x558269=_0x5ba81a[_0x31bcbe(0x394)],_0x23525b=_0x5ba81a[_0x31bcbe(0x395)],_0x16f528=_0x5ba81a[_0x31bcbe(0x38a)],_0x1f5a9c=_0x5ba81a[_0x31bcbe(0x38b)],_0x2d593a=_0x5ba81a['UnityEngine.AudioModule'],_0x2615af=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x396)),_0x2a3696=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x397)),_0x46b8b8=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x398)),_0x279ef7=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x399)),_0x2bf557=_0x991208[_0x31bcbe(0x38e)]('AnimalCompany.GrabbableObject'),_0x5ef274=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x39a)),_0x41cd20=_0x991208['class'](_0x31bcbe(0x39b)),_0x393291=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x39c)),_0x26e0fc=_0x991208['class'](_0x31bcbe(0x39d)),_0x215901=_0x991208[_0x31bcbe(0x38e)]('AnimalCompany.SFXManager'),_0x23bd25=_0x518f7f[_0x31bcbe(0x38e)](_0x31bcbe(0x39e)),_0x5a5697=_0x518f7f['class'](_0x31bcbe(0x39f)),_0x41b44e=_0x518f7f[_0x31bcbe(0x38e)](_0x31bcbe(0x3a0)),_0x253280=_0x991208['class']('AnimalCompany.NetworkManager'),_0x3e800a=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x3a1)),_0x46f808=_0x991208['class'](_0x31bcbe(0x3a2)),_0x5891e3=_0x16f528[_0x31bcbe(0x38e)](_0x31bcbe(0x3a3)),_0x1a3287=_0x16f528[_0x31bcbe(0x38e)]('UnityEngine.XR.CommonUsages'),_0x5a1d5b=![],_0x29ef5e=0x0,_0x30e18c=0x0,_0x2d7f33=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3a4)),_0x38ca25=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3a5)),_0x479e95=Il2Cpp['corlib'][_0x31bcbe(0x38e)](_0x31bcbe(0x3a6)),_0x153a21=Il2Cpp[_0x31bcbe(0x3a7)][_0x31bcbe(0x38e)]('System.Nullable`1'),_0x252ca5=Il2Cpp['corlib']['class'](_0x31bcbe(0x3a8)),_0x1ac846=_0x153a21[_0x31bcbe(0x3a9)](_0x252ca5),_0x3e3965=Il2Cpp[_0x31bcbe(0x3a7)][_0x31bcbe(0x38e)]('System.Threading.Thread'),_0x3da345=_0x330a40['class']('UnityEngine.Vector3'),_0x360a4b=_0x330a40['class'](_0x31bcbe(0x3aa)),_0x304407=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3ab)),_0x24ef45=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3ac)),_0x4ba84c=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3ad)),_0x5bff8c=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3ae)),_0x1b2b43=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3af)),_0x296f02=_0x330a40[_0x31bcbe(0x38e)]('UnityEngine.Color'),_0x2c704d=_0x330a40[_0x31bcbe(0x38e)]('UnityEngine.RectTransform'),_0x3736fc=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3b0)),_0x14cc37=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3b1)),_0x45a3de=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3b2)),_0x2504dd=_0x2d593a[_0x31bcbe(0x38e)](_0x31bcbe(0x3b3)),_0x1cbab5=_0xefac8[_0x31bcbe(0x38e)](_0x31bcbe(0x3b4)),_0x278306=_0xefac8[_0x31bcbe(0x38e)](_0x31bcbe(0x3b5)),_0x373a82=_0xefac8[_0x31bcbe(0x38e)]('UnityEngine.Collider'),_0x35975c=_0xefac8[_0x31bcbe(0x38e)](_0x31bcbe(0x3b6)),_0x108329=_0xefac8[_0x31bcbe(0x38e)](_0x31bcbe(0x3b7)),_0x4b2410=_0x330a40[_0x31bcbe(0x38e)](_0x31bcbe(0x3b8)),_0x181dac=_0xefac8['class'](_0x31bcbe(0x3b9)),_0x3a882f=_0x96aab8[_0x31bcbe(0x38e)](_0x31bcbe(0x3ba)),_0x4a8cb8=_0x6a58e4[_0x31bcbe(0x38e)](_0x31bcbe(0x3bb)),_0x191de7=_0x6a58e4['class']('UnityEngine.UI.GraphicRaycaster'),_0x5f2c55=_0x6a58e4[_0x31bcbe(0x38e)]('UnityEngine.UI.Text'),_0x28f900=_0xe80133[_0x31bcbe(0x38e)](_0x31bcbe(0x3bc)),_0x409576=_0x23525b[_0x31bcbe(0x38e)](_0x31bcbe(0x3bd)),_0x345407=_0x1f5a9c[_0x31bcbe(0x38e)]('UnityEngine.Networking.UnityWebRequest'),_0x31fe6c=_0x1f5a9c[_0x31bcbe(0x38e)](_0x31bcbe(0x3be));let _0x1de830=null;const _0x151be1=_0x2615af['field'](_0x31bcbe(0x3bf))[_0x31bcbe(0x3c0)],_0x4db745=_0x151be1[_0x31bcbe(0x3c1)](_0x31bcbe(0x3c2))[_0x31bcbe(0x3c0)],_0x589d80=_0x1b2b43[_0x31bcbe(0x3c3)](_0x31bcbe(0x3c4))['invoke'](Il2Cpp['string'](_0x31bcbe(0x3c5))),_0x1c7e0b=_0x1b2b43[_0x31bcbe(0x3c3)]('Find')[_0x31bcbe(0x3c6)](Il2Cpp['string'](_0x31bcbe(0x3c7))),_0x7444ed=_0x3da345['field']('zeroVector')[_0x31bcbe(0x3c0)],_0xa6f996=_0x3da345[_0x31bcbe(0x3c1)](_0x31bcbe(0x3c8))[_0x31bcbe(0x3c0)],_0x471248=_0x360a4b['field'](_0x31bcbe(0x3c9))['value'],_0x5dd636=_0x2615af[_0x31bcbe(0x3ca)][_0x31bcbe(0x3cb)](_0x2b5c4b=>_0x2b5c4b[_0x31bcbe(0x3cc)][_0x31bcbe(0x3cd)]('Instance')),_0x5b70d3=_0x5dd636?_0x5dd636[_0x31bcbe(0x3c0)]:null,_0x1890c1=_0x5b70d3?_0x5b70d3[_0x31bcbe(0x3c1)](_0x31bcbe(0x3ce))[_0x31bcbe(0x3c0)]:null,_0xf3a6cd=_0x5b70d3?_0x5b70d3['field'](_0x31bcbe(0x3cf))[_0x31bcbe(0x3c0)]:null,_0x1aadbf=_0x5b70d3[_0x31bcbe(0x3c1)](_0x31bcbe(0x3d0))[_0x31bcbe(0x3c0)],_0x4e6206=_0x5b70d3[_0x31bcbe(0x3c1)](_0x31bcbe(0x3d1))[_0x31bcbe(0x3c0)],_0x4b0db9=_0x5b70d3[_0x31bcbe(0x3c1)](_0x31bcbe(0x3d2))[_0x31bcbe(0x3c0)],_0x481a0a=_0x5b70d3[_0x31bcbe(0x3c1)](_0x31bcbe(0x3d3))['value'],_0x59a45c=_0x5b70d3[_0x31bcbe(0x3c1)](_0x31bcbe(0x3c2))['value'],_0x5c9bee=0x0,_0x47be43=[_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed],_0x3de3b2=[_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed,_0x7444ed];let _0x246321=_0x3da345[_0x31bcbe(0x3c1)](_0x31bcbe(0x3d4))['value'],_0x5758bb=_0x3da345['field'](_0x31bcbe(0x3d4))['value'],_0x2b42f0=_0x3da345[_0x31bcbe(0x3c1)](_0x31bcbe(0x3d4))[_0x31bcbe(0x3c0)],_0x318b5e=_0x3da345[_0x31bcbe(0x3c1)](_0x31bcbe(0x3d4))[_0x31bcbe(0x3c0)],_0x49b2e2=_0x3da345[_0x31bcbe(0x3c1)]('zeroVector')[_0x31bcbe(0x3c0)],_0x1ef9ee=![];const _0x49f0fb=_0x24ef45[_0x31bcbe(0x3c3)]('GetBuiltinResource',0x1)[_0x31bcbe(0x3a9)](_0x28f900)[_0x31bcbe(0x3c6)](Il2Cpp['string'](_0x31bcbe(0x3d5))),_0xfe0ca5=['InflatedBalloon',_0x31bcbe(0x3d6),'ChristmasBox','ChristmasBoxManager','RPGRocket',_0x31bcbe(0x3d7),_0x31bcbe(0x3d8),'item_randombox_base',_0x31bcbe(0x3d9),_0x31bcbe(0x3da),'NetLootSpawnGroup',_0x31bcbe(0x37f),_0x31bcbe(0x3db),_0x31bcbe(0x3dc),_0x31bcbe(0x3dd),_0x31bcbe(0x3de),'AutoDestroyItem_Splash\x20(1)',_0x31bcbe(0x3df),_0x31bcbe(0x3e0),_0x31bcbe(0x3e1),_0x31bcbe(0x3e2),_0x31bcbe(0x3e3),'SpaceshipTeleporter',_0x31bcbe(0x3e4),_0x31bcbe(0x3e5),_0x31bcbe(0x3e6),_0x31bcbe(0x3e7),_0x31bcbe(0x3e8),_0x31bcbe(0x3e9),_0x31bcbe(0x3ea),_0x31bcbe(0x3eb),_0x31bcbe(0x3ec),_0x31bcbe(0x3ed),_0x31bcbe(0x3ee),_0x31bcbe(0x3ef),_0x31bcbe(0x3f0),_0x31bcbe(0x3f1),_0x31bcbe(0x3f2),_0x31bcbe(0x3f3),_0x31bcbe(0x3f4),'Explosion_SellingMachine',_0x31bcbe(0x3f5),_0x31bcbe(0x3f6),_0x31bcbe(0x3f7),_0x31bcbe(0x3f8),_0x31bcbe(0x3f9),_0x31bcbe(0x3fa),_0x31bcbe(0x3fb),_0x31bcbe(0x3fc),_0x31bcbe(0x3fd),_0x31bcbe(0x3fe),_0x31bcbe(0x3ff),_0x31bcbe(0x400),_0x31bcbe(0x401),_0x31bcbe(0x402),_0x31bcbe(0x403),_0x31bcbe(0x404),_0x31bcbe(0x405),_0x31bcbe(0x406),_0x31bcbe(0x407)];function _0x5dfc6d(){const _0x2cf091=_0x31bcbe,_0x2b6715=Il2Cpp[_0x2cf091(0x382)][_0x2cf091(0x383)]('AnimalCompany')[_0x2cf091(0x384)][_0x2cf091(0x38e)](_0x2cf091(0x408)),_0x31efc1=Il2Cpp['domain'][_0x2cf091(0x383)](_0x2cf091(0x38d))[_0x2cf091(0x384)]['class'](_0x2cf091(0x409)),_0x137993=Il2Cpp[_0x2cf091(0x382)][_0x2cf091(0x383)](_0x2cf091(0x38d))[_0x2cf091(0x384)]['class']('AnimalCompany.UserState'),_0x5bacd6=Il2Cpp[_0x2cf091(0x382)][_0x2cf091(0x383)]('AnimalCompany')[_0x2cf091(0x384)][_0x2cf091(0x38e)]('AnimalCompany.UserInventoryState'),_0x3b9313=_0x2b6715[_0x2cf091(0x3c3)](_0x2cf091(0x40a))['invoke'](),_0x2c40b1=_0x31efc1['method'](_0x2cf091(0x40b))[_0x2cf091(0x40c)](_0x3b9313)[_0x2cf091(0x3c6)](),_0x39f373=_0x137993[_0x2cf091(0x3c3)]('get_inventory')['bind'](_0x2c40b1)[_0x2cf091(0x3c6)](),_0x35be51=_0x137993[_0x2cf091(0x3c3)](_0x2cf091(0x40d))[_0x2cf091(0x40c)](_0x2c40b1)[_0x2cf091(0x3c6)](),_0x34346c=_0x5bacd6[_0x2cf091(0x3c3)](_0x2cf091(0x40e))[_0x2cf091(0x40c)](_0x39f373)['invoke'](),_0x295171=Il2Cpp[_0x2cf091(0x382)][_0x2cf091(0x383)](_0x2cf091(0x40f))[_0x2cf091(0x384)][_0x2cf091(0x38e)](_0x2cf091(0x410)),_0x18aa44=Il2Cpp[_0x2cf091(0x3a7)][_0x2cf091(0x38e)](_0x2cf091(0x411)),_0x50f041=_0x295171[_0x2cf091(0x3a9)](_0x18aa44);_0x35be51['method'](_0x2cf091(0x412))[_0x2cf091(0x3c6)](!![]),_0x34346c[_0x2cf091(0x3c3)](_0x2cf091(0x412))[_0x2cf091(0x3c6)](!![]);}function _0x386f73(_0xe6fb6b){const _0x578dd3=_0x31bcbe;_0x38ca25['method']('Destroy',0x1)[_0x578dd3(0x3c6)](_0xe6fb6b);}function _0x459a51(_0x46febf,_0x209d7c){const _0x2e97bd=_0x31bcbe;return _0x46febf[_0x2e97bd(0x3c3)](_0x2e97bd(0x413),0x1)['inflate'](_0x209d7c)[_0x2e97bd(0x3c6)]();}function _0x1cfc31(_0x41093d,_0x428334){const _0x3b98e8=_0x31bcbe;return _0x41093d['method'](_0x3b98e8(0x414),0x0)['inflate'](_0x428334)[_0x3b98e8(0x3c6)]();}function _0x7d8ffe(_0x5d15bd,_0x2b6149){const _0x5b0d78=_0x31bcbe;return _0x5d15bd['method'](_0x5b0d78(0x415),0x1)[_0x5b0d78(0x3a9)](_0x2b6149)[_0x5b0d78(0x3c6)]();}function _0x273262(_0x44f1c0){const _0x3478dc=_0x31bcbe;try{const _0x263901=_0x44f1c0['method'](_0x3478dc(0x416))[_0x3478dc(0x3c6)]();if(!_0x263901||_0x263901[_0x3478dc(0x417)]())return null;const _0x5b4756=_0x263901['field'](_0x3478dc(0x418))[_0x3478dc(0x3c0)];if(!_0x5b4756||_0x5b4756[_0x3478dc(0x417)]()||_0x5b4756[_0x3478dc(0x419)]<0x2)return null;return _0x5b4756[_0x3478dc(0x41a)](0x1);}catch(_0x5b9ce9){return null;}}function _0xc61ac4(_0x5730db,_0x559931){let _0x101d5b=_0x459a51(_0x5730db,_0x559931);if(_0x101d5b!=null&&_0x101d5b!=undefined)return _0x101d5b;return _0x7d8ffe(_0x5730db,_0x559931);}function _0xd5a8b2(_0x47d98b){const _0x17880d=_0x31bcbe;return _0x2d7f33[_0x17880d(0x3c3)](_0x17880d(0x3c4),0x1)['invoke'](Il2Cpp[_0x17880d(0x41b)](_0x47d98b));}function _0x3aec50(_0x18a60c){const _0x49030c=_0x31bcbe;return _0x18a60c[_0x49030c(0x3c3)]('get_IsMine')[_0x49030c(0x3c6)]();}function _0x20982b(_0x2e2602){const _0x23bf7d=_0x31bcbe;return _0x2e2602[_0x23bf7d(0x3c3)](_0x23bf7d(0x41c))[_0x23bf7d(0x3c6)]();}function _0x29e38f(_0x3877a8){const _0x4a5894=_0x31bcbe;return _0x3877a8=_0x3da345[_0x4a5894(0x3c3)](_0x4a5894(0x41d),0x2)[_0x4a5894(0x3c6)](_0x3877a8,_0x20982b(_0x4e6206)[_0x4a5894(0x3c3)](_0x4a5894(0x41e))[_0x4a5894(0x3c6)]()),_0x3877a8=_0x3da345[_0x4a5894(0x3c3)](_0x4a5894(0x41f),0x2)[_0x4a5894(0x3c6)](_0x3877a8,_0x20982b(_0x151be1)[_0x4a5894(0x3c3)](_0x4a5894(0x41e))['invoke']()),_0x3877a8;}function _0x3d31ae(_0x496b8a){const _0x42004a=_0x31bcbe,_0x1efdd3=_0x393291['method']('get_localPlayer')[_0x42004a(0x3c6)]();if(!_0x1efdd3)return;_0x1efdd3[_0x42004a(0x3c3)](_0x42004a(0x420))['invoke'](_0x29e38f(_0x496b8a));}function _0x144f19(){const _0x4cd4b1=_0x31bcbe,_0x421e79=_0x393291[_0x4cd4b1(0x3c3)](_0x4cd4b1(0x421))['invoke']();if(!_0x421e79)return;return _0x421e79;}const _0x171187=Il2Cpp['domain'][_0x31bcbe(0x383)](_0x31bcbe(0x422))['image']['class'](_0x31bcbe(0x423)),_0x3fb4cb={},_0x445e2e={};function _0x2db91b(){const _0x3bb5d2=_0x31bcbe;console[_0x3bb5d2(0x424)](_0x3bb5d2(0x425));for(const _0x226de7 in _0x3fb4cb){const _0x4ef660=_0x3fb4cb[_0x226de7];_0x4ef660&&!_0x4ef660['isNull']()&&(console[_0x3bb5d2(0x424)](_0x3bb5d2(0x426),_0x226de7),_0x4ef660[_0x3bb5d2(0x3c3)](_0x3bb5d2(0x427),0x1)[_0x3bb5d2(0x3c6)](!![]));}for(const _0x7ee1f9 in _0x3fb4cb){delete _0x3fb4cb[_0x7ee1f9];}for(const _0x3a8a77 in _0x445e2e){delete _0x445e2e[_0x3a8a77];}console[_0x3bb5d2(0x424)]('AssetBundle\x20cleanup\x20complete');}_0x2db91b();function _0x18b983(_0x1f63e1,_0x52f544,_0x29276b){const _0x17636e=_0x31bcbe,_0x493921=_0x1f63e1+'/'+_0x52f544;if(_0x445e2e[_0x493921]){_0x29276b(_0x445e2e[_0x493921]);return;}if(_0x3fb4cb[_0x1f63e1]){_0x4a7b2f(_0x3fb4cb[_0x1f63e1],_0x52f544,_0x493921,_0x29276b);return;}const _0x3d10fb=_0xae3f76(_0x1f63e1,_0x52f544);if(_0x3d10fb){console[_0x17636e(0x424)](_0x17636e(0x428),_0x1f63e1),_0x3fb4cb[_0x1f63e1]=_0x3d10fb,_0x4a7b2f(_0x3d10fb,_0x52f544,_0x493921,_0x29276b);return;}console[_0x17636e(0x424)](_0x17636e(0x429),_0x1f63e1);const _0x4c793d=_0x171187[_0x17636e(0x3c3)]('LoadFromFileAsync',0x1)[_0x17636e(0x3c6)](Il2Cpp['string'](_0x1f63e1));if(_0x4c793d==null||_0x4c793d['isNull']()){console[_0x17636e(0x424)]('Failed\x20to\x20create\x20AssetBundle\x20load\x20request:',_0x1f63e1),_0x29276b(null);return;}_0x4cf216(_0x4c793d,_0xba3403=>{const _0x87da0b=_0x17636e;if(_0xba3403==null||_0xba3403[_0x87da0b(0x417)]()){console[_0x87da0b(0x424)](_0x87da0b(0x42a),_0x1f63e1),_0x29276b(null);return;}_0x3fb4cb[_0x1f63e1]=_0xba3403,_0x4a7b2f(_0xba3403,_0x52f544,_0x493921,_0x29276b);});}function _0xae3f76(_0x53632d,_0x4149a4){const _0x263ec6=_0x31bcbe;var _0x4a5e7e;try{const _0x990465=_0x171187[_0x263ec6(0x3c3)]('GetAllLoadedAssetBundles')[_0x263ec6(0x3c6)]();if(_0x990465==null||_0x990465[_0x263ec6(0x417)]())return null;const _0x3fa970=((_0x4a5e7e=_0x53632d['split']('/')[_0x263ec6(0x42b)]())===null||_0x4a5e7e===void 0x0?void 0x0:_0x4a5e7e[_0x263ec6(0x42c)]('\x5c')['pop']())||'';console[_0x263ec6(0x424)](_0x263ec6(0x42d),_0x3fa970);const _0x4a1977=_0x990465['method'](_0x263ec6(0x42e))[_0x263ec6(0x3c6)]();while(_0x4a1977[_0x263ec6(0x3c3)](_0x263ec6(0x42f))[_0x263ec6(0x3c6)]()){const _0x2aca5c=_0x4a1977[_0x263ec6(0x3c3)]('get_Current')[_0x263ec6(0x3c6)]();if(_0x2aca5c&&!_0x2aca5c['isNull']()){let _0x3fcf61=![];try{const _0x32bda0=_0x2aca5c[_0x263ec6(0x3c3)](_0x263ec6(0x430),0x1)[_0x263ec6(0x3c6)](Il2Cpp[_0x263ec6(0x41b)](_0x263ec6(0x431)+_0x4149a4));if(_0x32bda0)return console[_0x263ec6(0x424)](_0x263ec6(0x432)),_0x2aca5c;}catch(_0x37a303){}try{let _0xbaabe=null;_0x2aca5c[_0x263ec6(0x3c3)](_0x263ec6(0x433))&&(_0xbaabe=_0x2aca5c[_0x263ec6(0x3c3)](_0x263ec6(0x433))[_0x263ec6(0x3c6)]());if(_0xbaabe){const _0x232e18=_0xbaabe[_0x263ec6(0x434)]();console[_0x263ec6(0x424)](_0x263ec6(0x435),_0x232e18);if(_0x232e18==='\x22'+_0x3fa970+'\x22'){console['log'](_0x263ec6(0x436));try{const _0x182411=Il2Cpp['domain'][_0x263ec6(0x383)](_0x263ec6(0x38c))['image'][_0x263ec6(0x38e)]('UnityEngine.AudioClip'),_0xd0e76b=_0x2aca5c[_0x263ec6(0x3c3)]('LoadAssetAsync',0x2)[_0x263ec6(0x3c6)](Il2Cpp['string'](_0x263ec6(0x431)+_0x4149a4),_0x182411[_0x263ec6(0x437)][_0x263ec6(0x438)]);if(_0xd0e76b&&!_0xd0e76b[_0x263ec6(0x417)]())return console['log'](_0x263ec6(0x439)),_0x2aca5c;}catch(_0x3a79c5){console['log'](_0x263ec6(0x43a));}}}}catch(_0x4ab5cc){}}}return console[_0x263ec6(0x424)]('No\x20matching\x20already-loaded\x20bundle\x20found'),null;}catch(_0x42ae0c){return console[_0x263ec6(0x424)]('Error\x20checking\x20for\x20already\x20loaded\x20bundles:',_0x42ae0c),null;}}function _0x4a7b2f(_0x556369,_0x26be4a,_0x5df211,_0x42a1d1){const _0x53191a=_0x31bcbe;console[_0x53191a(0x424)](_0x53191a(0x43b),_0x26be4a);const _0x3310de=Il2Cpp['domain'][_0x53191a(0x383)](_0x53191a(0x38c))[_0x53191a(0x384)][_0x53191a(0x38e)](_0x53191a(0x43c)),_0x39f1a7=_0x556369[_0x53191a(0x3c3)](_0x53191a(0x43d),0x2)[_0x53191a(0x3c6)](Il2Cpp[_0x53191a(0x41b)](_0x53191a(0x431)+_0x26be4a),_0x3310de[_0x53191a(0x437)][_0x53191a(0x438)]);if(_0x39f1a7==null||_0x39f1a7['isNull']()){console[_0x53191a(0x424)](_0x53191a(0x43e),_0x26be4a),_0x42a1d1(null);return;}_0x5d465c(_0x39f1a7,_0x4ac7bf=>{const _0x1ffd4b=_0x53191a;if(_0x4ac7bf==null||_0x4ac7bf[_0x1ffd4b(0x417)]()){console['log'](_0x1ffd4b(0x43f),_0x26be4a),_0x42a1d1(null);return;}_0x445e2e[_0x5df211]=_0x4ac7bf,_0x42a1d1(_0x4ac7bf);});}function _0x4cf216(_0x417b98,_0x55bbfb){const _0x2a7114=()=>{const _0x2dc049=_0x5dc6,_0x4048fb=_0x417b98[_0x2dc049(0x3c3)](_0x2dc049(0x440))[_0x2dc049(0x3c6)]();if(_0x4048fb){const _0x16b9f3=_0x417b98[_0x2dc049(0x3c3)](_0x2dc049(0x441))[_0x2dc049(0x3c6)]();_0x55bbfb(_0x16b9f3);}else setTimeout(_0x2a7114,0xa);};_0x2a7114();}function _0x5d465c(_0x4fcc8f,_0x2d0cda){const _0x27c48c=()=>{const _0x59c05d=_0x5dc6,_0xd9c86c=_0x4fcc8f[_0x59c05d(0x3c3)](_0x59c05d(0x440))[_0x59c05d(0x3c6)]();if(_0xd9c86c){const _0x214a1d=_0x4fcc8f[_0x59c05d(0x3c3)](_0x59c05d(0x442))[_0x59c05d(0x3c6)]();_0x2d0cda(_0x214a1d);}else setTimeout(_0x27c48c,0xa);};_0x27c48c();}function _0x4d7d0d(_0x4f848d,_0x4b0b39){const _0x4944d2=_0x31bcbe,_0x1cd6b5=_0x991208[_0x4944d2(0x38e)]('AnimalCompany.PrefabGenerator'),_0x3ebf39=_0x1cd6b5[_0x4944d2(0x3c1)](_0x4944d2(0x443))[_0x4944d2(0x3c0)][_0x4944d2(0x3c3)]('get_runner')[_0x4944d2(0x3c6)]();_0x3ebf39[_0x4944d2(0x3c1)](_0x4944d2(0x444))['value'][_0x4944d2(0x3c3)](_0x4944d2(0x445))[_0x4944d2(0x3c6)]()&&_0x18b983(_0x4f848d,_0x4b0b39,_0x562d98=>{const _0xc1a603=_0x4944d2;if(_0x562d98==null){console[_0xc1a603(0x424)]('Could\x20not\x20load\x20AudioClip\x20at\x20path:',_0x4f848d);return;}_0x50fc9f(_0x562d98,_0x4f848d);});}function _0x50fc9f(_0x546b4f,_0x4825a2,_0x4e8e52=0x0){const _0x2520fe=_0x31bcbe,_0x3b773c=_0x991208[_0x2520fe(0x38e)](_0x2520fe(0x39c))['method'](_0x2520fe(0x421))[_0x2520fe(0x3c6)](),_0x4b5369=_0x3b773c[_0x2520fe(0x3c1)](_0x2520fe(0x446))[_0x2520fe(0x3c0)];if(_0x4b5369==null){console[_0x2520fe(0x424)](_0x2520fe(0x447));return;}_0x4b5369[_0x2520fe(0x3c3)](_0x2520fe(0x448),0x1)[_0x2520fe(0x3c6)](0x1),_0x4b5369['method'](_0x2520fe(0x449),0x1)[_0x2520fe(0x3c6)](_0x546b4f),_0x4b5369[_0x2520fe(0x3c3)](_0x2520fe(0x44a),0x1)[_0x2520fe(0x3c6)](!![]),_0x4b5369[_0x2520fe(0x3c3)](_0x2520fe(0x44b),0x0)[_0x2520fe(0x3c6)](),console['log'](_0x2520fe(0x44c)+_0x4825a2+_0x2520fe(0x44d));const _0xedb07f=_0x546b4f[_0x2520fe(0x3c3)](_0x2520fe(0x44e))[_0x2520fe(0x3c6)]();setTimeout(()=>{const _0x61c6e3=_0x2520fe;console[_0x61c6e3(0x424)](_0x61c6e3(0x44f)),_0x3f8a09();},_0xedb07f*0x3e8+_0x4e8e52);}function _0x3f8a09(){const _0x1cc5ac=_0x31bcbe,_0x50a1bb=_0x991208['class']('AnimalCompany.PrefabGenerator'),_0xb79930=_0x50a1bb[_0x1cc5ac(0x3c1)](_0x1cc5ac(0x443))[_0x1cc5ac(0x3c0)][_0x1cc5ac(0x3c3)](_0x1cc5ac(0x450))['invoke']();if(_0xb79930[_0x1cc5ac(0x3c1)](_0x1cc5ac(0x444))[_0x1cc5ac(0x3c0)][_0x1cc5ac(0x3c3)](_0x1cc5ac(0x445))[_0x1cc5ac(0x3c6)]()){const _0x2a6b7d=_0x991208['class']('AnimalCompany.NetPlayer')[_0x1cc5ac(0x3c3)]('get_localPlayer')[_0x1cc5ac(0x3c6)](),_0x2e5b7c=_0x2a6b7d[_0x1cc5ac(0x3c1)](_0x1cc5ac(0x446))[_0x1cc5ac(0x3c0)];if(_0x2e5b7c==null){console[_0x1cc5ac(0x424)]('PrimaryRecorder\x20is\x20null,\x20can\x27t\x20fix\x20mic');return;}_0x2e5b7c[_0x1cc5ac(0x3c3)](_0x1cc5ac(0x448),0x1)['invoke'](0x0),_0x2e5b7c[_0x1cc5ac(0x3c3)](_0x1cc5ac(0x449),0x1)[_0x1cc5ac(0x3c6)](null),_0x2e5b7c[_0x1cc5ac(0x3c3)](_0x1cc5ac(0x44a),0x1)[_0x1cc5ac(0x3c6)](![]),_0x2e5b7c[_0x1cc5ac(0x3c3)](_0x1cc5ac(0x44b),0x0)[_0x1cc5ac(0x3c6)]();}}function _0x3abf0f(_0x467b39,_0x1dc459){const _0x405ce1=_0x31bcbe;if(audioManager==null){audioManager=_0x2d7f33[_0x405ce1(0x451)](_0x405ce1(0x452));let _0x5d697a=_0x7d8ffe(audioManager,_0x2504dd);_0x5d697a[_0x405ce1(0x3c3)]('set_spatialBlend')[_0x405ce1(0x3c6)](0x0);}let _0x70a055=_0x459a51(audioManager,_0x2504dd);_0x70a055[_0x405ce1(0x3c3)]('set_volume')['invoke'](_0x1dc459),_0x70a055[_0x405ce1(0x3c3)](_0x405ce1(0x453),0x1)[_0x405ce1(0x3c6)](_0x467b39);}function _0x283c5a(_0x1636b1){const _0x2a0a74=_0x31bcbe,_0x12f0d6=_0x991208[_0x2a0a74(0x38e)](_0x2a0a74(0x454));console[_0x2a0a74(0x424)](_0x2a0a74(0x455)),console[_0x2a0a74(0x424)](_0x2a0a74(0x456));const _0x224d43=_0x12f0d6['field'](_0x2a0a74(0x443))[_0x2a0a74(0x3c0)];if(!_0x224d43)return null;console[_0x2a0a74(0x424)](_0x2a0a74(0x457));const _0x3c92bf=_0x12f0d6[_0x2a0a74(0x3c3)]('KickPlayer');if(!_0x3c92bf)return null;const _0x2c77ce=_0x224d43['method']('RPC_KickPlayer');if(!_0x2c77ce)return null;console['log'](_0x2a0a74(0x458));const _0x3762ff=_0x1636b1[_0x2a0a74(0x3c1)]('_userID')[_0x2a0a74(0x3c0)];if(!_0x3762ff)return null;console[_0x2a0a74(0x424)](_0x2a0a74(0x459));const _0x1d7bf1=Il2Cpp[_0x2a0a74(0x3a7)][_0x2a0a74(0x38e)]('System.Guid')['method']('Parse')['invoke'](_0x3762ff);console[_0x2a0a74(0x424)]('parse\x20user\x20id:\x20'+_0x1d7bf1+_0x2a0a74(0x45a)),_0x2c77ce[_0x2a0a74(0x3c6)](_0x1d7bf1),console[_0x2a0a74(0x424)](_0x2a0a74(0x45b)),_0x3c92bf[_0x2a0a74(0x3c6)](_0x3762ff),console['log'](_0x2a0a74(0x45c)),console[_0x2a0a74(0x424)](_0x2a0a74(0x45d));}function _0x23bdee(){const _0x3ad25c=_0x31bcbe;if(waitingForRoom||isGhostFollowingActive)return;console[_0x3ad25c(0x424)](_0x3ad25c(0x45e)),_0x2f061e()?(waitingForRoom=!![],roomJoinAttempted=!![],_0xf236df()):console['log'](_0x3ad25c(0x45f));}function _0x2f061e(){const _0x1fec30=_0x31bcbe;console[_0x1fec30(0x424)](_0x1fec30(0x460));try{const _0x47e1e1=_0x991208[_0x1fec30(0x38e)](_0x1fec30(0x461)),_0x14f976=_0x38ca25[_0x1fec30(0x3c3)](_0x1fec30(0x462))[_0x1fec30(0x3a9)](_0x47e1e1)[_0x1fec30(0x3c6)]();if(_0x14f976[_0x1fec30(0x417)]())return console[_0x1fec30(0x424)](_0x1fec30(0x463)),![];return console[_0x1fec30(0x424)]('[+]\x20Calling\x20HandleJoinRandomPressed...'),_0x14f976[_0x1fec30(0x3c3)](_0x1fec30(0x464))['invoke'](),console[_0x1fec30(0x424)](_0x1fec30(0x465)),!![];}catch(_0x39a25b){return console[_0x1fec30(0x424)]('[-]\x20Error\x20joining\x20new\x20room:\x20'+_0x39a25b),![];}}function _0xe3fe93(){const _0x72b2a1=_0x31bcbe;try{const _0x5b5a86=_0x991208[_0x72b2a1(0x38e)]('AnimalCompany.PrefabGenerator'),_0xa1ec43=_0x5b5a86[_0x72b2a1(0x3c1)](_0x72b2a1(0x443))[_0x72b2a1(0x3c0)];if(_0xa1ec43[_0x72b2a1(0x417)]())return console[_0x72b2a1(0x424)](_0x72b2a1(0x466)),![];const _0x481e8c=_0xa1ec43['method'](_0x72b2a1(0x450))[_0x72b2a1(0x3c6)]();if(_0x481e8c[_0x72b2a1(0x417)]())return console[_0x72b2a1(0x424)](_0x72b2a1(0x467)),![];const _0x413652=_0x481e8c[_0x72b2a1(0x3c1)](_0x72b2a1(0x444))[_0x72b2a1(0x3c0)];if(_0x413652['isNull']())return console[_0x72b2a1(0x424)]('[-]\x20CloudServices\x20is\x20null'),![];const _0x4e52f2=_0x413652[_0x72b2a1(0x3c3)]('get_IsInRoom')[_0x72b2a1(0x3c6)]();console[_0x72b2a1(0x424)](_0x72b2a1(0x468)+_0x4e52f2);if(!_0x4e52f2)return![];return _0x4e52f2;}catch(_0x7f6076){return console[_0x72b2a1(0x424)]('[-]\x20Error\x20in\x20checkIfInNewRoom:\x20'+_0x7f6076),![];}}function _0xf236df(){}function _0x360fab(){const _0xddc3d3=_0x31bcbe;if(isGhostFollowingActive){console[_0xddc3d3(0x424)](_0xddc3d3(0x469));return;}_0x4d7d0d(_0xddc3d3(0x46a),'1/do.mp3'),isGhostFollowingActive=!![],currentPlayerIndex=0x0,lastSwitchTime=Date[_0xddc3d3(0x46b)](),console[_0xddc3d3(0x424)](_0xddc3d3(0x46c));const _0x160795=_0x991208['class']('AnimalCompany.NetPlayer'),_0x4fc7f9=_0x38ca25[_0xddc3d3(0x3c3)]('FindObjectsOfType')[_0xddc3d3(0x3a9)](_0x160795),_0x4574af=_0x4fc7f9[_0xddc3d3(0x3c6)]();if(_0x4574af[_0xddc3d3(0x417)]()){console['log'](_0xddc3d3(0x46d)),isGhostFollowingActive=![];return;}netPlayers=[],console[_0xddc3d3(0x424)](_0xddc3d3(0x46e)+_0x4574af[_0xddc3d3(0x419)]+_0xddc3d3(0x46f));for(let _0x4a404c=0x0;_0x4a404c<_0x4574af[_0xddc3d3(0x419)];_0x4a404c++){const _0x23057f=_0x4574af[_0xddc3d3(0x41a)](_0x4a404c);!_0x23057f[_0xddc3d3(0x417)]()&&netPlayers['push'](_0x23057f);}if(netPlayers[_0xddc3d3(0x419)]===0x0){console['log'](_0xddc3d3(0x470)),isGhostFollowingActive=![];return;}console[_0xddc3d3(0x424)]('[+]\x20Tracking\x20'+netPlayers[_0xddc3d3(0x419)]+'\x20players');}function _0x364adc(){const _0x55e9d1=_0x31bcbe;if(!isGhostFollowingActive||netPlayers[_0x55e9d1(0x419)]===0x0)return;const _0x39e67f=Date[_0x55e9d1(0x46b)]();if(_0x39e67f-lastSwitchTime>=0x2bc){currentPlayerIndex++;if(currentPlayerIndex>=netPlayers[_0x55e9d1(0x419)]){console[_0x55e9d1(0x424)](_0x55e9d1(0x471)),_0x4b70a1();return;}lastSwitchTime=_0x39e67f,console[_0x55e9d1(0x424)](_0x55e9d1(0x472)+(currentPlayerIndex+0x1)+'/'+netPlayers[_0x55e9d1(0x419)]);}const _0x1dbd1b=netPlayers[currentPlayerIndex];if(_0x1dbd1b&&!_0x1dbd1b[_0x55e9d1(0x417)]())try{const _0x519f6e=_0x1dbd1b[_0x55e9d1(0x3c3)]('get_transform')[_0x55e9d1(0x3c6)]();if(!_0x519f6e[_0x55e9d1(0x417)]()){const _0x35af12=_0x519f6e[_0x55e9d1(0x3c3)](_0x55e9d1(0x41e))[_0x55e9d1(0x3c6)](),_0x357857=_0x432657();if(_0x357857&&!_0x357857[_0x55e9d1(0x417)]()){const _0x44e15c=_0x357857[_0x55e9d1(0x3c3)](_0x55e9d1(0x41c))[_0x55e9d1(0x3c6)]();!_0x44e15c['isNull']()&&_0x44e15c['method'](_0x55e9d1(0x473))['invoke'](_0x35af12);}}}catch(_0x38bcf8){console['log'](_0x55e9d1(0x474)+currentPlayerIndex+':\x20'+_0x38bcf8);}}function _0x4b70a1(){const _0x49036b=_0x31bcbe;console[_0x49036b(0x424)](_0x49036b(0x475));const _0x52f7c5=_0x991208[_0x49036b(0x38e)](_0x49036b(0x39d));try{let _0x5980dc=0x0;const _0x3005a2=_0x38ca25[_0x49036b(0x3c3)](_0x49036b(0x476))[_0x49036b(0x3a9)](_0x393291)['invoke']();for(let _0x206498=0x0;_0x206498<_0x3005a2['length'];_0x206498++){const _0x40d9c5=_0x3005a2[_0x49036b(0x41a)](_0x206498);if(_0x3aec50(_0x40d9c5))continue;_0x283c5a(_0x40d9c5),_0x5980dc++;}console[_0x49036b(0x424)](_0x49036b(0x477)+_0x5980dc+_0x49036b(0x478)),console['log'](_0x49036b(0x479)),_0x3a44ca(),rightPrimary=![],setTimeout(()=>{rightPrimary&&_0x23bdee();},0xbb8);}catch(_0x31bf93){console[_0x49036b(0x424)](_0x49036b(0x47a)+_0x31bf93),_0x3a44ca(),rightPrimary=![];}}function _0x432657(){const _0x5062c9=_0x31bcbe;try{const _0x361659=_0x991208['class']('AnimalCompany.PlayerController'),_0x37e4e2=_0x361659['method'](_0x5062c9(0x47b))[_0x5062c9(0x3c6)]();if(!_0x37e4e2[_0x5062c9(0x417)]()){const _0x58dc7d=_0x37e4e2[_0x5062c9(0x3c3)](_0x5062c9(0x47c))[_0x5062c9(0x3c6)]();if(!_0x58dc7d[_0x5062c9(0x417)]())return _0x58dc7d['field']('_cameraTransform')[_0x5062c9(0x3c0)];}}catch(_0x1177c6){console[_0x5062c9(0x424)](_0x5062c9(0x47d)+_0x1177c6);}return null;}function _0x3a44ca(){const _0x34ebbf=_0x31bcbe;isGhostFollowingActive=![],currentPlayerIndex=0x0,netPlayers=[],waitingForRoom=![],roomJoinAttempted=![],roomCheckInterval&&(clearInterval(roomCheckInterval),roomCheckInterval=null),console['log'](_0x34ebbf(0x47e));}function _0x3ce4d1(){const _0x5b3b37=_0x31bcbe;_0x3a44ca(),console['log'](_0x5b3b37(0x47f));}function _0x44fcf3(_0x482493,_0x87faca='',_0xb6c0ce=[0x1,0x1,0x1,0x1],_0x371c15=_0x7444ed,_0x5122db=_0xa6f996){const _0x3c67d=_0x31bcbe,_0x919a01=_0x7d8ffe(_0x4d6520(_0x7444ed,_0x471248,_0xa6f996,0x3,[0x0,0x0,0x0,0x0],_0x20982b(_0x482493)),_0x5f2c55);_0x919a01[_0x3c67d(0x3c3)](_0x3c67d(0x480))[_0x3c67d(0x3c6)](Il2Cpp['string'](_0x87faca)),_0x919a01[_0x3c67d(0x3c3)](_0x3c67d(0x481))[_0x3c67d(0x3c6)](_0x49f0fb),_0x919a01[_0x3c67d(0x3c3)](_0x3c67d(0x482))['invoke'](0x1),_0x919a01[_0x3c67d(0x3c3)](_0x3c67d(0x483))['invoke'](_0xb6c0ce),_0x919a01['method'](_0x3c67d(0x484))[_0x3c67d(0x3c6)](0x2),_0x919a01[_0x3c67d(0x3c3)]('set_alignment')[_0x3c67d(0x3c6)](0x4),_0x919a01['method'](_0x3c67d(0x485))['invoke'](!![]),_0x919a01[_0x3c67d(0x3c3)](_0x3c67d(0x486))['invoke'](0x0);const _0x477f6f=_0x459a51(_0x919a01,_0x2c704d);_0x477f6f[_0x3c67d(0x3c3)](_0x3c67d(0x487))['invoke'](_0x5122db),_0x477f6f[_0x3c67d(0x3c3)](_0x3c67d(0x473))['invoke'](_0x371c15),_0x477f6f[_0x3c67d(0x3c3)](_0x3c67d(0x488))[_0x3c67d(0x3c6)](_0x360a4b['method'](_0x3c67d(0x489))['invoke'](0xb4,0x5a,0x5a));}function _0x2f82a8(_0x1823f4){const _0x518324=_0x31bcbe,_0x5304e6=_0x4ba84c[_0x518324(0x451)]();return _0x4ba84c[_0x518324(0x3c3)](_0x518324(0x48a))[_0x518324(0x3c6)](_0x5304e6,_0x1823f4);}function _0x4d6520(_0x5864cc=_0x7444ed,_0x17f02a=_0x471248,_0x40fdf8=_0xa6f996,_0xebeb20=0x3,_0x357934=[0x1,0x1,0x1,0x1],_0x1cad6e=null){const _0x1852b4=_0x31bcbe,_0x558972=_0x2d7f33['method'](_0x1852b4(0x48b))[_0x1852b4(0x3c6)](_0xebeb20),_0x4860d2=_0x459a51(_0x558972,_0x5bff8c);if(_0x357934[0x3]==0x0)_0x4860d2[_0x1852b4(0x3c3)]('set_enabled')[_0x1852b4(0x3c6)](![]);else{const _0x3ac7e8=_0x4860d2[_0x1852b4(0x3c3)]('get_material')[_0x1852b4(0x3c6)]();_0x3ac7e8['method'](_0x1852b4(0x48c))['invoke'](_0x589d80),_0x3ac7e8[_0x1852b4(0x3c3)]('set_color')[_0x1852b4(0x3c6)](_0x357934);}const _0x468e8e=_0x20982b(_0x558972);return _0x1cad6e!=null&&_0x468e8e[_0x1852b4(0x3c3)](_0x1852b4(0x48d),0x2)[_0x1852b4(0x3c6)](_0x1cad6e,![]),_0x468e8e[_0x1852b4(0x3c3)](_0x1852b4(0x473))['invoke'](_0x5864cc),_0x468e8e[_0x1852b4(0x3c3)](_0x1852b4(0x488))[_0x1852b4(0x3c6)](_0x17f02a),_0x468e8e[_0x1852b4(0x3c3)](_0x1852b4(0x48e))[_0x1852b4(0x3c6)](_0x40fdf8),_0x558972;}function _0x18fcfc(_0x5b36a='',_0x21d875=!![],_0x1ff376=0x5){const _0x4e984b=currentNotification==_0x5b36a;notifactionResetTime=_0x30e18c+_0x1ff376,currentNotification=_0x5b36a;if(_0x21d875&&!_0x4e984b)_0x5f3b8e();}function _0xd2adcd(){const _0x249892=_0x31bcbe;menu=_0x4d6520(_0x7444ed,_0x471248,[0.1,0.3,0.3825],0x3,[0x0,0x0,0x0,0x0]),_0x386f73(_0x459a51(menu,_0x278306));const _0x342251=_0x4d6520([0.1,0x0,0x0],_0x471248,[0.1,0x1,0x1],0x3,bgColor,_0x20982b(menu));_0x386f73(_0x459a51(_0x342251,_0x278306));const _0x578872=_0x4d6520(_0x7444ed,_0x471248,_0xa6f996,0x3,[0x0,0x0,0x0,0x0],_0x20982b(menu)),_0x36499f=_0x7d8ffe(_0x578872,_0x3a882f);_0x386f73(_0x459a51(_0x578872,_0x278306));const _0x503a9a=_0x7d8ffe(_0x578872,_0x4a8cb8);_0x7d8ffe(_0x578872,_0x191de7),_0x36499f[_0x249892(0x3c3)]('set_renderMode')[_0x249892(0x3c6)](0x2),_0x503a9a[_0x249892(0x3c3)](_0x249892(0x48f))[_0x249892(0x3c6)](0x3e8),_0x44fcf3(_0x578872,_0x249892(0x490)+(_0x249892(0x491)+(_0x1f264c+0x1)+'</color><color=grey>]</color>'),textColor,[0.11,0x0,0.175],[0x1,0.1]);if(_0x30e18c>notifactionResetTime)currentNotification='';_0x44fcf3(_0x578872,currentNotification,textColor,[0.11,0x0,0.275],[0x1,0.1]);const _0x103ddf=_0x4d6520([0.1,0x0,0.225],_0x471248,[0.09,0.9,0.08],0x3,buttonColor,_0x20982b(menu));_0x103ddf['method'](_0x249892(0x492))[_0x249892(0x3c6)](Il2Cpp[_0x249892(0x41b)](_0x249892(0x493))),_0x7d8ffe(_0x103ddf,_0x3e800a),_0x459a51(_0x103ddf,_0x278306)[_0x249892(0x3c3)]('set_isTrigger')[_0x249892(0x3c6)](!![]),_0x44fcf3(_0x578872,_0x249892(0x494),textColor,[0.11,0x0,0.225],[0x1,0.1]);const _0x472aca=_0x4d6520([0.1,-0.175,-0.225],_0x471248,[0.09,0.09,0.09],0x3,buttonColor,_0x20982b(menu));_0x472aca['method'](_0x249892(0x492))[_0x249892(0x3c6)](Il2Cpp[_0x249892(0x41b)](_0x249892(0x495))),_0x7d8ffe(_0x472aca,_0x3e800a),_0x459a51(_0x472aca,_0x278306)['method'](_0x249892(0x496))[_0x249892(0x3c6)](!![]),_0x44fcf3(_0x578872,'<',textColor,[0.11,-0.175,-0.225],[0x1,0.1]);{const _0x590d7a=_0x4d6520([0.1,0.2,0x0],_0x471248,[0.09,0.2,0.9],0x3,buttonColor,_0x20982b(menu));_0x590d7a[_0x249892(0x3c3)](_0x249892(0x492))['invoke'](Il2Cpp[_0x249892(0x41b)](_0x249892(0x497))),_0x7d8ffe(_0x590d7a,_0x3e800a),_0x459a51(_0x590d7a,_0x278306)[_0x249892(0x3c3)](_0x249892(0x496))[_0x249892(0x3c6)](!![]),_0x44fcf3(_0x578872,'<',textColor,[0.11,0.2,0x0],[0x1,0.1]);}{const _0x1ac741=_0x4d6520([0.1,-0.2,0x0],_0x471248,[0.09,0.2,0.9],0x3,buttonColor,_0x20982b(menu));_0x1ac741[_0x249892(0x3c3)](_0x249892(0x492))['invoke'](Il2Cpp[_0x249892(0x41b)]('@NextPage')),_0x7d8ffe(_0x1ac741,_0x3e800a),_0x459a51(_0x1ac741,_0x278306)[_0x249892(0x3c3)](_0x249892(0x496))[_0x249892(0x3c6)](!![]),_0x44fcf3(_0x578872,'>',textColor,[0.11,-0.2,0x0],[0x1,0.1]);}let _0x248a10=0x0;const _0x244ea6=_0x3e625d[_0x3ef2d2][_0x249892(0x498)](_0x1f264c*0x8)[_0x249892(0x498)](0x0,0x8);_0x244ea6[_0x249892(0x499)]((_0x291c2c,_0x351139)=>{const _0x2b5df9=_0x249892,_0x334201=_0x4d6520([0.105,0x0,0.13-_0x248a10*0.04],_0x471248,[0.09,0.9,0.08],0x3,buttonColor,_0x20982b(menu));_0x334201[_0x2b5df9(0x3c3)](_0x2b5df9(0x492))[_0x2b5df9(0x3c6)](Il2Cpp[_0x2b5df9(0x41b)]('@'+_0x291c2c[_0x2b5df9(0x49a)])),_0x7d8ffe(_0x334201,_0x3e800a),_0x459a51(_0x334201,_0x278306)[_0x2b5df9(0x3c3)](_0x2b5df9(0x496))['invoke'](!![]),_0x44fcf3(_0x578872,_0x291c2c[_0x2b5df9(0x49a)],textColor,[0.11,0x0,0.13-_0x248a10*0.04],[0x1,0.1]),_0x47fc56(_0x334201,_0x291c2c),_0x248a10++;}),_0x20982b(menu)[_0x249892(0x3c3)]('set_localScale')['invoke'](_0x3da345[_0x249892(0x3c3)](_0x249892(0x49b))[_0x249892(0x3c6)](_0x3da345[_0x249892(0x3c3)](_0x249892(0x49b))[_0x249892(0x3c6)](_0x20982b(menu)[_0x249892(0x3c3)](_0x249892(0x49c))[_0x249892(0x3c6)](),_0x151be1[_0x249892(0x3c1)](_0x249892(0x49d))[_0x249892(0x3c0)]),menuscale)),_0x5c75dd();}function _0x4dd373(){const _0x4fd852=_0x31bcbe;_0x1ef9ee?(reference=_0x4d6520(_0x7444ed,_0x471248,[0.01,0.01,0.01],0x0,bgColor,_0xf3a6cd),referenceCollider=_0x459a51(reference,_0x373a82),_0x20982b(reference)[_0x4fd852(0x3c3)](_0x4fd852(0x49e))['invoke']([0.01,-0.117,0.05]),reference[_0x4fd852(0x3c3)](_0x4fd852(0x49f))[_0x4fd852(0x3c6)](0x2),_0x7d8ffe(reference,_0x35975c)[_0x4fd852(0x3c3)](_0x4fd852(0x4a0))[_0x4fd852(0x3c6)](!![])):(reference=_0x4d6520(_0x7444ed,_0x471248,[0.01,0.01,0.01],0x0,bgColor,_0x1890c1),referenceCollider=_0x459a51(reference,_0x373a82),_0x20982b(reference)['method'](_0x4fd852(0x49e))[_0x4fd852(0x3c6)]([0.01,-0.117,0.05]),reference['method']('set_layer')[_0x4fd852(0x3c6)](0x2),_0x7d8ffe(reference,_0x35975c)[_0x4fd852(0x3c3)](_0x4fd852(0x4a0))[_0x4fd852(0x3c6)](!![]));}let _0x2d7840=![],_0x353288=null,_0x20f0ce=null,_0x3ef7bb=null,_0x3bf2fd=0x0,_0x1afb12=0x0,_0x203669=0x0,_0x184488=0x0,_0xae65b4=0x0,_0x22c831=0x0,_0x34d731=![];function _0x404c48(_0x10c20c=null){const _0x3ef99f=_0x31bcbe,_0x3261d7=_0x1890c1['method'](_0x3ef99f(0x41e))[_0x3ef99f(0x3c6)](),_0x5ba8ab=_0x1890c1['method'](_0x3ef99f(0x4a1))['invoke'](),_0x5d4bb9=_0x3da345[_0x3ef99f(0x3c3)]('op_Division')[_0x3ef99f(0x3c6)](_0x5ba8ab,0x4),_0x133580=_0x3da345['method'](_0x3ef99f(0x41f))['invoke'](_0x3261d7,_0x5d4bb9),_0x50801f=_0x10c20c||~0x0,_0x486938=_0x108329[_0x3ef99f(0x3c3)](_0x3ef99f(0x4a2),0x4)['invoke'](_0x133580,_0x5ba8ab,0x200,_0x50801f);let _0x2beba1=Infinity,_0xd051a=null;for(const _0x4f4c0b of _0x486938){const _0x7ea441=_0x3da345[_0x3ef99f(0x3c3)](_0x3ef99f(0x4a3))[_0x3ef99f(0x3c6)](_0x4f4c0b[_0x3ef99f(0x3c3)](_0x3ef99f(0x4a4))[_0x3ef99f(0x3c6)](),_0x3261d7);try{if(referenceCollider!=null&&_0x4f4c0b[_0x3ef99f(0x3c3)](_0x3ef99f(0x4a5))[_0x3ef99f(0x3c6)]()['handle'][_0x3ef99f(0x4a6)](referenceCollider[_0x3ef99f(0x4a7)]))continue;}catch{}_0x7ea441<_0x2beba1&&(_0xd051a=_0x4f4c0b,_0x2beba1=_0x7ea441);}_0x20f0ce==null&&(_0x20f0ce=_0x4d6520(_0x7444ed,_0x471248,[0.05,0.05,0.05],0x0,bgColor),_0x386f73(_0x459a51(_0x20f0ce,_0x278306)));_0x20f0ce[_0x3ef99f(0x3c3)](_0x3ef99f(0x4a8))[_0x3ef99f(0x3c6)](!![]);if(_0xd051a!=null)_0x20982b(_0x20f0ce)['method'](_0x3ef99f(0x473))[_0x3ef99f(0x3c6)](_0xd051a['method'](_0x3ef99f(0x4a4))[_0x3ef99f(0x3c6)]());else{const _0x53b002=_0x3da345['method'](_0x3ef99f(0x41f))[_0x3ef99f(0x3c6)](_0x3261d7,_0x3da345['method']('op_Multiply')[_0x3ef99f(0x3c6)](_0x5ba8ab,0xa));_0x20982b(_0x20f0ce)[_0x3ef99f(0x3c3)](_0x3ef99f(0x473))['invoke'](_0x53b002);}if(_0x3ef7bb==null){const _0x199a81=_0x2d7f33['new'](_0x3ef99f(0x4a9));_0x3ef7bb=_0x7d8ffe(_0x199a81,_0x3736fc);const _0x3cc3f6=_0x1b2b43[_0x3ef99f(0x3c3)](_0x3ef99f(0x3c4))[_0x3ef99f(0x4aa)](_0x3ef99f(0x4ab))['invoke'](Il2Cpp[_0x3ef99f(0x41b)](_0x3ef99f(0x3c7)));_0x3ef7bb[_0x3ef99f(0x3c3)](_0x3ef99f(0x4ac))[_0x3ef99f(0x3c6)]()['method'](_0x3ef99f(0x48c))['invoke'](_0x3cc3f6),_0x3ef7bb['method']('set_startWidth')[_0x3ef99f(0x3c6)](0.01),_0x3ef7bb[_0x3ef99f(0x3c3)](_0x3ef99f(0x4ad))[_0x3ef99f(0x3c6)](0.01),_0x3ef7bb[_0x3ef99f(0x3c3)](_0x3ef99f(0x4ae))[_0x3ef99f(0x3c6)](!![]),_0x3ef7bb['method'](_0x3ef99f(0x4af))['invoke'](bgColor),_0x3ef7bb[_0x3ef99f(0x3c3)](_0x3ef99f(0x4b0))['invoke'](bgColor);}return _0x3ef7bb['method']('get_gameObject')[_0x3ef99f(0x3c6)]()[_0x3ef99f(0x3c3)](_0x3ef99f(0x4a8))[_0x3ef99f(0x3c6)](!![]),_0x3ef7bb[_0x3ef99f(0x3c3)](_0x3ef99f(0x4b1))[_0x3ef99f(0x3c6)](0x0,_0x3261d7),_0x3ef7bb[_0x3ef99f(0x3c3)]('SetPosition')[_0x3ef99f(0x3c6)](0x1,_0x20982b(_0x20f0ce)[_0x3ef99f(0x3c3)](_0x3ef99f(0x41e))['invoke']()),{'gunPointer':_0x20f0ce,'ray':_0xd051a};}function _0x5c75dd(){const _0x4cc1b3=_0x31bcbe,_0x1c31df=_0x20982b(menu);let _0x5cc4a6,_0x35e239;_0x1ef9ee?(_0x5cc4a6=_0x1890c1['method'](_0x4cc1b3(0x41e))[_0x4cc1b3(0x3c6)](),_0x35e239=_0x1890c1[_0x4cc1b3(0x3c3)](_0x4cc1b3(0x4b2))['invoke'](),_0x35e239=_0x360a4b[_0x4cc1b3(0x3c3)](_0x4cc1b3(0x49b))[_0x4cc1b3(0x3c6)](_0x35e239,_0x360a4b['method'](_0x4cc1b3(0x489))[_0x4cc1b3(0x3c6)](0x0,0x0,0xb4))):(_0x5cc4a6=_0xf3a6cd[_0x4cc1b3(0x3c3)]('get_position')['invoke'](),_0x35e239=_0xf3a6cd[_0x4cc1b3(0x3c3)]('get_rotation')[_0x4cc1b3(0x3c6)](),_0x35e239=_0x360a4b[_0x4cc1b3(0x3c3)](_0x4cc1b3(0x49b))['invoke'](_0x35e239,_0x360a4b[_0x4cc1b3(0x3c3)](_0x4cc1b3(0x489))[_0x4cc1b3(0x3c6)](0x0,0x0,0x0)));if(LerpMenu){const _0x2a129e=_0x1c31df['method']('get_position')['invoke'](),_0x3626a7=_0x3da345['method'](_0x4cc1b3(0x4a3))[_0x4cc1b3(0x3c6)](_0x2a129e,_0x7444ed);if(_0x3626a7<0x1)_0x1c31df[_0x4cc1b3(0x3c3)](_0x4cc1b3(0x473))[_0x4cc1b3(0x3c6)](_0x5cc4a6),_0x1c31df[_0x4cc1b3(0x3c3)](_0x4cc1b3(0x488))[_0x4cc1b3(0x3c6)](_0x35e239);else{const _0x2f1eff=_0x3da345[_0x4cc1b3(0x3c3)](_0x4cc1b3(0x4b3))[_0x4cc1b3(0x3c6)](_0x2a129e,_0x5cc4a6,deltaTime*0xf);_0x1c31df[_0x4cc1b3(0x3c3)](_0x4cc1b3(0x473))[_0x4cc1b3(0x3c6)](_0x2f1eff);const _0x35ea22=_0x360a4b[_0x4cc1b3(0x3c3)](_0x4cc1b3(0x4b4))['invoke'](_0x1c31df['method'](_0x4cc1b3(0x4b2))['invoke'](),_0x35e239,deltaTime*0xf);_0x1c31df[_0x4cc1b3(0x3c3)]('set_rotation')[_0x4cc1b3(0x3c6)](_0x35ea22);}}else _0x1c31df[_0x4cc1b3(0x3c3)](_0x4cc1b3(0x473))[_0x4cc1b3(0x3c6)](_0x5cc4a6),_0x1c31df['method'](_0x4cc1b3(0x488))[_0x4cc1b3(0x3c6)](_0x35e239);}function _0x4ac62a(_0x895719,_0x29bdd0,_0x1d4c9e){const _0x2a6c05=_0x31bcbe;try{const _0x3fab33=_0x26e0fc[_0x2a6c05(0x3c1)](_0x2a6c05(0x443))[_0x2a6c05(0x3c0)][_0x2a6c05(0x3c3)](_0x2a6c05(0x450))[_0x2a6c05(0x3c6)]();if(!_0x3fab33||_0x3fab33[_0x2a6c05(0x417)]())return null;const _0x3514ae=_0x3fab33[_0x2a6c05(0x3c1)](_0x2a6c05(0x4b5))[_0x2a6c05(0x3c0)]['field'](_0x2a6c05(0x4b6))['value']['field'](_0x2a6c05(0x4b7))[_0x2a6c05(0x3c0)],_0x512356=_0x3514ae[_0x2a6c05(0x3c3)]('get_Count')[_0x2a6c05(0x3c6)]();for(let _0x3452af=0x0;_0x3452af<_0x512356;_0x3452af++){try{const _0x2aeb37=_0x3514ae[_0x2a6c05(0x3c3)]('get_Item')[_0x2a6c05(0x3c6)](_0x3452af),_0xa9c4e5=_0x2aeb37['method'](_0x2a6c05(0x4b8))[_0x2a6c05(0x3c6)]()['toString']();if(_0xa9c4e5[_0x2a6c05(0x3cd)](_0x895719)){const _0x29bddb=_0x2aeb37['method'](_0x2a6c05(0x4b9))[_0x2a6c05(0x3c6)]();if(!_0x29bddb||_0x29bddb[_0x2a6c05(0x417)]())return null;const _0x11254d=_0x20fc8f=>{const _0x57eb9f=_0x2a6c05;if(_0x20fc8f[_0x57eb9f(0x38e)][_0x57eb9f(0x4ba)]||_0x20fc8f['isPrimitive'])return 0x0;if(!_0x20fc8f[_0x57eb9f(0x38e)]['isValueType'])return null;const _0x31d51e=_0x20fc8f[_0x57eb9f(0x38e)][_0x57eb9f(0x3ca)][_0x57eb9f(0x380)](_0x3eb7a0=>!_0x3eb7a0[_0x57eb9f(0x4bb)]);if(_0x31d51e[_0x57eb9f(0x419)]===0x0)return 0x0;return _0x31d51e[_0x57eb9f(0x4bc)](_0x4acfb5=>_0x11254d(_0x4acfb5[_0x57eb9f(0x437)]));},_0x181ce4=(_0x55aabe,_0x1d2bd3,_0xfe3897)=>{const _0x3c6d6c=_0x2a6c05,_0x273f25=_0x55aabe[_0x3c6d6c(0x38e)][_0x3c6d6c(0x3ca)][_0x3c6d6c(0x380)](_0x2d6fed=>!_0x2d6fed[_0x3c6d6c(0x4bb)]);return _0x273f25['map'](_0x31554d=>{const _0x38de7e=_0x3c6d6c,_0x4cb855=_0x31554d[_0x38de7e(0x3cc)][_0x38de7e(0x4bd)]();if(_0x4cb855[_0x38de7e(0x3cd)](_0x38de7e(0x4be)))return _0x1d2bd3?0x1:0x0;if(_0x4cb855===_0x38de7e(0x3c0))return _0x1d2bd3?_0xfe3897:_0x11254d(_0x31554d[_0x38de7e(0x437)]);return _0x11254d(_0x31554d[_0x38de7e(0x437)]);});},_0x3a5ff8=(_0x11f525,_0x4421)=>{const _0x2b38dc=_0x2a6c05;if(typeof _0x4421===_0x2b38dc(0x4bf))return _0x4421?0x1:0x0;if(_0x4421 instanceof Il2Cpp[_0x2b38dc(0x4c0)]){const _0x1cf002=_0x11f525[_0x2b38dc(0x38e)][_0x2b38dc(0x3ca)][_0x2b38dc(0x380)](_0xcda025=>!_0xcda025[_0x2b38dc(0x4bb)]);if(_0x1cf002['length']===0x0)return 0x0;return _0x1cf002[_0x2b38dc(0x4bc)](_0xdf4e85=>_0x3a5ff8(_0xdf4e85[_0x2b38dc(0x437)],_0xdf4e85[_0x2b38dc(0x40c)](_0x4421)[_0x2b38dc(0x3c0)]));}if(Array[_0x2b38dc(0x4c1)](_0x4421))return _0x4421[_0x2b38dc(0x4bc)](_0x5c9918=>_0x3a5ff8(_0x11f525,_0x5c9918));return _0x4421;},_0x3d7bc3=(_0x1c267b,_0x3036fb)=>{return _0x181ce4(_0x1c267b,!![],_0x3a5ff8(_0x3036fb['type'],_0x3036fb));};let _0x2026ed=null;for(const _0x3a7246 of _0x3fab33[_0x2a6c05(0x3c3)]('Spawn')[_0x2a6c05(0x4c2)]()){if(_0x3a7246[_0x2a6c05(0x4c3)]!==0x6||_0x3a7246[_0x2a6c05(0x4c4)])continue;const _0x40770c=_0x3a7246[_0x2a6c05(0x4c5)];if(_0x40770c[0x0]['type'][_0x2a6c05(0x3cc)]['includes'](_0x2a6c05(0x39e))&&_0x40770c[0x1]['type'][_0x2a6c05(0x3cc)][_0x2a6c05(0x4c6)](_0x2a6c05(0x4c7))&&_0x40770c[0x1][_0x2a6c05(0x437)][_0x2a6c05(0x3cc)][_0x2a6c05(0x3cd)](_0x2a6c05(0x4c8))&&_0x40770c[0x2]['type'][_0x2a6c05(0x3cc)][_0x2a6c05(0x4c6)]('System.Nullable')&&_0x40770c[0x2][_0x2a6c05(0x437)][_0x2a6c05(0x3cc)][_0x2a6c05(0x3cd)](_0x2a6c05(0x4c9))&&_0x40770c[0x3]['type'][_0x2a6c05(0x3cc)][_0x2a6c05(0x4c6)](_0x2a6c05(0x4c7))&&_0x40770c[0x3]['type']['name']['includes']('PlayerRef')&&_0x40770c[0x4]['type'][_0x2a6c05(0x3cc)][_0x2a6c05(0x3cd)](_0x2a6c05(0x4ca))&&_0x40770c[0x5]['type']['name'][_0x2a6c05(0x3cd)](_0x2a6c05(0x4cb))){_0x2026ed=_0x3a7246;break;}}if(!_0x2026ed)return null;const _0x56a565=_0x3d7bc3(_0x2026ed[_0x2a6c05(0x4c5)][0x1][_0x2a6c05(0x437)],_0x29bdd0),_0x4edfe2=_0x3d7bc3(_0x2026ed[_0x2a6c05(0x4c5)][0x2][_0x2a6c05(0x437)],_0x1d4c9e),_0x5c70ed=_0x181ce4(_0x2026ed[_0x2a6c05(0x4c5)][0x3]['type'],![],_0x11254d(_0x2026ed[_0x2a6c05(0x4c5)][0x3]['type'])),_0x11a404=_0x2026ed[_0x2a6c05(0x4c5)][0x4][_0x2a6c05(0x437)][_0x2a6c05(0x38e)]['isValueType']?_0x11254d(_0x2026ed[_0x2a6c05(0x4c5)][0x4][_0x2a6c05(0x437)]):null;return _0x2026ed['bind'](_0x3fab33)[_0x2a6c05(0x3c6)](_0x29bddb,_0x56a565,_0x4edfe2,_0x5c70ed,_0x11a404,0x0);}}catch(_0x4db53e){}}}catch(_0xe2c242){console[_0x2a6c05(0x4cc)](_0x2a6c05(0x4cd),_0xe2c242);}return null;}function _0x5f3b8e(){const _0x135a97=_0x31bcbe;menu!=null&&(_0x38ca25[_0x135a97(0x3c3)](_0x135a97(0x4ce),0x1)[_0x135a97(0x3c6)](menu),menu=null);}function _0x47fc56(_0x3b99e9,_0x571264){const _0x62be8c=_0x31bcbe,_0x3b848f=Il2Cpp[_0x62be8c(0x382)]['assembly'](_0x62be8c(0x390))[_0x62be8c(0x384)][_0x62be8c(0x38e)](_0x62be8c(0x3ae)),_0x54784d=_0x459a51(_0x3b99e9,_0x3b848f);if(!_0x54784d)return;const _0xc280c0=_0x54784d[_0x62be8c(0x3c3)](_0x62be8c(0x4ac))['invoke']();_0xc280c0[_0x62be8c(0x3c3)](_0x62be8c(0x483))['invoke'](_0x571264[_0x62be8c(0x4cf)]?buttonPressedColor:buttonColor);}function _0x1deb49(){const _0x42be72=_0x31bcbe,_0x38dd79=buttonSound,_0x3f1d74=_0x215901['method'](_0x42be72(0x4d0))['invoke']();_0x215901[_0x42be72(0x3c3)]('RPC_PlaySFX')[_0x42be72(0x3c6)](_0x3f1d74,_0x38dd79,0x1,_0xf3a6cd[_0x42be72(0x3c3)]('get_position')[_0x42be72(0x3c6)](),0x1);}function _0x1fafc4(_0x268c05){const _0xf76987=_0x31bcbe,_0xcc6983=_0x38ca25[_0xf76987(0x3c3)](_0xf76987(0x476))[_0xf76987(0x3a9)](_0x1cbab5)['invoke']();for(let _0x51305b=0x0;_0x51305b<_0xcc6983[_0xf76987(0x419)];_0x51305b++){const _0x5762ce=_0xcc6983[_0xf76987(0x41a)](_0x51305b);_0x5762ce[_0xf76987(0x3c3)](_0xf76987(0x4d1))[_0xf76987(0x3c6)](_0x268c05);}}class _0x2e89a9{constructor(_0xd15de2){const _0x1d17eb=_0x31bcbe;var _0x40f58e,_0x1c0038,_0x1b3867;this[_0x1d17eb(0x49a)]=_0xd15de2[_0x1d17eb(0x49a)],this['method']=_0xd15de2['method'],this['enableMethod']=_0xd15de2[_0x1d17eb(0x4d2)],this[_0x1d17eb(0x4d3)]=_0xd15de2[_0x1d17eb(0x4d3)],this[_0x1d17eb(0x4d4)]=(_0x40f58e=_0xd15de2[_0x1d17eb(0x4d4)])!==null&&_0x40f58e!==void 0x0?_0x40f58e:!![],this[_0x1d17eb(0x4d5)]=(_0x1c0038=_0xd15de2[_0x1d17eb(0x4d5)])!==null&&_0x1c0038!==void 0x0?_0x1c0038:null,this[_0x1d17eb(0x4cf)]=(_0x1b3867=_0xd15de2['enabled'])!==null&&_0x1b3867!==void 0x0?_0x1b3867:![];}}let _0x3ef2d2=0x0,_0x1f264c=0x0;const _0x3e625d=[[new _0x2e89a9({'buttonText':_0x31bcbe(0x4d6),'method':()=>{_0x3ef2d2=0x2,_0x1f264c=0x0;},'isTogglable':![],'toolTip':'Opens\x20the\x20settings\x20category.'}),new _0x2e89a9({'buttonText':'Movement\x20Mods','method':()=>{_0x3ef2d2=0x3,_0x1f264c=0x0;},'isTogglable':![],'toolTip':'Opens\x20the\x20movement\x20category.'}),new _0x2e89a9({'buttonText':'Fun\x20Mods','method':()=>{_0x3ef2d2=0x4,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x4d7)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4d8),'method':()=>{_0x3ef2d2=0x5,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x4d9)}),new _0x2e89a9({'buttonText':'Rig\x20Mods','method':()=>{_0x3ef2d2=0x6,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x4da)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4db),'method':()=>{_0x3ef2d2=0x7,_0x1f264c=0x0;},'isTogglable':![],'toolTip':'Opens\x20the\x20misc\x20category.'}),new _0x2e89a9({'buttonText':'Visual\x20Mods','method':()=>{_0x3ef2d2=0x8,_0x1f264c=0x0;},'isTogglable':![],'toolTip':'Opens\x20the\x20visual\x20category.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4dc),'method':()=>{_0x3ef2d2=0x9,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x4dd)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4de),'method':()=>{_0x3ef2d2=0xa,_0x1f264c=0x0;},'isTogglable':![],'toolTip':'Opens\x20the\x20items\x20category.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4df),'method':()=>{_0x3ef2d2=0xb,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x4e0)}),new _0x2e89a9({'buttonText':'<color=red>♥</color>\x20BLTH','method':()=>{_0x3ef2d2=0xc,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x4e1)})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x494),'method':()=>{const _0x3a4596=_0x31bcbe,_0x4cf39a=_0x215901[_0x3a4596(0x3c3)](_0x3a4596(0x4d0))[_0x3a4596(0x3c6)](),_0x45be83=_0x253280[_0x3a4596(0x3c3)](_0x3a4596(0x47b))[_0x3a4596(0x3c6)]();_0x45be83[_0x3a4596(0x3c3)](_0x3a4596(0x4e2))['invoke'](_0x4cf39a,_0x4cf39a['method']('get_LocalPlayer')[_0x3a4596(0x3c6)]());},'isTogglable':![],'toolTip':_0x31bcbe(0x4e3)}),new _0x2e89a9({'buttonText':'PreviousPage','method':()=>{const _0x1e535c=_0x31bcbe,_0x288836=Math['ceil'](_0x3e625d[_0x3ef2d2][_0x1e535c(0x419)]/0x8)-0x1;_0x1f264c--;if(_0x1f264c<0x0)_0x1f264c=_0x288836;},'isTogglable':![]}),new _0x2e89a9({'buttonText':'NextPage','method':()=>{const _0xa9967e=_0x31bcbe,_0x4d5762=Math[_0xa9967e(0x4e4)](_0x3e625d[_0x3ef2d2]['length']/0x8)-0x1;_0x1f264c++,_0x1f264c%=_0x4d5762+0x1;},'isTogglable':![]}),new _0x2e89a9({'buttonText':'GlobalReturn','method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':'Returns\x20you\x20back\x20to\x20the\x20main\x20category.'})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x4e5),'method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':'Returns\x20you\x20back\x20to\x20the\x20main\x20category.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4e6),'method':()=>{themeIndex++,themeIndex%=0xa;switch(themeIndex){case 0x0:bgColor=[0x1,0.5,0x0,0x1],textColor=[0x1,0.7450981,0.4901961,0x1],buttonColor=[0.666,0.333,0x0,0x1],buttonPressedColor=[0.333,0.15,0x0,0x1];break;case 0x1:bgColor=[0x1,0x0,0x0,0x1],textColor=[0x1,0x1,0x1,0x1],buttonColor=[0x0,0x0,0x0,0x1],buttonPressedColor=[0x1,0x0,0x0,0x1];break;case 0x2:bgColor=[0x0,0x1,0x0,0x1],textColor=[0x1,0x1,0x1,0x1],buttonColor=[0x0,0x0,0x0,0x1],buttonPressedColor=[0x0,0x1,0x0,0x1];break;case 0x3:bgColor=[0x0,0x0,0x1,0x1],textColor=[0x1,0x1,0x1,0x1],buttonColor=[0x0,0x0,0x0,0x1],buttonPressedColor=[0x0,0x0,0x1,0x1];break;case 0x4:bgColor=[0.5,0x0,0.5,0x1],textColor=[0x1,0.9,0x1,0x1],buttonColor=[0.25,0x0,0.25,0x1],buttonPressedColor=[0.7,0x0,0.7,0x1];break;case 0x5:bgColor=[0x0,0.7,0.7,0x1],textColor=[0x1,0.2,0.8,0x1],buttonColor=[0x0,0.3,0.3,0x1],buttonPressedColor=[0x1,0x0,0.7,0x1];break;case 0x6:bgColor=[0.9,0.7,0.1,0x1],textColor=[0x0,0x0,0x0,0x1],buttonColor=[0.2,0.2,0.2,0x1],buttonPressedColor=[0x1,0.84,0x0,0x1];break;case 0x7:bgColor=[0.7,0.9,0x1,0x1],textColor=[0.1,0.2,0.4,0x1],buttonColor=[0.5,0.7,0.9,0x1],buttonPressedColor=[0.2,0.4,0.8,0x1];break;case 0x8:bgColor=[0.6,0x0,0x0,0x1],textColor=[0x1,0.7,0.2,0x1],buttonColor=[0.2,0x0,0x0,0x1],buttonPressedColor=[0x1,0.3,0x0,0x1];break;case 0x9:bgColor=[0.05,0.05,0.1,0x1],textColor=[0.6,0.8,0x1,0x1],buttonColor=[0.1,0.1,0.2,0x1],buttonPressedColor=[0.4,0.6,0x1,0x1];break;}},'isTogglable':![],'toolTip':_0x31bcbe(0x4e7)}),new _0x2e89a9({'buttonText':'Change\x20Eject\x20Dupe\x20Amount','method':()=>{const _0x1e0578=_0x31bcbe;ejectDupeIndex++,ejectDupeIndex%=ejectDupeValues[_0x1e0578(0x419)],ejectDupeAmount=ejectDupeValues[ejectDupeIndex],_0x18fcfc(_0x1e0578(0x4e8)+'New\x20eject\x20dupe\x20amount:\x20'+ejectDupeAmount,![]);},'isTogglable':![],'toolTip':_0x31bcbe(0x4e9)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4ea),'method':()=>{const _0x262deb=_0x31bcbe;jellywowes++,jellywowes>0x1&&(jellywowes=0x1),_0x18fcfc(_0x262deb(0x4e8)+_0x262deb(0x4eb)+jellywowes,![]);},'isTogglable':![],'toolTip':_0x31bcbe(0x4e9)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4ec),'method':()=>{const _0x1d748c=_0x31bcbe;headSizeIndex++,headSizeIndex%=headSizeValues[_0x1d748c(0x419)],headSizeAmount=headSizeValues[headSizeIndex],_0x18fcfc(_0x1d748c(0x4e8)+_0x1d748c(0x4ed)+headSizeAmount,![]);},'isTogglable':![],'toolTip':_0x31bcbe(0x4ee)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4ef),'method':()=>{const _0xcc8fc8=_0x31bcbe;soundFileIndex++,soundFileIndex%=soundFileFiles[_0xcc8fc8(0x419)],_0x18fcfc(_0xcc8fc8(0x4e8)+_0xcc8fc8(0x4ed)+soundFileFiles[soundFileIndex],![]);},'isTogglable':![],'toolTip':_0x31bcbe(0x4ee)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4f0),'method':()=>{const _0xd02d99=_0x31bcbe;rightSecondary&&!previousSoundKey&&_0x4d7d0d(_0xd02d99(0x46a),soundFileFiles[soundFileIndex]),previousSoundKey=rightSecondary;},'isTogglable':!![],'toolTip':_0x31bcbe(0x4e7)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4f1),'method':()=>{_0x3f8a09();},'isTogglable':![],'toolTip':_0x31bcbe(0x4f2)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4f3),'method':()=>negativeHeadSize=!![],'disableMethod':()=>negativeHeadSize=![],'isTogglable':!![],'toolTip':_0x31bcbe(0x4f4)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4f5),'enabled':!![],'enableMethod':()=>localButtonSounds=!![],'disableMethod':()=>localButtonSounds=![],'toolTip':_0x31bcbe(0x4f6)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4f7),'method':()=>{buttonIndex++,buttonIndex%=0x5;switch(buttonIndex){case 0x0:buttonSound=0x2c;break;case 0x1:buttonSound=0x43;break;case 0x2:buttonSound=0x44;break;case 0x3:buttonSound=0x4b;break;case 0x4:buttonSound=0x64;break;case 0x5:buttonSound=0x77;break;}},'isTogglable':![],'toolTip':'Changes\x20the\x20button\x20sound.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4f8),'method':()=>{const _0x5a25a8=_0x31bcbe;rightGrab?itemIndex--:itemIndex++,console['log'](itemIDs[itemIndex]),_0x18fcfc(_0x5a25a8(0x4e8)+_0x5a25a8(0x4f9)+itemIDs[itemIndex],![]);},'isTogglable':![],'toolTip':'Changes\x20the\x20item\x20ID.\x20Hold\x20right\x20grip\x20to\x20go\x20down'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4fa),'method':()=>{if(rightGrab)huespawner+=0x1;else!rightGrab&&(huespawner-=0x1);if(huespawner>0xaa)huespawner=0xaa;else huespawner<-0x1b&&(huespawner=0x0);},'isTogglable':![],'toolTip':'Changes\x20the\x20hue.\x20Hold\x20right\x20grip\x20to\x20go\x20up'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x4fb),'method':()=>{if(rightGrab)saturationspawner+=0x1;else!rightGrab&&(saturationspawner-=0x1);if(saturationspawner>0x78)saturationspawner=0x78;else saturationspawner<0x0&&(saturationspawner=0x0);},'isTogglable':![],'toolTip':_0x31bcbe(0x4fc)}),new _0x2e89a9({'buttonText':'Custom\x20Scale\x20Held\x20Item','method':()=>{const _0x1d286a=_0x31bcbe;try{const _0x4b3bef=_0x393291['method']('get_localPlayer')[_0x1d286a(0x3c6)]();if(!_0x4b3bef)return;const _0xebe993=_0x4b3bef['method'](_0x1d286a(0x4fd),0x1)[_0x1d286a(0x3c6)](0x0);if(!_0xebe993)return;const _0x2198b3=_0xebe993[_0x1d286a(0x3c1)](_0x1d286a(0x4fe))[_0x1d286a(0x3c0)];if(!_0x2198b3)return;const _0x405ee5=_0x2198b3[_0x1d286a(0x3c3)]('get_grabbableObject')[_0x1d286a(0x3c6)]();if(!_0x405ee5)return;if(rightGrab){scaleVal++;if(scaleVal>0x7f)scaleVal=-0x7f;}if(leftGrab){scaleVal--;if(scaleVal<-0x7f)scaleVal=0x7f;}_0x405ee5[_0x1d286a(0x3c3)](_0x1d286a(0x4ff))['invoke'](scaleVal);}catch(_0xb45ff2){console['error'](_0xb45ff2);}},'isTogglable':!![],'toolTip':_0x31bcbe(0x500)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x501),'isTogglable':!![],'method':((()=>{let _0xba6135=0x0;function _0x1c4c75(_0x1928ce,_0x4a8c20){const _0x5a0d98=_0x5dc6;return Math[_0x5a0d98(0x502)](Math['random']()*(_0x4a8c20-_0x1928ce+0x1))+_0x1928ce;}return()=>{const _0x1846de=_0x5dc6;try{if(!rightGrab)return;if(!rightTrigger)return;const _0xc10fdb=_0x304407[_0x1846de(0x3c3)](_0x1846de(0x503))['invoke']();if(_0xc10fdb<_0xba6135)return;_0xba6135=_0xc10fdb+0x0;const _0x46202f=_0x1890c1[_0x1846de(0x3c3)](_0x1846de(0x41e))[_0x1846de(0x3c6)](),_0x4e88ec=_0x1890c1[_0x1846de(0x3c3)](_0x1846de(0x4a1))['invoke'](),_0x2f6d63=_0x26e0fc['method'](_0x1846de(0x504),0x4)[_0x1846de(0x3c6)](Il2Cpp[_0x1846de(0x41b)](_0x1846de(0x351)),_0x46202f,_0x471248,null);if(!_0x2f6d63||_0x2f6d63[_0x1846de(0x4a7)]['isNull']())return;const _0x39dc1f=_0x2f6d63[_0x1846de(0x3c3)](_0x1846de(0x413),0x1)[_0x1846de(0x3a9)](_0x2bf557)[_0x1846de(0x3c6)]();_0x39dc1f&&!_0x39dc1f['isNull']()&&(_0x39dc1f['method'](_0x1846de(0x505))[_0x1846de(0x3c6)](_0x1c4c75(-0x78,0x78)),_0x39dc1f[_0x1846de(0x3c3)](_0x1846de(0x506))['invoke'](_0x1c4c75(-0x7f,0x7f)),_0x39dc1f[_0x1846de(0x3c3)]('set_scaleModifier')[_0x1846de(0x3c6)](0x7f),_0x39dc1f[_0x1846de(0x3c3)](_0x1846de(0x507),0x1)[_0x1846de(0x3c6)](_0x3da345[_0x1846de(0x3c3)](_0x1846de(0x49b),0x2)[_0x1846de(0x3c6)](_0x4e88ec,0x64)));}catch(_0x1b5861){console[_0x1846de(0x4cc)](_0x1846de(0x508),_0x1b5861);}};})()),'toolTip':_0x31bcbe(0x509)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x50a),'method':()=>{if(rightGrab)jellyspawner+=0x1;else!rightGrab&&(jellyspawner-=0x1);if(jellyspawner>0xa)jellyspawner=0xa;else jellyspawner<0x0&&(jellyspawner=0x0);},'isTogglable':![],'toolTip':_0x31bcbe(0x50b)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x50c),'method':()=>{const _0x429dc1=_0x31bcbe;rightGrab?mobIndex--:mobIndex++,console[_0x429dc1(0x424)](mobIDs[mobIndex]),_0x18fcfc('<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color>\x20'+_0x429dc1(0x50d)+mobIDs[mobIndex],![]);},'isTogglable':![],'toolTip':_0x31bcbe(0x50e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x50f),'method':()=>{menuscale+=0.1,menuscale>1.5&&(menuscale=0.3);},'isTogglable':![],'toolTip':_0x31bcbe(0x510)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x511),'enabled':![],'method':()=>{const _0x22dc8e=_0x31bcbe;menu!=null?closePosition==null?closePosition=_0x20982b(_0x4db745)['method'](_0x22dc8e(0x41e))[_0x22dc8e(0x3c6)]():(_0x20982b(_0x4db745)[_0x22dc8e(0x3c3)]('set_position')[_0x22dc8e(0x3c6)](closePosition),_0x4db745[_0x22dc8e(0x3c3)](_0x22dc8e(0x512))[_0x22dc8e(0x3c6)](_0x7444ed)):closePosition=null;},'toolTip':_0x31bcbe(0x513)}),new _0x2e89a9({'buttonText':'Button\x20Notifications','enabled':!![],'method':()=>buttonNotifications=!![],'disableMethod':()=>buttonNotifications=![],'toolTip':_0x31bcbe(0x514)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x515),'method':()=>_0x1ef9ee=!![],'disableMethod':()=>_0x1ef9ee=!![],'toolTip':_0x31bcbe(0x516)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x517),'method':()=>LerpMenu=!![],'disableMethod':()=>LerpMenu=![],'toolTip':_0x31bcbe(0x518)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x519),'enableMethod':()=>highPunchPower=!![],'disableMethod':()=>highPunchPower=![],'toolTip':_0x31bcbe(0x51a)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x51b),'method':()=>{const _0x557fee=_0x31bcbe;currentWorldPrefabIndex=(currentWorldPrefabIndex+0x1)%worldPrefabs[_0x557fee(0x419)],_0x18fcfc('Prefab:\x20'+worldPrefabs[currentWorldPrefabIndex]);},'isTogglable':![],'toolTip':_0x31bcbe(0x51c)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x51d),'method':()=>{const _0x7bd6d9=_0x31bcbe;currentWorldPrefabIndex=(currentWorldPrefabIndex-0x1+worldPrefabs[_0x7bd6d9(0x419)])%worldPrefabs['length'],_0x18fcfc(_0x7bd6d9(0x51e)+worldPrefabs[currentWorldPrefabIndex]);},'isTogglable':![],'toolTip':'Previous\x20non-item\x20prefab'}),new _0x2e89a9({'buttonText':'prefab\x20spawnling','method':()=>{const _0x47a029=_0x31bcbe;try{const _0x5c0de4=_0x393291[_0x47a029(0x3c3)](_0x47a029(0x421))['invoke']();if(!_0x5c0de4)return;const _0x1b2db7=Il2Cpp[_0x47a029(0x382)][_0x47a029(0x383)](_0x47a029(0x38d))['image']['class']('AnimalCompany.NetworkPrefabSheet'),_0x1dd82e=_0x1b2db7[_0x47a029(0x3c3)](_0x47a029(0x51f))[_0x47a029(0x3c6)]();if(!_0x1dd82e)return;const _0x447c17=worldPrefabs[currentWorldPrefabIndex],_0x3aa232=_0x1dd82e[_0x47a029(0x3c1)](_0x447c17)[_0x47a029(0x3c0)];if(!_0x3aa232)return;const _0x4af481=_0x3aa232[_0x47a029(0x3c3)]('get_gameObject')[_0x47a029(0x3c6)](),_0x2c79f8=Il2Cpp[_0x47a029(0x382)][_0x47a029(0x383)](_0x47a029(0x38d))[_0x47a029(0x384)][_0x47a029(0x38e)](_0x47a029(0x520));for(let _0x754eff=0x0;_0x754eff<=0x1;_0x754eff++){const _0x46c49b=_0x5c0de4['method'](_0x47a029(0x4fd),0x1)[_0x47a029(0x3c6)](_0x754eff);if(!_0x46c49b)continue;const _0x15e206=_0x46c49b[_0x47a029(0x3c1)](_0x47a029(0x4fe))[_0x47a029(0x3c0)];if(!_0x15e206)continue;const _0x52e074=_0x15e206[_0x47a029(0x3c3)](_0x47a029(0x521))[_0x47a029(0x3c6)]();if(!_0x52e074)continue;const _0x1a2f46=_0x52e074[_0x47a029(0x3c3)](_0x47a029(0x522))[_0x47a029(0x3c6)]();if(!_0x1a2f46)continue;const _0x339332=_0x1a2f46[_0x47a029(0x3c3)]('GetComponent',0x1)[_0x47a029(0x3a9)](_0x2c79f8)[_0x47a029(0x3c6)]();if(!_0x339332)continue;_0x339332[_0x47a029(0x3c1)]('_projectilePrefab')[_0x47a029(0x3c0)]=_0x4af481,_0x339332[_0x47a029(0x3c1)](_0x47a029(0x523))[_0x47a029(0x3c0)]=null,_0x339332[_0x47a029(0x3c1)]('_sfxShootEmpty')['value']=null;}_0x18fcfc(_0x47a029(0x524)+_0x447c17);}catch(_0x3a26cc){console[_0x47a029(0x4cc)](_0x3a26cc);}},'isTogglable':![],'toolTip':_0x31bcbe(0x525)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x526),'method':()=>{const _0x5717b7=_0x31bcbe;currentItemIndex=(currentItemIndex+0x1)%itemPrefabs['length'],_0x18fcfc(_0x5717b7(0x527)+itemPrefabs[currentItemIndex]);},'isTogglable':![],'toolTip':_0x31bcbe(0x528)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x529),'method':()=>{currentItemIndex=(currentItemIndex-0x1+itemPrefabs['length'])%itemPrefabs['length'],_0x18fcfc('Item:\x20'+itemPrefabs[currentItemIndex]);},'isTogglable':![],'toolTip':'Previous\x20item_\x20prefab'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x52a),'method':()=>{const _0x46e449=_0x31bcbe;try{const _0x3aea74=_0x393291[_0x46e449(0x3c3)]('get_localPlayer')[_0x46e449(0x3c6)]();if(!_0x3aea74)return;const _0x140775=Il2Cpp[_0x46e449(0x382)][_0x46e449(0x383)](_0x46e449(0x38d))['image'][_0x46e449(0x38e)](_0x46e449(0x52b)),_0x358cfc=_0x140775[_0x46e449(0x3c3)](_0x46e449(0x51f))[_0x46e449(0x3c6)]();if(!_0x358cfc)return;const _0x3044a8=itemPrefabs[currentItemIndex],_0x4bc462=_0x358cfc['field'](_0x3044a8)[_0x46e449(0x3c0)];if(!_0x4bc462)return;const _0x1ee79a=_0x4bc462[_0x46e449(0x3c3)]('get_gameObject')[_0x46e449(0x3c6)](),_0x15b1cc=Il2Cpp[_0x46e449(0x382)][_0x46e449(0x383)]('AnimalCompany')[_0x46e449(0x384)][_0x46e449(0x38e)](_0x46e449(0x520));for(let _0x56037a=0x0;_0x56037a<=0x1;_0x56037a++){const _0x35add7=_0x3aea74[_0x46e449(0x3c3)](_0x46e449(0x4fd),0x1)[_0x46e449(0x3c6)](_0x56037a);if(!_0x35add7)continue;const _0x1e512f=_0x35add7[_0x46e449(0x3c1)](_0x46e449(0x4fe))['value'];if(!_0x1e512f)continue;const _0x4d902e=_0x1e512f['method']('get_grabbableObject')[_0x46e449(0x3c6)]();if(!_0x4d902e)continue;const _0x790c80=_0x4d902e[_0x46e449(0x3c3)](_0x46e449(0x522))[_0x46e449(0x3c6)]();if(!_0x790c80)continue;const _0x56a9c5=_0x790c80[_0x46e449(0x3c3)](_0x46e449(0x413),0x1)[_0x46e449(0x3a9)](_0x15b1cc)[_0x46e449(0x3c6)]();if(!_0x56a9c5)continue;_0x56a9c5[_0x46e449(0x3c1)](_0x46e449(0x52c))[_0x46e449(0x3c0)]=_0x1ee79a,_0x56a9c5[_0x46e449(0x3c1)](_0x46e449(0x523))[_0x46e449(0x3c0)]=null,_0x56a9c5[_0x46e449(0x3c1)](_0x46e449(0x52d))['value']=null;}_0x18fcfc('item:\x20'+_0x3044a8);}catch(_0x287fc2){console[_0x46e449(0x4cc)](_0x287fc2);}},'isTogglable':![],'toolTip':'Load\x20selected\x20item_\x20prefab\x20into\x20flare\x20gun'})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x52e),'method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':'Returns\x20you\x20back\x20to\x20the\x20main\x20category.'}),new _0x2e89a9({'buttonText':'Joystick\x20Fly','method':((()=>{let _0x4b4564=0x0,_0x371fe6=0x0,_0x426f7e=0x0,_0xff1be8=0x0;return()=>{const _0x5938b8=_0x5dc6;try{const _0x3e29c0=_0x5891e3['method'](_0x5938b8(0x52f),0x1)['invoke'](0x4),_0x1e1126=_0x5891e3[_0x5938b8(0x3c3)](_0x5938b8(0x52f),0x1)['invoke'](0x5),_0x33559b=Il2Cpp['alloc'](0x8),_0x23786d=Il2Cpp[_0x5938b8(0x530)](0x8);_0x3e29c0[_0x5938b8(0x3c3)](_0x5938b8(0x531),0x2)[_0x5938b8(0x3c6)](_0x1a3287[_0x5938b8(0x3c1)](_0x5938b8(0x532))[_0x5938b8(0x3c0)],_0x33559b),_0x1e1126[_0x5938b8(0x3c3)](_0x5938b8(0x531),0x2)[_0x5938b8(0x3c6)](_0x1a3287[_0x5938b8(0x3c1)](_0x5938b8(0x532))[_0x5938b8(0x3c0)],_0x23786d),_0x4b4564=_0x33559b[_0x5938b8(0x533)](),_0x371fe6=_0x33559b[_0x5938b8(0x534)](0x4)['readFloat'](),_0x426f7e=_0x23786d['readFloat'](),_0xff1be8=_0x23786d['add'](0x4)[_0x5938b8(0x533)]();if(Math[_0x5938b8(0x535)](_0x4b4564)<0.1&&Math[_0x5938b8(0x535)](_0x371fe6)<0.1&&Math[_0x5938b8(0x535)](_0x426f7e)<0.1&&Math[_0x5938b8(0x535)](_0xff1be8)<0.1)return;const _0x35c50e=0x8,_0x1ab94d=_0x20982b(_0x1aadbf)[_0x5938b8(0x3c3)](_0x5938b8(0x4a1))['invoke'](),_0x3c3238=_0x20982b(_0x1aadbf)['method']('get_right')[_0x5938b8(0x3c6)](),_0x30a4e2=_0x3da345[_0x5938b8(0x3c1)](_0x5938b8(0x536))[_0x5938b8(0x3c0)],_0x41758e=_0x3da345['method'](_0x5938b8(0x537))['invoke'](_0x3da345[_0x5938b8(0x3c3)]('op_Subtraction')[_0x5938b8(0x3c6)](_0x1ab94d,_0x3da345['method'](_0x5938b8(0x49b))[_0x5938b8(0x3c6)](_0x30a4e2,_0x3da345['method'](_0x5938b8(0x538))[_0x5938b8(0x3c6)](_0x1ab94d,_0x30a4e2)))),_0x36f622=_0x3da345[_0x5938b8(0x3c3)](_0x5938b8(0x537))[_0x5938b8(0x3c6)](_0x3da345['method'](_0x5938b8(0x41d))['invoke'](_0x3c3238,_0x3da345[_0x5938b8(0x3c3)](_0x5938b8(0x49b))['invoke'](_0x30a4e2,_0x3da345[_0x5938b8(0x3c3)](_0x5938b8(0x538))[_0x5938b8(0x3c6)](_0x3c3238,_0x30a4e2)))),_0x11b120=_0x3da345[_0x5938b8(0x3c3)]('op_Multiply')[_0x5938b8(0x3c6)](_0x41758e,_0xff1be8*_0x35c50e*deltaTime),_0x5ad8f8=_0x3da345[_0x5938b8(0x3c3)]('op_Multiply')[_0x5938b8(0x3c6)](_0x36f622,_0x426f7e*_0x35c50e*deltaTime),_0x15f0ae=_0x3da345[_0x5938b8(0x3c3)](_0x5938b8(0x49b))[_0x5938b8(0x3c6)](_0x30a4e2,_0x371fe6*_0x35c50e*deltaTime);let _0xd77305=_0x3da345[_0x5938b8(0x3c3)](_0x5938b8(0x41f))['invoke'](_0x11b120,_0x5ad8f8);_0xd77305=_0x3da345[_0x5938b8(0x3c3)](_0x5938b8(0x41f))[_0x5938b8(0x3c6)](_0xd77305,_0x15f0ae),_0x4db745['method']('set_linearVelocity')['invoke'](_0x7444ed);const _0x3e887e=_0x20982b(_0x151be1)[_0x5938b8(0x3c3)](_0x5938b8(0x41e))[_0x5938b8(0x3c6)](),_0x2473cd=_0x3da345[_0x5938b8(0x3c3)](_0x5938b8(0x41f))['invoke'](_0x3e887e,_0xd77305);_0x20982b(_0x151be1)[_0x5938b8(0x3c3)](_0x5938b8(0x473))[_0x5938b8(0x3c6)](_0x2473cd);}catch(_0x3ed21f){console['error']('joystick\x20fly\x20error:',_0x3ed21f);}};})()),'isTogglable':!![],'toolTip':_0x31bcbe(0x539)}),new _0x2e89a9({'buttonText':'Platforms','method':()=>{const _0x352063=_0x31bcbe,_0x58fd95=-0.2;if(leftGrab){if(leftPlatform==null){const _0x27c431=_0xf3a6cd;leftPlatform=_0x4d6520(_0x27c431[_0x352063(0x3c3)](_0x352063(0x41e))[_0x352063(0x3c6)](),_0x27c431[_0x352063(0x3c3)]('get_rotation')[_0x352063(0x3c6)](),[0.025,0.15,0.2],0x3,bgColor),_0x20982b(leftPlatform)[_0x352063(0x3c3)](_0x352063(0x49e))[_0x352063(0x3c6)]([0x0,_0x58fd95,0x0]);}}else leftPlatform!=null&&(_0x386f73(leftPlatform),leftPlatform=null);if(rightGrab){if(rightPlatform==null){const _0x15848d=_0x1890c1;rightPlatform=_0x4d6520(_0x15848d[_0x352063(0x3c3)]('get_position')[_0x352063(0x3c6)](),_0x15848d[_0x352063(0x3c3)](_0x352063(0x4b2))[_0x352063(0x3c6)](),[0.025,0.15,0.2],0x3,bgColor),_0x20982b(rightPlatform)['method'](_0x352063(0x49e))[_0x352063(0x3c6)]([0x0,_0x58fd95,0x0]);}}else rightPlatform!=null&&(_0x386f73(rightPlatform),rightPlatform=null);},'toolTip':_0x31bcbe(0x53a)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x53b),'method':()=>{const _0x3ebc0b=_0x31bcbe;if(leftTrigger){if(leftPlatform==null){const _0x597f79=_0xf3a6cd;leftPlatform=_0x4d6520(_0x597f79['method']('get_position')['invoke'](),_0x597f79[_0x3ebc0b(0x3c3)](_0x3ebc0b(0x4b2))['invoke'](),[0.025,0.15,0.2],0x3,bgColor);}}else leftPlatform!=null&&(_0x386f73(leftPlatform),leftPlatform=null);if(rightTrigger){if(rightPlatform==null){const _0xee09ec=_0x1890c1;rightPlatform=_0x4d6520(_0xee09ec[_0x3ebc0b(0x3c3)](_0x3ebc0b(0x41e))['invoke'](),_0xee09ec[_0x3ebc0b(0x3c3)](_0x3ebc0b(0x4b2))[_0x3ebc0b(0x3c6)](),[0.025,0.15,0.2],0x3,bgColor);}}else rightPlatform!=null&&(_0x386f73(rightPlatform),rightPlatform=null);},'toolTip':_0x31bcbe(0x53c)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x53d),'method':()=>{const _0x1f1231=_0x31bcbe;if(rightPrimary){_0x4db745[_0x1f1231(0x3c3)](_0x1f1231(0x512))['invoke'](_0x3da345[_0x1f1231(0x3c1)]('zeroVector')[_0x1f1231(0x3c0)]);const _0x5c6f63=_0x20982b(_0x151be1);let _0x15ad6f=_0x20982b(_0x1aadbf)[_0x1f1231(0x3c3)](_0x1f1231(0x4a1))[_0x1f1231(0x3c6)](),_0x4d5876=_0x5c6f63[_0x1f1231(0x3c3)](_0x1f1231(0x41e))[_0x1f1231(0x3c6)]();_0x15ad6f=_0x3da345['method'](_0x1f1231(0x49b),0x2)[_0x1f1231(0x3c6)](_0x15ad6f,0x19*deltaTime),_0x4d5876=_0x3da345[_0x1f1231(0x3c3)]('op_Addition',0x2)[_0x1f1231(0x3c6)](_0x4d5876,_0x15ad6f),_0x5c6f63['method'](_0x1f1231(0x473))[_0x1f1231(0x3c6)](_0x4d5876);}},'toolTip':_0x31bcbe(0x53e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x53f),'method':()=>{const _0x48d8e5=_0x31bcbe;if(rightTrigger){_0x4db745[_0x48d8e5(0x3c3)](_0x48d8e5(0x512))[_0x48d8e5(0x3c6)](_0x3da345[_0x48d8e5(0x3c1)](_0x48d8e5(0x3d4))[_0x48d8e5(0x3c0)]);const _0x103e6e=_0x20982b(_0x151be1);let _0x4bd025=_0x20982b(_0x1aadbf)[_0x48d8e5(0x3c3)](_0x48d8e5(0x4a1))[_0x48d8e5(0x3c6)](),_0x77c947=_0x103e6e[_0x48d8e5(0x3c3)]('get_position')[_0x48d8e5(0x3c6)]();_0x4bd025=_0x3da345[_0x48d8e5(0x3c3)](_0x48d8e5(0x49b),0x2)[_0x48d8e5(0x3c6)](_0x4bd025,0x19*deltaTime),_0x77c947=_0x3da345['method']('op_Addition',0x2)[_0x48d8e5(0x3c6)](_0x77c947,_0x4bd025),_0x103e6e[_0x48d8e5(0x3c3)]('set_position')['invoke'](_0x77c947);}},'toolTip':_0x31bcbe(0x540)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x541),'method':()=>{const _0x5f1c2c=_0x31bcbe;rightTrigger&&rightGrab&&_0x4db745[_0x5f1c2c(0x3c3)](_0x5f1c2c(0x512))[_0x5f1c2c(0x3c6)](_0x3da345[_0x5f1c2c(0x3c1)](_0x5f1c2c(0x3d4))[_0x5f1c2c(0x3c0)]),rightTrigger&&!rightGrab&&_0x4db745[_0x5f1c2c(0x3c3)]('AddForce')[_0x5f1c2c(0x3c6)](_0x3da345[_0x5f1c2c(0x3c1)](_0x5f1c2c(0x536))['value'],0xaf*deltaTime),!rightTrigger&&rightGrab&&_0x4db745['method']('AddForce')[_0x5f1c2c(0x3c6)](_0x3da345[_0x5f1c2c(0x3c1)]('downVector')[_0x5f1c2c(0x3c0)],0xaf*deltaTime);},'toolTip':_0x31bcbe(0x542)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x543),'disableMethod':()=>{const _0x3c9cc8=_0x31bcbe;_0x151be1[_0x3c9cc8(0x3c1)]('<playerScale>k__BackingField')[_0x3c9cc8(0x3c0)]=0x1;},'method':()=>{const _0x2db11e=_0x31bcbe;rightTrigger&&(_0x151be1[_0x2db11e(0x3c1)](_0x2db11e(0x49d))[_0x2db11e(0x3c0)]+=0.01),leftTrigger&&(_0x151be1[_0x2db11e(0x3c1)](_0x2db11e(0x49d))[_0x2db11e(0x3c0)]-=0.01);},'toolTip':_0x31bcbe(0x544)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x545),'disableMethod':()=>{checkpoint!=null&&(_0x386f73(checkpoint),checkpoint=null);},'method':()=>{const _0x2674c6=_0x31bcbe;if(rightGrab&&rightPrimary&&leftPrimary){if(checkpoint==null){const _0x280243=_0x1890c1;checkpoint=_0x4d6520(_0x280243[_0x2674c6(0x3c3)]('get_position')['invoke'](),_0x471248,[0.2,0.2,0.2],0x3,bgColor),_0x386f73(_0x459a51(checkpoint,_0x278306));}else{const _0x3450c2=_0x1890c1;checkpoint[_0x2674c6(0x3c3)]('get_transform')[_0x2674c6(0x3c6)]()['method'](_0x2674c6(0x473))[_0x2674c6(0x3c6)](_0x3450c2[_0x2674c6(0x3c3)](_0x2674c6(0x41e))['invoke']());}}rightPrimary&&leftPrimary&&(checkpoint!=null&&(_0x3d31ae(checkpoint[_0x2674c6(0x3c3)](_0x2674c6(0x41c))['invoke']()['method']('get_position')['invoke']()),_0x4db745['method'](_0x2674c6(0x512))[_0x2674c6(0x3c6)](_0x7444ed)));},'toolTip':_0x31bcbe(0x546)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x547),'method':()=>{const _0x3675e5=_0x31bcbe,_0x4afe25=_0x3da345[_0x3675e5(0x3c3)](_0x3675e5(0x49b),0x2)[_0x3675e5(0x3c6)](_0x3da345[_0x3675e5(0x3c1)](_0x3675e5(0x536))[_0x3675e5(0x3c0)],deltaTime*(6.66/deltaTime));_0x4db745[_0x3675e5(0x3c3)](_0x3675e5(0x548),0x2)[_0x3675e5(0x3c6)](_0x4afe25,0x5);},'toolTip':_0x31bcbe(0x549)}),new _0x2e89a9({'buttonText':'Zero\x20Gravity','method':()=>{const _0x24956f=_0x31bcbe,_0x574150=_0x3da345['method'](_0x24956f(0x49b),0x2)[_0x24956f(0x3c6)](_0x3da345['field']('upVector')[_0x24956f(0x3c0)],deltaTime*(9.81/deltaTime));_0x4db745[_0x24956f(0x3c3)]('AddForce',0x2)['invoke'](_0x574150,0x5);},'toolTip':'Makes\x20gravity\x20lower\x20on\x20your\x20character.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x54a),'method':()=>{const _0x2ba2ad=_0x31bcbe,_0x4da7dc=_0x3da345[_0x2ba2ad(0x3c3)](_0x2ba2ad(0x49b),0x2)['invoke'](_0x3da345[_0x2ba2ad(0x3c1)](_0x2ba2ad(0x54b))[_0x2ba2ad(0x3c0)],deltaTime*(7.77/deltaTime));_0x4db745[_0x2ba2ad(0x3c3)](_0x2ba2ad(0x548),0x2)[_0x2ba2ad(0x3c6)](_0x4da7dc,0x5);},'toolTip':_0x31bcbe(0x54c)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x54d),'method':()=>{const _0x39f607=_0x31bcbe;if(rightGrab){const _0x2db2f6=_0x404c48(),_0x3315a4=_0x2db2f6[_0x39f607(0x54e)];rightTrigger&&!perviousTeleportKey&&(_0x3d31ae(_0x20982b(_0x3315a4)[_0x39f607(0x3c3)](_0x39f607(0x41e))[_0x39f607(0x3c6)]()),_0x4db745[_0x39f607(0x3c3)](_0x39f607(0x512))[_0x39f607(0x3c6)](_0x7444ed)),perviousTeleportKey=rightTrigger;}},'toolTip':_0x31bcbe(0x54f)}),new _0x2e89a9({'buttonText':'Teleport\x20To\x20Random','method':()=>{const _0x164823=_0x31bcbe,_0x18b10e=_0x38ca25[_0x164823(0x3c3)]('FindObjectsOfType')[_0x164823(0x3a9)](_0x393291)[_0x164823(0x3c6)]();if(!_0x18b10e)return null;const _0x25526f=[];for(let _0x1e0193=0x0;_0x1e0193<_0x18b10e['length'];_0x1e0193++){const _0x4d7d8a=_0x18b10e[_0x164823(0x41a)](_0x1e0193);if(_0x3aec50(_0x4d7d8a))continue;_0x25526f[_0x164823(0x550)](_0x4d7d8a);}if(_0x25526f['length']===0x0)return null;const _0x207db0=_0x25526f[Math[_0x164823(0x502)](Math[_0x164823(0x551)]()*_0x25526f[_0x164823(0x419)])];_0x3d31ae(_0x20982b(_0x207db0)[_0x164823(0x3c3)]('get_position')[_0x164823(0x3c6)]()),_0x4db745['method'](_0x164823(0x512))['invoke'](_0x7444ed);},'isTogglable':![],'toolTip':_0x31bcbe(0x552)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x553),'method':()=>{const _0x1e5fb3=_0x31bcbe;if(leftPrimary){const _0x2c5b28=_0xf3a6cd[_0x1e5fb3(0x3c3)](_0x1e5fb3(0x554))['invoke'](),_0x3b0abb=_0x3da345[_0x1e5fb3(0x3c3)](_0x1e5fb3(0x49b),0x2)[_0x1e5fb3(0x3c6)](_0x2c5b28,-0xf*deltaTime);_0x4db745[_0x1e5fb3(0x3c3)](_0x1e5fb3(0x548),0x2)[_0x1e5fb3(0x3c6)](_0x3b0abb,0x2);}if(rightPrimary){const _0x39f2ec=_0x1890c1[_0x1e5fb3(0x3c3)](_0x1e5fb3(0x554))[_0x1e5fb3(0x3c6)](),_0x207cdf=_0x3da345[_0x1e5fb3(0x3c3)](_0x1e5fb3(0x49b),0x2)[_0x1e5fb3(0x3c6)](_0x39f2ec,0xf*deltaTime);_0x4db745[_0x1e5fb3(0x3c3)](_0x1e5fb3(0x548),0x2)[_0x1e5fb3(0x3c6)](_0x207cdf,0x2);}},'toolTip':'Turns\x20you\x20into\x20iron\x20man.\x20Use\x20A\x20and\x20X\x20to\x20fly.'}),new _0x2e89a9({'buttonText':'Noclip','method':()=>{rightTrigger&&!previousNoclipKey&&_0x1fafc4(![]),!rightTrigger&&previousNoclipKey&&_0x1fafc4(!![]),previousNoclipKey=rightTrigger;},'toolTip':_0x31bcbe(0x555)}),new _0x2e89a9({'buttonText':'Noclip\x20V2','method':()=>{const _0x16b2c0=_0x31bcbe;rightTrigger&&!previousNoclipKey&&(_0x151be1[_0x16b2c0(0x3c1)](_0x16b2c0(0x556))[_0x16b2c0(0x3c0)]=!![]),!rightTrigger&&previousNoclipKey&&(_0x151be1[_0x16b2c0(0x3c1)]('<ignoreHeadCollisions>k__BackingField')[_0x16b2c0(0x3c0)]=![]),previousNoclipKey=rightTrigger;},'toolTip':_0x31bcbe(0x555)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x557),'method':()=>{const _0x3c93d4=_0x31bcbe;_0x20982b(_0x151be1)[_0x3c93d4(0x3c3)]('set_localScale')[_0x3c93d4(0x3c6)]([1.08,1.08,1.08]);},'disableMethod':()=>{const _0x5e57bf=_0x31bcbe;_0x20982b(_0x151be1)[_0x5e57bf(0x3c3)](_0x5e57bf(0x48e))['invoke'](_0xa6f996);},'toolTip':'Gives\x20you\x20Slightly\x20longer\x20arms.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x558),'method':()=>{const _0x2ce4e1=_0x31bcbe;_0x20982b(_0x151be1)[_0x2ce4e1(0x3c3)](_0x2ce4e1(0x48e))[_0x2ce4e1(0x3c6)]([1.25,1.25,1.25]);},'disableMethod':()=>{const _0x2bf97a=_0x31bcbe;_0x20982b(_0x151be1)[_0x2bf97a(0x3c3)](_0x2bf97a(0x48e))['invoke'](_0xa6f996);},'toolTip':_0x31bcbe(0x559)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x55a),'method':()=>{const _0x28eef0=_0x31bcbe;_0x151be1[_0x28eef0(0x3c3)](_0x28eef0(0x55b))[_0x28eef0(0x3c6)](0x2);},'toolTip':_0x31bcbe(0x55c)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x55d),'method':()=>{const _0x42cd83=_0x31bcbe;if(!_0x151be1||!_0x4db745)return;const _0x237817=_0x4db745['method']('set_constraints'),_0x5bd71d=_0x4db745[_0x42cd83(0x3c3)](_0x42cd83(0x55e)),_0xc3b95b=_0x20982b(_0x151be1)[_0x42cd83(0x3c3)](_0x42cd83(0x55f)),_0x19ef31=_0x4db745[_0x42cd83(0x3c3)]('set_linearVelocity'),_0x9175e5=_0x4db745['method']('get_linearVelocity'),_0x2ff476=_0x4db745[_0x42cd83(0x3c3)](_0x42cd83(0x548));rightStick&&_0x237817[_0x42cd83(0x3c6)](0x0),!rightStick&&(_0x5bd71d[_0x42cd83(0x3c6)]()[_0x42cd83(0x3c1)]('value__')[_0x42cd83(0x3c0)]===0x0&&(_0x237817['invoke'](0x70),_0xc3b95b['invoke'](_0x471248)));},'toolTip':_0x31bcbe(0x560)})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x561),'method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x562)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x563),'method':()=>{const _0x4a276f=_0x31bcbe;currentItemIndex=(currentItemIndex+0x1)%itemIDs[_0x4a276f(0x419)],_0x18fcfc(_0x4a276f(0x51e)+itemIDs[currentItemIndex],![]);},'isTogglable':![],'toolTip':_0x31bcbe(0x564)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x565),'method':()=>{const _0x2d6b93=_0x31bcbe;currentItemIndex=(currentItemIndex-0x1+itemIDs[_0x2d6b93(0x419)])%itemIDs[_0x2d6b93(0x419)],_0x18fcfc(_0x2d6b93(0x51e)+itemIDs[currentItemIndex],![]);},'isTogglable':![],'toolTip':_0x31bcbe(0x566)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x567),'isTogglable':!![],'method':((()=>{let _0x548723=0x0,_0x1a59a4=[],_0x4cc53c=-0x1;const _0x19b332=1.5,_0x550769=0x5a;return()=>{const _0x5829fc=_0x5dc6;try{if(_0x4cc53c!==currentItemIndex){for(const _0x3964fb of _0x1a59a4){try{if(_0x3964fb&&!_0x3964fb[_0x5829fc(0x417)]()){const _0x20c673=_0x3964fb[_0x5829fc(0x3c3)](_0x5829fc(0x413),0x1)[_0x5829fc(0x3a9)](_0x23bd25)[_0x5829fc(0x3c6)]();if(_0x20c673&&!_0x20c673[_0x5829fc(0x417)]()){const _0x3b8ef8=_0x26e0fc[_0x5829fc(0x3c1)](_0x5829fc(0x443))['value'][_0x5829fc(0x3c3)](_0x5829fc(0x450))[_0x5829fc(0x3c6)]();_0x3b8ef8['method'](_0x5829fc(0x568),0x1)[_0x5829fc(0x3c6)](_0x20c673);}}}catch(_0x585800){}}_0x1a59a4=[];const _0x2128b8=_0x20982b(_0x1aadbf)[_0x5829fc(0x3c3)](_0x5829fc(0x41e))[_0x5829fc(0x3c6)]();for(let _0xabcdb9=0x0;_0xabcdb9<0x5;_0xabcdb9++){try{const _0x268ae1=_0x26e0fc[_0x5829fc(0x3c3)](_0x5829fc(0x504),0x4)[_0x5829fc(0x3c6)](Il2Cpp[_0x5829fc(0x41b)](itemIDs[currentItemIndex]),_0x2128b8,_0x471248,null);_0x268ae1&&!_0x268ae1[_0x5829fc(0x417)]()&&_0x1a59a4[_0x5829fc(0x550)](_0x268ae1);}catch(_0x464ea6){}}_0x4cc53c=currentItemIndex;}_0x548723+=_0x550769*deltaTime;if(_0x548723>0x168)_0x548723-=0x168;const _0x5fc630=_0x20982b(_0x1aadbf)[_0x5829fc(0x3c3)](_0x5829fc(0x41e))['invoke']();for(let _0x2df2b6=0x0;_0x2df2b6<_0x1a59a4[_0x5829fc(0x419)];_0x2df2b6++){const _0x353a82=_0x1a59a4[_0x2df2b6];if(!_0x353a82||_0x353a82[_0x5829fc(0x417)]())continue;const _0x3339f5=0x168/_0x1a59a4['length']*_0x2df2b6,_0x1668a5=(_0x548723+_0x3339f5)*(Math['PI']/0xb4),_0x8208bd=Math[_0x5829fc(0x569)](_0x1668a5)*_0x19b332,_0x14deb3=Math[_0x5829fc(0x56a)](_0x1668a5)*_0x19b332,_0x1d1da0=_0x3da345['method'](_0x5829fc(0x41f))[_0x5829fc(0x3c6)](_0x3da345['method'](_0x5829fc(0x49b))[_0x5829fc(0x3c6)](_0x3da345[_0x5829fc(0x3c1)](_0x5829fc(0x56b))['value'],_0x8208bd),_0x3da345[_0x5829fc(0x3c3)](_0x5829fc(0x49b))[_0x5829fc(0x3c6)](_0x3da345[_0x5829fc(0x3c1)](_0x5829fc(0x56c))[_0x5829fc(0x3c0)],_0x14deb3)),_0x56efe5=_0x3da345[_0x5829fc(0x3c3)](_0x5829fc(0x41f))['invoke'](_0x5fc630,_0x1d1da0);try{const _0x3da51a=_0x353a82[_0x5829fc(0x3c3)](_0x5829fc(0x413),0x1)['inflate'](_0x2bf557)[_0x5829fc(0x3c6)]();_0x3da51a&&!_0x3da51a[_0x5829fc(0x417)]()&&_0x3da51a['method'](_0x5829fc(0x420),0x2)[_0x5829fc(0x3c6)](_0x56efe5,_0x471248,_0x7444ed,_0x7444ed,![],![]);}catch(_0xd344b9){try{_0x20982b(_0x353a82)[_0x5829fc(0x3c3)](_0x5829fc(0x473))[_0x5829fc(0x3c6)](_0x56efe5);}catch(_0x29900c){}}}}catch(_0x356f8f){console['error'](_0x5829fc(0x56d),_0x356f8f);}};})()),'disableMethod':((()=>{return()=>{};})()),'toolTip':_0x31bcbe(0x56e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x56f),'isTogglable':!![],'method':()=>{const _0x385519=_0x31bcbe;if(!rightGrab)return;try{const _0x5b3941=_0x1890c1['method'](_0x385519(0x41e))[_0x385519(0x3c6)](),_0x18f6ec=_0x1890c1[_0x385519(0x3c3)](_0x385519(0x4b2))['invoke'](),_0x502751=_0x26e0fc['method'](_0x385519(0x504),0x4)[_0x385519(0x3c6)](Il2Cpp['string'](itemIDs[currentItemIndex]),_0x5b3941,_0x18f6ec,null);if(_0x502751&&!_0x502751[_0x385519(0x417)]())try{const _0x14ce8b=_0x502751[_0x385519(0x3c3)]('GetComponent',0x1)[_0x385519(0x3a9)](_0x2bf557)[_0x385519(0x3c6)]();_0x14ce8b&&!_0x14ce8b[_0x385519(0x417)]()&&_0x14ce8b['method']('set_scaleModifier')[_0x385519(0x3c6)](Math[_0x385519(0x502)](sizespawner));}catch(_0x5f0743){}}catch(_0x2054e6){console[_0x385519(0x4cc)]('Grip\x20spawn\x20error:',_0x2054e6);}},'toolTip':_0x31bcbe(0x570)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x571),'method':()=>{const _0x1b93ad=_0x31bcbe;if(rightGrab){const _0xbbbae=_0x404c48(),_0x21e78e=_0xbbbae['ray'];if(rightTrigger&&_0x21e78e){const _0x1df54d=_0x1cfc31(_0x21e78e[_0x1b93ad(0x3c3)](_0x1b93ad(0x4a5))['invoke'](),_0x41b44e);if(_0x1df54d&&!_0x1df54d[_0x1b93ad(0x4a7)]['isNull']()&&_0x30e18c>idGunDelay){if(!_0x3aec50(_0x1df54d)){idGunDelay=_0x30e18c+0.5;const _0x45a78a=_0x1df54d['method']('get_PlayerId')[_0x1b93ad(0x3c6)]();_0x18fcfc(_0x1b93ad(0x572)+String(_0x45a78a));}}}}},'isTogglable':!![],'toolTip':'Logs\x20the\x20ID\x20of\x20whoever\x20your\x20hand\x20desires.'})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x573),'method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x562)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x574),'method':()=>{const _0x7f2de4=_0x31bcbe;if(rightGrab){const _0x123edc=_0x404c48(),_0x51cb32=_0x123edc[_0x7f2de4(0x575)];if(rightTrigger&&_0x51cb32){const _0x4d0bb0=_0x1cfc31(_0x51cb32[_0x7f2de4(0x3c3)](_0x7f2de4(0x4a5))[_0x7f2de4(0x3c6)](),_0x393291);_0x4d0bb0&&!_0x4d0bb0[_0x7f2de4(0x4a7)][_0x7f2de4(0x417)]()&&_0x30e18c>tagGunDelay&&(!_0x3aec50(_0x4d0bb0)&&_0x4d0bb0[_0x7f2de4(0x3c3)]('RPC_TagAsStinky')[_0x7f2de4(0x3c6)]());}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x576)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x577),'isTogglable':![],'method':()=>{const _0x5a4703=_0x31bcbe,_0x2a4d0a=_0x38ca25['method'](_0x5a4703(0x476))[_0x5a4703(0x3a9)](_0x393291)['invoke']();if(!_0x2a4d0a)return null;for(let _0x70020=0x0;_0x70020<_0x2a4d0a['length'];_0x70020++){const _0x329882=_0x2a4d0a[_0x5a4703(0x41a)](_0x70020);if(_0x329882['method'](_0x5a4703(0x578))[_0x5a4703(0x3c6)]())continue;_0x329882[_0x5a4703(0x3c3)](_0x5a4703(0x579))[_0x5a4703(0x3c6)]();}},'toolTip':_0x31bcbe(0x57a)}),new _0x2e89a9({'buttonText':'72\x20FPS','method':()=>{const _0x592981=_0x31bcbe,_0x320d55=0x1/0x48,_0x41ea76=_0x304407['method'](_0x592981(0x57b))[_0x592981(0x3c6)]()-lastTime;if(_0x41ea76<_0x320d55){const _0x538d73=Math[_0x592981(0x502)]((_0x320d55-_0x41ea76)*0x3e8);if(_0x538d73>0x0)_0x3e3965[_0x592981(0x3c3)](_0x592981(0x57c))[_0x592981(0x3c6)](_0x538d73);}lastTime=_0x304407[_0x592981(0x3c3)](_0x592981(0x57b))[_0x592981(0x3c6)]();},'isTogglable':!![],'toolTip':_0x31bcbe(0x57d)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x57e),'method':()=>{const _0x25fc11=_0x31bcbe,_0x4da95e=0x1/0x3c,_0x1850e5=_0x304407[_0x25fc11(0x3c3)](_0x25fc11(0x57b))[_0x25fc11(0x3c6)]()-lastTime;if(_0x1850e5<_0x4da95e){const _0x4ebfde=Math[_0x25fc11(0x502)]((_0x4da95e-_0x1850e5)*0x3e8);if(_0x4ebfde>0x0)_0x3e3965['method'](_0x25fc11(0x57c))[_0x25fc11(0x3c6)](_0x4ebfde);}lastTime=_0x304407[_0x25fc11(0x3c3)](_0x25fc11(0x57b))[_0x25fc11(0x3c6)]();},'isTogglable':!![],'toolTip':_0x31bcbe(0x57f)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x580),'method':()=>{const _0x4fe0a3=_0x31bcbe,_0x38f657=0x1/0x2d,_0x319297=_0x304407[_0x4fe0a3(0x3c3)](_0x4fe0a3(0x57b))[_0x4fe0a3(0x3c6)]()-lastTime;if(_0x319297<_0x38f657){const _0x367886=Math[_0x4fe0a3(0x502)]((_0x38f657-_0x319297)*0x3e8);if(_0x367886>0x0)_0x3e3965[_0x4fe0a3(0x3c3)]('Sleep')[_0x4fe0a3(0x3c6)](_0x367886);}lastTime=_0x304407[_0x4fe0a3(0x3c3)](_0x4fe0a3(0x57b))[_0x4fe0a3(0x3c6)]();},'isTogglable':!![],'toolTip':_0x31bcbe(0x581)})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x582),'method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x562)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x583),'method':()=>{const _0x1cf551=_0x31bcbe;if(rightPrimary&&!previousInvisKey){const _0x290c5c=_0x279ef7['method'](_0x1cf551(0x47b))[_0x1cf551(0x3c6)](),_0xa43cbf=_0x290c5c[_0x1cf551(0x3c3)](_0x1cf551(0x47c))[_0x1cf551(0x3c6)]();if(!_0xa43cbf)return null;const _0x9c363e=_0xa43cbf[_0x1cf551(0x3c1)]('_cameraTransform')['value'];if(!_0x9c363e)return null;_0x9c363e[_0x1cf551(0x3c3)](_0x1cf551(0x473))[_0x1cf551(0x3c6)]([0x0,-0x1869f,0x0]);}else{if(!rightPrimary&&previousInvisKey){const _0x2fb64a=_0x279ef7[_0x1cf551(0x3c3)](_0x1cf551(0x47b))[_0x1cf551(0x3c6)](),_0x53661a=_0x2fb64a['method'](_0x1cf551(0x47c))['invoke']();if(!_0x53661a)return null;const _0xe89a82=_0x53661a[_0x1cf551(0x3c1)](_0x1cf551(0x584))[_0x1cf551(0x3c0)];if(!_0xe89a82)return null;_0xe89a82[_0x1cf551(0x3c3)](_0x1cf551(0x473))['invoke'](_0x20982b(_0x1aadbf)[_0x1cf551(0x3c3)](_0x1cf551(0x41e))[_0x1cf551(0x3c6)]());}}previousInvisKey=rightPrimary;},'toolTip':_0x31bcbe(0x585)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x586),'method':()=>{const _0x49a54f=_0x31bcbe;if(rightStick&&!previousInvisKey){const _0xf77eaf=_0x279ef7['method'](_0x49a54f(0x47b))[_0x49a54f(0x3c6)](),_0x2a2cde=_0xf77eaf[_0x49a54f(0x3c3)](_0x49a54f(0x47c))[_0x49a54f(0x3c6)]();if(!_0x2a2cde)return null;_0x2a2cde[_0x49a54f(0x3c3)]('SetRagdoll')['invoke'](!![],[0x0,0x0,0x0],_0x4db745,_0x20982b(_0x1aadbf));}else{if(!rightStick&&previousInvisKey){const _0x338325=_0x279ef7[_0x49a54f(0x3c3)]('get_instance')['invoke'](),_0x1377b7=_0x338325[_0x49a54f(0x3c3)]('get_playerView')[_0x49a54f(0x3c6)]();if(!_0x1377b7)return null;_0x1377b7[_0x49a54f(0x3c3)](_0x49a54f(0x587))[_0x49a54f(0x3c6)](![],[0x0,0x0,0x0],_0x4db745,_0x20982b(_0x1aadbf));}}previousInvisKey=rightStick;},'toolTip':_0x31bcbe(0x588)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x589),'method':()=>{const _0x5b746b=_0x31bcbe,_0x3eecb7=_0x279ef7[_0x5b746b(0x3c3)](_0x5b746b(0x47b))[_0x5b746b(0x3c6)](),_0x54299a=_0x3eecb7[_0x5b746b(0x3c3)](_0x5b746b(0x47c))[_0x5b746b(0x3c6)]();if(!_0x54299a)return null;const _0x1d5610=_0x54299a[_0x5b746b(0x3c1)](_0x5b746b(0x584))['value'];if(!_0x1d5610)return null;if(rightGrab){const _0x4d607e=_0x404c48(),_0x4da3e9=_0x4d607e[_0x5b746b(0x54e)];if(rightTrigger){const _0x1432b6=_0x3da345[_0x5b746b(0x3c3)](_0x5b746b(0x41f),0x2)[_0x5b746b(0x3c6)]([0x0,0x1,0x0],_0x20982b(_0x4da3e9)[_0x5b746b(0x3c3)](_0x5b746b(0x41e))[_0x5b746b(0x3c6)]());_0x1d5610['method'](_0x5b746b(0x473))[_0x5b746b(0x3c6)](_0x1432b6);}else _0x1d5610[_0x5b746b(0x3c3)](_0x5b746b(0x473))[_0x5b746b(0x3c6)](_0x20982b(_0x1aadbf)[_0x5b746b(0x3c3)](_0x5b746b(0x41e))[_0x5b746b(0x3c6)]());}},'toolTip':_0x31bcbe(0x58a)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x58b),'method':()=>{const _0x27cc7f=_0x31bcbe,_0x4b28b1=_0x279ef7[_0x27cc7f(0x3c3)]('get_instance')['invoke'](),_0x2366b6=_0x4b28b1[_0x27cc7f(0x3c3)](_0x27cc7f(0x47c))[_0x27cc7f(0x3c6)]();if(!_0x2366b6)return null;const _0xb8419a=_0x2366b6['field'](_0x27cc7f(0x584))[_0x27cc7f(0x3c0)];if(!_0xb8419a)return null;rightGrab?(_0xb8419a[_0x27cc7f(0x3c3)](_0x27cc7f(0x473))[_0x27cc7f(0x3c6)](_0x1890c1[_0x27cc7f(0x3c3)](_0x27cc7f(0x41e))[_0x27cc7f(0x3c6)]()),_0xb8419a[_0x27cc7f(0x3c3)]('set_rotation')['invoke'](_0x1890c1[_0x27cc7f(0x3c3)]('get_rotation')[_0x27cc7f(0x3c6)]())):(_0xb8419a['method'](_0x27cc7f(0x473))['invoke'](_0x20982b(_0x1aadbf)[_0x27cc7f(0x3c3)](_0x27cc7f(0x41e))[_0x27cc7f(0x3c6)]()),_0xb8419a[_0x27cc7f(0x3c3)](_0x27cc7f(0x488))[_0x27cc7f(0x3c6)](_0x20982b(_0x1aadbf)['method'](_0x27cc7f(0x4b2))[_0x27cc7f(0x3c6)]())),leftGrab?(_0xb8419a['method'](_0x27cc7f(0x473))[_0x27cc7f(0x3c6)](_0xf3a6cd[_0x27cc7f(0x3c3)]('get_position')[_0x27cc7f(0x3c6)]()),_0xb8419a[_0x27cc7f(0x3c3)](_0x27cc7f(0x488))[_0x27cc7f(0x3c6)](_0xf3a6cd['method']('get_rotation')[_0x27cc7f(0x3c6)]())):(_0xb8419a[_0x27cc7f(0x3c3)](_0x27cc7f(0x473))[_0x27cc7f(0x3c6)](_0x20982b(_0x1aadbf)[_0x27cc7f(0x3c3)]('get_position')[_0x27cc7f(0x3c6)]()),_0xb8419a[_0x27cc7f(0x3c3)](_0x27cc7f(0x488))[_0x27cc7f(0x3c6)](_0x20982b(_0x1aadbf)[_0x27cc7f(0x3c3)](_0x27cc7f(0x4b2))[_0x27cc7f(0x3c6)]()));},'isTogglable':!![],'toolTip':_0x31bcbe(0x58c)})],[new _0x2e89a9({'buttonText':'Exit\x20Misc\x20Mods','method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x562)}),new _0x2e89a9({'buttonText':'Item\x20In\x20Stash???','isTogglable':![],'method':()=>{const _0x12c56a=_0x31bcbe;try{const _0x2c6a48=_0x991208[_0x12c56a(0x38e)](_0x12c56a(0x58d)),_0x1889ee=_0x38ca25['method'](_0x12c56a(0x476))[_0x12c56a(0x3a9)](_0x2c6a48)[_0x12c56a(0x3c6)]();if(!_0x1889ee||_0x1889ee[_0x12c56a(0x419)]===0x0){_0x18fcfc(_0x12c56a(0x58e),![]);return;}const _0x2091b9=_0x1889ee[_0x12c56a(0x41a)](0x0);if(!_0x2091b9||_0x2091b9[_0x12c56a(0x417)]()){_0x18fcfc(_0x12c56a(0x58f),![]);return;}const _0x26c329=_0x20982b(_0x2091b9),_0x14b48c=_0x26c329[_0x12c56a(0x3c3)]('get_position')['invoke'](),_0x2c7240=_0x26e0fc[_0x12c56a(0x3c3)]('SpawnItem',0x4)['invoke'](Il2Cpp['string'](itemIDs[currentItemIndex]),_0x14b48c,_0x471248,null);if(!_0x2c7240||_0x2c7240['isNull']()){_0x18fcfc(_0x12c56a(0x590),![]);return;}try{const _0xce8dee=_0x2c7240[_0x12c56a(0x3c3)]('GetComponent',0x1)[_0x12c56a(0x3a9)](_0x2bf557)['invoke']();_0xce8dee&&!_0xce8dee[_0x12c56a(0x417)]()&&(sizespawner!==0x0&&_0xce8dee[_0x12c56a(0x3c3)](_0x12c56a(0x4ff))[_0x12c56a(0x3c6)](Math['floor'](sizespawner)));}catch(_0x324541){}try{const _0x52a2cc=_0x2091b9[_0x12c56a(0x3c1)]('_stashState')['value'];if(_0x52a2cc&&!_0x52a2cc['isNull']()){const _0x501e12=_0x52a2cc[_0x12c56a(0x3c1)](_0x12c56a(0x591))['value'];if(_0x501e12&&!_0x501e12['isNull']()){const _0x254df9=_0x501e12[_0x12c56a(0x3c3)](_0x12c56a(0x592))[_0x12c56a(0x3c6)]();console[_0x12c56a(0x424)](_0x12c56a(0x593)+_0x254df9);for(let _0x482042=0x0;_0x482042<_0x254df9;_0x482042++){try{const _0x87d1f9=_0x501e12['method'](_0x12c56a(0x594))['invoke'](_0x482042);if(!_0x87d1f9||_0x87d1f9['isNull']())continue;const _0x6842f0=_0x87d1f9['method'](_0x12c56a(0x595))['invoke']();if(_0x6842f0){const _0xf4ece1=_0x2c7240[_0x12c56a(0x3c3)]('GetComponent',0x1)[_0x12c56a(0x3a9)](_0x23bd25)[_0x12c56a(0x3c6)]();if(_0xf4ece1&&!_0xf4ece1['isNull']()){_0x87d1f9['method'](_0x12c56a(0x596))[_0x12c56a(0x3c6)](_0xf4ece1),_0x18fcfc(_0x12c56a(0x597)+_0x482042+':\x20'+itemIDs[currentItemIndex],![]);return;}}}catch(_0x246fc0){}}_0x18fcfc(_0x12c56a(0x598),![]);}}}catch(_0x5a9d05){_0x18fcfc(_0x12c56a(0x599)+itemIDs[currentItemIndex],![]),console['log']('slot\x20insert\x20failed,\x20item\x20still\x20spawned\x20at\x20stash\x20pos:\x20'+_0x5a9d05);}}catch(_0xc93be4){console[_0x12c56a(0x4cc)]('spawn\x20in\x20stash\x20error:',_0xc93be4),_0x18fcfc(_0x12c56a(0x59a)+_0xc93be4,![]);}},'toolTip':_0x31bcbe(0x59b)}),new _0x2e89a9({'buttonText':'Shoot\x20Flaregun\x20Projectiles','method':()=>{const _0x3a0dcd=_0x31bcbe,_0x3056c3=_0x393291[_0x3a0dcd(0x3c3)](_0x3a0dcd(0x421))['invoke']();if(!_0x3056c3)return;const _0x279de5=_0x3056c3[_0x3a0dcd(0x3c3)](_0x3a0dcd(0x4fd),0x1)[_0x3a0dcd(0x3c6)](0x0);if(!_0x279de5)return;const _0x5e8d11=_0x279de5[_0x3a0dcd(0x3c1)](_0x3a0dcd(0x4fe))[_0x3a0dcd(0x3c0)];if(!_0x5e8d11)return;const _0x365c6b=_0x26e0fc['method'](_0x3a0dcd(0x504),0x4)[_0x3a0dcd(0x3c6)](Il2Cpp[_0x3a0dcd(0x41b)](_0x3a0dcd(0x36a)),_0x1890c1['method'](_0x3a0dcd(0x41e))['invoke'](),_0x471248,null),_0x360f2a=_0x365c6b['method'](_0x3a0dcd(0x59c))[_0x3a0dcd(0x3c6)]();},'isTogglable':![],'toolTip':_0x31bcbe(0x59d)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x59e),'method':()=>{const _0x349a17=_0x31bcbe,_0x27f0be=Il2Cpp[_0x349a17(0x3a7)]['class'](_0x349a17(0x59f)),_0x38e976=Il2Cpp[_0x349a17(0x3a7)][_0x349a17(0x38e)](_0x349a17(0x5a0)),_0x282b93=API_URL+_0x349a17(0x5a1),_0x2f4832=0x14,_0x52d4d1=_0x345407[_0x349a17(0x530)]();_0x52d4d1[_0x349a17(0x3c3)](_0x349a17(0x5a2),0x2)[_0x349a17(0x3c6)](Il2Cpp[_0x349a17(0x41b)](_0x282b93),Il2Cpp[_0x349a17(0x41b)](_0x349a17(0x5a3)));const _0x201c45=_0x31fe6c[_0x349a17(0x3c3)](_0x349a17(0x5a2))[_0x349a17(0x3c6)]();_0x52d4d1['method'](_0x349a17(0x5a4))['invoke'](_0x201c45);const _0x5b81e0=_0x52d4d1[_0x349a17(0x3c3)](_0x349a17(0x5a5))['invoke']();while(!_0x52d4d1[_0x349a17(0x3c3)](_0x349a17(0x440))['invoke']()){}const _0x21bf07=_0x201c45[_0x349a17(0x3c3)](_0x349a17(0x5a6))[_0x349a17(0x3c6)](),_0xd758c7=Il2Cpp[_0x349a17(0x5a7)][_0x349a17(0x5a8)],_0x2a5668=Il2Cpp[_0x349a17(0x41b)](_0xd758c7+_0x349a17(0x5a9));!_0x38e976['method']('Exists')[_0x349a17(0x3c6)](_0x2a5668)&&_0x38e976[_0x349a17(0x3c3)](_0x349a17(0x5aa))[_0x349a17(0x3c6)](_0x2a5668);const _0x142b72=Il2Cpp[_0x349a17(0x41b)](_0x2a5668+'/ding.wav');_0x27f0be[_0x349a17(0x3c3)]('WriteAllBytes')[_0x349a17(0x3c6)](_0x142b72,_0x21bf07);},'isTogglable':![],'toolTip':':)'}),new _0x2e89a9({'buttonText':'Get\x20Hand\x20Position','method':()=>{const _0x420bed=_0x31bcbe;rightGrab&&console[_0x420bed(0x424)](_0x1890c1[_0x420bed(0x3c3)](_0x420bed(0x41e))[_0x420bed(0x3c6)]());},'isTogglable':![],'toolTip':_0x31bcbe(0x59d)}),new _0x2e89a9({'buttonText':'XrInput\x20Name','method':()=>{const _0xd4f5e4=_0x31bcbe;try{const _0x443ad7=_0x393291[_0xd4f5e4(0x3c3)]('get_localPlayer')[_0xd4f5e4(0x3c6)]();if(!_0x443ad7)return;_0x443ad7[_0xd4f5e4(0x3c3)](_0xd4f5e4(0x5ab))[_0xd4f5e4(0x3c6)](Il2Cpp['string'](_0xd4f5e4(0x5ac)));}catch(_0x1fa654){console[_0xd4f5e4(0x4cc)](_0xd4f5e4(0x5ad),_0x1fa654);}},'isTogglable':![],'toolTip':_0x31bcbe(0x5ae)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5af),'method':()=>stashDupeEnabled=!![],'disableMethod':()=>stashDupeEnabled=![],'toolTip':_0x31bcbe(0x59d)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5b0),'method':()=>backpackDupeEnabled=!![],'disableMethod':()=>backpackDupeEnabled=![],'toolTip':_0x31bcbe(0x5b1)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5b2),'method':()=>stashAllowMoves=!![],'disableMethod':()=>stashAllowMoves=![],'toolTip':_0x31bcbe(0x5b3)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5b4),'method':()=>allowPutGBO=!![],'disableMethod':()=>allowPutGBO=![],'toolTip':_0x31bcbe(0x5b5)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5b6),'enabled':!![],'method':()=>infAmmo=!![],'disableMethod':()=>infAmmo=![],'toolTip':_0x31bcbe(0x5b7)}),new _0x2e89a9({'buttonText':'Head\x20Size\x20Self\x20(SS)\x20(NOT\x20ON\x20CS)','method':()=>{const _0x148d43=_0x31bcbe,_0x39df80=_0x144f19();negativeHeadSize?_0x39df80[_0x148d43(0x3c3)]('set_playerHeadSize')[_0x148d43(0x3c6)](-headSizeAmount):_0x39df80[_0x148d43(0x3c3)](_0x148d43(0x5b8))[_0x148d43(0x3c6)](headSizeAmount);},'isTogglable':![],'toolTip':'Sets\x20your\x20head\x20size\x20to\x20the\x20head\x20size\x20amount.\x20(ONLY\x20FOR\x20OTHER\x20PLAYERS)\x20(NOT\x20VISIBLE\x20ON\x20YOUR\x20SCREEN)'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5b9),'method':()=>{const _0x58ab44=_0x31bcbe;if(rightGrab){const _0x2e4114=_0x404c48(),_0x11b5be=_0x2e4114[_0x58ab44(0x575)];if(rightTrigger&&_0x11b5be){const _0x15bb43=_0x1cfc31(_0x11b5be[_0x58ab44(0x3c3)](_0x58ab44(0x4a5))[_0x58ab44(0x3c6)](),_0x2bf557);if(_0x15bb43&&!_0x15bb43['handle'][_0x58ab44(0x417)]()&&_0x30e18c>tagGunDelay){if(leftTrigger)_0x15bb43[_0x58ab44(0x3c3)]('HandleTriggerUse')['invoke']();else{if(leftPrimary)_0x15bb43[_0x58ab44(0x3c3)](_0x58ab44(0x5ba))['invoke']();else return null;}}}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x5bb)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5bc),'disableMethod':()=>{const _0x179cc0=_0x31bcbe,_0x5db2c8=_0x393291[_0x179cc0(0x3c3)](_0x179cc0(0x421))[_0x179cc0(0x3c6)]();if(!_0x5db2c8)return;const _0x1b3eb6=_0x5db2c8[_0x179cc0(0x3c1)](_0x179cc0(0x446))[_0x179cc0(0x3c0)];if(!_0x1b3eb6)return;_0x1b3eb6[_0x179cc0(0x3c3)](_0x179cc0(0x44a))[_0x179cc0(0x3c6)](![]);},'enableMethod':()=>{const _0x428d33=_0x31bcbe,_0x4bf363=_0x393291[_0x428d33(0x3c3)](_0x428d33(0x421))[_0x428d33(0x3c6)]();if(!_0x4bf363)return;const _0xce9b50=_0x4bf363['field'](_0x428d33(0x446))[_0x428d33(0x3c0)];if(!_0xce9b50)return;_0xce9b50[_0x428d33(0x3c3)](_0x428d33(0x44a))[_0x428d33(0x3c6)](!![]);},'isTogglable':!![],'toolTip':_0x31bcbe(0x5bd)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5be),'disableMethod':()=>{const _0x2910c0=_0x31bcbe,_0xa4a72a=_0x393291[_0x2910c0(0x3c3)]('get_localPlayer')[_0x2910c0(0x3c6)]();if(!_0xa4a72a)return;const _0x458f72=_0xa4a72a['field'](_0x2910c0(0x446))[_0x2910c0(0x3c0)];if(!_0x458f72)return;_0x458f72[_0x2910c0(0x3c3)](_0x2910c0(0x5bf))[_0x2910c0(0x3c6)](0x4e20),_0x458f72['method']('RestartRecording')[_0x2910c0(0x3c6)]();},'enableMethod':()=>{const _0x31cfc5=_0x31bcbe,_0x2d58fa=_0x393291[_0x31cfc5(0x3c3)](_0x31cfc5(0x421))['invoke']();if(!_0x2d58fa)return;const _0x3125ff=_0x2d58fa[_0x31cfc5(0x3c1)](_0x31cfc5(0x446))[_0x31cfc5(0x3c0)];if(!_0x3125ff)return;_0x3125ff['method'](_0x31cfc5(0x5bf))[_0x31cfc5(0x3c6)](0x1869f),_0x3125ff[_0x31cfc5(0x3c3)]('RestartRecording')[_0x31cfc5(0x3c6)]();},'isTogglable':!![],'toolTip':_0x31bcbe(0x5c0)})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x5c1),'method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x562)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5c2),'disableMethod':()=>{const _0x5bf5b5=_0x31bcbe;for(let _0x79b448 of linePool){_0x79b448[_0x5bf5b5(0x3c3)]('get_gameObject')['invoke']()['method'](_0x5bf5b5(0x4a8))[_0x5bf5b5(0x3c6)](![]);}},'method':()=>{const _0x152b0a=_0x31bcbe;if(frameCount%0x5!=0x0){for(let _0x51fa60 of linePool){_0x51fa60[_0x152b0a(0x3c3)](_0x152b0a(0x522))['invoke']()[_0x152b0a(0x3c3)](_0x152b0a(0x4a8))['invoke'](![]);}const _0x53d829=_0x38ca25['method'](_0x152b0a(0x476))['inflate'](_0x2bf557)[_0x152b0a(0x3c6)]();if(!_0x53d829)return null;const _0x4e3d39=_0x53d829['length'];for(let _0x2ada62=0x0;_0x2ada62<_0x4e3d39;_0x2ada62++){const _0x362a3c=_0x53d829[_0x152b0a(0x41a)](_0x2ada62);lineRenderHolder==null&&(lineRenderHolder=_0x2d7f33[_0x152b0a(0x451)]('LineRender_Holder'));let _0x2ff2f1=null,_0x1acb96=![];for(let _0x42c6f0 of linePool){if(_0x2ff2f1!=null)continue;if(_0x42c6f0['method']('get_gameObject')[_0x152b0a(0x3c6)]()['method'](_0x152b0a(0x5c3))[_0x152b0a(0x3c6)]()==![]){_0x42c6f0['method']('get_gameObject')['invoke']()[_0x152b0a(0x3c3)](_0x152b0a(0x4a8))[_0x152b0a(0x3c6)](!![]),_0x2ff2f1=_0x42c6f0;break;}}if(_0x2ff2f1==null){_0x1acb96=!![];const _0x58faf5=_0x2d7f33['new'](_0x152b0a(0x5c4));_0x20982b(_0x58faf5)[_0x152b0a(0x3c3)](_0x152b0a(0x5c5))[_0x152b0a(0x3c6)](_0x20982b(lineRenderHolder));const _0x100108=_0x7d8ffe(_0x58faf5,_0x3736fc),_0x2f986d=_0x1b2b43[_0x152b0a(0x3c3)]('Find')[_0x152b0a(0x4aa)](_0x152b0a(0x4ab))[_0x152b0a(0x3c6)](Il2Cpp['string'](_0x152b0a(0x3c7)));_0x100108[_0x152b0a(0x3c3)](_0x152b0a(0x4ac))[_0x152b0a(0x3c6)]()[_0x152b0a(0x3c3)](_0x152b0a(0x48c))[_0x152b0a(0x3c6)](_0x2f986d),_0x100108[_0x152b0a(0x3c3)]('set_startWidth')['invoke'](0.025),_0x100108[_0x152b0a(0x3c3)](_0x152b0a(0x4ad))[_0x152b0a(0x3c6)](0.025),_0x100108[_0x152b0a(0x3c3)](_0x152b0a(0x522))[_0x152b0a(0x3c6)]()[_0x152b0a(0x3c3)]('SetActive')[_0x152b0a(0x3c6)](!![]),_0x100108[_0x152b0a(0x3c3)](_0x152b0a(0x4ae))[_0x152b0a(0x3c6)](!![]),_0x100108[_0x152b0a(0x3c3)]('get_gameObject')[_0x152b0a(0x3c6)]()[_0x152b0a(0x3c3)](_0x152b0a(0x49f))['invoke'](lineRenderHolder[_0x152b0a(0x3c3)](_0x152b0a(0x5c6))[_0x152b0a(0x3c6)]()),linePool[_0x152b0a(0x550)](_0x100108),_0x2ff2f1=_0x100108;}_0x2ff2f1[_0x152b0a(0x3c3)](_0x152b0a(0x4af))[_0x152b0a(0x3c6)](bgColor),_0x2ff2f1[_0x152b0a(0x3c3)](_0x152b0a(0x4b0))[_0x152b0a(0x3c6)](bgColor),_0x2ff2f1[_0x152b0a(0x3c3)](_0x152b0a(0x4b1))[_0x152b0a(0x3c6)](0x1,_0x20982b(_0x362a3c)[_0x152b0a(0x3c3)](_0x152b0a(0x41e))[_0x152b0a(0x3c6)]()),_0x2ff2f1[_0x152b0a(0x3c3)](_0x152b0a(0x4b1))[_0x152b0a(0x3c6)](0x0,_0x1890c1[_0x152b0a(0x3c3)](_0x152b0a(0x41e))[_0x152b0a(0x3c6)]());}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x5c7)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5c8),'disableMethod':()=>{const _0x8f753d=_0x31bcbe;for(let _0x2bab19 of linePool){_0x2bab19['method']('get_gameObject')[_0x8f753d(0x3c6)]()['method'](_0x8f753d(0x4a8))[_0x8f753d(0x3c6)](![]);}},'method':()=>{const _0x1c6cdb=_0x31bcbe;if(frameCount%0x5!=0x0){let _0x2dd247=Number[_0x1c6cdb(0x5c9)],_0x14901e=0x0;for(let _0x2da809 of linePool){_0x2da809[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x522))[_0x1c6cdb(0x3c6)]()['method']('SetActive')[_0x1c6cdb(0x3c6)](![]);}const _0xc5e539=_0x38ca25[_0x1c6cdb(0x3c3)]('FindObjectsOfType')[_0x1c6cdb(0x3a9)](_0x2bf557)[_0x1c6cdb(0x3c6)]();if(!_0xc5e539)return null;const _0x26fa48=_0xc5e539['length'],_0x352b83=[];for(let _0x814f7=0x0;_0x814f7<_0x26fa48;_0x814f7++){const _0x3a193c=_0xc5e539['get'](_0x814f7);_0x352b83[_0x1c6cdb(0x550)](_0x3a193c);const _0x44269b=_0x3da345['method'](_0x1c6cdb(0x4a3))[_0x1c6cdb(0x3c6)](_0x20982b(_0x1aadbf)[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x41e))[_0x1c6cdb(0x3c6)](),_0x20982b(_0x3a193c)['method'](_0x1c6cdb(0x41e))[_0x1c6cdb(0x3c6)]());_0x2dd247>_0x44269b&&(_0x2dd247=_0x44269b,_0x14901e=_0x814f7);}for(let _0x153f8e=0x0;_0x153f8e<_0x26fa48;_0x153f8e++){if(_0x153f8e!=_0x14901e)continue;const _0xa5c549=_0x352b83[_0x153f8e];lineRenderHolder==null&&(lineRenderHolder=_0x2d7f33[_0x1c6cdb(0x451)](_0x1c6cdb(0x5ca)));let _0x5fa262=null,_0x29404a=![];for(let _0x3d637c of linePool){if(_0x5fa262!=null)continue;if(_0x3d637c[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x522))[_0x1c6cdb(0x3c6)]()[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x5c3))[_0x1c6cdb(0x3c6)]()==![]){_0x3d637c[_0x1c6cdb(0x3c3)]('get_gameObject')[_0x1c6cdb(0x3c6)]()[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x4a8))[_0x1c6cdb(0x3c6)](!![]),_0x5fa262=_0x3d637c;break;}}if(_0x5fa262==null){_0x29404a=!![];const _0x1ca2f0=_0x2d7f33[_0x1c6cdb(0x451)](_0x1c6cdb(0x5c4));_0x20982b(_0x1ca2f0)[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x5c5))['invoke'](_0x20982b(lineRenderHolder));const _0x4a7d2a=_0x7d8ffe(_0x1ca2f0,_0x3736fc),_0x4c89d0=_0x1b2b43[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x3c4))[_0x1c6cdb(0x4aa)](_0x1c6cdb(0x4ab))['invoke'](Il2Cpp[_0x1c6cdb(0x41b)](_0x1c6cdb(0x3c7)));_0x4a7d2a[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x4ac))[_0x1c6cdb(0x3c6)]()[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x48c))['invoke'](_0x4c89d0),_0x4a7d2a[_0x1c6cdb(0x3c3)]('set_startWidth')['invoke'](0.025),_0x4a7d2a[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x4ad))['invoke'](0.025),_0x4a7d2a[_0x1c6cdb(0x3c3)]('get_gameObject')[_0x1c6cdb(0x3c6)]()['method'](_0x1c6cdb(0x4a8))['invoke'](!![]),_0x4a7d2a['method'](_0x1c6cdb(0x4ae))['invoke'](!![]),_0x4a7d2a[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x522))[_0x1c6cdb(0x3c6)]()['method'](_0x1c6cdb(0x49f))['invoke'](lineRenderHolder[_0x1c6cdb(0x3c3)]('get_layer')[_0x1c6cdb(0x3c6)]()),linePool[_0x1c6cdb(0x550)](_0x4a7d2a),_0x5fa262=_0x4a7d2a;}_0x5fa262[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x4af))[_0x1c6cdb(0x3c6)](bgColor),_0x5fa262[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x4b0))[_0x1c6cdb(0x3c6)](bgColor),_0x5fa262[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x4b1))[_0x1c6cdb(0x3c6)](0x1,_0x20982b(_0xa5c549)[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x41e))['invoke']()),_0x5fa262['method'](_0x1c6cdb(0x4b1))['invoke'](0x0,_0x1890c1[_0x1c6cdb(0x3c3)](_0x1c6cdb(0x41e))[_0x1c6cdb(0x3c6)]());}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x5cb)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5cc),'disableMethod':()=>{const _0x4ddd70=_0x31bcbe;for(let _0x25b798 of linePool){_0x25b798[_0x4ddd70(0x3c3)](_0x4ddd70(0x522))['invoke']()[_0x4ddd70(0x3c3)](_0x4ddd70(0x4a8))[_0x4ddd70(0x3c6)](![]);}},'method':()=>{const _0x46b784=_0x31bcbe;for(let _0x27c026 of linePool){_0x27c026[_0x46b784(0x3c3)]('get_gameObject')[_0x46b784(0x3c6)]()[_0x46b784(0x3c3)](_0x46b784(0x4a8))[_0x46b784(0x3c6)](![]);}const _0xb75df4=_0x38ca25['method']('FindObjectsOfType')[_0x46b784(0x3a9)](_0x393291)['invoke']();if(!_0xb75df4)return null;const _0x40aeed=_0xb75df4[_0x46b784(0x419)];for(let _0x78739f=0x0;_0x78739f<_0x40aeed;_0x78739f++){const _0x42d6c5=_0xb75df4['get'](_0x78739f);if(!_0x3aec50(_0x42d6c5)){lineRenderHolder==null&&(lineRenderHolder=_0x2d7f33[_0x46b784(0x451)](_0x46b784(0x5ca)));let _0x161ba6=null,_0xa52c1c=![];for(let _0x341810 of linePool){if(_0x161ba6!=null)continue;if(_0x341810[_0x46b784(0x3c3)](_0x46b784(0x522))[_0x46b784(0x3c6)]()[_0x46b784(0x3c3)](_0x46b784(0x5c3))['invoke']()==![]){_0x341810[_0x46b784(0x3c3)](_0x46b784(0x522))[_0x46b784(0x3c6)]()[_0x46b784(0x3c3)](_0x46b784(0x4a8))['invoke'](!![]),_0x161ba6=_0x341810;break;}}if(_0x161ba6==null){_0xa52c1c=!![];const _0x4750fd=_0x2d7f33[_0x46b784(0x451)](_0x46b784(0x5c4));_0x20982b(_0x4750fd)[_0x46b784(0x3c3)](_0x46b784(0x5c5))[_0x46b784(0x3c6)](_0x20982b(lineRenderHolder));const _0x43d85f=_0x7d8ffe(_0x4750fd,_0x3736fc),_0x46fc0d=_0x1b2b43['method'](_0x46b784(0x3c4))[_0x46b784(0x4aa)](_0x46b784(0x4ab))[_0x46b784(0x3c6)](Il2Cpp[_0x46b784(0x41b)](_0x46b784(0x3c7)));_0x43d85f[_0x46b784(0x3c3)](_0x46b784(0x4ac))[_0x46b784(0x3c6)]()['method'](_0x46b784(0x48c))[_0x46b784(0x3c6)](_0x46fc0d),_0x43d85f[_0x46b784(0x3c3)](_0x46b784(0x5cd))['invoke'](0.025),_0x43d85f[_0x46b784(0x3c3)]('set_endWidth')[_0x46b784(0x3c6)](0.025),_0x43d85f['method'](_0x46b784(0x522))[_0x46b784(0x3c6)]()[_0x46b784(0x3c3)](_0x46b784(0x4a8))[_0x46b784(0x3c6)](!![]),_0x43d85f[_0x46b784(0x3c3)](_0x46b784(0x4ae))['invoke'](!![]),_0x43d85f[_0x46b784(0x3c3)](_0x46b784(0x522))[_0x46b784(0x3c6)]()[_0x46b784(0x3c3)](_0x46b784(0x49f))['invoke'](lineRenderHolder['method'](_0x46b784(0x5c6))[_0x46b784(0x3c6)]()),linePool[_0x46b784(0x550)](_0x43d85f),_0x161ba6=_0x43d85f;}_0x161ba6[_0x46b784(0x3c3)](_0x46b784(0x4af))['invoke'](bgColor),_0x161ba6[_0x46b784(0x3c3)](_0x46b784(0x4b0))['invoke'](bgColor),_0x161ba6[_0x46b784(0x3c3)](_0x46b784(0x4b1))[_0x46b784(0x3c6)](0x1,_0x20982b(_0x42d6c5)[_0x46b784(0x3c3)](_0x46b784(0x41e))[_0x46b784(0x3c6)]()),_0x161ba6['method'](_0x46b784(0x4b1))[_0x46b784(0x3c6)](0x0,_0x1890c1[_0x46b784(0x3c3)](_0x46b784(0x41e))[_0x46b784(0x3c6)]());}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x5ce)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5cf),'disableMethod':()=>{const _0x28b271=_0x31bcbe;for(let _0x5b398a of linePool){_0x5b398a['method'](_0x28b271(0x522))[_0x28b271(0x3c6)]()[_0x28b271(0x3c3)](_0x28b271(0x4a8))[_0x28b271(0x3c6)](![]);}},'method':()=>{const _0xebc426=_0x31bcbe;if(frameCount%0x5!=0x0){let _0x458880=Number[_0xebc426(0x5c9)],_0xd27a41=0x0;for(let _0x1a1d01 of linePool){_0x1a1d01[_0xebc426(0x3c3)](_0xebc426(0x522))['invoke']()[_0xebc426(0x3c3)](_0xebc426(0x4a8))['invoke'](![]);}const _0x61fdc5=_0x38ca25[_0xebc426(0x3c3)](_0xebc426(0x476))['inflate'](_0x393291)[_0xebc426(0x3c6)]();if(!_0x61fdc5)return null;const _0x229e67=_0x61fdc5[_0xebc426(0x419)],_0x139629=[];for(let _0x3d790c=0x0;_0x3d790c<_0x229e67;_0x3d790c++){const _0x47a05b=_0x61fdc5[_0xebc426(0x41a)](_0x3d790c);_0x139629[_0xebc426(0x550)](_0x47a05b);if(_0x3aec50(_0x47a05b))continue;const _0xdaaa9e=_0x3da345[_0xebc426(0x3c3)](_0xebc426(0x4a3))[_0xebc426(0x3c6)](_0x20982b(_0x1aadbf)[_0xebc426(0x3c3)]('get_position')['invoke'](),_0x20982b(_0x47a05b)[_0xebc426(0x3c3)]('get_position')['invoke']());_0x458880>_0xdaaa9e&&(_0x458880=_0xdaaa9e,_0xd27a41=_0x3d790c);}for(let _0x3df150=0x0;_0x3df150<_0x229e67;_0x3df150++){if(_0x3df150!=_0xd27a41)continue;const _0x17b48f=_0x139629[_0x3df150];if(!_0x3aec50(_0x17b48f)){lineRenderHolder==null&&(lineRenderHolder=_0x2d7f33[_0xebc426(0x451)](_0xebc426(0x5ca)));let _0x725ca1=null,_0x142333=![];for(let _0x11b6d1 of linePool){if(_0x725ca1!=null)continue;if(_0x11b6d1[_0xebc426(0x3c3)](_0xebc426(0x522))[_0xebc426(0x3c6)]()[_0xebc426(0x3c3)](_0xebc426(0x5c3))[_0xebc426(0x3c6)]()==![]){_0x11b6d1[_0xebc426(0x3c3)](_0xebc426(0x522))[_0xebc426(0x3c6)]()[_0xebc426(0x3c3)](_0xebc426(0x4a8))[_0xebc426(0x3c6)](!![]),_0x725ca1=_0x11b6d1;break;}}if(_0x725ca1==null){_0x142333=!![];const _0xc2c734=_0x2d7f33[_0xebc426(0x451)](_0xebc426(0x5c4));_0x20982b(_0xc2c734)['method']('set_parent')[_0xebc426(0x3c6)](_0x20982b(lineRenderHolder));const _0x1b24ae=_0x7d8ffe(_0xc2c734,_0x3736fc),_0x237ad9=_0x1b2b43[_0xebc426(0x3c3)]('Find')[_0xebc426(0x4aa)](_0xebc426(0x4ab))[_0xebc426(0x3c6)](Il2Cpp['string'](_0xebc426(0x3c7)));_0x1b24ae[_0xebc426(0x3c3)]('get_material')[_0xebc426(0x3c6)]()[_0xebc426(0x3c3)](_0xebc426(0x48c))[_0xebc426(0x3c6)](_0x237ad9),_0x1b24ae[_0xebc426(0x3c3)](_0xebc426(0x5cd))['invoke'](0.025),_0x1b24ae['method']('set_endWidth')['invoke'](0.025),_0x1b24ae[_0xebc426(0x3c3)](_0xebc426(0x522))[_0xebc426(0x3c6)]()['method'](_0xebc426(0x4a8))['invoke'](!![]),_0x1b24ae[_0xebc426(0x3c3)](_0xebc426(0x4ae))[_0xebc426(0x3c6)](!![]),_0x1b24ae[_0xebc426(0x3c3)]('get_gameObject')[_0xebc426(0x3c6)]()['method'](_0xebc426(0x49f))[_0xebc426(0x3c6)](lineRenderHolder[_0xebc426(0x3c3)]('get_layer')['invoke']()),linePool[_0xebc426(0x550)](_0x1b24ae),_0x725ca1=_0x1b24ae;}_0x725ca1[_0xebc426(0x3c3)](_0xebc426(0x4af))[_0xebc426(0x3c6)](bgColor),_0x725ca1['method'](_0xebc426(0x4b0))[_0xebc426(0x3c6)](bgColor),_0x725ca1[_0xebc426(0x3c3)](_0xebc426(0x4b1))['invoke'](0x1,_0x20982b(_0x17b48f)[_0xebc426(0x3c3)](_0xebc426(0x41e))[_0xebc426(0x3c6)]()),_0x725ca1[_0xebc426(0x3c3)](_0xebc426(0x4b1))[_0xebc426(0x3c6)](0x0,_0x1890c1[_0xebc426(0x3c3)](_0xebc426(0x41e))[_0xebc426(0x3c6)]());}}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x5d0)})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x5d1),'method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x562)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5d2),'isTogglable':!![],'method':((()=>{let _0x316f49=0x0;const _0x48c52c=1.5,_0x2f15f7=0x5a;return()=>{const _0x1937c7=_0x5dc6;try{_0x316f49+=_0x2f15f7*deltaTime;if(_0x316f49>0x168)_0x316f49-=0x168;const _0x410560=_0x20982b(_0x1aadbf)['method'](_0x1937c7(0x41e))['invoke'](),_0x2f22dd=_0x38ca25[_0x1937c7(0x3c3)](_0x1937c7(0x476))['inflate'](_0x393291)[_0x1937c7(0x3c6)]();if(!_0x2f22dd)return;const _0x260738=[];for(let _0x4e909f=0x0;_0x4e909f<_0x2f22dd[_0x1937c7(0x419)];_0x4e909f++){const _0x5b17bb=_0x2f22dd[_0x1937c7(0x41a)](_0x4e909f);if(!_0x3aec50(_0x5b17bb))_0x260738[_0x1937c7(0x550)](_0x5b17bb);}if(_0x260738[_0x1937c7(0x419)]===0x0)return;for(let _0x4b024b=0x0;_0x4b024b<_0x260738[_0x1937c7(0x419)];_0x4b024b++){const _0x2be919=_0x260738[_0x4b024b];if(!_0x2be919||_0x2be919[_0x1937c7(0x417)]())continue;const _0x4698e9=0x168/_0x260738[_0x1937c7(0x419)]*_0x4b024b,_0x4d952c=(_0x316f49+_0x4698e9)*(Math['PI']/0xb4),_0x50dd2e=Math['cos'](_0x4d952c)*_0x48c52c,_0x595451=Math['sin'](_0x4d952c)*_0x48c52c,_0x4a9e58=_0x3da345[_0x1937c7(0x3c3)](_0x1937c7(0x41f))[_0x1937c7(0x3c6)](_0x3da345[_0x1937c7(0x3c3)](_0x1937c7(0x49b))['invoke'](_0x3da345[_0x1937c7(0x3c1)](_0x1937c7(0x56b))['value'],_0x50dd2e),_0x3da345['method'](_0x1937c7(0x49b))[_0x1937c7(0x3c6)](_0x3da345[_0x1937c7(0x3c1)]('forwardVector')[_0x1937c7(0x3c0)],_0x595451)),_0x45633d=_0x3da345[_0x1937c7(0x3c3)](_0x1937c7(0x41f))[_0x1937c7(0x3c6)](_0x410560,_0x4a9e58);_0x2be919[_0x1937c7(0x3c3)](_0x1937c7(0x420))[_0x1937c7(0x3c6)](_0x45633d);}}catch(_0x3efda5){console[_0x1937c7(0x4cc)](_0x1937c7(0x5d3),_0x3efda5);}};})()),'toolTip':_0x31bcbe(0x5d4)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5d5),'method':()=>{const _0x8ec09f=_0x31bcbe,_0x2943cf=_0x20982b(_0x151be1)[_0x8ec09f(0x3c3)](_0x8ec09f(0x41e))[_0x8ec09f(0x3c6)](),_0x3355e2=_0x38ca25[_0x8ec09f(0x3c3)]('FindObjectsOfType')[_0x8ec09f(0x3a9)](_0x393291)[_0x8ec09f(0x3c6)]();if(!_0x3355e2)return;for(let _0x3dbb22=0x0;_0x3dbb22<_0x3355e2[_0x8ec09f(0x419)];_0x3dbb22++){const _0x51c53b=_0x3355e2[_0x8ec09f(0x41a)](_0x3dbb22);if(_0x3aec50(_0x51c53b))continue;_0x51c53b['method'](_0x8ec09f(0x420))['invoke'](_0x2943cf);}},'isTogglable':![],'toolTip':_0x31bcbe(0x5d6)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5d7),'enableMethod':()=>{const _0x4b5411=_0x31bcbe;try{_0x5ef274['method'](_0x4b5411(0x5d8))[_0x4b5411(0x5d9)]=function(){return 0xf423f;},_0x5ef274['method'](_0x4b5411(0x5da))[_0x4b5411(0x5d9)]=function(){return 0xf423f;};}catch(_0x345d86){_0x18fcfc(_0x4b5411(0x5db)+_0x345d86,![]);}},'disableMethod':()=>{const _0x51a229=_0x31bcbe;try{_0x5ef274[_0x51a229(0x3c3)](_0x51a229(0x5d8))[_0x51a229(0x5d9)]=null,_0x5ef274['method'](_0x51a229(0x5da))[_0x51a229(0x5d9)]=null;}catch(_0x215d09){}},'isTogglable':!![],'toolTip':_0x31bcbe(0x5dc)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5dd),'method':()=>{const _0x3106fa=_0x31bcbe;try{const _0x58b531=_0x393291[_0x3106fa(0x3c3)]('get_localPlayer')[_0x3106fa(0x3c6)]();if(!_0x58b531)return;_0x58b531[_0x3106fa(0x3c3)](_0x3106fa(0x5de))[_0x3106fa(0x3c6)](0x5f5e100);}catch(_0x32c5f6){console['error'](_0x3106fa(0x5df),_0x32c5f6);}},'isTogglable':![]}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5e0),'isTogglable':!![],'method':()=>{const _0x27bf36=_0x31bcbe;try{leftGrab&&leftTrigger&&_0x4ac62a(_0x27bf36(0x3dc),_0xf3a6cd[_0x27bf36(0x3c3)](_0x27bf36(0x41e))[_0x27bf36(0x3c6)](),_0xf3a6cd[_0x27bf36(0x3c3)](_0x27bf36(0x4b2))[_0x27bf36(0x3c6)]()),rightGrab&&rightTrigger&&_0x4ac62a('FlareGunProjectile',_0x1890c1[_0x27bf36(0x3c3)](_0x27bf36(0x41e))[_0x27bf36(0x3c6)](),_0x1890c1[_0x27bf36(0x3c3)](_0x27bf36(0x4b2))[_0x27bf36(0x3c6)]());}catch(_0xa747e8){console['error'](_0xa747e8);}},'toolTip':_0x31bcbe(0x5e1)}),new _0x2e89a9({'buttonText':'Rocket\x20Launcher','isTogglable':!![],'method':()=>{const _0x46c4fe=_0x31bcbe;try{leftGrab&&leftTrigger&&_0x4ac62a(_0x46c4fe(0x5e2),_0xf3a6cd[_0x46c4fe(0x3c3)](_0x46c4fe(0x41e))[_0x46c4fe(0x3c6)](),_0xf3a6cd[_0x46c4fe(0x3c3)](_0x46c4fe(0x4b2))[_0x46c4fe(0x3c6)]()),rightGrab&&rightTrigger&&_0x4ac62a('RPGRocket',_0x1890c1[_0x46c4fe(0x3c3)](_0x46c4fe(0x41e))[_0x46c4fe(0x3c6)](),_0x1890c1[_0x46c4fe(0x3c3)]('get_rotation')[_0x46c4fe(0x3c6)]());}catch(_0x26bef3){console[_0x46c4fe(0x4cc)](_0x26bef3);}},'toolTip':_0x31bcbe(0x5e1)}),new _0x2e89a9({'buttonText':'BoomSpear\x20Launcher','isTogglable':!![],'method':()=>{const _0x583584=_0x31bcbe;try{leftGrab&&leftTrigger&&_0x4ac62a(_0x583584(0x3d8),_0xf3a6cd['method'](_0x583584(0x41e))[_0x583584(0x3c6)](),_0xf3a6cd['method'](_0x583584(0x4b2))[_0x583584(0x3c6)]()),rightGrab&&rightTrigger&&_0x4ac62a(_0x583584(0x3d8),_0x1890c1[_0x583584(0x3c3)]('get_position')['invoke'](),_0x1890c1['method'](_0x583584(0x4b2))[_0x583584(0x3c6)]());}catch(_0x152e16){console[_0x583584(0x4cc)](_0x152e16);}},'toolTip':_0x31bcbe(0x5e1)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5e3),'isTogglable':!![],'method':()=>{const _0x2bd2a7=_0x31bcbe;try{if(!rightGrab)return;if(!rightTrigger)return;const _0x18c8e9=_0x1890c1['method']('get_position')[_0x2bd2a7(0x3c6)](),_0x86e136=_0x1890c1['method']('get_rotation')[_0x2bd2a7(0x3c6)](),_0x4bdc7a=_0xfe0ca5[0x5],_0x5523c8=_0x4ac62a(_0x4bdc7a,_0x18c8e9,_0x86e136);if(_0x5523c8)_0x18fcfc(_0x2bd2a7(0x5e4)+_0x4bdc7a,![]);else _0x18fcfc(_0x2bd2a7(0x5e5)+_0x4bdc7a,![]);}catch(_0x5f208d){console[_0x2bd2a7(0x4cc)](_0x5f208d);}},'toolTip':_0x31bcbe(0x5e1)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5e6),'isTogglable':!![],'method':()=>{const _0x3f8caa=_0x31bcbe;try{if(!rightGrab)return;const _0x372528=_0x1890c1['method'](_0x3f8caa(0x41e))[_0x3f8caa(0x3c6)](),_0x4da216=_0x1890c1[_0x3f8caa(0x3c3)]('get_rotation')['invoke'](),_0x1a1374=_0x2a3696[_0x3f8caa(0x3c3)]('SpawnPickup',0x4)[_0x3f8caa(0x3c6)](0x2,_0x372528,0x5,!![]);if(_0x1a1374)_0x18fcfc(_0x3f8caa(0x5e4),![]);else _0x18fcfc('Spawn\x20failed:\x20',![]);}catch(_0x29dc87){console['error'](_0x29dc87);}},'toolTip':_0x31bcbe(0x5e1)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5e7),'isTogglable':!![],'method':()=>{const _0x1157f0=_0x31bcbe;try{if(!rightGrab)return;const _0x162683=_0x1890c1[_0x1157f0(0x3c3)]('get_position')['invoke'](),_0x478df4=_0x1890c1[_0x1157f0(0x3c3)](_0x1157f0(0x4b2))[_0x1157f0(0x3c6)](),_0x5277fc=_0x2a3696[_0x1157f0(0x3c3)](_0x1157f0(0x5e8),0x4)[_0x1157f0(0x3c6)](0x1,_0x162683,0x5,!![]);if(_0x5277fc)_0x18fcfc(_0x1157f0(0x5e4),![]);else _0x18fcfc(_0x1157f0(0x5e5),![]);}catch(_0x535d3d){console[_0x1157f0(0x4cc)](_0x535d3d);}},'toolTip':_0x31bcbe(0x5e9)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5ea),'isTogglable':!![],'method':()=>{const _0x3ad7dc=_0x31bcbe;if(!rightGrab)return;const _0xc9361f=_0x404c48(),_0x479fcd=_0xc9361f[_0x3ad7dc(0x575)];if(!_0x479fcd||_0x479fcd[_0x3ad7dc(0x4a7)][_0x3ad7dc(0x417)]())return;if(rightTrigger&&_0x30e18c>lagGunDelay){lagGunDelay=_0x30e18c+0x0;try{const _0x5c51fb=_0x479fcd[_0x3ad7dc(0x3c3)](_0x3ad7dc(0x4a4))[_0x3ad7dc(0x3c6)]();_0x2a3696[_0x3ad7dc(0x3c3)](_0x3ad7dc(0x5e8),0x4)['invoke'](0x2,_0x5c51fb,0x5,!![]);}catch(_0x35980a){_0x18fcfc(_0x3ad7dc(0x5eb)+_0x35980a,![]);}}},'toolTip':_0x31bcbe(0x5ec)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5ed),'isTogglable':!![],'method':()=>{const _0x50d6aa=_0x31bcbe;if(!rightGrab)return;const _0x1e89b5=_0x404c48(),_0x19abd3=_0x1e89b5[_0x50d6aa(0x575)];if(!_0x19abd3||_0x19abd3[_0x50d6aa(0x4a7)][_0x50d6aa(0x417)]())return;if(rightTrigger&&_0x30e18c>lagGunDelay){lagGunDelay=_0x30e18c+0x0;try{const _0x1e1fc1=_0x19abd3[_0x50d6aa(0x3c3)](_0x50d6aa(0x4a4))[_0x50d6aa(0x3c6)]();_0x2a3696[_0x50d6aa(0x3c3)](_0x50d6aa(0x5e8),0x4)[_0x50d6aa(0x3c6)](0x1,_0x1e1fc1,0x5,!![]);}catch(_0x490247){_0x18fcfc(_0x50d6aa(0x5ee)+_0x490247,![]);}}},'toolTip':_0x31bcbe(0x5ef)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5f0),'isTogglable':![],'method':()=>{const _0x825c36=_0x31bcbe;try{const _0x59e179=_0x38ca25['method'](_0x825c36(0x5f1),0x1)[_0x825c36(0x3a9)](_0x46b8b8)['invoke'](0x0);if(!_0x59e179)return;for(let _0x3ad71e=0x0;_0x3ad71e<_0x59e179[_0x825c36(0x419)];_0x3ad71e++){try{const _0x18555f=_0x59e179['get'](_0x3ad71e);if(!_0x18555f||_0x18555f[_0x825c36(0x4a7)][_0x825c36(0x417)]())continue;_0x18555f[_0x825c36(0x3c3)](_0x825c36(0x5f2))[_0x825c36(0x3c6)]();}catch(_0x3d6dd8){}}_0x18fcfc(_0x825c36(0x5f3),![]);}catch(_0x534203){}},'toolTip':'Explodes\x20every\x20selling\x20machine\x20in\x20the\x20room.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5f4),'isTogglable':![],'method':()=>{const _0xf29faf=_0x31bcbe;try{const _0x372083=_0x38ca25[_0xf29faf(0x3c3)]('FindObjectsByType',0x1)['inflate'](_0x46b8b8)[_0xf29faf(0x3c6)](0x0);if(!_0x372083)return;for(let _0x5d0ac7=0x0;_0x5d0ac7<_0x372083[_0xf29faf(0x419)];_0x5d0ac7++){try{const _0x1769fd=_0x372083[_0xf29faf(0x41a)](_0x5d0ac7);if(!_0x1769fd||_0x1769fd[_0xf29faf(0x4a7)][_0xf29faf(0x417)]())continue;_0x1769fd['method'](_0xf29faf(0x5f5))[_0xf29faf(0x3c6)]();}catch(_0x395198){}}_0x18fcfc(_0xf29faf(0x5f6),![]);}catch(_0x5e786e){}},'toolTip':_0x31bcbe(0x5f7)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5f8),'isTogglable':![],'method':()=>{const _0x2fb7bf=_0x31bcbe;try{const _0x561e79=_0x38ca25[_0x2fb7bf(0x3c3)](_0x2fb7bf(0x5f1),0x1)['inflate'](_0x46b8b8)['invoke'](0x0);if(!_0x561e79)return;for(let _0x121683=0x0;_0x121683<_0x561e79['length'];_0x121683++){try{const _0x442351=_0x561e79['get'](_0x121683);if(!_0x442351||_0x442351[_0x2fb7bf(0x4a7)][_0x2fb7bf(0x417)]())continue;_0x442351[_0x2fb7bf(0x3c3)]('RPC_AddPlayerMoneyToAll')[_0x2fb7bf(0x3c6)](0x5f5e100,[],Il2Cpp[_0x2fb7bf(0x5f9)](Il2Cpp[_0x2fb7bf(0x382)][_0x2fb7bf(0x383)](_0x2fb7bf(0x389))['image'][_0x2fb7bf(0x38e)](_0x2fb7bf(0x5fa))['alloc']()));}catch(_0x5d525b){}}_0x18fcfc('Gave\x20money\x20from\x20all\x20machines!',![]);}catch(_0x3eb160){console[_0x2fb7bf(0x4cc)](_0x2fb7bf(0x5fb),_0x3eb160);}},'toolTip':'Triggers\x20money\x20payout\x20from\x20all\x20selling\x20machines.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5fc),'isTogglable':!![],'method':()=>{const _0x48d3c6=_0x31bcbe;try{if(_0x30e18c<lagGunDelay)return;lagGunDelay=_0x30e18c+0.5;const _0x3c8a1e=_0x38ca25[_0x48d3c6(0x3c3)]('FindObjectsByType',0x1)[_0x48d3c6(0x3a9)](_0x46b8b8)['invoke'](0x0);if(!_0x3c8a1e)return;for(let _0x61dd9b=0x0;_0x61dd9b<_0x3c8a1e[_0x48d3c6(0x419)];_0x61dd9b++){try{const _0x395bbc=_0x3c8a1e[_0x48d3c6(0x41a)](_0x61dd9b);if(!_0x395bbc||_0x395bbc[_0x48d3c6(0x4a7)][_0x48d3c6(0x417)]())continue;_0x395bbc['method'](_0x48d3c6(0x5fd))[_0x48d3c6(0x3c6)](0x0);}catch(_0x4d18e4){}}}catch(_0x246ad1){}},'toolTip':_0x31bcbe(0x5fe)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x5ff),'method':()=>{const _0x552284=_0x31bcbe;if(rightGrab){const _0x4030e4=_0x404c48(),_0x52fe68=_0x4030e4[_0x552284(0x575)];if(rightTrigger&&_0x52fe68){const _0x3bbdb7=_0x1cfc31(_0x52fe68[_0x552284(0x3c3)](_0x552284(0x4a5))[_0x552284(0x3c6)](),_0x393291);if(_0x3bbdb7&&!_0x3bbdb7[_0x552284(0x4a7)][_0x552284(0x417)]()&&_0x30e18c>lagGunDelay){if(!_0x3aec50(_0x3bbdb7)){lagGunDelay=_0x30e18c+0x2;const _0x7b0c82=_0x3bbdb7[_0x552284(0x3c3)](_0x552284(0x41c))[_0x552284(0x3c6)](),_0x2259ac=_0x7b0c82['method'](_0x552284(0x4a1))[_0x552284(0x3c6)](),_0x5445d2=_0x3da345[_0x552284(0x3c3)](_0x552284(0x49b),0x2)[_0x552284(0x3c6)](_0x2259ac,0x5dc*deltaTime);_0x3bbdb7[_0x552284(0x3c3)](_0x552284(0x420))[_0x552284(0x3c6)]([0x0,-0x98967f,0x0]),_0x3bbdb7['method']('RPC_AddForce')['invoke'](_0x5445d2);}}}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x600)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x601),'method':()=>{const _0x287b89=_0x31bcbe;if(rightGrab){const _0xd41f02=_0x404c48(),_0x2cd22b=_0xd41f02[_0x287b89(0x575)];if(rightTrigger&&_0x2cd22b){const _0x4eb253=_0x1cfc31(_0x2cd22b['method'](_0x287b89(0x4a5))[_0x287b89(0x3c6)](),_0x393291);_0x4eb253&&!_0x4eb253[_0x287b89(0x4a7)][_0x287b89(0x417)]()&&_0x30e18c>tagGunDelay&&(!_0x3aec50(_0x4eb253)&&_0x283c5a(_0x4eb253));}}},'isTogglable':!![],'toolTip':'Kicks\x20whoever\x20your\x20hand\x20desires.'}),new _0x2e89a9({'buttonText':'Gay\x20Gun','method':()=>{const _0x264a92=_0x31bcbe;hue+=0x5;if(hue>0xff)hue=0x0;if(rightGrab){const _0x490e8f=_0x404c48(),_0x2e9712=_0x490e8f[_0x264a92(0x575)];if(rightTrigger&&_0x2e9712){const _0x3c8d2b=_0x1cfc31(_0x2e9712[_0x264a92(0x3c3)]('get_collider')[_0x264a92(0x3c6)](),_0x393291);_0x3c8d2b&&!_0x3c8d2b['handle'][_0x264a92(0x417)]()&&_0x30e18c>tagGunDelay&&(!_0x3aec50(_0x3c8d2b)&&_0x3c8d2b[_0x264a92(0x3c3)](_0x264a92(0x602))[_0x264a92(0x3c6)](0x5,hue,0x1,0x1));}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x600)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x603),'method':()=>{const _0x46bb6c=_0x31bcbe;if(rightGrab){const _0x1a0fba=_0x404c48(),_0x359ca8=_0x1a0fba[_0x46bb6c(0x575)];if(rightTrigger&&_0x359ca8){const _0x3182fe=_0x1cfc31(_0x359ca8['method'](_0x46bb6c(0x4a5))[_0x46bb6c(0x3c6)](),_0x393291);_0x3182fe&&!_0x3182fe[_0x46bb6c(0x4a7)][_0x46bb6c(0x417)]()&&_0x30e18c>tagGunDelay&&(!_0x3aec50(_0x3182fe)&&_0x3182fe[_0x46bb6c(0x3c3)]('RPC_SetColorHSV')[_0x46bb6c(0x3c6)](NaN,NaN,NaN,NaN));}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x600)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x604),'method':()=>{const _0x4ac77c=_0x31bcbe;if(rightGrab){const _0x11f73a=_0x404c48(),_0x3f3546=_0x11f73a[_0x4ac77c(0x575)];if(rightTrigger&&_0x3f3546){const _0x185e2b=_0x3f3546[_0x4ac77c(0x3c3)](_0x4ac77c(0x4a5))['invoke']();if(_0x185e2b&&!_0x185e2b[_0x4ac77c(0x4a7)]['isNull']()){const _0x29c2fb=_0x185e2b[_0x4ac77c(0x3c3)](_0x4ac77c(0x522))[_0x4ac77c(0x3c6)]();if(_0x29c2fb&&!_0x29c2fb[_0x4ac77c(0x4a7)]['isNull']()){const _0x23c21e=_0x29c2fb['method'](_0x4ac77c(0x5c6))[_0x4ac77c(0x3c6)]();console[_0x4ac77c(0x424)](_0x4ac77c(0x605),_0x23c21e);}}}}},'isTogglable':!![],'toolTip':'Lags\x20whoever\x20your\x20hand\x20desires.\x20May\x20be\x20broken.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x606),'method':()=>{const _0x1f995e=_0x31bcbe,_0x5b86bd=_0x38ca25[_0x1f995e(0x3c3)](_0x1f995e(0x476))['inflate'](_0x393291)['invoke']();if(_0x5b86bd)for(let _0x9e5a49=0x0;_0x9e5a49<_0x5b86bd[_0x1f995e(0x419)];_0x9e5a49++){const _0x51d194=_0x5b86bd[_0x1f995e(0x41a)](_0x9e5a49);if(_0x3aec50(_0x51d194))continue;const _0x53522f=_0x51d194[_0x1f995e(0x3c3)]('get_transform')[_0x1f995e(0x3c6)](),_0x52dc61=_0x53522f[_0x1f995e(0x3c3)](_0x1f995e(0x4a1))[_0x1f995e(0x3c6)](),_0x57b236=_0x3da345[_0x1f995e(0x3c3)](_0x1f995e(0x49b),0x2)[_0x1f995e(0x3c6)](_0x52dc61,0x5dc*deltaTime);_0x51d194['method']('RPC_Teleport')[_0x1f995e(0x3c6)]([0x0,-0x98967f,0x0]),_0x51d194[_0x1f995e(0x3c3)]('RPC_AddForce')[_0x1f995e(0x3c6)](_0x57b236);}},'isTogglable':![],'toolTip':_0x31bcbe(0x600)}),new _0x2e89a9({'buttonText':'Kick\x20All','method':()=>{const _0x2874f5=_0x31bcbe,_0x3e8843=_0x38ca25['method']('FindObjectsOfType')[_0x2874f5(0x3a9)](_0x393291)['invoke']();if(_0x3e8843)for(let _0xaa207c=0x0;_0xaa207c<_0x3e8843[_0x2874f5(0x419)];_0xaa207c++){const _0x432449=_0x3e8843[_0x2874f5(0x41a)](_0xaa207c);if(_0x3aec50(_0x432449))continue;_0x283c5a(_0x432449);}},'isTogglable':![],'toolTip':'Lags\x20whoever\x20your\x20hand\x20desires.\x20May\x20be\x20broken.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x607),'method':()=>{const _0x48b4e3=_0x31bcbe;hue+=0x5;if(hue>0xff)hue=0x0;if(rightGrab){const _0x12a92a=_0x38ca25[_0x48b4e3(0x3c3)](_0x48b4e3(0x476))[_0x48b4e3(0x3a9)](_0x393291)[_0x48b4e3(0x3c6)]();if(_0x12a92a)for(let _0x3212ad=0x0;_0x3212ad<_0x12a92a[_0x48b4e3(0x419)];_0x3212ad++){const _0x625198=_0x12a92a[_0x48b4e3(0x41a)](_0x3212ad);if(_0x625198[_0x48b4e3(0x3c3)](_0x48b4e3(0x578))[_0x48b4e3(0x3c6)]())continue;_0x625198[_0x48b4e3(0x3c3)]('RPC_SetColorHSV')[_0x48b4e3(0x3c6)](0x5,hue,0x1,0x1);}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x600)}),new _0x2e89a9({'buttonText':'Blind/BlackScreen\x20All','method':()=>{const _0x4bec80=_0x31bcbe;if(rightGrab){const _0x3906bc=_0x38ca25['method'](_0x4bec80(0x476))['inflate'](_0x393291)[_0x4bec80(0x3c6)]();if(_0x3906bc)for(let _0x4a6a48=0x0;_0x4a6a48<_0x3906bc['length'];_0x4a6a48++){const _0x56dd4f=_0x3906bc[_0x4bec80(0x41a)](_0x4a6a48);if(_0x56dd4f[_0x4bec80(0x3c3)](_0x4bec80(0x578))['invoke']())continue;_0x56dd4f[_0x4bec80(0x3c3)]('RPC_SetColorHSV')['invoke'](NaN,NaN,NaN,NaN);}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x600)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x608),'method':()=>{const _0x489df6=_0x31bcbe;if(rightGrab){const _0x57c57a=_0x393291[_0x489df6(0x3c3)](_0x489df6(0x421))[_0x489df6(0x3c6)]();if(!_0x57c57a)return;_0x57c57a[_0x489df6(0x3c3)](_0x489df6(0x602))[_0x489df6(0x3c6)](NaN,NaN,NaN,NaN);}},'isTogglable':!![],'toolTip':_0x31bcbe(0x600)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x609),'method':()=>{const _0x2b58a9=_0x31bcbe,_0x29b912=_0x1890c1;rightSecondary&&rightGrab&&_0x26e0fc[_0x2b58a9(0x3c3)]('SpawnItem',0x4)['invoke'](Il2Cpp[_0x2b58a9(0x41b)](''+itemIDs[itemIndex]),_0x29b912['method'](_0x2b58a9(0x41e))['invoke'](),_0x29b912['method'](_0x2b58a9(0x4b2))['invoke'](),null);},'isTogglable':!![],'toolTip':'Lets\x20you\x20spawn\x20items\x20in\x20your\x20right\x20hand.'}),new _0x2e89a9({'buttonText':'Spawn\x20Item\x204x4','disableMethod':()=>{const _0x9f4934=_0x31bcbe;if(visualizer&&visualizer[_0x9f4934(0x419)])for(const _0x319731 of visualizer){_0x319731&&_0x319731[_0x9f4934(0x3c3)](_0x9f4934(0x522))[_0x9f4934(0x3c6)]()[_0x9f4934(0x3c3)](_0x9f4934(0x4a8))[_0x9f4934(0x3c6)](![]);}},'method':()=>{const _0x303f4c=_0x31bcbe,_0x4a246d=_0x1890c1,_0x5d1cb0=Il2Cpp['string'](_0x303f4c(0x381)+itemIDs[itemIndex]),_0x38b030=_0x4a246d[_0x303f4c(0x3c3)](_0x303f4c(0x41e))[_0x303f4c(0x3c6)](),_0x134250=_0x471248,_0xcd8b52=0.5;if(_0x30e18c>tagGunDelay){tagGunDelay=_0x30e18c+0.1;for(let _0x5a1092=0x0;_0x5a1092<0x4;_0x5a1092++){for(let _0x586c6a=0x0;_0x586c6a<0x4;_0x586c6a++){const _0x1242fd=_0x3da345['method']('op_Addition')[_0x303f4c(0x3c6)](_0x38b030,_0x3da345[_0x303f4c(0x3c3)](_0x303f4c(0x49b))[_0x303f4c(0x3c6)](_0x3da345['method'](_0x303f4c(0x41f))['invoke'](_0x3da345[_0x303f4c(0x3c3)]('op_Multiply')[_0x303f4c(0x3c6)](_0x3da345[_0x303f4c(0x3c1)]('rightVector')[_0x303f4c(0x3c0)],_0x5a1092),_0x3da345['method']('op_Multiply')[_0x303f4c(0x3c6)](_0x3da345[_0x303f4c(0x3c1)](_0x303f4c(0x56c))['value'],_0x586c6a)),_0xcd8b52));if(!visualizer[_0x5a1092*0x4+_0x586c6a]){const _0xb655eb=_0x2d7f33[_0x303f4c(0x3c3)](_0x303f4c(0x48b))[_0x303f4c(0x3c6)](0x3);_0x386f73(_0x459a51(_0xb655eb,_0x373a82));const _0x420a02=_0x459a51(_0xb655eb,_0x5bff8c),_0x4ddd87=_0x420a02[_0x303f4c(0x3c3)](_0x303f4c(0x4ac))[_0x303f4c(0x3c6)]();_0x4ddd87[_0x303f4c(0x3c3)](_0x303f4c(0x48c))[_0x303f4c(0x3c6)](_0x589d80),_0x4ddd87[_0x303f4c(0x3c3)](_0x303f4c(0x483))[_0x303f4c(0x3c6)]([0x0,0x1,0x0,0.3]);const _0x338e17=_0x20982b(_0xb655eb);_0x338e17['method'](_0x303f4c(0x48e))[_0x303f4c(0x3c6)]([0.1,0.1,0.1]),visualizer[_0x5a1092*0x4+_0x586c6a]=_0xb655eb;}const _0x4a4c28=_0x20982b(visualizer[_0x5a1092*0x4+_0x586c6a]);_0x4a4c28[_0x303f4c(0x3c3)]('set_position')[_0x303f4c(0x3c6)](_0x1242fd),_0x4a4c28[_0x303f4c(0x3c3)]('set_rotation')['invoke'](_0x134250),visualizer[_0x5a1092*0x4+_0x586c6a]['method'](_0x303f4c(0x522))['invoke']()['method'](_0x303f4c(0x4a8))[_0x303f4c(0x3c6)](!![]);}}}if(rightPrimary&&!perviousSpawnKey)for(let _0x50ea7e=0x0;_0x50ea7e<0x4;_0x50ea7e++){for(let _0x267b58=0x0;_0x267b58<0x4;_0x267b58++){const _0xcf24b=_0x3da345[_0x303f4c(0x3c3)](_0x303f4c(0x41f))[_0x303f4c(0x3c6)](_0x38b030,_0x3da345[_0x303f4c(0x3c3)](_0x303f4c(0x49b))[_0x303f4c(0x3c6)](_0x3da345['method'](_0x303f4c(0x41f))[_0x303f4c(0x3c6)](_0x3da345['method'](_0x303f4c(0x49b))[_0x303f4c(0x3c6)](_0x3da345[_0x303f4c(0x3c1)](_0x303f4c(0x56b))['value'],_0x50ea7e),_0x3da345['method'](_0x303f4c(0x49b))[_0x303f4c(0x3c6)](_0x3da345['field']('forwardVector')[_0x303f4c(0x3c0)],_0x267b58)),_0xcd8b52));_0x26e0fc[_0x303f4c(0x3c3)]('SpawnItem',0x4)[_0x303f4c(0x3c6)](_0x5d1cb0,_0xcf24b,_0x134250,null);}}perviousSpawnKey=rightPrimary;},'isTogglable':!![],'toolTip':_0x31bcbe(0x60a)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x60b),'disableMethod':()=>{const _0xf49393=_0x31bcbe;if(visualizer&&visualizer[_0xf49393(0x419)])for(const _0x6d7e3c of visualizer){_0x6d7e3c&&_0x6d7e3c[_0xf49393(0x3c3)](_0xf49393(0x522))[_0xf49393(0x3c6)]()[_0xf49393(0x3c3)]('SetActive')[_0xf49393(0x3c6)](![]);}},'method':()=>{const _0x208df6=_0x31bcbe,_0xc97d8b=Il2Cpp['string']('item_'+itemIDs[itemIndex]),_0x3486f4=_0x20982b(_0x1aadbf)[_0x208df6(0x3c3)]('get_position')[_0x208df6(0x3c6)](),_0x129bcf=_0x471248,_0x19cf6a=0.5,_0x5d43f8=_0x3da345['field'](_0x208df6(0x536))[_0x208df6(0x3c0)],_0x3256cf=_0x3da345['method'](_0x208df6(0x41f))[_0x208df6(0x3c6)](_0x3486f4,_0x3da345[_0x208df6(0x3c3)](_0x208df6(0x49b))[_0x208df6(0x3c6)](_0x5d43f8,0x2));if(_0x30e18c>tagGunDelay){tagGunDelay=_0x30e18c+0.1;for(let _0x5b7483=0x0;_0x5b7483<0x4;_0x5b7483++){for(let _0x4f74ce=0x0;_0x4f74ce<0x4;_0x4f74ce++){const _0x1b0a29=_0x3da345[_0x208df6(0x3c3)](_0x208df6(0x41f))[_0x208df6(0x3c6)](_0x3256cf,_0x3da345[_0x208df6(0x3c3)](_0x208df6(0x49b))[_0x208df6(0x3c6)](_0x3da345[_0x208df6(0x3c3)](_0x208df6(0x41f))[_0x208df6(0x3c6)](_0x3da345[_0x208df6(0x3c3)](_0x208df6(0x49b))[_0x208df6(0x3c6)](_0x3da345[_0x208df6(0x3c1)]('rightVector')[_0x208df6(0x3c0)],_0x5b7483),_0x3da345[_0x208df6(0x3c3)]('op_Multiply')[_0x208df6(0x3c6)](_0x3da345[_0x208df6(0x3c1)](_0x208df6(0x56c))[_0x208df6(0x3c0)],_0x4f74ce)),_0x19cf6a));if(!visualizer[_0x5b7483*0x4+_0x4f74ce]){const _0x1ea4d3=_0x2d7f33[_0x208df6(0x3c3)]('CreatePrimitive')[_0x208df6(0x3c6)](0x3);_0x386f73(_0x459a51(_0x1ea4d3,_0x373a82));const _0x5a3672=_0x459a51(_0x1ea4d3,_0x5bff8c),_0x47f441=_0x5a3672['method'](_0x208df6(0x4ac))[_0x208df6(0x3c6)]();_0x47f441[_0x208df6(0x3c3)](_0x208df6(0x48c))[_0x208df6(0x3c6)](_0x589d80),_0x47f441[_0x208df6(0x3c3)](_0x208df6(0x483))[_0x208df6(0x3c6)]([0x0,0x1,0x0,0.3]);const _0x1c3741=_0x20982b(_0x1ea4d3);_0x1c3741[_0x208df6(0x3c3)]('set_localScale')['invoke']([0.1,0.1,0.1]),visualizer[_0x5b7483*0x4+_0x4f74ce]=_0x1ea4d3;}const _0x53d016=_0x20982b(visualizer[_0x5b7483*0x4+_0x4f74ce]);_0x53d016[_0x208df6(0x3c3)](_0x208df6(0x473))[_0x208df6(0x3c6)](_0x1b0a29),_0x53d016['method'](_0x208df6(0x488))['invoke'](_0x129bcf),visualizer[_0x5b7483*0x4+_0x4f74ce][_0x208df6(0x3c3)](_0x208df6(0x522))[_0x208df6(0x3c6)]()['method'](_0x208df6(0x4a8))[_0x208df6(0x3c6)](!![]);}}}if(rightPrimary&&!perviousSpawnKey)for(let _0x11d628=0x0;_0x11d628<0x4;_0x11d628++){for(let _0xb29d42=0x0;_0xb29d42<0x4;_0xb29d42++){const _0x107c05=_0x3da345[_0x208df6(0x3c3)](_0x208df6(0x41f))[_0x208df6(0x3c6)](_0x3256cf,_0x3da345['method'](_0x208df6(0x49b))['invoke'](_0x3da345[_0x208df6(0x3c3)](_0x208df6(0x41f))[_0x208df6(0x3c6)](_0x3da345[_0x208df6(0x3c3)](_0x208df6(0x49b))[_0x208df6(0x3c6)](_0x3da345[_0x208df6(0x3c1)](_0x208df6(0x56b))[_0x208df6(0x3c0)],_0x11d628),_0x3da345[_0x208df6(0x3c3)](_0x208df6(0x49b))['invoke'](_0x3da345[_0x208df6(0x3c1)](_0x208df6(0x56c))[_0x208df6(0x3c0)],_0xb29d42)),_0x19cf6a));_0x26e0fc[_0x208df6(0x3c3)](_0x208df6(0x504),0x4)[_0x208df6(0x3c6)](_0xc97d8b,_0x107c05,_0x129bcf,null);}}perviousSpawnKey=rightPrimary;},'isTogglable':!![],'toolTip':_0x31bcbe(0x60a)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x60c),'method':()=>{const _0x5b41f9=_0x31bcbe;if(rightGrab){const _0x399c6f=_0x404c48(),_0x3ae07e=_0x399c6f[_0x5b41f9(0x54e)];rightTrigger&&_0x26e0fc[_0x5b41f9(0x3c3)](_0x5b41f9(0x504),0x4)[_0x5b41f9(0x3c6)](Il2Cpp[_0x5b41f9(0x41b)](_0x5b41f9(0x381)+itemIDs[itemIndex]),_0x20982b(_0x3ae07e)[_0x5b41f9(0x3c3)](_0x5b41f9(0x41e))[_0x5b41f9(0x3c6)](),_0x471248,null);}},'isTogglable':!![],'toolTip':'Lets\x20you\x20spawn\x20items\x20in\x20your\x20right\x20hand.'}),new _0x2e89a9({'buttonText':'Drop\x20Items\x20Gun','method':()=>{const _0x4da14a=_0x31bcbe;if(rightGrab){const _0x395d66=_0x404c48(),_0x4dd0a8=_0x395d66['ray'];if(rightTrigger&&_0x4dd0a8){const _0x211a27=_0x1cfc31(_0x4dd0a8[_0x4da14a(0x3c3)]('get_collider')[_0x4da14a(0x3c6)](),_0x2bf557);_0x211a27['method'](_0x4da14a(0x60d),0x6)[_0x4da14a(0x3c6)](_0x1890c1[_0x4da14a(0x3c3)](_0x4da14a(0x41e))[_0x4da14a(0x3c6)](),_0x1890c1['method'](_0x4da14a(0x4b2))[_0x4da14a(0x3c6)](),_0x7444ed,_0x7444ed,!![],![]),_0x211a27[_0x4da14a(0x3c3)]('RPC_Teleport',0x2)['invoke'](_0x1890c1[_0x4da14a(0x3c3)](_0x4da14a(0x41e))[_0x4da14a(0x3c6)](),_0x1890c1['method'](_0x4da14a(0x4b2))[_0x4da14a(0x3c6)](),_0x7444ed,_0x7444ed,!![],![]);}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x60a)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x60e),'method':()=>{const _0x45b93b=_0x31bcbe;if(rightGrab){if(rightTrigger){const _0x375c6a=_0x38ca25[_0x45b93b(0x3c3)](_0x45b93b(0x476))[_0x45b93b(0x3a9)](_0x393291)[_0x45b93b(0x3c6)]();if(_0x375c6a)for(let _0x4a11bc=0x0;_0x4a11bc<_0x375c6a[_0x45b93b(0x419)];_0x4a11bc++){const _0x5eeffa=_0x375c6a[_0x45b93b(0x41a)](_0x4a11bc);if(_0x5eeffa[_0x45b93b(0x3c3)](_0x45b93b(0x578))[_0x45b93b(0x3c6)]())continue;_0x283c5a(_0x5eeffa),_0x5eeffa[_0x45b93b(0x3c3)](_0x45b93b(0x420))[_0x45b93b(0x3c6)](new _0x3da345(-0x5f5e0ff,-0x5f5e0ff,-0x5f5e0ff),_0x471248);}}}},'isTogglable':!![],'toolTip':'Lets\x20you\x20spawn\x20items\x20in\x20your\x20right\x20hand.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x60f),'method':()=>{const _0x221141=_0x31bcbe;if(rightGrab){const _0x37812c=_0x404c48(),_0x1d6ee3=_0x37812c[_0x221141(0x54e)];if(rightTrigger){const _0x9d725=_0x38ca25[_0x221141(0x3c3)](_0x221141(0x476))[_0x221141(0x3a9)](_0x393291)['invoke']();if(_0x9d725)for(let _0x52d171=0x0;_0x52d171<_0x9d725['length'];_0x52d171++){const _0x191f97=_0x9d725['get'](_0x52d171);if(_0x191f97[_0x221141(0x3c3)]('get_IsMine')['invoke']())continue;_0x191f97[_0x221141(0x3c3)](_0x221141(0x420))[_0x221141(0x3c6)](_0x20982b(_0x1d6ee3)[_0x221141(0x3c3)]('get_position')[_0x221141(0x3c6)]());}}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x60a)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x610),'method':()=>{const _0x2ceee0=_0x31bcbe,_0x43b5ef=_0x1890c1;rightSecondary&&rightGrab&&_0x26e0fc[_0x2ceee0(0x3c3)](_0x2ceee0(0x504),0x4)[_0x2ceee0(0x3c6)](Il2Cpp[_0x2ceee0(0x41b)](_0x2ceee0(0x611)+mobIDs[mobIndex]),_0x43b5ef[_0x2ceee0(0x3c3)](_0x2ceee0(0x41e))[_0x2ceee0(0x3c6)](),_0x43b5ef[_0x2ceee0(0x3c3)](_0x2ceee0(0x4b2))['invoke'](),null);},'isTogglable':!![],'toolTip':_0x31bcbe(0x612)}),new _0x2e89a9({'buttonText':'Spawn\x20ALL\x20Mobs','method':()=>{const _0x531732=_0x31bcbe,_0x17c86b=_0x1890c1;for(let _0x4b2f76=0x0;_0x4b2f76<mobIDs[_0x531732(0x419)];_0x4b2f76++){_0x26e0fc['method'](_0x531732(0x504),0x4)[_0x531732(0x3c6)](Il2Cpp[_0x531732(0x41b)](_0x531732(0x611)+mobIDs[_0x4b2f76]),_0x17c86b[_0x531732(0x3c3)](_0x531732(0x41e))['invoke'](),_0x17c86b['method']('get_rotation')[_0x531732(0x3c6)](),null);}},'isTogglable':![],'toolTip':'Lets\x20you\x20spawn\x20mobs\x20in\x20your\x20right\x20hand.'}),new _0x2e89a9({'buttonText':'Spoof\x20developer\x20mode','method':()=>{_0x5dfc6d();},'isTogglable':!![],'toolTip':_0x31bcbe(0x613)}),new _0x2e89a9({'buttonText':'Developer\x20mode\x20for\x20vending\x20machine','disableMethod':()=>{const _0x178618=_0x31bcbe;try{const _0x308719=_0x991208[_0x178618(0x38e)](_0x178618(0x614));if(!_0x308719)return;if(!devEnabled){const _0x241632=_0x38ca25[_0x178618(0x3c3)](_0x178618(0x476))[_0x178618(0x3a9)](_0x308719)[_0x178618(0x3c6)]();for(let _0x551d98=0x0;_0x551d98<_0x241632[_0x178618(0x419)];_0x551d98++){const _0x220091=_0x241632[_0x178618(0x41a)](_0x551d98);_0x220091[_0x178618(0x3c1)]('_devModeOn')[_0x178618(0x3c0)]=![];}devEnabled=![];}}catch(_0x1b55b7){console[_0x178618(0x4cc)](_0x1b55b7);}},'method':()=>{const _0x28c168=_0x31bcbe;try{const _0x321c21=_0x991208['class'](_0x28c168(0x614));if(!_0x321c21)return;if(!devEnabled){const _0x5e2201=_0x38ca25[_0x28c168(0x3c3)]('FindObjectsOfType')['inflate'](_0x321c21)[_0x28c168(0x3c6)]();for(let _0x5066f6=0x0;_0x5066f6<_0x5e2201['length'];_0x5066f6++){const _0x100b3a=_0x5e2201[_0x28c168(0x41a)](_0x5066f6);_0x100b3a[_0x28c168(0x3c1)](_0x28c168(0x615))[_0x28c168(0x3c0)]=!![];}devEnabled=!![];}}catch(_0x532247){console[_0x28c168(0x4cc)](_0x532247);}},'isTogglable':!![],'toolTip':_0x31bcbe(0x616)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x617),'method':()=>{const _0x2d3c79=_0x31bcbe;try{const _0x5e68c1=_0x393291[_0x2d3c79(0x3c3)](_0x2d3c79(0x421))[_0x2d3c79(0x3c6)]();if(!_0x5e68c1)return;const _0x4ae37e=_0x5e68c1[_0x2d3c79(0x3c3)](_0x2d3c79(0x4fd),0x1)['invoke'](0x1);if(!_0x4ae37e)return;const _0x42736a=_0x4ae37e['field']('_itemAnchor')[_0x2d3c79(0x3c0)];if(!_0x42736a)return;const _0x1be493=_0x42736a[_0x2d3c79(0x3c3)](_0x2d3c79(0x521))['invoke']();if(!_0x1be493)return;const _0x1d1a6d=_0x5e68c1['method']('GetHandInteractor',0x1)[_0x2d3c79(0x3c6)](0x0);if(!_0x1d1a6d)return;const _0x460fe6=_0x1d1a6d[_0x2d3c79(0x3c1)](_0x2d3c79(0x4fe))[_0x2d3c79(0x3c0)];if(!_0x460fe6)return;const _0x268c40=_0x460fe6[_0x2d3c79(0x3c3)](_0x2d3c79(0x521))['invoke']();if(!_0x268c40)return;rightTrigger&&_0x1be493[_0x2d3c79(0x3c3)](_0x2d3c79(0x618))['invoke'](),leftTrigger&&_0x268c40['method']('HandleTriggerUse')[_0x2d3c79(0x3c6)]();}catch(_0x434529){console[_0x2d3c79(0x4cc)](_0x434529);}},'isTogglable':!![],'toolTip':'Rapid\x20fire\x20any\x20item\x20that\x20is\x20used\x20with\x20the\x20trigger\x20button'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x619),'method':()=>{const _0xabe941=_0x31bcbe,_0x4ed8f9=_0x215901[_0xabe941(0x3c3)](_0xabe941(0x4d0))['invoke'](),_0x4da40d=_0x38ca25['method'](_0xabe941(0x476))[_0xabe941(0x3a9)](_0x991208['class']('AnimalCompany.RoboMonkeItem'))[_0xabe941(0x3c6)]();for(let _0x218881=0x0;_0x218881<_0x4da40d[_0xabe941(0x419)];_0x218881++){const _0x30cc7c=_0x4da40d[_0xabe941(0x41a)](_0x218881);_0x30cc7c[_0xabe941(0x3c3)](_0xabe941(0x61a))[_0xabe941(0x3c6)](_0x4ed8f9['method'](_0xabe941(0x61b))[_0xabe941(0x3c6)]());}},'isTogglable':![],'toolTip':_0x31bcbe(0x61c)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x61d),'method':()=>{const _0x9e5993=_0x31bcbe;if(rightGrab){const _0x49cb96=_0x38ca25[_0x9e5993(0x3c3)](_0x9e5993(0x476))[_0x9e5993(0x3a9)](_0x991208[_0x9e5993(0x38e)](_0x9e5993(0x61e)))[_0x9e5993(0x3c6)]();for(let _0x43a0ee=0x0;_0x43a0ee<_0x49cb96[_0x9e5993(0x419)];_0x43a0ee++){const _0x542c31=_0x49cb96['get'](_0x43a0ee);_0x542c31[_0x9e5993(0x3c3)](_0x9e5993(0x61f))[_0x9e5993(0x3c6)](0x3e7,0x4,_0x7444ed,_0x7444ed);}}},'isTogglable':![],'toolTip':_0x31bcbe(0x620)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x621),'method':()=>{const _0x346a6f=_0x31bcbe,_0x51e3ab=_0x38ca25[_0x346a6f(0x3c3)](_0x346a6f(0x476))['inflate'](_0x991208[_0x346a6f(0x38e)](_0x346a6f(0x622)))['invoke'](),_0x4b9b25=_0x38ca25[_0x346a6f(0x3c3)](_0x346a6f(0x476))[_0x346a6f(0x3a9)](_0x393291)[_0x346a6f(0x3c6)]();if(!_0x4b9b25)return null;_0x26e0fc['method'](_0x346a6f(0x504),0x4)['invoke'](Il2Cpp['string'](_0x346a6f(0x623)),_0x1890c1[_0x346a6f(0x3c3)](_0x346a6f(0x41e))['invoke'](),_0x471248,null);for(let _0x49da46=0x0;_0x49da46<_0x51e3ab['length'];_0x49da46++){const _0x4dc60c=_0x51e3ab[_0x346a6f(0x41a)](_0x49da46);for(let _0x25565e=0x0;_0x25565e<_0x4b9b25['length'];_0x25565e++){const _0xb22607=_0x4b9b25['get'](_0x25565e);if(_0x3aec50(_0xb22607))continue;_0xb22607[_0x346a6f(0x3c3)](_0x346a6f(0x624))[_0x346a6f(0x3c6)](!![],_0x4dc60c,!![],_0x7444ed);}}},'isTogglable':![],'toolTip':_0x31bcbe(0x625)}),new _0x2e89a9({'buttonText':'Spawn\x20Items\x20Gun','isTogglable':!![],'method':()=>{const _0x3dc3eb=_0x31bcbe;if(!rightGrab)return;const _0x25bc94=_0x404c48(),_0x30439f=_0x25bc94[_0x3dc3eb(0x575)];if(!_0x30439f)return;if(rightTrigger)try{const _0x218969=_0x30439f[_0x3dc3eb(0x3c3)](_0x3dc3eb(0x4a4))[_0x3dc3eb(0x3c6)](),_0x1f7fce=_0x991208[_0x3dc3eb(0x38e)](_0x3dc3eb(0x39d)),_0x5e14ee=_0x1f7fce[_0x3dc3eb(0x3c3)](_0x3dc3eb(0x626))[_0x3dc3eb(0x3c6)](Il2Cpp['string'](itemIDs[itemIndex]));if(!_0x5e14ee||_0x5e14ee[_0x3dc3eb(0x4a7)][_0x3dc3eb(0x417)]()){_0x18fcfc(_0x3dc3eb(0x627),![]),console[_0x3dc3eb(0x4cc)](_0x3dc3eb(0x628),itemIDs[itemIndex]);return;}_0x1f7fce[_0x3dc3eb(0x3c3)](_0x3dc3eb(0x629),0x4)[_0x3dc3eb(0x4aa)](_0x3dc3eb(0x62a),_0x3dc3eb(0x62b),_0x3dc3eb(0x3aa),_0x3dc3eb(0x62c))[_0x3dc3eb(0x3c6)](_0x5e14ee,_0x218969,_0x471248,null),console[_0x3dc3eb(0x424)]('✓\x20Spawned\x20item:',itemIDs[itemIndex]),_0x18fcfc(_0x3dc3eb(0x5e4)+itemIDs[itemIndex],![]);}catch(_0x25499f){console[_0x3dc3eb(0x4cc)]('Item\x20spawn\x20error:',_0x25499f),_0x18fcfc(_0x3dc3eb(0x5e5)+_0x25499f,![]);}},'toolTip':'Spawns\x20items\x20where\x20you\x20aim\x20(hold\x20grip,\x20pull\x20trigger).'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x62d),'isTogglable':!![],'method':()=>{const _0x447c6b=_0x31bcbe;if(!rightGrab)return;const _0x32a19b=_0x404c48(),_0x5c55a4=_0x32a19b[_0x447c6b(0x575)];if(!_0x5c55a4)return;if(rightTrigger)try{const _0x5856ed=_0x5c55a4[_0x447c6b(0x3c3)](_0x447c6b(0x4a4))['invoke'](),_0x1c1162=_0x991208['class'](_0x447c6b(0x39d)),_0x145988=_0x1c1162[_0x447c6b(0x3c3)](_0x447c6b(0x62e))['invoke'](Il2Cpp[_0x447c6b(0x41b)](mobIDs[mobIndex]));if(!_0x145988||_0x145988[_0x447c6b(0x4a7)]['isNull']()){_0x18fcfc(_0x447c6b(0x627),![]),console[_0x447c6b(0x4cc)](_0x447c6b(0x628),mobIDs[mobIndex]);return;}_0x1c1162[_0x447c6b(0x3c3)](_0x447c6b(0x62f),0x4)[_0x447c6b(0x4aa)](_0x447c6b(0x630),_0x447c6b(0x62b),'UnityEngine.Quaternion',_0x447c6b(0x62c))[_0x447c6b(0x3c6)](mobIDs[mobIndex],_0x5856ed,_0x471248,null),console[_0x447c6b(0x424)](_0x447c6b(0x631),mobIDs[mobIndex]),_0x18fcfc('Spawned:\x20'+mobIDs[mobIndex],![]);}catch(_0x52f36e){console['error'](_0x447c6b(0x632),_0x52f36e),_0x18fcfc('Spawn\x20failed:\x20'+_0x52f36e,![]);}},'toolTip':_0x31bcbe(0x633)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x634),'method':()=>{const _0x2d5b43=_0x31bcbe;if(rightStick&&!perviousShootKey){const _0x31764e=_0x38ca25['method'](_0x2d5b43(0x476))[_0x2d5b43(0x3a9)](_0x991208[_0x2d5b43(0x38e)](_0x2d5b43(0x635)))[_0x2d5b43(0x3c6)]();if(!_0x31764e)return null;const _0x2092f0=_0x20982b(_0x1aadbf);if(!_0x2092f0)return null;for(let _0x184c3a=0x0;_0x184c3a<_0x31764e[_0x2d5b43(0x419)];_0x184c3a++){const _0x4aba6f=_0x31764e[_0x2d5b43(0x41a)](_0x184c3a);_0x4aba6f[_0x2d5b43(0x3c3)](_0x2d5b43(0x636))[_0x2d5b43(0x3c6)](_0x2092f0[_0x2d5b43(0x3c3)](_0x2d5b43(0x41e))[_0x2d5b43(0x3c6)](),_0x2092f0[_0x2d5b43(0x3c3)](_0x2d5b43(0x4b2))[_0x2d5b43(0x3c6)](),_0x2092f0[_0x2d5b43(0x3c3)](_0x2d5b43(0x4a1))[_0x2d5b43(0x3c6)]());}}perviousShootKey=rightStick;},'isTogglable':!![],'toolTip':_0x31bcbe(0x637)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x638),'disableMethod':()=>{const _0x5568f6=_0x31bcbe;lightEnabled=![],fullbirhgtobject!=null&&fullbirhgtobject[_0x5568f6(0x3c3)](_0x5568f6(0x522))[_0x5568f6(0x3c6)]()[_0x5568f6(0x3c3)](_0x5568f6(0x4a8))[_0x5568f6(0x3c6)](![]);},'enableMethod':()=>{const _0x5541a1=_0x31bcbe;lightEnabled=!![],fullbirhgtobject!=null&&fullbirhgtobject[_0x5541a1(0x3c3)](_0x5541a1(0x522))[_0x5541a1(0x3c6)]()[_0x5541a1(0x3c3)](_0x5541a1(0x4a8))[_0x5541a1(0x3c6)](!![]);},'method':()=>{const _0x3fcdd5=_0x31bcbe;if(!lightEnabled)return;if(fullbirhgtobject==null)fullbirhgtobject=_0x4d6520(_0x20982b(_0x1aadbf)[_0x3fcdd5(0x3c3)](_0x3fcdd5(0x41e))['invoke'](),_0x20982b(_0x1aadbf)[_0x3fcdd5(0x3c3)](_0x3fcdd5(0x4b2))[_0x3fcdd5(0x3c6)](),[0x0,0x0,0x0],0x3,bgColor),_0x386f73(_0x459a51(fullbirhgtobject,_0x373a82)),_0x7d8ffe(fullbirhgtobject,_0x45a3de),_0x20982b(fullbirhgtobject)[_0x3fcdd5(0x3c3)](_0x3fcdd5(0x48d),0x2)[_0x3fcdd5(0x3c6)](_0x20982b(_0x1aadbf),![]);else{const _0x3a10ed=_0x20982b(fullbirhgtobject);_0x3a10ed['method']('set_position')[_0x3fcdd5(0x3c6)](_0x20982b(_0x1aadbf)[_0x3fcdd5(0x3c3)](_0x3fcdd5(0x41e))[_0x3fcdd5(0x3c6)]()),_0x3a10ed[_0x3fcdd5(0x3c3)](_0x3fcdd5(0x488))[_0x3fcdd5(0x3c6)](_0x20982b(_0x1aadbf)[_0x3fcdd5(0x3c3)](_0x3fcdd5(0x4b2))['invoke']());const _0x1f29f9=_0x459a51(fullbirhgtobject,_0x45a3de);_0x1f29f9!=null&&(_0x1f29f9[_0x3fcdd5(0x3c3)]('set_intensity')['invoke'](0x5),_0x1f29f9['method']('set_range')[_0x3fcdd5(0x3c6)](0x3e7)),fullbirhgtobject[_0x3fcdd5(0x3c3)]('get_gameObject')[_0x3fcdd5(0x3c6)]()['method']('SetActive')['invoke'](!![]);}},'isTogglable':!![],'toolTip':_0x31bcbe(0x639)})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x63a),'method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x562)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x63b),'method':()=>{const _0x4bdbb0=_0x31bcbe;try{const _0x4da29b=_0x393291['method'](_0x4bdbb0(0x421))[_0x4bdbb0(0x3c6)]();if(!_0x4da29b)return;const _0x1b3529=_0x4da29b[_0x4bdbb0(0x3c3)](_0x4bdbb0(0x4fd),0x1)[_0x4bdbb0(0x3c6)](0x0);if(!_0x1b3529)return;const _0x5e9f73=_0x1b3529[_0x4bdbb0(0x3c1)](_0x4bdbb0(0x4fe))['value'];if(!_0x5e9f73)return;const _0x4e329a=_0x5e9f73['method'](_0x4bdbb0(0x521))['invoke']();if(!_0x4e329a)return;_0x4e329a[_0x4bdbb0(0x3c3)]('set_useGravity')['invoke'](![]);}catch(_0x4b1238){console[_0x4bdbb0(0x4cc)](_0x4b1238);}},'isTogglable':![],'toolTip':_0x31bcbe(0x63c)}),new _0x2e89a9({'buttonText':'Add\x20Gravity\x20To\x20Held\x20Item','method':()=>{const _0x1d4e94=_0x31bcbe;try{const _0x337723=_0x393291['method'](_0x1d4e94(0x421))[_0x1d4e94(0x3c6)]();if(!_0x337723)return;const _0x3b91ca=_0x337723['method'](_0x1d4e94(0x4fd),0x1)[_0x1d4e94(0x3c6)](0x0);if(!_0x3b91ca)return;const _0x54edba=_0x3b91ca[_0x1d4e94(0x3c1)](_0x1d4e94(0x4fe))[_0x1d4e94(0x3c0)];if(!_0x54edba)return;const _0x10a34b=_0x54edba[_0x1d4e94(0x3c3)]('get_grabbableObject')['invoke']();if(!_0x10a34b)return;_0x10a34b[_0x1d4e94(0x3c3)](_0x1d4e94(0x63d))[_0x1d4e94(0x3c6)](!![]);}catch(_0x1cdc95){console['error'](_0x1cdc95);}},'isTogglable':![],'toolTip':_0x31bcbe(0x63e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x63f),'method':()=>{const _0x21ce0b=_0x31bcbe;try{const _0x23f833=_0x393291[_0x21ce0b(0x3c3)](_0x21ce0b(0x421))[_0x21ce0b(0x3c6)]();if(!_0x23f833)return;const _0x1958e1=_0x23f833[_0x21ce0b(0x3c3)]('GetHandInteractor',0x1)[_0x21ce0b(0x3c6)](0x0);if(!_0x1958e1)return;const _0x2b4c4e=_0x1958e1[_0x21ce0b(0x3c1)](_0x21ce0b(0x4fe))[_0x21ce0b(0x3c0)];if(!_0x2b4c4e)return;const _0x445c41=_0x2b4c4e['method'](_0x21ce0b(0x521))[_0x21ce0b(0x3c6)]();if(!_0x445c41)return;if(rightPrimary&&scaleVal<0x7f)scaleVal++;if(rightGrab&&scaleVal>-0x7f)scaleVal--;_0x445c41['method'](_0x21ce0b(0x4ff))[_0x21ce0b(0x3c6)](scaleVal);}catch(_0x3c8451){console['error'](_0x3c8451);}},'isTogglable':!![],'toolTip':_0x31bcbe(0x500)}),new _0x2e89a9({'buttonText':'Custom\x20Hue\x20Held\x20Item','method':()=>{const _0x2ced7c=_0x31bcbe;try{const _0x1e5059=_0x393291[_0x2ced7c(0x3c3)](_0x2ced7c(0x421))['invoke']();if(!_0x1e5059)return;const _0x343db1=_0x1e5059[_0x2ced7c(0x3c3)](_0x2ced7c(0x4fd),0x1)[_0x2ced7c(0x3c6)](0x0);if(!_0x343db1)return;const _0x168a8a=_0x343db1['field']('_itemAnchor')['value'];if(!_0x168a8a)return;const _0x5374ad=_0x168a8a[_0x2ced7c(0x3c3)](_0x2ced7c(0x521))[_0x2ced7c(0x3c6)]();if(!_0x5374ad)return;if(rightPrimary&&hueVal<0x7f)hueVal++;if(rightGrab&&hueVal>-0x7f)hueVal--;_0x5374ad[_0x2ced7c(0x3c3)](_0x2ced7c(0x505))['invoke'](hueVal);}catch(_0x410ee7){console[_0x2ced7c(0x4cc)](_0x410ee7);}},'isTogglable':!![],'toolTip':_0x31bcbe(0x640)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x641),'method':()=>{const _0x26b470=_0x31bcbe;try{const _0x58ed62=_0x393291[_0x26b470(0x3c3)](_0x26b470(0x421))[_0x26b470(0x3c6)]();if(!_0x58ed62)return;const _0xc9b450=_0x58ed62['method'](_0x26b470(0x4fd),0x1)[_0x26b470(0x3c6)](0x0);if(!_0xc9b450)return;const _0x52e3b0=_0xc9b450[_0x26b470(0x3c1)](_0x26b470(0x4fe))[_0x26b470(0x3c0)];if(!_0x52e3b0)return;const _0x3c0beb=_0x52e3b0[_0x26b470(0x3c3)](_0x26b470(0x521))[_0x26b470(0x3c6)]();if(!_0x3c0beb)return;if(rightPrimary&&satVal<0x7f)satVal++;if(rightGrab&&satVal>-0x7f)satVal--;_0x3c0beb[_0x26b470(0x3c3)](_0x26b470(0x506))[_0x26b470(0x3c6)](satVal);}catch(_0x4e0c6e){console[_0x26b470(0x4cc)](_0x4e0c6e);}},'isTogglable':!![],'toolTip':_0x31bcbe(0x642)}),new _0x2e89a9({'buttonText':'Bypass\x20adding\x20to\x20containers\x20held\x20item','method':()=>{const _0x18398b=_0x31bcbe;try{const _0x439a5b=_0x393291[_0x18398b(0x3c3)](_0x18398b(0x421))['invoke']();if(!_0x439a5b)return;const _0x976620=_0x439a5b[_0x18398b(0x3c3)](_0x18398b(0x4fd),0x1)[_0x18398b(0x3c6)](0x0);if(!_0x976620)return;const _0x2a9ad6=_0x976620[_0x18398b(0x3c1)](_0x18398b(0x4fe))['value'];if(!_0x2a9ad6)return;const _0x262d68=_0x2a9ad6[_0x18398b(0x3c3)](_0x18398b(0x521))[_0x18398b(0x3c6)]();if(!_0x262d68)return;const _0x48f8e2=_0x262d68[_0x18398b(0x3c1)]('equippingConfig')['value'];_0x48f8e2[_0x18398b(0x3c1)](_0x18398b(0x643))[_0x18398b(0x3c0)]=!![],_0x48f8e2[_0x18398b(0x3c1)]('allowAddToBag')[_0x18398b(0x3c0)]=!![],_0x18fcfc(_0x18398b(0x644));}catch(_0x4b4b1f){console[_0x18398b(0x4cc)](_0x4b4b1f);}},'isTogglable':![],'toolTip':_0x31bcbe(0x645)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x646),'method':()=>{const _0x31e543=_0x31bcbe;try{const _0x3a8863=_0x393291[_0x31e543(0x3c3)](_0x31e543(0x421))[_0x31e543(0x3c6)]();if(!_0x3a8863)return;const _0x194d9f=_0x3a8863[_0x31e543(0x3c3)](_0x31e543(0x4fd),0x1)[_0x31e543(0x3c6)](0x0);if(!_0x194d9f)return;const _0x41104f=_0x194d9f[_0x31e543(0x3c1)](_0x31e543(0x4fe))[_0x31e543(0x3c0)];if(!_0x41104f)return;const _0xdced9a=_0x41104f[_0x31e543(0x3c3)](_0x31e543(0x521))['invoke']();if(!_0xdced9a)return;_0xdced9a[_0x31e543(0x3c1)](_0x31e543(0x647))[_0x31e543(0x3c0)]=!![],_0x18fcfc(_0x31e543(0x644));}catch(_0x4de598){console[_0x31e543(0x4cc)](_0x4de598);}},'isTogglable':![],'toolTip':_0x31bcbe(0x648)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x649),'method':()=>{const _0x595999=_0x31bcbe;try{hueVal+=0xf;if(hueVal>0x7f)hueVal=-0x7f;if(rightGrab){const _0x906b1c=_0x38ca25[_0x595999(0x3c3)](_0x595999(0x476))['inflate'](_0x2bf557)[_0x595999(0x3c6)]();if(_0x906b1c)for(let _0x3b4e51=0x0;_0x3b4e51<_0x906b1c[_0x595999(0x419)];_0x3b4e51++){const _0x22bf14=_0x906b1c['get'](_0x3b4e51);_0x22bf14[_0x595999(0x3c3)](_0x595999(0x505))['invoke'](hueVal);}}}catch(_0x5781ba){console[_0x595999(0x4cc)](_0x5781ba);}},'isTogglable':!![],'toolTip':_0x31bcbe(0x642)}),new _0x2e89a9({'buttonText':'Jelly\x20Gun','method':()=>{const _0xf191de=_0x31bcbe;if(rightGrab){const _0x1dbc0a=_0x404c48(),_0x470ba5=_0x1dbc0a[_0xf191de(0x575)];if(rightTrigger&&_0x470ba5){const _0x271396=_0x1cfc31(_0x470ba5[_0xf191de(0x3c3)](_0xf191de(0x4a5))[_0xf191de(0x3c6)](),_0x393291);_0x271396&&!_0x271396[_0xf191de(0x4a7)]['isNull']()&&_0x30e18c>tagGunDelay&&(!_0x3aec50(_0x271396)&&_0x271396[_0xf191de(0x3c3)](_0xf191de(0x64a))[_0xf191de(0x3c6)](jellywowes,jellywowes));}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x64b)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x64c),'method':()=>{const _0x158bf5=_0x31bcbe;if(rightGrab){const _0x53637d=_0x404c48(),_0x3d8166=_0x53637d[_0x158bf5(0x575)];if(rightTrigger&&_0x3d8166){const _0x5b48b7=_0x1cfc31(_0x3d8166[_0x158bf5(0x3c3)](_0x158bf5(0x4a5))['invoke'](),_0x393291);_0x5b48b7&&!_0x5b48b7['handle']['isNull']()&&_0x30e18c>tagGunDelay&&(!_0x3aec50(_0x5b48b7)&&_0x5b48b7[_0x158bf5(0x3c3)](_0x158bf5(0x5de))[_0x158bf5(0x3c6)](-0x64));}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x64d)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x64e),'method':()=>{const _0x14c5c9=_0x31bcbe;if(rightGrab){const _0x460375=_0x404c48(),_0x24d3de=_0x460375[_0x14c5c9(0x575)];if(rightTrigger&&_0x24d3de){const _0x2e31f5=_0x1cfc31(_0x24d3de[_0x14c5c9(0x3c3)](_0x14c5c9(0x4a5))[_0x14c5c9(0x3c6)](),_0x393291);_0x2e31f5&&!_0x2e31f5['handle'][_0x14c5c9(0x417)]()&&_0x30e18c>tagGunDelay&&(!_0x3aec50(_0x2e31f5)&&_0x2e31f5[_0x14c5c9(0x3c3)]('RPC_AddPlayerMoney')[_0x14c5c9(0x3c6)](0x98967f));}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x64f)}),new _0x2e89a9({'buttonText':'Fling\x20Gun','method':()=>{const _0x552431=_0x31bcbe;if(rightGrab){const _0x528771=_0x404c48(),_0x646c4=_0x528771[_0x552431(0x575)],_0x2455ef=Il2Cpp[_0x552431(0x650)][_0x552431(0x4c8)]['new'](0x3e8,0x3e8,0x3e8);if(rightTrigger&&_0x646c4){const _0x32828f=_0x1cfc31(_0x646c4[_0x552431(0x3c3)]('get_collider')[_0x552431(0x3c6)](),_0x393291);_0x32828f&&!_0x32828f[_0x552431(0x4a7)]['isNull']()&&_0x30e18c>tagGunDelay&&(!_0x3aec50(_0x32828f)&&_0x32828f['method']('RPC_AddForce')[_0x552431(0x3c6)](_0x2455ef));}}},'isTogglable':!![],'toolTip':'flings\x20whoever\x20your\x20hands\x20desires'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x651),'method':()=>{const _0x79054e=_0x31bcbe;if(rightGrab){const _0x2a71bf=_0x404c48(),_0x4bdecc=_0x2a71bf[_0x79054e(0x575)],_0x5786a8=Il2Cpp[_0x79054e(0x650)]['Vector3'][_0x79054e(0x451)](0x3e8,0x3e8,0x3e8);if(rightTrigger&&_0x4bdecc){const _0x4c719d=_0x1cfc31(_0x4bdecc['method'](_0x79054e(0x4a5))[_0x79054e(0x3c6)](),_0x393291);_0x4c719d&&!_0x4c719d['handle']['isNull']()&&_0x30e18c>tagGunDelay&&(!_0x3aec50(_0x4c719d)&&_0x4c719d[_0x79054e(0x3c3)](_0x79054e(0x420))['invoke'](_0x5786a8));}}},'isTogglable':!![],'toolTip':_0x31bcbe(0x652)}),new _0x2e89a9({'buttonText':'Scale\x20all\x20items','method':()=>{const _0xf79e07=_0x31bcbe;try{scaleVal+=0xf;if(scaleVal>0x7f)scaleVal=-0x7f;if(rightGrab){const _0x48ef60=_0x38ca25[_0xf79e07(0x3c3)](_0xf79e07(0x476))[_0xf79e07(0x3a9)](_0x2bf557)[_0xf79e07(0x3c6)]();if(_0x48ef60)for(let _0x208840=0x0;_0x208840<_0x48ef60[_0xf79e07(0x419)];_0x208840++){const _0x386390=_0x48ef60[_0xf79e07(0x41a)](_0x208840);_0x386390['method'](_0xf79e07(0x4ff))['invoke'](scaleVal);}}}catch(_0x2be9b8){console[_0xf79e07(0x4cc)](_0x2be9b8);}},'isTogglable':!![],'toolTip':'Hold\x20A\x20to\x20increase,\x20grip\x20to\x20decrease\x20sat\x20of\x20held\x20item.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x653),'method':()=>{const _0x56c4c1=_0x31bcbe;try{const _0x1a4b29=_0x20982b(_0x1aadbf)[_0x56c4c1(0x3c3)](_0x56c4c1(0x41e))[_0x56c4c1(0x3c6)](),_0x326b69=_0x3da345[_0x56c4c1(0x3c3)](_0x56c4c1(0x49b))[_0x56c4c1(0x3c6)](_0x3da345[_0x56c4c1(0x3c1)](_0x56c4c1(0x536))[_0x56c4c1(0x3c0)],0xa),_0x399be3=_0x3da345['method'](_0x56c4c1(0x41f))[_0x56c4c1(0x3c6)](_0x1a4b29,_0x326b69),_0x5e34f9=_0x3da345[_0x56c4c1(0x3c3)](_0x56c4c1(0x49b))[_0x56c4c1(0x3c6)](_0x3da345[_0x56c4c1(0x3c1)](_0x56c4c1(0x56b))[_0x56c4c1(0x3c0)],0.5),_0x180602=_0x3da345[_0x56c4c1(0x3c3)](_0x56c4c1(0x41f))[_0x56c4c1(0x3c6)](_0x399be3,_0x5e34f9),_0x10e493=_0x3da345['method'](_0x56c4c1(0x49b))[_0x56c4c1(0x3c6)](_0x3da345[_0x56c4c1(0x3c1)](_0x56c4c1(0x536))[_0x56c4c1(0x3c0)],0x5),_0x22f8b7=_0x3da345['method'](_0x56c4c1(0x41f))[_0x56c4c1(0x3c6)](_0x1a4b29,_0x10e493),_0x3f07db=_0x180602;rightPrimary&&!previoussaaakey&&(_0x26e0fc[_0x56c4c1(0x3c3)](_0x56c4c1(0x504),0x4)['invoke'](Il2Cpp[_0x56c4c1(0x41b)](_0x56c4c1(0x33a)),_0x22f8b7,_0x471248,null),_0x26e0fc[_0x56c4c1(0x3c3)](_0x56c4c1(0x504),0x4)[_0x56c4c1(0x3c6)](Il2Cpp['string'](_0x56c4c1(0x26b)),_0x3f07db,_0x471248,null)),previoussaaakey=rightPrimary;}catch(_0x5a8a0e){console[_0x56c4c1(0x4cc)](_0x5a8a0e);}},'isTogglable':!![],'toolTip':'Hold\x20A\x20to\x20increase,\x20grip\x20to\x20decrease\x20sat\x20of\x20held\x20item.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x654),'isTogglable':!![],'method':()=>{const _0x4e890a=_0x31bcbe;if(handTextObj==null){const _0x2b049a=_0x1890c1[_0x4e890a(0x3c3)](_0x4e890a(0x41e))[_0x4e890a(0x3c6)](),_0x49c79e=_0x1890c1['method'](_0x4e890a(0x4b2))[_0x4e890a(0x3c6)]();handTextObj=_0x4d6520(_0x2b049a,_0x49c79e,[0.05,0.05,0.05],0x3,[0x0,0x0,0x0,0x0]);const _0x4a6070=_0x7d8ffe(handTextObj,_0x3a882f);_0x4a6070[_0x4e890a(0x3c3)]('set_renderMode')[_0x4e890a(0x3c6)](0x2);const _0x3192a6=_0x7d8ffe(handTextObj,_0x4a8cb8);_0x3192a6[_0x4e890a(0x3c3)](_0x4e890a(0x48f))['invoke'](0x3e8),_0x20982b(handTextObj)[_0x4e890a(0x3c3)](_0x4e890a(0x48d),0x2)[_0x4e890a(0x3c6)](_0x1890c1,!![]);const _0x1420fb=_0x20982b(handTextObj);_0x1420fb[_0x4e890a(0x3c3)](_0x4e890a(0x48d),0x2)[_0x4e890a(0x3c6)](_0x1890c1,!![]),_0x1420fb[_0x4e890a(0x3c3)](_0x4e890a(0x55f))[_0x4e890a(0x3c6)](_0x360a4b[_0x4e890a(0x3c3)](_0x4e890a(0x489))[_0x4e890a(0x3c6)](0x5a,0x0,0x0)),_0x1420fb[_0x4e890a(0x3c3)](_0x4e890a(0x49e))[_0x4e890a(0x3c6)](_0x7444ed),_0x44fcf3(handTextObj,_0x4e890a(0x655),_0x49c79e,_0x2b049a,[0xc8,0x32]);const _0x2c09f9=_0x459a51(handTextObj,_0x373a82);if(_0x2c09f9)_0x386f73(_0x2c09f9);}},'disableMethod':()=>{const _0x4d1330=_0x31bcbe;handTextObj!=null&&(_0x38ca25[_0x4d1330(0x3c3)](_0x4d1330(0x4ce),0x1)[_0x4d1330(0x3c6)](handTextObj),handTextObj=null);},'toolTip':_0x31bcbe(0x656)})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x657),'method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x562)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x658),'method':()=>{const _0x49739f=_0x31bcbe;currentWorldPrefabIndex=(currentWorldPrefabIndex+0x1)%_0xfe0ca5[_0x49739f(0x419)],_0x18fcfc(_0x49739f(0x51e)+_0xfe0ca5[currentWorldPrefabIndex],![]);},'isTogglable':![],'toolTip':_0x31bcbe(0x659)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x65a),'method':()=>{const _0x54bb1e=_0x31bcbe;currentWorldPrefabIndex=(currentWorldPrefabIndex-0x1+_0xfe0ca5[_0x54bb1e(0x419)])%_0xfe0ca5[_0x54bb1e(0x419)],_0x18fcfc('Prefab:\x20'+_0xfe0ca5[currentWorldPrefabIndex],![]);},'isTogglable':![],'toolTip':_0x31bcbe(0x65b)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x65c),'isTogglable':![],'method':()=>{const _0x7b5a48=_0x31bcbe;try{sizespawner+=0xa;if(sizespawner>0x3e8)sizespawner=0x3e8;const _0x5bc107=_0x38ca25[_0x7b5a48(0x3c3)](_0x7b5a48(0x476))[_0x7b5a48(0x3a9)](_0x23bd25)[_0x7b5a48(0x3c6)]();if(!_0x5bc107)return;const _0x18746d=_0x20982b(_0x1aadbf)['method'](_0x7b5a48(0x41e))[_0x7b5a48(0x3c6)]();for(let _0x6e48bf=0x0;_0x6e48bf<_0x5bc107[_0x7b5a48(0x419)];_0x6e48bf++){const _0x1c599b=_0x5bc107['get'](_0x6e48bf);if(!_0x1c599b||_0x1c599b[_0x7b5a48(0x417)]())continue;try{const _0x430de1=_0x3da345['method'](_0x7b5a48(0x4a3))[_0x7b5a48(0x3c6)](_0x18746d,_0x20982b(_0x1c599b)[_0x7b5a48(0x3c3)]('get_position')[_0x7b5a48(0x3c6)]());_0x430de1<0x3e8&&_0x20982b(_0x1c599b)[_0x7b5a48(0x3c3)](_0x7b5a48(0x48e))[_0x7b5a48(0x3c6)]([sizespawner,sizespawner,sizespawner]);}catch(_0x4cb6e5){}}const _0x2778b8=_0x38ca25['method'](_0x7b5a48(0x476))[_0x7b5a48(0x3a9)](_0x2bf557)[_0x7b5a48(0x3c6)]();if(_0x2778b8)for(let _0x3ab6ed=0x0;_0x3ab6ed<_0x2778b8['length'];_0x3ab6ed++){const _0x316e5c=_0x2778b8[_0x7b5a48(0x41a)](_0x3ab6ed);if(!_0x316e5c||_0x316e5c[_0x7b5a48(0x417)]())continue;try{const _0x71203=_0x3da345['method']('Distance')['invoke'](_0x18746d,_0x20982b(_0x316e5c)[_0x7b5a48(0x3c3)]('get_position')[_0x7b5a48(0x3c6)]());if(_0x71203<0x3e8)try{_0x316e5c['method'](_0x7b5a48(0x4ff))[_0x7b5a48(0x3c6)](Math[_0x7b5a48(0x502)](sizespawner*0xc));}catch(_0xd5f930){_0x20982b(_0x316e5c)['method'](_0x7b5a48(0x48e))[_0x7b5a48(0x3c6)]([sizespawner,sizespawner,sizespawner]);}}catch(_0x236405){}}_0x18fcfc('Prefab\x20scale:\x20'+sizespawner['toFixed'](0x2),![]);}catch(_0x31aeff){console[_0x7b5a48(0x4cc)](_0x7b5a48(0x65d),_0x31aeff);}},'toolTip':_0x31bcbe(0x65e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x65f),'isTogglable':![],'method':()=>{const _0x1d7ded=_0x31bcbe;try{sizespawner-=0xa;if(sizespawner<0x0)sizespawner=0x0;const _0x101c68=_0x38ca25[_0x1d7ded(0x3c3)](_0x1d7ded(0x476))[_0x1d7ded(0x3a9)](_0x23bd25)[_0x1d7ded(0x3c6)]();if(!_0x101c68)return;const _0x12e2d1=_0x20982b(_0x1aadbf)['method'](_0x1d7ded(0x41e))[_0x1d7ded(0x3c6)]();for(let _0x4c132a=0x0;_0x4c132a<_0x101c68[_0x1d7ded(0x419)];_0x4c132a++){const _0x1a2540=_0x101c68[_0x1d7ded(0x41a)](_0x4c132a);if(!_0x1a2540||_0x1a2540[_0x1d7ded(0x417)]())continue;try{const _0x303955=_0x3da345[_0x1d7ded(0x3c3)]('Distance')[_0x1d7ded(0x3c6)](_0x12e2d1,_0x20982b(_0x1a2540)[_0x1d7ded(0x3c3)](_0x1d7ded(0x41e))[_0x1d7ded(0x3c6)]());_0x303955<0x3e8&&_0x20982b(_0x1a2540)[_0x1d7ded(0x3c3)](_0x1d7ded(0x48e))[_0x1d7ded(0x3c6)]([sizespawner,sizespawner,sizespawner]);}catch(_0x296d55){}}const _0xfab59=_0x38ca25['method'](_0x1d7ded(0x476))[_0x1d7ded(0x3a9)](_0x2bf557)['invoke']();if(_0xfab59)for(let _0x7ee968=0x0;_0x7ee968<_0xfab59[_0x1d7ded(0x419)];_0x7ee968++){const _0x3ef5fe=_0xfab59['get'](_0x7ee968);if(!_0x3ef5fe||_0x3ef5fe['isNull']())continue;try{const _0x551a6b=_0x3da345['method'](_0x1d7ded(0x4a3))[_0x1d7ded(0x3c6)](_0x12e2d1,_0x20982b(_0x3ef5fe)[_0x1d7ded(0x3c3)](_0x1d7ded(0x41e))[_0x1d7ded(0x3c6)]());if(_0x551a6b<0x3e8)try{_0x3ef5fe['method'](_0x1d7ded(0x4ff))[_0x1d7ded(0x3c6)](Math[_0x1d7ded(0x502)](sizespawner*0xc));}catch(_0x4e010a){_0x20982b(_0x3ef5fe)['method']('set_localScale')[_0x1d7ded(0x3c6)]([sizespawner,sizespawner,sizespawner]);}}catch(_0x160db6){}}_0x18fcfc('Prefab\x20scale:\x20'+sizespawner[_0x1d7ded(0x660)](0x2),![]);}catch(_0x2b9f79){console['error']('scale\x20down\x20error:',_0x2b9f79);}},'toolTip':_0x31bcbe(0x65e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x661),'isTogglable':![],'method':()=>{const _0x3013d1=_0x31bcbe;try{sizespawner=0x1;const _0x36ba94=_0x20982b(_0x1aadbf)[_0x3013d1(0x3c3)](_0x3013d1(0x41e))[_0x3013d1(0x3c6)](),_0x269755=_0x38ca25[_0x3013d1(0x3c3)]('FindObjectsOfType')['inflate'](_0x23bd25)[_0x3013d1(0x3c6)]();if(_0x269755)for(let _0x304770=0x0;_0x304770<_0x269755['length'];_0x304770++){const _0x58be8a=_0x269755[_0x3013d1(0x41a)](_0x304770);if(!_0x58be8a||_0x58be8a['isNull']())continue;try{const _0x2e53d6=_0x3da345[_0x3013d1(0x3c3)](_0x3013d1(0x4a3))['invoke'](_0x36ba94,_0x20982b(_0x58be8a)['method']('get_position')[_0x3013d1(0x3c6)]());_0x2e53d6<0x3e8&&_0x20982b(_0x58be8a)[_0x3013d1(0x3c3)](_0x3013d1(0x48e))[_0x3013d1(0x3c6)]([0x1,0x1,0x1]);}catch(_0x2f2dc3){}}const _0x49c6be=_0x38ca25[_0x3013d1(0x3c3)](_0x3013d1(0x476))[_0x3013d1(0x3a9)](_0x2bf557)[_0x3013d1(0x3c6)]();if(_0x49c6be)for(let _0x2e74c2=0x0;_0x2e74c2<_0x49c6be[_0x3013d1(0x419)];_0x2e74c2++){const _0x36dc5a=_0x49c6be[_0x3013d1(0x41a)](_0x2e74c2);if(!_0x36dc5a||_0x36dc5a[_0x3013d1(0x417)]())continue;try{const _0x2c2ef7=_0x3da345['method'](_0x3013d1(0x4a3))[_0x3013d1(0x3c6)](_0x36ba94,_0x20982b(_0x36dc5a)[_0x3013d1(0x3c3)](_0x3013d1(0x41e))[_0x3013d1(0x3c6)]());if(_0x2c2ef7<0x3e8)try{_0x36dc5a[_0x3013d1(0x3c3)](_0x3013d1(0x4ff))[_0x3013d1(0x3c6)](0x0);}catch(_0x4dc3b1){_0x20982b(_0x36dc5a)[_0x3013d1(0x3c3)](_0x3013d1(0x48e))[_0x3013d1(0x3c6)]([0x1,0x1,0x1]);}}catch(_0x45bb9c){}}_0x18fcfc(_0x3013d1(0x662),![]);}catch(_0x5d9bc1){console[_0x3013d1(0x4cc)](_0x3013d1(0x663),_0x5d9bc1);}},'toolTip':_0x31bcbe(0x65e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x664),'isTogglable':!![],'method':((()=>{let _0x1dd0e2=0x0,_0xb478e5=[],_0x3f4282=-0x1;const _0x1fd814=0x32,_0xd426d1=0x5,_0x2b419e=0x7,_0xf08fd0=0x3c,_0x373e65=0x2;return()=>{const _0x25c8eb=_0x5dc6;try{if(_0x3f4282!==currentWorldPrefabIndex||_0xb478e5[_0x25c8eb(0x419)]===0x0){for(const _0x1355c7 of _0xb478e5){try{if(_0x1355c7&&!_0x1355c7['isNull']()){const _0x3d9a31=_0x26e0fc['field'](_0x25c8eb(0x443))[_0x25c8eb(0x3c0)][_0x25c8eb(0x3c3)]('get_runner')['invoke'](),_0xc044ec=_0x1355c7[_0x25c8eb(0x3c3)](_0x25c8eb(0x413),0x1)['inflate'](_0x23bd25)['invoke']();_0xc044ec&&!_0xc044ec[_0x25c8eb(0x417)]()&&_0x3d9a31['method']('Despawn',0x1)[_0x25c8eb(0x3c6)](_0xc044ec);}}catch(_0x1976f7){}}_0xb478e5=[];const _0x4cce5d=_0x20982b(_0x1aadbf)[_0x25c8eb(0x3c3)]('get_position')[_0x25c8eb(0x3c6)](),_0x54cbd2=_0xfe0ca5[currentWorldPrefabIndex];for(let _0x4f6865=0x0;_0x4f6865<_0x1fd814;_0x4f6865++){try{let _0x3ca87b=null;try{_0x3ca87b=_0x4ac62a(_0x54cbd2,_0x4cce5d,_0x471248);}catch(_0x54724a){_0x3ca87b=_0x26e0fc['method']('SpawnItem',0x4)['invoke'](Il2Cpp[_0x25c8eb(0x41b)](_0x54cbd2),_0x4cce5d,_0x471248,null);}_0x3ca87b&&!_0x3ca87b['isNull']()&&_0xb478e5[_0x25c8eb(0x550)](_0x3ca87b);}catch(_0x2d7d00){}}_0x3f4282=currentWorldPrefabIndex,_0x18fcfc(_0x25c8eb(0x665)+_0xfe0ca5[currentWorldPrefabIndex],![]);}_0x1dd0e2+=_0xf08fd0*deltaTime;if(_0x1dd0e2>0x168)_0x1dd0e2-=0x168;const _0x1ab30f=_0x20982b(_0x1aadbf)[_0x25c8eb(0x3c3)](_0x25c8eb(0x41e))[_0x25c8eb(0x3c6)](),_0x2416a1=_0x3da345['method'](_0x25c8eb(0x49b))['invoke'](_0x3da345[_0x25c8eb(0x3c1)](_0x25c8eb(0x536))[_0x25c8eb(0x3c0)],-(_0x1fd814*_0x2b419e)/0x2),_0x2462b5=_0x3da345[_0x25c8eb(0x3c3)](_0x25c8eb(0x41f))[_0x25c8eb(0x3c6)](_0x1ab30f,_0x2416a1);for(let _0x21f293=0x0;_0x21f293<_0xb478e5[_0x25c8eb(0x419)];_0x21f293++){const _0x571a17=_0xb478e5[_0x21f293];if(!_0x571a17||_0x571a17[_0x25c8eb(0x417)]())continue;const _0x38f12c=_0x21f293/_0x1fd814*(0x168*_0x373e65),_0x411189=(_0x1dd0e2+_0x38f12c)*(Math['PI']/0xb4),_0x1e7561=Math[_0x25c8eb(0x569)](_0x411189)*_0xd426d1,_0x5de558=Math[_0x25c8eb(0x56a)](_0x411189)*_0xd426d1,_0x223a91=_0x21f293*_0x2b419e,_0x1f8dc1=_0x3da345[_0x25c8eb(0x3c3)]('op_Multiply')[_0x25c8eb(0x3c6)](_0x3da345[_0x25c8eb(0x3c1)](_0x25c8eb(0x56b))[_0x25c8eb(0x3c0)],_0x1e7561),_0x4e26e9=_0x3da345[_0x25c8eb(0x3c3)](_0x25c8eb(0x49b))[_0x25c8eb(0x3c6)](_0x3da345[_0x25c8eb(0x3c1)](_0x25c8eb(0x536))['value'],_0x223a91),_0x9d7115=_0x3da345[_0x25c8eb(0x3c3)](_0x25c8eb(0x49b))['invoke'](_0x3da345[_0x25c8eb(0x3c1)]('forwardVector')['value'],_0x5de558),_0xb383ae=_0x3da345['method'](_0x25c8eb(0x41f))[_0x25c8eb(0x3c6)](_0x3da345[_0x25c8eb(0x3c3)](_0x25c8eb(0x41f))['invoke'](_0x1f8dc1,_0x4e26e9),_0x9d7115),_0x14c3fd=_0x3da345[_0x25c8eb(0x3c3)](_0x25c8eb(0x41f))['invoke'](_0x2462b5,_0xb383ae);try{const _0xb55d1a=_0x571a17[_0x25c8eb(0x3c3)]('GetComponent',0x1)[_0x25c8eb(0x3a9)](_0x2bf557)[_0x25c8eb(0x3c6)]();_0xb55d1a&&!_0xb55d1a[_0x25c8eb(0x417)]()?_0xb55d1a[_0x25c8eb(0x3c3)](_0x25c8eb(0x420),0x2)[_0x25c8eb(0x3c6)](_0x14c3fd,_0x471248,_0x7444ed,_0x7444ed,![],![]):_0x20982b(_0x571a17)['method']('set_position')['invoke'](_0x14c3fd);}catch(_0x2fc66d){try{_0x20982b(_0x571a17)[_0x25c8eb(0x3c3)](_0x25c8eb(0x473))[_0x25c8eb(0x3c6)](_0x14c3fd);}catch(_0x5f422f){}}}}catch(_0x3926ec){console[_0x25c8eb(0x4cc)](_0x25c8eb(0x666),_0x3926ec);}};})()),'disableMethod':((()=>{return()=>{};})()),'toolTip':_0x31bcbe(0x65e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x667),'isTogglable':![],'method':()=>{const _0x5ddac3=_0x31bcbe;try{const _0x37855c=_0x20982b(_0x1aadbf)[_0x5ddac3(0x3c3)](_0x5ddac3(0x41e))[_0x5ddac3(0x3c6)](),_0x5f42cf=_0xfe0ca5[currentWorldPrefabIndex],_0x9f0ea0=0x5,_0x446adc=0.6,_0x1492a5=[_0x3da345[_0x5ddac3(0x3c1)](_0x5ddac3(0x56c))['value'],_0x3da345['method']('op_Multiply')['invoke'](_0x3da345[_0x5ddac3(0x3c1)](_0x5ddac3(0x56c))[_0x5ddac3(0x3c0)],-0x1),_0x3da345[_0x5ddac3(0x3c1)](_0x5ddac3(0x56b))[_0x5ddac3(0x3c0)],_0x3da345[_0x5ddac3(0x3c3)](_0x5ddac3(0x49b))['invoke'](_0x3da345[_0x5ddac3(0x3c1)](_0x5ddac3(0x56b))['value'],-0x1)];try{_0x4ac62a(_0x5f42cf,_0x37855c,_0x471248);}catch(_0x27a144){try{_0x26e0fc[_0x5ddac3(0x3c3)](_0x5ddac3(0x504),0x4)[_0x5ddac3(0x3c6)](Il2Cpp['string'](_0x5f42cf),_0x37855c,_0x471248,null);}catch(_0x50d38a){}}for(const _0x3faa0a of _0x1492a5){for(let _0x4d3b9a=0x1;_0x4d3b9a<=_0x9f0ea0;_0x4d3b9a++){const _0x3b3440=_0x3da345['method'](_0x5ddac3(0x49b))[_0x5ddac3(0x3c6)](_0x3faa0a,_0x4d3b9a*_0x446adc),_0x118315=_0x3da345[_0x5ddac3(0x3c3)]('op_Addition')[_0x5ddac3(0x3c6)](_0x37855c,_0x3b3440);try{_0x4ac62a(_0x5f42cf,_0x118315,_0x471248);}catch(_0x30b095){try{_0x26e0fc[_0x5ddac3(0x3c3)](_0x5ddac3(0x504),0x4)['invoke'](Il2Cpp[_0x5ddac3(0x41b)](_0x5f42cf),_0x118315,_0x471248,null);}catch(_0x5c608b){}}}}_0x18fcfc('Spawned\x20cross\x20of:\x20'+_0x5f42cf,![]);}catch(_0x31b261){console[_0x5ddac3(0x4cc)](_0x5ddac3(0x668),_0x31b261);}},'toolTip':_0x31bcbe(0x65e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x669),'isTogglable':![],'method':()=>{const _0x120195=_0x31bcbe;try{const _0x4e9dc6=_0x20982b(_0x1aadbf)[_0x120195(0x3c3)](_0x120195(0x41e))[_0x120195(0x3c6)](),_0x5854b0=_0xfe0ca5[currentWorldPrefabIndex],_0x1c9ca6=0xc,_0x25ca7a=0x24,_0x4a1c23=0x4,_0x13f28b=0.25,_0x1de2ba=0x3;for(let _0x2173d6=0x0;_0x2173d6<_0x25ca7a;_0x2173d6++){const _0x599b09=_0x2173d6/_0x1c9ca6*(Math['PI']*0x2),_0x56eded=_0x2173d6*_0x13f28b,_0x4b2006=Math['cos'](_0x599b09)*_0x4a1c23,_0x56c8b7=Math[_0x120195(0x56a)](_0x599b09)*_0x4a1c23,_0xf359f6=Math[_0x120195(0x569)](_0x599b09+Math['PI'])*_0x4a1c23,_0x5e4514=Math['sin'](_0x599b09+Math['PI'])*_0x4a1c23,_0x5e57d8=_0x3da345['method'](_0x120195(0x49b))[_0x120195(0x3c6)](_0x3da345[_0x120195(0x3c1)](_0x120195(0x536))[_0x120195(0x3c0)],_0x56eded),_0x106fed=_0x3da345[_0x120195(0x3c3)](_0x120195(0x49b))['invoke'](_0x3da345['field'](_0x120195(0x56b))[_0x120195(0x3c0)],_0x4b2006),_0x79f28=_0x3da345[_0x120195(0x3c3)](_0x120195(0x49b))[_0x120195(0x3c6)](_0x3da345[_0x120195(0x3c1)]('forwardVector')['value'],_0x56c8b7),_0x692f26=_0x3da345[_0x120195(0x3c3)](_0x120195(0x41f))[_0x120195(0x3c6)](_0x3da345['method'](_0x120195(0x41f))[_0x120195(0x3c6)](_0x106fed,_0x5e57d8),_0x79f28),_0x498930=_0x3da345[_0x120195(0x3c3)]('op_Addition')['invoke'](_0x4e9dc6,_0x692f26);try{_0x4ac62a(_0x5854b0,_0x498930,_0x471248);}catch(_0x35bf3c){try{_0x26e0fc[_0x120195(0x3c3)]('SpawnItem',0x4)[_0x120195(0x3c6)](Il2Cpp['string'](_0x5854b0),_0x498930,_0x471248,null);}catch(_0x2ce47a){}}const _0xbec3f3=_0x3da345['method']('op_Multiply')[_0x120195(0x3c6)](_0x3da345['field'](_0x120195(0x56b))[_0x120195(0x3c0)],_0xf359f6),_0x32d22d=_0x3da345[_0x120195(0x3c3)](_0x120195(0x49b))[_0x120195(0x3c6)](_0x3da345[_0x120195(0x3c1)](_0x120195(0x56c))[_0x120195(0x3c0)],_0x5e4514),_0x515822=_0x3da345[_0x120195(0x3c3)](_0x120195(0x41f))[_0x120195(0x3c6)](_0x3da345['method']('op_Addition')[_0x120195(0x3c6)](_0xbec3f3,_0x5e57d8),_0x32d22d),_0x1dbf50=_0x3da345[_0x120195(0x3c3)](_0x120195(0x41f))[_0x120195(0x3c6)](_0x4e9dc6,_0x515822);try{_0x4ac62a(_0x5854b0,_0x1dbf50,_0x471248);}catch(_0x6baeb2){try{_0x26e0fc['method'](_0x120195(0x504),0x4)[_0x120195(0x3c6)](Il2Cpp[_0x120195(0x41b)](_0x5854b0),_0x1dbf50,_0x471248,null);}catch(_0x318ab4){}}if(_0x2173d6%_0x1de2ba===0x0){const _0x1fa426=0x3;for(let _0x3e0279=0x1;_0x3e0279<_0x1fa426;_0x3e0279++){const _0x12750d=_0x3e0279/_0x1fa426,_0x1f5fba=_0x4b2006+(_0xf359f6-_0x4b2006)*_0x12750d,_0x164e6a=_0x56c8b7+(_0x5e4514-_0x56c8b7)*_0x12750d,_0x2fedea=_0x3da345[_0x120195(0x3c3)](_0x120195(0x49b))[_0x120195(0x3c6)](_0x3da345[_0x120195(0x3c1)](_0x120195(0x56b))['value'],_0x1f5fba),_0xb97dfc=_0x3da345[_0x120195(0x3c3)](_0x120195(0x49b))[_0x120195(0x3c6)](_0x3da345[_0x120195(0x3c1)](_0x120195(0x56c))['value'],_0x164e6a),_0x82f540=_0x3da345[_0x120195(0x3c3)](_0x120195(0x41f))[_0x120195(0x3c6)](_0x3da345[_0x120195(0x3c3)]('op_Addition')[_0x120195(0x3c6)](_0x2fedea,_0x5e57d8),_0xb97dfc),_0x3fde38=_0x3da345[_0x120195(0x3c3)](_0x120195(0x41f))[_0x120195(0x3c6)](_0x4e9dc6,_0x82f540);try{_0x4ac62a(_0x5854b0,_0x3fde38,_0x471248);}catch(_0x39f0e6){try{_0x26e0fc[_0x120195(0x3c3)](_0x120195(0x504),0x4)[_0x120195(0x3c6)](Il2Cpp[_0x120195(0x41b)](_0x5854b0),_0x3fde38,_0x471248,null);}catch(_0xf14677){}}}}}_0x18fcfc(_0x120195(0x66a)+_0x5854b0,![]);}catch(_0x37104e){console['error'](_0x120195(0x66b),_0x37104e);}},'toolTip':_0x31bcbe(0x65e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x66c),'isTogglable':![],'method':()=>{const _0x33d6e1=_0x31bcbe;try{const _0x287442=_0x20982b(_0x1aadbf)[_0x33d6e1(0x3c3)](_0x33d6e1(0x41e))[_0x33d6e1(0x3c6)](),_0x401fa8=_0xfe0ca5[currentWorldPrefabIndex],_0x4c1dab=0x6,_0x19cf8f=0x8,_0x17e115=0x2;for(let _0x305345=0x0;_0x305345<_0x4c1dab;_0x305345++){const _0x76a02e=Math['PI']/(_0x4c1dab-0x1)*_0x305345;for(let _0x36a575=0x0;_0x36a575<_0x19cf8f;_0x36a575++){const _0x56d5a3=0x2*Math['PI']/_0x19cf8f*_0x36a575,_0x52af1e=_0x17e115*Math[_0x33d6e1(0x56a)](_0x76a02e)*Math['cos'](_0x56d5a3),_0x239d28=_0x17e115*Math[_0x33d6e1(0x569)](_0x76a02e),_0x555493=_0x17e115*Math[_0x33d6e1(0x56a)](_0x76a02e)*Math[_0x33d6e1(0x56a)](_0x56d5a3),_0x12187b=_0x3da345[_0x33d6e1(0x3c1)](_0x33d6e1(0x56b))[_0x33d6e1(0x3c0)],_0x512be3=_0x3da345[_0x33d6e1(0x3c1)]('upVector')[_0x33d6e1(0x3c0)],_0x56a639=_0x3da345[_0x33d6e1(0x3c1)](_0x33d6e1(0x56c))[_0x33d6e1(0x3c0)],_0x309ee9=_0x3da345[_0x33d6e1(0x3c3)](_0x33d6e1(0x49b))[_0x33d6e1(0x3c6)](_0x12187b,_0x52af1e),_0x433265=_0x3da345[_0x33d6e1(0x3c3)](_0x33d6e1(0x49b))[_0x33d6e1(0x3c6)](_0x512be3,_0x239d28),_0x38bfeb=_0x3da345['method'](_0x33d6e1(0x49b))[_0x33d6e1(0x3c6)](_0x56a639,_0x555493),_0x3e3669=_0x3da345['method'](_0x33d6e1(0x41f))[_0x33d6e1(0x3c6)](_0x3da345[_0x33d6e1(0x3c3)](_0x33d6e1(0x41f))[_0x33d6e1(0x3c6)](_0x309ee9,_0x433265),_0x38bfeb),_0x1b7ac9=_0x3da345['method']('op_Addition')[_0x33d6e1(0x3c6)](_0x287442,_0x3e3669);try{_0x4ac62a(_0x401fa8,_0x1b7ac9,_0x471248);}catch(_0x43ef69){try{_0x26e0fc[_0x33d6e1(0x3c3)](_0x33d6e1(0x504),0x4)['invoke'](Il2Cpp['string'](_0x401fa8),_0x1b7ac9,_0x471248,null);}catch(_0x44595c){}}}}_0x18fcfc('Spawned\x20sphere\x20of:\x20'+_0x401fa8,![]);}catch(_0x5f0aaf){console[_0x33d6e1(0x4cc)](_0x33d6e1(0x66d),_0x5f0aaf);}},'toolTip':_0x31bcbe(0x65e)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x66e),'isTogglable':!![],'method':((()=>{const _0x4dd69e=_0x31bcbe;let _0x2177a7=[],_0x247079=0x0,_0x2f292c=![];const _0x1048fe=0x3,_0x2a8975=6.3,_0x366bf7=0x5a,_0xb94edb=()=>{_0x2177a7=[],_0x2f292c=![];},_0x2777cf=()=>{const _0x5d8721=_0x5dc6;try{if(!_0x2f292c){_0x2177a7=[];for(let _0x12d11f=0x0;_0x12d11f<_0x1048fe;_0x12d11f++){const _0x2aae04=_0x4ac62a(_0xfe0ca5[currentWorldPrefabIndex],_0x1890c1['method'](_0x5d8721(0x41e))[_0x5d8721(0x3c6)](),_0x471248);if(_0x2aae04)_0x2177a7[_0x5d8721(0x550)](_0x2aae04);}_0x2f292c=!![];}_0x247079+=_0x366bf7*deltaTime;if(_0x247079>0x168)_0x247079-=0x168;const _0x3b4a4c=_0x20982b(_0x1aadbf)['method'](_0x5d8721(0x41e))[_0x5d8721(0x3c6)]();for(let _0x2d3318=0x0;_0x2d3318<_0x2177a7['length'];_0x2d3318++){const _0x5356d3=_0x2177a7[_0x2d3318];if(!_0x5356d3||_0x5356d3[_0x5d8721(0x417)]())continue;const _0x56ee4d=0x168/_0x2177a7['length']*_0x2d3318,_0x30ba7f=(_0x247079+_0x56ee4d)*(Math['PI']/0xb4),_0x12ae4c=Math[_0x5d8721(0x569)](_0x30ba7f)*_0x2a8975,_0x376d20=Math[_0x5d8721(0x56a)](_0x30ba7f)*_0x2a8975,_0x45c143=_0x3da345[_0x5d8721(0x3c3)](_0x5d8721(0x41f))[_0x5d8721(0x3c6)](_0x3da345[_0x5d8721(0x3c3)]('op_Multiply')[_0x5d8721(0x3c6)](_0x3da345[_0x5d8721(0x3c1)](_0x5d8721(0x56b))[_0x5d8721(0x3c0)],_0x12ae4c),_0x3da345['method']('op_Multiply')[_0x5d8721(0x3c6)](_0x3da345['field'](_0x5d8721(0x56c))[_0x5d8721(0x3c0)],_0x376d20)),_0x1ad831=_0x3da345[_0x5d8721(0x3c3)](_0x5d8721(0x41f))[_0x5d8721(0x3c6)](_0x3b4a4c,_0x45c143);_0x20982b(_0x5356d3)[_0x5d8721(0x3c3)](_0x5d8721(0x473))[_0x5d8721(0x3c6)](_0x1ad831);}}catch(_0xa0c201){console['error']('orbit\x20error:',_0xa0c201);}};return _0x2777cf[_0x4dd69e(0x66f)]=_0xb94edb,_0x2777cf;})()),'disableMethod':function(){const _0x9bef82=_0x31bcbe;var _0x522a8d,_0x5cedca;const _0x24fa41=(_0x5cedca=(_0x522a8d=_0x3e625d[_0x9bef82(0x670)]()[_0x9bef82(0x3cb)](_0x4fa54f=>_0x4fa54f['buttonText']===_0x9bef82(0x66e)))===null||_0x522a8d===void 0x0?void 0x0:_0x522a8d['method'])===null||_0x5cedca===void 0x0?void 0x0:_0x5cedca[_0x9bef82(0x66f)];if(_0x24fa41)_0x24fa41();},'toolTip':_0x31bcbe(0x671)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x672),'isTogglable':!![],'method':()=>{const _0x127a44=_0x31bcbe;try{if(!rightGrab)return;if(!rightTrigger)return;const _0x4acb6b=_0x1890c1['method'](_0x127a44(0x41e))[_0x127a44(0x3c6)](),_0x43163e=_0x1890c1['method'](_0x127a44(0x4b2))['invoke'](),_0x224786=_0xfe0ca5[currentWorldPrefabIndex];try{_0x4ac62a(_0x224786,_0x4acb6b,_0x43163e);}catch(_0x14f1d8){try{_0x26e0fc[_0x127a44(0x3c3)](_0x127a44(0x504),0x4)[_0x127a44(0x3c6)](Il2Cpp['string'](_0x224786),_0x4acb6b,_0x43163e,null);}catch(_0x3dde1e){}}}catch(_0x1047c1){console[_0x127a44(0x4cc)](_0x127a44(0x673),_0x1047c1);}},'toolTip':_0x31bcbe(0x674)}),new _0x2e89a9({'buttonText':'Prefab\x20Gun','isTogglable':!![],'method':()=>{const _0x3f28a6=_0x31bcbe;try{if(!rightGrab)return;const _0x292280=_0x404c48(),_0x489ea0=_0x292280[_0x3f28a6(0x54e)];if(!_0x489ea0)return;if(rightTrigger&&_0x30e18c>tagGunDelay){tagGunDelay=_0x30e18c+0.3;const _0x26352f=_0x20982b(_0x489ea0)[_0x3f28a6(0x3c3)]('get_position')['invoke'](),_0x2fa950=_0x471248,_0x1fc21d=_0xfe0ca5[currentWorldPrefabIndex];try{_0x4ac62a(_0x1fc21d,_0x26352f,_0x2fa950);}catch(_0x280450){try{_0x26e0fc[_0x3f28a6(0x3c3)](_0x3f28a6(0x504),0x4)[_0x3f28a6(0x3c6)](Il2Cpp[_0x3f28a6(0x41b)](_0x1fc21d),_0x26352f,_0x2fa950,null);}catch(_0x22433d){}}_0x18fcfc(_0x3f28a6(0x5e4)+_0x1fc21d,![]);}}catch(_0x33647d){console[_0x3f28a6(0x4cc)](_0x3f28a6(0x675),_0x33647d);}},'toolTip':_0x31bcbe(0x676)})],[new _0x2e89a9({'buttonText':_0x31bcbe(0x677),'method':()=>{_0x3ef2d2=0x0,_0x1f264c=0x0;},'isTogglable':![],'toolTip':_0x31bcbe(0x562)}),new _0x2e89a9({'buttonText':'Big','isTogglable':![],'method':()=>{},'toolTip':'Big.'}),new _0x2e89a9({'buttonText':_0x31bcbe(0x678),'isTogglable':![],'method':()=>{},'toolTip':_0x31bcbe(0x679)}),new _0x2e89a9({'buttonText':'To','isTogglable':![],'method':()=>{},'toolTip':_0x31bcbe(0x67a)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x67b),'isTogglable':![],'method':()=>{},'toolTip':_0x31bcbe(0x67c)}),new _0x2e89a9({'buttonText':_0x31bcbe(0x67d),'isTogglable':![],'method':()=>{},'toolTip':_0x31bcbe(0x67d)})]];let _0x5cdbed=new Map();_0x3e625d['flat']()['forEach'](_0x5c30d1=>{const _0x3950f0=_0x31bcbe;_0x5cdbed[_0x3950f0(0x67e)](_0x5c30d1[_0x3950f0(0x49a)],_0x5c30d1);});function _0xca930d(_0x51ed15){const _0x7ae2f=_0x31bcbe;return _0x5cdbed[_0x7ae2f(0x41a)](_0x51ed15);}const _0x4376da=_0x3e800a[_0x31bcbe(0x3c3)]('OnTriggerEnter');_0x4376da[_0x31bcbe(0x5d9)]=function(_0x54252a){const _0x504bc3=_0x31bcbe;var _0x9d19d2,_0x1a0f81,_0x242339;const _0x5af5db=this[_0x504bc3(0x3c3)](_0x504bc3(0x433))[_0x504bc3(0x3c6)]()[_0x504bc3(0x434)]();if(_0x5af5db['length']>0x1&&_0x5af5db[0x1]=='@'){if(_0x54252a[_0x504bc3(0x4a7)][_0x504bc3(0x4a6)](referenceCollider[_0x504bc3(0x4a7)])){const _0x1fa458=_0x5af5db[_0x504bc3(0x67f)](0x2,_0x5af5db['length']-0x1),_0x2d78fa=_0x304407[_0x504bc3(0x3c3)](_0x504bc3(0x503))['invoke']();if(_0x2d78fa>buttonClickDelay){buttonClickDelay=_0x2d78fa+0.2;const _0x5911ae=_0xca930d(_0x1fa458);_0x1deb49();if(_0x5911ae){if(_0x5911ae[_0x504bc3(0x4d4)]){_0x5911ae[_0x504bc3(0x4cf)]=!_0x5911ae[_0x504bc3(0x4cf)],_0x5f3b8e();if(_0x5911ae===null||_0x5911ae===void 0x0?void 0x0:_0x5911ae[_0x504bc3(0x4cf)]){if(_0x5911ae[_0x504bc3(0x4d5)]&&buttonNotifications)_0x18fcfc('<color=grey>[</color><color=green>ENABLE</color><color=grey>]</color>\x20'+_0x5911ae[_0x504bc3(0x4d5)],![]);(_0x9d19d2=_0x5911ae['enableMethod'])===null||_0x9d19d2===void 0x0?void 0x0:_0x9d19d2[_0x504bc3(0x680)](_0x5911ae);}else{if(_0x5911ae['toolTip']&&buttonNotifications)_0x18fcfc('<color=grey>[</color><color=red>DISABLE</color><color=grey>]</color>\x20'+_0x5911ae['toolTip'],![]);(_0x1a0f81=_0x5911ae===null||_0x5911ae===void 0x0?void 0x0:_0x5911ae[_0x504bc3(0x4d3)])===null||_0x1a0f81===void 0x0?void 0x0:_0x1a0f81[_0x504bc3(0x680)](_0x5911ae);}}else{_0x5f3b8e();if(_0x5911ae['toolTip']&&buttonNotifications)_0x18fcfc(_0x504bc3(0x681)+_0x5911ae[_0x504bc3(0x4d5)],![]);(_0x242339=_0x5911ae===null||_0x5911ae===void 0x0?void 0x0:_0x5911ae[_0x504bc3(0x3c3)])===null||_0x242339===void 0x0?void 0x0:_0x242339[_0x504bc3(0x680)](_0x5911ae);}}}}return;}return this[_0x504bc3(0x3c3)]('OnTriggerEnter')[_0x504bc3(0x3c6)](_0x54252a);};{const _0x21ec74=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x682))['method'](_0x31bcbe(0x683));_0x21ec74[_0x31bcbe(0x5d9)]=function(){const _0x740e0b=_0x31bcbe,_0x2b9c66=this[_0x740e0b(0x3c3)](_0x740e0b(0x683))[_0x740e0b(0x3c6)]();return allowPutGBO?!![]:_0x2b9c66;};const _0x48c1b8=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x682))['method'](_0x31bcbe(0x684));_0x48c1b8['implementation']=function(){const _0x117e24=_0x31bcbe,_0x1d4f81=this[_0x117e24(0x3c3)]('get_allowAttachToHip')[_0x117e24(0x3c6)]();return allowPutGBO?!![]:_0x1d4f81;};const _0x1db058=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x685))[_0x31bcbe(0x3c3)]('CanPerformMove');_0x1db058[_0x31bcbe(0x5d9)]=function(_0x1cb64b,_0x54d89d,_0x3b1096){const _0x54a1de=_0x31bcbe;return stashAllowMoves?!![]:_0x1db058[_0x54a1de(0x3c6)](_0x1cb64b,_0x54d89d,_0x3b1096);};const _0x53bbcd=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x686))[_0x31bcbe(0x3c3)](_0x31bcbe(0x687));_0x53bbcd[_0x31bcbe(0x5d9)]=function(_0x37189e){const _0x204e59=_0x31bcbe;if(stashDupeEnabled)for(let _0x25b155=0x0;_0x25b155<ejectDupeAmount;_0x25b155++){this['method'](_0x204e59(0x687))[_0x204e59(0x3c6)](_0x37189e);}else this[_0x204e59(0x3c3)]('EjectItem')[_0x204e59(0x3c6)](_0x37189e);};const _0x1fa14c=_0x991208[_0x31bcbe(0x38e)]('AnimalCompany.StashMachineSecurityKeypad')[_0x31bcbe(0x3c3)](_0x31bcbe(0x688));_0x1fa14c[_0x31bcbe(0x5d9)]=function(_0x3837e5){const _0x56427a=_0x31bcbe;if(stashQOLFix)for(let _0x31afc9=0x0;_0x31afc9<0x4;_0x31afc9++){this['method'](_0x56427a(0x688))[_0x56427a(0x3c6)](_0x3837e5);}else this[_0x56427a(0x3c3)]('HandleKeyPressed')['invoke'](_0x3837e5);};}{const _0x425b6d=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x689))['method'](_0x31bcbe(0x68a));_0x425b6d[_0x31bcbe(0x5d9)]=function(){const _0x33d78d=_0x31bcbe;infAmmo?(this[_0x33d78d(0x3c3)](_0x33d78d(0x68a))[_0x33d78d(0x3c6)](),this['field'](_0x33d78d(0x68b))[_0x33d78d(0x3c0)]=![]):this[_0x33d78d(0x3c3)]('RPC_UseJetpack')[_0x33d78d(0x3c6)]();};const _0x4218d3=_0x991208[_0x31bcbe(0x38e)]('AnimalCompany.FlareGun')[_0x31bcbe(0x3c3)](_0x31bcbe(0x68c));_0x4218d3[_0x31bcbe(0x5d9)]=function(){if(infAmmo)return!![];};const _0x1b3fc8=_0x991208['class'](_0x31bcbe(0x68d))[_0x31bcbe(0x3c3)](_0x31bcbe(0x68e));_0x1b3fc8['implementation']=function(){if(infAmmo)return!![];};const _0x2238bd=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x68f))[_0x31bcbe(0x3c3)](_0x31bcbe(0x690));_0x2238bd[_0x31bcbe(0x5d9)]=function(){if(infAmmo)return 0x9f;};const _0x2ee5ab=_0x991208[_0x31bcbe(0x38e)]('AnimalCompany.Revolver')[_0x31bcbe(0x3c3)](_0x31bcbe(0x691));_0x2ee5ab[_0x31bcbe(0x5d9)]=function(){if(infAmmo)return!![];};const _0x5b336c=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x692))['method']('get__ammoLeft');_0x5b336c[_0x31bcbe(0x5d9)]=function(){if(infAmmo)return 0x9f;};const _0x227b6b=_0x991208[_0x31bcbe(0x38e)](_0x31bcbe(0x693))[_0x31bcbe(0x3c3)]('get__ammoLeft');_0x227b6b[_0x31bcbe(0x5d9)]=function(){if(infAmmo)return 0x9f;};const _0x3bc58=_0x991208[_0x31bcbe(0x38e)]('AnimalCompany.RPG')[_0x31bcbe(0x3c3)](_0x31bcbe(0x694));_0x3bc58[_0x31bcbe(0x5d9)]=function(){if(infAmmo)return[0x1,0x2];};}{const _0x307e92=_0x991208['class']('AnimalCompany.ArenaItemKiller')[_0x31bcbe(0x3c3)](_0x31bcbe(0x695));_0x307e92[_0x31bcbe(0x5d9)]=function(){return![];};const _0x561b9e=_0x991208['class'](_0x31bcbe(0x392))[_0x31bcbe(0x3c3)]('RemoveItem');_0x561b9e[_0x31bcbe(0x5d9)]=function(_0x54c176){const _0xe3e33c=_0x31bcbe;if(backpackDupeEnabled)return![];else this[_0xe3e33c(0x3c3)]('RemoveItem')['invoke'](_0x54c176);};}function _0x5e027e(){const _0x346411=_0x31bcbe,_0x446cae=_0x5891e3[_0x346411(0x3c3)](_0x346411(0x52f),0x1)[_0x346411(0x3c6)](0x4),_0x311b97=_0x5891e3[_0x346411(0x3c3)](_0x346411(0x52f),0x1)['invoke'](0x5),_0x2adf4f=Il2Cpp['alloc'](0x1);_0x446cae['method'](_0x346411(0x531),0x2)[_0x346411(0x3c6)](_0x1a3287[_0x346411(0x3c1)](_0x346411(0x696))[_0x346411(0x3c0)],_0x2adf4f),leftPrimary=_0x2adf4f[_0x346411(0x697)]()!==0x0,_0x446cae[_0x346411(0x3c3)]('TryGetFeatureValue',0x2)[_0x346411(0x3c6)](_0x1a3287[_0x346411(0x3c1)](_0x346411(0x698))[_0x346411(0x3c0)],_0x2adf4f),leftSecondary=_0x2adf4f[_0x346411(0x697)]()!==0x0,_0x446cae['method'](_0x346411(0x531),0x2)[_0x346411(0x3c6)](_0x1a3287[_0x346411(0x3c1)](_0x346411(0x699))['value'],_0x2adf4f),leftGrab=_0x2adf4f[_0x346411(0x697)]()!==0x0,_0x446cae[_0x346411(0x3c3)]('TryGetFeatureValue',0x2)[_0x346411(0x3c6)](_0x1a3287[_0x346411(0x3c1)](_0x346411(0x69a))['value'],_0x2adf4f),leftTrigger=_0x2adf4f[_0x346411(0x697)]()!==0x0,_0x446cae[_0x346411(0x3c3)]('TryGetFeatureValue',0x2)[_0x346411(0x3c6)](_0x1a3287[_0x346411(0x3c1)](_0x346411(0x69b))['value'],_0x2adf4f),leftStick=_0x2adf4f[_0x346411(0x697)]()!==0x0,_0x311b97[_0x346411(0x3c3)]('TryGetFeatureValue',0x2)[_0x346411(0x3c6)](_0x1a3287[_0x346411(0x3c1)](_0x346411(0x696))[_0x346411(0x3c0)],_0x2adf4f),rightPrimary=_0x2adf4f[_0x346411(0x697)]()!==0x0,_0x311b97[_0x346411(0x3c3)](_0x346411(0x531),0x2)[_0x346411(0x3c6)](_0x1a3287[_0x346411(0x3c1)](_0x346411(0x698))[_0x346411(0x3c0)],_0x2adf4f),rightSecondary=_0x2adf4f[_0x346411(0x697)]()!==0x0,_0x311b97[_0x346411(0x3c3)]('TryGetFeatureValue',0x2)['invoke'](_0x1a3287[_0x346411(0x3c1)](_0x346411(0x69a))[_0x346411(0x3c0)],_0x2adf4f),rightTrigger=_0x2adf4f[_0x346411(0x697)]()!==0x0,_0x311b97[_0x346411(0x3c3)]('TryGetFeatureValue',0x2)['invoke'](_0x1a3287[_0x346411(0x3c1)]('gripButton')[_0x346411(0x3c0)],_0x2adf4f),rightGrab=_0x2adf4f[_0x346411(0x697)]()!==0x0,_0x311b97['method'](_0x346411(0x531),0x2)[_0x346411(0x3c6)](_0x1a3287[_0x346411(0x3c1)](_0x346411(0x69b))['value'],_0x2adf4f),rightStick=_0x2adf4f['readU8']()!==0x0;}const _0xc3aeb5=_0x151be1[_0x31bcbe(0x3c3)](_0x31bcbe(0x69c));_0xc3aeb5['implementation']=function(){const _0x977c46=_0x31bcbe;deltaTime=_0x304407['method']('get_deltaTime')['invoke'](),frameCount++;!_0x5b70d3&&console['log'](_0x977c46(0x69d));_0x5e027e();if(_0x1ef9ee&&rightSecondary||!_0x1ef9ee&&leftSecondary){if(currentNotification!=''&&_0x30e18c>notifactionResetTime)_0x5f3b8e();menu==null?_0xd2adcd():_0x5c75dd();}else menu!=null&&(_0x386f73(menu),menu=null);menu==null?reference!=null&&(_0x386f73(reference),reference=null):reference==null&&_0x4dd373();try{if(_0x20f0ce!=null){if(!_0x20f0ce['method'](_0x977c46(0x69e))['invoke']())_0x386f73(_0x20f0ce),_0x20f0ce=null;else _0x20f0ce[_0x977c46(0x3c3)]('SetActive')['invoke'](![]);}let _0x320e9c=_0x3ef7bb['method'](_0x977c46(0x522))[_0x977c46(0x3c6)]();if(_0x320e9c!=null){if(!_0x320e9c[_0x977c46(0x3c3)](_0x977c46(0x69e))[_0x977c46(0x3c6)]())_0x386f73(_0x320e9c),_0x3ef7bb=null;else _0x320e9c[_0x977c46(0x3c3)](_0x977c46(0x4a8))[_0x977c46(0x3c6)](![]);}}catch{}return _0x3e625d[_0x977c46(0x670)]()[_0x977c46(0x380)](_0x340d22=>_0x340d22[_0x977c46(0x4cf)])[_0x977c46(0x499)](_0x3c1172=>{const _0x102337=_0x977c46;if(_0x3c1172[_0x102337(0x3c3)])try{_0x3c1172['method']();}catch(_0xa79466){console[_0x102337(0x4cc)](_0x102337(0x69f)+(_0x3c1172[_0x102337(0x49a)]||_0x102337(0x6a0))+'\x27:',_0xa79466),console[_0x102337(0x4cc)](_0x102337(0x6a1),_0xa79466[_0x102337(0x6a2)]),console['error'](_0x102337(0x6a3),_0x3c1172);if(_0xa79466[_0x102337(0x6a2)]){const _0x45d57b=_0xa79466[_0x102337(0x6a2)]['split']('\x0a');_0x45d57b['length']>0x1&&console[_0x102337(0x4cc)](_0x102337(0x6a4),_0x45d57b[0x1]['trim']());}}}),_0xc3aeb5['invoke']();},stashAllowMoves=!![],stashQOLFix=!![],_0x5dfc6d(),console[_0x31bcbe(0x424)]('\x0a\x0a\x20\x20\x20\x20\x20••╹\x20\x20\x20┏┓\x20\x20\x20\x20\x20•\x20┓\x20\x20┳┳┓\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20┓┓\x20┏\x20\x20┗┓╋┓┏┏┓┓┏┫\x20\x20┃┃┃┏┓┏┓┓┏\x0a\x20\x20\x20\x20\x20┗┗\x20┛\x20\x20┗┛┗┗┻┣┛┗┗┻\x20\x20┛\x20┗┗\x20┛┗┗┻\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20┛\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20ii\x27s\x20Stupid\x20Menu\x20Quest\x20'+version+_0x31bcbe(0x6a5)+new Date()['toISOString']()+'\x0a');},_0x3e4ce9(0x6a6));
+"use strict";
+Il2Cpp.$config = { exports: {} };
+Il2Cpp.$config.exports = {
+    il2cpp_init: () => Il2Cpp.module.findExportByName("diSBvpqCEPZ"),
+    il2cpp_init_utf16: () => Il2Cpp.module.findExportByName("sdEQgFfKKlG"),
+    il2cpp_shutdown: () => Il2Cpp.module.findExportByName("BXEJfoFUQjv"),
+    il2cpp_set_config_dir: () => Il2Cpp.module.findExportByName("YWCxRtpGpvA"),
+    il2cpp_set_data_dir: () => Il2Cpp.module.findExportByName("KchNmAjgLim"),
+    il2cpp_set_temp_dir: () => Il2Cpp.module.findExportByName("WePqxEKMJyv"),
+    il2cpp_set_commandline_arguments: () => Il2Cpp.module.findExportByName("LcZLPfjPaVp"),
+    il2cpp_set_commandline_arguments_utf16: () => Il2Cpp.module.findExportByName("YEnHKsavQKT"),
+    il2cpp_set_config_utf16: () => Il2Cpp.module.findExportByName("DNsFBGNjcar"),
+    il2cpp_set_config: () => Il2Cpp.module.findExportByName("CiftREtePRA"),
+    il2cpp_set_memory_callbacks: () => Il2Cpp.module.findExportByName("qYRIkbLQkwI"),
+    il2cpp_memory_pool_set_region_size: () => Il2Cpp.module.findExportByName("JcOofOjMwoG"),
+    il2cpp_memory_pool_get_region_size: () => Il2Cpp.module.findExportByName("VHedccKUmIC"),
+    il2cpp_get_corlib: () => Il2Cpp.module.findExportByName("imivQxlcCWx"),
+    il2cpp_add_internal_call: () => Il2Cpp.module.findExportByName("oKRvWoslQpC"),
+    il2cpp_resolve_icall: () => Il2Cpp.module.findExportByName("xBjhEJoAZIH"),
+    il2cpp_alloc: () => Il2Cpp.module.findExportByName("ySEFIqZLl_O"),
+    il2cpp_free: () => Il2Cpp.module.findExportByName("ZGQNQrNQQBX"),
+    il2cpp_array_class_get: () => Il2Cpp.module.findExportByName("EJrenGMdOIA"),
+    il2cpp_array_length: () => Il2Cpp.module.findExportByName("pTyYhURRS_B"),
+    il2cpp_array_get_byte_length: () => Il2Cpp.module.findExportByName("rgUz_dNtlYL"),
+    il2cpp_array_new: () => Il2Cpp.module.findExportByName("mjLavYTXGrL"),
+    il2cpp_array_new_specific: () => Il2Cpp.module.findExportByName("VhGlOZTWtZY"),
+    il2cpp_array_new_full: () => Il2Cpp.module.findExportByName("QKcyhcnFzBk"),
+    il2cpp_bounded_array_class_get: () => Il2Cpp.module.findExportByName("Y_NMxAwTTrh"),
+    il2cpp_array_element_size: () => Il2Cpp.module.findExportByName("D_rIikIBqoj"),
+    il2cpp_assembly_get_image: () => Il2Cpp.module.findExportByName("qoMwWMVkSgv"),
+    il2cpp_class_for_each: () => Il2Cpp.module.findExportByName("QZOrmIYNTOH"),
+    il2cpp_class_enum_basetype: () => Il2Cpp.module.findExportByName("tEJMZjgtyjr"),
+    il2cpp_class_is_inited: () => Il2Cpp.module.findExportByName("HLRNwnQBJuq"),
+    il2cpp_class_is_generic: () => Il2Cpp.module.findExportByName("EBQvToaXmwd"),
+    il2cpp_class_is_inflated: () => Il2Cpp.module.findExportByName("OduZrFsXqLn"),
+    il2cpp_class_is_assignable_from: () => Il2Cpp.module.findExportByName("FiuZRjFhMRy"),
+    il2cpp_class_is_subclass_of: () => Il2Cpp.module.findExportByName("UtTchRkPkvY"),
+    il2cpp_class_has_parent: () => Il2Cpp.module.findExportByName("WvkCirdhAUM"),
+    il2cpp_class_from_il2cpp_type: () => Il2Cpp.module.findExportByName("SIKDsODdRV_"),
+    il2cpp_class_from_name: () => Il2Cpp.module.findExportByName("EvuKeiOu_HJ"),
+    il2cpp_class_from_system_type: () => Il2Cpp.module.findExportByName("UOtBAwDqIrX"),
+    il2cpp_class_get_element_class: () => Il2Cpp.module.findExportByName("LbqKXoPmpJM"),
+    il2cpp_class_get_events: () => Il2Cpp.module.findExportByName("QSbfZLkVzwU"),
+    il2cpp_class_get_fields: () => Il2Cpp.module.findExportByName("M_kmaXnJwSK"),
+    il2cpp_class_get_nested_types: () => Il2Cpp.module.findExportByName("TEf_VvzhzmB"),
+    il2cpp_class_get_interfaces: () => Il2Cpp.module.findExportByName("OEUScepyoNu"),
+    il2cpp_class_get_properties: () => Il2Cpp.module.findExportByName("USgBPDZxVDy"),
+    il2cpp_class_get_property_from_name: () => Il2Cpp.module.findExportByName("KXfJpUHaEtM"),
+    il2cpp_class_get_field_from_name: () => Il2Cpp.module.findExportByName("HtomPtiufmv"),
+    il2cpp_class_get_methods: () => Il2Cpp.module.findExportByName("EXoJUGdXOqW"),
+    il2cpp_class_get_method_from_name: () => Il2Cpp.module.findExportByName("CBSUjSaUHiM"),
+    il2cpp_class_get_name: () => Il2Cpp.module.findExportByName("AXCECZxEAJC"),
+    il2cpp_type_get_name_chunked: () => Il2Cpp.module.findExportByName("dBkoAVaPtBD"),
+    il2cpp_class_get_namespace: () => Il2Cpp.module.findExportByName("pLcAhyDpwVx"),
+    il2cpp_class_get_parent: () => Il2Cpp.module.findExportByName("jMitlyhMGsL"),
+    il2cpp_class_get_declaring_type: () => Il2Cpp.module.findExportByName("LzXRzG_CqwA"),
+    il2cpp_class_instance_size: () => Il2Cpp.module.findExportByName("dlKunxVfPHq"),
+    il2cpp_class_num_fields: () => Il2Cpp.module.findExportByName("YWhuDBZKyQA"),
+    il2cpp_class_is_valuetype: () => Il2Cpp.module.findExportByName("PhWugNKdPFn"),
+    il2cpp_class_value_size: () => Il2Cpp.module.findExportByName("wOPAwJlJdqa"),
+    il2cpp_class_is_blittable: () => Il2Cpp.module.findExportByName("YwobbhEfggc"),
+    il2cpp_class_get_flags: () => Il2Cpp.module.findExportByName("igxSVAmPpPW"),
+    il2cpp_class_is_abstract: () => Il2Cpp.module.findExportByName("zPsbxsnzfCK"),
+    il2cpp_class_is_interface: () => Il2Cpp.module.findExportByName("kGnjkkaYpkn"),
+    il2cpp_class_array_element_size: () => Il2Cpp.module.findExportByName("IJqPfqczDFO"),
+    il2cpp_class_from_type: () => Il2Cpp.module.findExportByName("siMq_QIXkzG"),
+    il2cpp_class_get_type: () => Il2Cpp.module.findExportByName("VESlHDPRqWr"),
+    il2cpp_class_get_type_token: () => Il2Cpp.module.findExportByName("fUgOAMVAkMF"),
+    il2cpp_class_has_attribute: () => Il2Cpp.module.findExportByName("bcCuSOPi_cx"),
+    il2cpp_class_has_references: () => Il2Cpp.module.findExportByName("SEudiEqiQyK"),
+    il2cpp_class_is_enum: () => Il2Cpp.module.findExportByName("nQbVNxtVtCS"),
+    il2cpp_class_get_image: () => Il2Cpp.module.findExportByName("tcWiSjsxVcQ"),
+    il2cpp_class_get_assemblyname: () => Il2Cpp.module.findExportByName("RMuRknJyzIs"),
+    il2cpp_class_get_rank: () => Il2Cpp.module.findExportByName("AQCyNoDaHZO"),
+    il2cpp_class_get_data_size: () => Il2Cpp.module.findExportByName("yYrLodcKdUo"),
+    il2cpp_class_get_static_field_data: () => Il2Cpp.module.findExportByName("OitYjfgdTbj"),
+    il2cpp_stats_dump_to_file: () => Il2Cpp.module.findExportByName("Tp_EZaASB_k"),
+    il2cpp_stats_get_value: () => Il2Cpp.module.findExportByName("RhPCVnitseY"),
+    il2cpp_domain_get: () => Il2Cpp.module.findExportByName("NdJtlbxgnzV"),
+    il2cpp_domain_assembly_open: () => Il2Cpp.module.findExportByName("fxhgCC_PBaE"),
+    il2cpp_domain_get_assemblies: () => Il2Cpp.module.findExportByName("SwsmnUDuYWs"),
+    il2cpp_raise_exception: () => Il2Cpp.module.findExportByName("sSoVmNJnmod"),
+    il2cpp_exception_from_name_msg: () => Il2Cpp.module.findExportByName("ufZLppesNor"),
+    il2cpp_get_exception_argument_null: () => Il2Cpp.module.findExportByName("DzKOPBxzOsA"),
+    il2cpp_format_exception: () => Il2Cpp.module.findExportByName("A_eWFwzncxf"),
+    il2cpp_format_stack_trace: () => Il2Cpp.module.findExportByName("ncOjSgXVXNs"),
+    il2cpp_unhandled_exception: () => Il2Cpp.module.findExportByName("fjoYRHCigtw"),
+    il2cpp_native_stack_trace: () => Il2Cpp.module.findExportByName("WWXgSo_YXTG"),
+    il2cpp_field_get_flags: () => Il2Cpp.module.findExportByName("MIYZlDioOQA"),
+    il2cpp_field_get_from_reflection: () => Il2Cpp.module.findExportByName("LZaOUJMBCgr"),
+    il2cpp_field_get_name: () => Il2Cpp.module.findExportByName("WENVsJrigiA"),
+    il2cpp_field_get_parent: () => Il2Cpp.module.findExportByName("gNmJDTxOBZS"),
+    il2cpp_field_get_object: () => Il2Cpp.module.findExportByName("gWIOOvqviFi"),
+    il2cpp_field_get_offset: () => Il2Cpp.module.findExportByName("ltKYrwDrfyE"),
+    il2cpp_field_get_type: () => Il2Cpp.module.findExportByName("MxYCiyKiEbG"),
+    il2cpp_field_get_value: () => Il2Cpp.module.findExportByName("oXfrmoYnmWI"),
+    il2cpp_field_get_value_object: () => Il2Cpp.module.findExportByName("hkbXbHQSVBN"),
+    il2cpp_field_has_attribute: () => Il2Cpp.module.findExportByName("hZqpOMQeWYE"),
+    il2cpp_field_set_value: () => Il2Cpp.module.findExportByName("MbJwoDdpvyv"),
+    il2cpp_field_static_get_value: () => Il2Cpp.module.findExportByName("wnFsbUFFdgv"),
+    il2cpp_field_static_set_value: () => Il2Cpp.module.findExportByName("dEKMePXnagR"),
+    il2cpp_field_set_value_object: () => Il2Cpp.module.findExportByName("chqMpqhvYKv"),
+    il2cpp_field_is_literal: () => Il2Cpp.module.findExportByName("eQCwOVZpfMp"),
+    il2cpp_gc_collect: () => Il2Cpp.module.findExportByName("EnqAHGJceQF"),
+    il2cpp_gc_collect_a_little: () => Il2Cpp.module.findExportByName("uCMjvwdBFZA"),
+    il2cpp_gc_start_incremental_collection: () => Il2Cpp.module.findExportByName("yVBrVktJFpF"),
+    il2cpp_gc_disable: () => Il2Cpp.module.findExportByName("lRzzSSbDHxo"),
+    il2cpp_gc_enable: () => Il2Cpp.module.findExportByName("Y_HZRLGieeS"),
+    il2cpp_gc_is_disabled: () => Il2Cpp.module.findExportByName("ukoeXbamtCf"),
+    il2cpp_gc_set_mode: () => Il2Cpp.module.findExportByName("KnXVLEDlxnQ"),
+    il2cpp_gc_get_max_time_slice_ns: () => Il2Cpp.module.findExportByName("IltdLuwErKH"),
+    il2cpp_gc_set_max_time_slice_ns: () => Il2Cpp.module.findExportByName("eBh_pNVdyqh"),
+    il2cpp_gc_is_incremental: () => Il2Cpp.module.findExportByName("uhcPKDeklmS"),
+    il2cpp_gc_get_used_size: () => Il2Cpp.module.findExportByName("IXCRKSvKPkq"),
+    il2cpp_gc_get_heap_size: () => Il2Cpp.module.findExportByName("Ze_pNOAmrog"),
+    il2cpp_gc_wbarrier_set_field: () => Il2Cpp.module.findExportByName("bcpTScfKZZx"),
+    il2cpp_gc_has_strict_wbarriers: () => Il2Cpp.module.findExportByName("VOoNjtrSuAV"),
+    il2cpp_gc_set_external_allocation_tracker: () => Il2Cpp.module.findExportByName("yLMpDpkbGrH"),
+    il2cpp_gc_set_external_wbarrier_tracker: () => Il2Cpp.module.findExportByName("NN_xXzFZBFi"),
+    il2cpp_gc_foreach_heap: () => Il2Cpp.module.findExportByName("hqhVZqMYiQE"),
+    il2cpp_stop_gc_world: () => Il2Cpp.module.findExportByName("ISX_MkcEEEr"),
+    il2cpp_start_gc_world: () => Il2Cpp.module.findExportByName("SNTLbUVTzed"),
+    il2cpp_gc_alloc_fixed: () => Il2Cpp.module.findExportByName("fHAEhWMSSAj"),
+    il2cpp_gc_free_fixed: () => Il2Cpp.module.findExportByName("AmwyAuIqPYQ"),
+    il2cpp_gchandle_new: () => Il2Cpp.module.findExportByName("BqYCFCefEEf"),
+    il2cpp_gchandle_new_weakref: () => Il2Cpp.module.findExportByName("PdhOsMNaSOH"),
+    il2cpp_gchandle_get_target: () => Il2Cpp.module.findExportByName("fAOhEaxOGiz"),
+    il2cpp_gchandle_free: () => Il2Cpp.module.findExportByName("OqNeDUhosmc"),
+    il2cpp_gchandle_foreach_get_target: () => Il2Cpp.module.findExportByName("rLFUYf_igqx"),
+    il2cpp_object_header_size: () => Il2Cpp.module.findExportByName("okMYWCYCMHk"),
+    il2cpp_array_object_header_size: () => Il2Cpp.module.findExportByName("uksSuLRnCOp"),
+    il2cpp_offset_of_array_length_in_array_object_header: () => Il2Cpp.module.findExportByName("tVpWLVNtQFQ"),
+    il2cpp_offset_of_array_bounds_in_array_object_header: () => Il2Cpp.module.findExportByName("cbgMORQpdlm"),
+    il2cpp_allocation_granularity: () => Il2Cpp.module.findExportByName("zHcgiUtSgZV"),
+    il2cpp_unity_liveness_allocate_struct: () => Il2Cpp.module.findExportByName("kPowXBmgXIo"),
+    il2cpp_unity_liveness_calculation_from_root: () => Il2Cpp.module.findExportByName("uWOTwAUfYMW"),
+    il2cpp_unity_liveness_calculation_from_statics: () => Il2Cpp.module.findExportByName("htGbVY_gQoO"),
+    il2cpp_unity_liveness_finalize: () => Il2Cpp.module.findExportByName("SrKRJqmSsHc"),
+    il2cpp_unity_liveness_free_struct: () => Il2Cpp.module.findExportByName("suneMYmFIcO"),
+    il2cpp_method_get_return_type: () => Il2Cpp.module.findExportByName("qalSOXFrOjI"),
+    il2cpp_method_get_declaring_type: () => Il2Cpp.module.findExportByName("OlxVBFyJkOg"),
+    il2cpp_method_get_name: () => Il2Cpp.module.findExportByName("JTwOhlLzq_z"),
+    il2cpp_method_get_from_reflection: () => Il2Cpp.module.findExportByName("Y_cAfpzAsuh"),
+    il2cpp_method_get_object: () => Il2Cpp.module.findExportByName("JUNyFiasFjX"),
+    il2cpp_method_is_generic: () => Il2Cpp.module.findExportByName("GQLsLtgPG_c"),
+    il2cpp_method_is_inflated: () => Il2Cpp.module.findExportByName("H_AESDQlVuQ"),
+    il2cpp_method_is_instance: () => Il2Cpp.module.findExportByName("LebQAplLmuU"),
+    il2cpp_method_get_param_count: () => Il2Cpp.module.findExportByName("cMnVkXbHobK"),
+    il2cpp_method_get_param: () => Il2Cpp.module.findExportByName("oLNNngcbvNZ"),
+    il2cpp_method_get_class: () => Il2Cpp.module.findExportByName("MAnPhiRqcFf"),
+    il2cpp_method_has_attribute: () => Il2Cpp.module.findExportByName("ICkKCjYkAnz"),
+    il2cpp_method_get_flags: () => Il2Cpp.module.findExportByName("xZKgJKPtnty"),
+    il2cpp_method_get_token: () => Il2Cpp.module.findExportByName("KVyfwFjDSPm"),
+    il2cpp_method_get_param_name: () => Il2Cpp.module.findExportByName("GKLLBZzCeog"),
+    il2cpp_property_get_flags: () => Il2Cpp.module.findExportByName("vSDETfQEFMI"),
+    il2cpp_property_get_get_method: () => Il2Cpp.module.findExportByName("sgMXraRcWjL"),
+    il2cpp_property_get_set_method: () => Il2Cpp.module.findExportByName("YDvszPSQrPA"),
+    il2cpp_property_get_name: () => Il2Cpp.module.findExportByName("FlKjIyrXhGh"),
+    il2cpp_property_get_parent: () => Il2Cpp.module.findExportByName("OyQDypRiAQO"),
+    il2cpp_object_get_class: () => Il2Cpp.module.findExportByName("FcyGavngFtw"),
+    il2cpp_object_get_size: () => Il2Cpp.module.findExportByName("dsZlEFghzpq"),
+    il2cpp_object_get_virtual_method: () => Il2Cpp.module.findExportByName("BqqownaXxSP"),
+    il2cpp_object_new: () => Il2Cpp.module.findExportByName("tjZApPjwjqm"),
+    il2cpp_object_unbox: () => Il2Cpp.module.findExportByName("EPAJaCUTlkk"),
+    il2cpp_value_box: () => Il2Cpp.module.findExportByName("DyAaebIQwvd"),
+    il2cpp_monitor_enter: () => Il2Cpp.module.findExportByName("gMswMplghKl"),
+    il2cpp_monitor_try_enter: () => Il2Cpp.module.findExportByName("pgySMhZhDOC"),
+    il2cpp_monitor_exit: () => Il2Cpp.module.findExportByName("GhPNSfoqhuY"),
+    il2cpp_monitor_pulse: () => Il2Cpp.module.findExportByName("oJPPCzuJMsj"),
+    il2cpp_monitor_pulse_all: () => Il2Cpp.module.findExportByName("IaVojaeVwSo"),
+    il2cpp_monitor_wait: () => Il2Cpp.module.findExportByName("q_mVNEaOIBr"),
+    il2cpp_monitor_try_wait: () => Il2Cpp.module.findExportByName("BE_HVPNbkMf"),
+    il2cpp_runtime_invoke: () => Il2Cpp.module.findExportByName("JCylXSCskYq"),
+    il2cpp_runtime_invoke_convert_args: () => Il2Cpp.module.findExportByName("fSiKvzpEMGx"),
+    il2cpp_runtime_class_init: () => Il2Cpp.module.findExportByName("bWkDnubAZEh"),
+    il2cpp_runtime_object_init: () => Il2Cpp.module.findExportByName("ABdgVryIYGP"),
+    il2cpp_runtime_object_init_exception: () => Il2Cpp.module.findExportByName("RUJNlZTWILq"),
+    il2cpp_runtime_unhandled_exception_policy_set: () => Il2Cpp.module.findExportByName("QFtXYB_JBSz"),
+    il2cpp_string_length: () => Il2Cpp.module.findExportByName("DqefQGegfJU"),
+    il2cpp_string_chars: () => Il2Cpp.module.findExportByName("YTghcZmpIsu"),
+    il2cpp_string_new: () => Il2Cpp.module.findExportByName("UsTniCZFQeW"),
+    il2cpp_string_new_len: () => Il2Cpp.module.findExportByName("JzdHpDtYlNO"),
+    il2cpp_string_new_utf16: () => Il2Cpp.module.findExportByName("ulCYHXzHbCm"),
+    il2cpp_string_new_wrapper: () => Il2Cpp.module.findExportByName("FYShFbwTQZJ"),
+    il2cpp_string_intern: () => Il2Cpp.module.findExportByName("gromELKVRnC"),
+    il2cpp_string_is_interned: () => Il2Cpp.module.findExportByName("dlHTAvAAIFm"),
+    il2cpp_thread_current: () => Il2Cpp.module.findExportByName("tGpHoIMtRPY"),
+    il2cpp_thread_attach: () => Il2Cpp.module.findExportByName("pZDjbKuBWkv"),
+    il2cpp_thread_detach: () => Il2Cpp.module.findExportByName("CicqYzFlWxc"),
+    il2cpp_is_vm_thread: () => Il2Cpp.module.findExportByName("Aji_gAFiTSj"),
+    il2cpp_current_thread_walk_frame_stack: () => Il2Cpp.module.findExportByName("QSIsjMzwiRD"),
+    il2cpp_thread_walk_frame_stack: () => Il2Cpp.module.findExportByName("_HXsAiCgtJb"),
+    il2cpp_current_thread_get_top_frame: () => Il2Cpp.module.findExportByName("bHrTSqpfuJV"),
+    il2cpp_thread_get_top_frame: () => Il2Cpp.module.findExportByName("DmJJQSFjyyd"),
+    il2cpp_current_thread_get_frame_at: () => Il2Cpp.module.findExportByName("QcMbUzSKXWp"),
+    il2cpp_thread_get_frame_at: () => Il2Cpp.module.findExportByName("KtCgBUAwyWW"),
+    il2cpp_current_thread_get_stack_depth: () => Il2Cpp.module.findExportByName("nyFnDZtUuGO"),
+    il2cpp_thread_get_stack_depth: () => Il2Cpp.module.findExportByName("RflBzTdKzVi"),
+    il2cpp_override_stack_backtrace: () => Il2Cpp.module.findExportByName("TtqQhPRWhdE"),
+    il2cpp_type_get_object: () => Il2Cpp.module.findExportByName("MkGvf_aHcPX"),
+    il2cpp_type_get_type: () => Il2Cpp.module.findExportByName("pBfqkiezekS"),
+    il2cpp_type_get_class_or_element_class: () => Il2Cpp.module.findExportByName("_nWpaWrROcJ"),
+    il2cpp_type_get_name: () => Il2Cpp.module.findExportByName("YUMigIrKAEl"),
+    il2cpp_type_is_byref: () => Il2Cpp.module.findExportByName("lDocxvYAMOr"),
+    il2cpp_type_get_attrs: () => Il2Cpp.module.findExportByName("ITpBBfKrILU"),
+    il2cpp_type_equals: () => Il2Cpp.module.findExportByName("PhmQLCnvpAI"),
+    il2cpp_type_get_assembly_qualified_name: () => Il2Cpp.module.findExportByName("zWRIwnfkdTO"),
+    il2cpp_type_get_reflection_name: () => Il2Cpp.module.findExportByName("fv_OIhYVdLx"),
+    il2cpp_type_is_static: () => Il2Cpp.module.findExportByName("JltKruNqcBY"),
+    il2cpp_type_is_pointer_type: () => Il2Cpp.module.findExportByName("bTyAhlXcnKU"),
+    il2cpp_image_get_assembly: () => Il2Cpp.module.findExportByName("xqPODzIRaTU"),
+    il2cpp_image_get_name: () => Il2Cpp.module.findExportByName("XJaaFs_raju"),
+    il2cpp_image_get_filename: () => Il2Cpp.module.findExportByName("ReYOvvNHZgI"),
+    il2cpp_image_get_entry_point: () => Il2Cpp.module.findExportByName("obgyYDTSH_l"),
+    il2cpp_image_get_class_count: () => Il2Cpp.module.findExportByName("xlKkZ_HlOoW"),
+    il2cpp_image_get_class: () => Il2Cpp.module.findExportByName("QIDqd_Tjarw"),
+    il2cpp_capture_memory_snapshot: () => Il2Cpp.module.findExportByName("aXhnfviCMax"),
+    il2cpp_free_captured_memory_snapshot: () => Il2Cpp.module.findExportByName("DLRcvnWVddJ"),
+    il2cpp_set_find_plugin_callback: () => Il2Cpp.module.findExportByName("hMKKVYTSWcU"),
+    il2cpp_register_log_callback: () => Il2Cpp.module.findExportByName("YUBJXIuliRR"),
+    il2cpp_debugger_set_agent_options: () => Il2Cpp.module.findExportByName("dYJCqABrjWI"),
+    il2cpp_is_debugger_attached: () => Il2Cpp.module.findExportByName("fEWSrzXgXOY"),
+    il2cpp_register_debugger_agent_transport: () => Il2Cpp.module.findExportByName("EwhVYkmYPEs"),
+    il2cpp_debug_foreach_method: () => Il2Cpp.module.findExportByName("EFooHlRazEP"),
+    il2cpp_debug_get_method_info: () => Il2Cpp.module.findExportByName("YcVoijSmaVJ"),
+    il2cpp_unity_install_unitytls_interface: () => Il2Cpp.module.findExportByName("ErskgTHBQel"),
+    il2cpp_custom_attrs_from_class: () => Il2Cpp.module.findExportByName("IQULjCHPVIM"),
+    il2cpp_custom_attrs_from_method: () => Il2Cpp.module.findExportByName("echNfJwzNAF"),
+    il2cpp_custom_attrs_from_field: () => Il2Cpp.module.findExportByName("MIbXcShlnHt"),
+    il2cpp_custom_attrs_get_attr: () => Il2Cpp.module.findExportByName("yLGQZwKhxMj"),
+    il2cpp_custom_attrs_has_attr: () => Il2Cpp.module.findExportByName("OqgdnhYTbWM"),
+    il2cpp_custom_attrs_construct: () => Il2Cpp.module.findExportByName("CtihQXqHdJm"),
+    il2cpp_custom_attrs_free: () => Il2Cpp.module.findExportByName("cxusDKlymko"),
+    il2cpp_class_set_userdata: () => Il2Cpp.module.findExportByName("SfmGsONeTcC"),
+    il2cpp_class_get_userdata_offset: () => Il2Cpp.module.findExportByName("ngY_rMrrOdi"),
+    il2cpp_set_default_thread_affinity: () => Il2Cpp.module.findExportByName("SIlVAbQPufC"),
+    il2cpp_unity_set_android_network_up_state_func: () => Il2Cpp.module.findExportByName("IWuecfkKxEm"),
+};
+// dont even think about it.
+const API_URL = "https://moonylabs.org";
+const version = "1.3.0";
+let boardMaterial = null;
+let buttonClickDelay = 0.0;
+let menu = null;
+let reference = null;
+let referenceCollider = null;
+let leftPrimary = false;
+let leftSecondary = false;
+let rightPrimary = false;
+let rightSecondary = false;
+let leftGrab = false;
+let rightGrab = false;
+let leftTrigger = false;
+let rightTrigger = false;
+let leftStick = false;
+let rightStick = false;
+let devEnabled = false;
+let stashDupeEnabled = false;
+let backpackDupeEnabled = false;
+let flySpeed = 10.0;
+let prefabListIndex = 0;
+let sellingmachineSpawns = [];
+let QuiverClass = null;
+let BackpackItemClass = null;
+let stashAllowMoves = false;
+let stashQOLFix = false;
+let allowPutGBO = false;
+let infAmmo = true;
+let gunColor = [0.08, 0.08, 0.08, 0.75];
+let localButtonSounds = true;
+let negativeHeadSize = false;
+let deltaTime = 0.0;
+let time = 0.0;
+let frameCount = 0;
+let ejectDupeValues = [1, 2, 5, 10, 25, 64, 100, 128];
+let ejectDupeAmount = 1;
+let ejectDupeIndex = 0;
+let buttonSound = 44;
+let LerpMenu = false;
+let menuscale = 0.9;
+let headSizeValues = [1, 2, 5, 10, 15, 20, 25, 50, 0];
+let headSizeAmount = 1;
+let headSizeIndex = 0;
+let soundFileFiles = [
+    "1/cust2.mp3",
+    "1/vineboom.mp3",
+    "1/eclipse.mp3",
+    "1/do.mp3",
+    "1/fart.mp3",
+    "1/cust3.mp3",
+    "1/daisybell.mp3",
+    "1/16m.mp3",
+    "1/feelgood.mp3",
+    "1/cust1.mp3",
+    "1/taunt.mp3",
+    "1/stupid.mp3",
+    "1/hl2amb.mp3"
+];
+let soundFileIndex = 0;
+let previousGhostKey = false;
+let previousInvisKey = false;
+let previousSoundKey = false;
+let previousNoclipKey = false;
+let perviousTeleportKey = false;
+let perviousShootKey = false;
+let perviousSpawnKey = false;
+let previoussaaakey = false;
+let previousASCIIkey = false;
+// Ghost follower state
+let isGhostFollowingActive = false;
+let currentPlayerIndex = 0;
+let lastSwitchTime = 0;
+let netPlayers = [];
+//let previousGhostKey = false;
+let roomJoinAttempted = false;
+let waitingForRoom = false;
+let roomCheckInterval = null;
+let walkPos = null;
+let walkNormal = null;
+let cachedGhostPos = {
+    head: null,
+    leftHand: null,
+    rightHand: null
+};
+let closePosition = null;
+let tagGunDelay = 0.0;
+let idGunDelay = 0.0;
+let splashDelay = 0.0;
+let lagGunDelay = 0.0;
+let scaleVal = 0;
+let hueVal = 0;
+let satVal = 0;
+let hue = 0.0;
+let jellywowes = 5.0;
+let lastTime = 0.0;
+let oldSlide = null;
+let leftPlatform = null;
+let rightPlatform = null;
+let fullbirhgtobject = null;
+let lightEnabled = false;
+let checkpoint = null;
+let visualizer = []; // persistent cube
+let audioManager = null;
+let mylittleSphere = null;
+let lineRenderHolder = null;
+let isLineRenderQueued = false;
+let linePool = [];
+let handTextObj = null;
+let lvT = null;
+let rvT = null;
+let buttonNotifications = true;
+let highPunchPower = false;
+let bgColor = [1.0, 0.5, 0.0, 1.0];
+let textColor = [1.0, 0.7450981, 0.4901961, 1.0];
+let buttonColor = [0.666, 0.333, 0.0, 1.0];
+let buttonPressedColor = [0.333, 0.150, 0.0, 1.0];
+let menuName = "ii's Stupid Menu";
+//let menuName: string = "im <b>moonying</b> it\nversion: " + version;
+let themeIndex = 0;
+let buttonIndex = 0;
+let currentNotification = "";
+let notifactionResetTime = 0;
+//messy prefabs coming up!
+const itemIDs = [
+    "item_ac_cola",
+    "item_alphablade",
+    "item_anti_gravity_grenade",
+    "item_apple",
+    "item_arena_pistol",
+    "item_arena_shotgun",
+    "item_arrow",
+    "item_arrow_bomb",
+    "item_arrow_heart",
+    "item_arrow_lightbulb",
+    "item_arrow_teleport",
+    "item_axe",
+    "item_backpack",
+    "item_backpack_black",
+    "item_backpack_green",
+    "item_backpack_large_base",
+    "item_backpack_large_basketball",
+    "item_backpack_large_clover",
+    "item_backpack_pink",
+    "item_backpack_realistic",
+    "item_backpack_small_base",
+    "item_backpack_white",
+    "item_backpack_with_flashlight",
+    "item_bait_beetle",
+    "item_bait_fly",
+    "item_bait_glowworm",
+    "item_bait_magmar_ball",
+    "item_bait_mouse_trap",
+    "item_bait_sardine",
+    "item_bait_shell",
+    "item_bait_starfish",
+    "item_bait_wallet",
+    "item_balloon",
+    "item_balloon_heart",
+    "item_bamboo_fishing_rod",
+    "item_banana",
+    "item_banana_chips",
+    "item_baseball_bat",
+    "item_basic_fishing_rod",
+    "item_beans",
+    "item_big_cup",
+    "item_bighead_larva",
+    "item_bloodlust_vial",
+    "item_boombox",
+    "item_boombox_fishing",
+    "item_boombox_neon",
+    "item_boomerang",
+    "item_box_fan",
+    "item_brain_chunk",
+    "item_broccoli_grenade",
+    "item_broccoli_shrink_grenade",
+    "item_broom",
+    "item_broom_halloween",
+    "item_bubble_gun",
+    "item_burrito",
+    "item_butcherpipe",
+    "item_butcherspear",
+    "item_butchersword",
+    "item_calculator",
+    "item_cardboard_box",
+    "item_cardboard_dragon_body",
+    "item_cardboard_dragon_head",
+    "item_ceo_plaque",
+    "item_chakra",
+    "item_clapper",
+    "item_cluster_grenade",
+    "item_coconut_shell",
+    "item_cola",
+    "item_cola_large",
+    "item_company_ration",
+    "item_company_ration_heal",
+    "item_cracker",
+    "item_crate",
+    "item_crossbow",
+    "item_crossbow_heart",
+    "item_crowbar",
+    "item_cubetrident",
+    "item_cutie_dead",
+    "item_d20",
+    "item_demon_sword",
+    "item_disc",
+    "item_disposable_camera",
+    "item_dragons_claw",
+    "item_drill",
+    "item_drill_neon",
+    "item_dynamite",
+    "item_dynamite_cube",
+    "item_egg",
+    "item_electrical_tape",
+    "item_eraser",
+    "item_film_reel",
+    "item_finger_board",
+    "item_fish_boomfish",
+    "item_fish_boot",
+    "item_fish_bottled_message",
+    "item_fish_carp",
+    "item_fish_chewna",
+    "item_fish_clam_hookshot",
+    "item_fish_crappie",
+    "item_fish_crispie",
+    "item_fish_diamond_jade_koi",
+    "item_fish_dollar_bill",
+    "item_fish_dragonfish",
+    "item_fish_fishsword",
+    "item_fish_gold_fish",
+    "item_fish_hydracarp",
+    "item_fish_kissy",
+    "item_fish_license_plate",
+    "item_fish_magma_carp",
+    "item_fish_nebula_fish",
+    "item_fish_nutfish",
+    "item_fish_rainbow_trout",
+    "item_fish_rotten_fish",
+    "item_fish_salmon",
+    "item_fish_salmonster",
+    "item_fish_scaldfish",
+    "item_fish_seamine",
+    "item_fish_shellfish_shield",
+    "item_fish_spicy_salmon",
+    "item_fish_tuna",
+    "item_fish_yellowcake",
+    "item_fishing_terminal_bait_button",
+    "item_flamethrower",
+    "item_flamethrower_skull",
+    "item_flamethrower_skull_ruby",
+    "item_flaregun",
+    "item_flashbang",
+    "item_flashlight",
+    "item_flashlight_mega",
+    "item_flashlight_red",
+    "item_flipflop_realistic",
+    "item_floppy3",
+    "item_floppy5",
+    "item_football",
+    "item_friend_launcher",
+    "item_frying_pan",
+    "item_gameboy",
+    "item_glowstick",
+    "item_goldbar",
+    "item_goldcoin",
+    "item_goop",
+    "item_goopfish",
+    "item_great_sword",
+    "item_grenade",
+    "item_grenade_gold",
+    "item_grenade_launcher",
+    "item_guided_boomerang",
+    "item_hammer_candy_cane",
+    "item_harddrive",
+    "item_hatchet",
+    "item_hawaiian_drum",
+    "item_heart_chunk",
+    "item_heart_gun",
+    "item_heartchocolatebox",
+    "item_hh_key",
+    "item_hookshot",
+    "item_hookshot_sword",
+    "item_hot_cocoa",
+    "item_hoverpad",
+    "item_impulse_grenade",
+    "item_jetpack",
+    "item_joystick",
+    "item_joystick_inv_y",
+    "item_keycard",
+    "item_lance",
+    "item_landmine",
+    "item_landmine_bee",
+    "item_lantern_cny",
+    "item_large_banana",
+    "item_lava_fishing_rod",
+    "item_love_grenade",
+    "item_megaphone",
+    "item_metal_ball",
+    "item_metal_ball_xmas",
+    "item_metal_plate",
+    "item_metal_plate_xmas",
+    "item_metal_rod",
+    "item_metal_rod_xmas",
+    "item_metal_triangle",
+    "item_momboss_box",
+    "item_moneygun",
+    "item_mountain_key",
+    "item_mug",
+    "item_needle",
+    "item_nut",
+    "item_nut_drop",
+    "item_ogre_hands",
+    "item_ore_copper_l",
+    "item_ore_copper_m",
+    "item_ore_copper_s",
+    "item_ore_gold_l",
+    "item_ore_gold_m",
+    "item_ore_gold_s",
+    "item_ore_hell",
+    "item_ore_silver_l",
+    "item_ore_silver_m",
+    "item_ore_silver_s",
+    "item_painting_canvas",
+    "item_paperpack",
+    "item_pelican_case",
+    "item_pickaxe",
+    "item_pickaxe_cny",
+    "item_pickaxe_cube",
+    "item_pickaxe_realistic",
+    "item_pinata_bat",
+    "item_pineapple",
+    "item_pipe",
+    "item_pistol_dragon",
+    "item_plank",
+    "item_plunger",
+    "item_pogostick",
+    "item_police_baton",
+    "item_popcorn",
+    "item_portable_teleporter",
+    "item_prop_scanner",
+    "item_pumpkin_bomb",
+    "item_pumpkin_pie",
+    "item_pumpkinjack",
+    "item_pumpkinjack_small",
+    "item_quest_gy_skull",
+    "item_quest_gy_skull_special",
+    "item_quest_hlal_brain",
+    "item_quest_hlal_eyeball",
+    "item_quest_hlal_flesh",
+    "item_quest_hlal_heart",
+    "item_quest_key_graveyard",
+    "item_quest_vhs",
+    "item_quest_vhs_backlots",
+    "item_quest_vhs_basement",
+    "item_quest_vhs_cave",
+    "item_quest_vhs_circus_day",
+    "item_quest_vhs_circus_ext",
+    "item_quest_vhs_circus_fac",
+    "item_quest_vhs_dam_facility",
+    "item_quest_vhs_dam_servers",
+    "item_quest_vhs_dark_forest",
+    "item_quest_vhs_forest",
+    "item_quest_vhs_foundation",
+    "item_quest_vhs_graveyard",
+    "item_quest_vhs_haunted_house",
+    "item_quest_vhs_hell",
+    "item_quest_vhs_lab",
+    "item_quest_vhs_lake",
+    "item_quest_vhs_lobby",
+    "item_quest_vhs_megalodon",
+    "item_quest_vhs_megalodon_lake",
+    "item_quest_vhs_mines",
+    "item_quest_vhs_mountain",
+    "item_quest_vhs_mountainbot",
+    "item_quest_vhs_mountainshack",
+    "item_quest_vhs_mountainvault",
+    "item_quest_vhs_office",
+    "item_quest_vhs_office_basement",
+    "item_quest_vhs_powerplant_microwave",
+    "item_quest_vhs_powerplant_reactorcore",
+    "item_quest_vhs_powerplant_security",
+    "item_quest_vhs_powerplant_supportfacility",
+    "item_quest_vhs_sewers",
+    "item_quiver",
+    "item_quiver_heart",
+    "item_radiation_gun",
+    "item_radioactive_broccoli",
+    "item_radioactive_fishing_rod",
+    "item_randombox_mobloot_big",
+    "item_randombox_mobloot_medium",
+    "item_randombox_mobloot_small",
+    "item_randombox_mobloot_weapons",
+    "item_randombox_mobloot_zombie",
+    "item_rare_card",
+    "item_remote_controller",
+    "item_revolver",
+    "item_revolver_ammo",
+    "item_revolver_gold",
+    "item_ring_buoy",
+    "item_robo_monke",
+    "item_robot_arm_left",
+    "item_robot_arm_right",
+    "item_robot_head",
+    "item_rope",
+    "item_rpg",
+    "item_rpg_ammo",
+    "item_rpg_ammo_egg",
+    "item_rpg_ammo_spear",
+    "item_rpg_cny",
+    "item_rpg_easter",
+    "item_rpg_smshr",
+    "item_rpg_spear",
+    "item_rubberducky",
+    "item_ruby",
+    "item_saddle",
+    "item_salmoncannon",
+    "item_sawblade",
+    "item_sawblade_launcher",
+    "item_scanner",
+    "item_scissors",
+    "item_server_pad",
+    "item_shield",
+    "item_shield_bones",
+    "item_shield_candy_cane",
+    "item_shield_police",
+    "item_shield_viking_1",
+    "item_shield_viking_2",
+    "item_shield_viking_3",
+    "item_shield_viking_4",
+    "item_shotgun",
+    "item_shotgun_ammo",
+    "item_shotgun_viper",
+    "item_shovel",
+    "item_shredder",
+    "item_shrinking_broccoli",
+    "item_skipole",
+    "item_skishoe",
+    "item_skishoe_2",
+    "item_skishoe_3",
+    "item_skishoe_4",
+    "item_snail_friend",
+    "item_snowball",
+    "item_snowboard",
+    "item_snowboard_2",
+    "item_snowboard_3",
+    "item_snowboard_4",
+    "item_snowboard_auto",
+    "item_spear_candy_cane",
+    "item_special_fishing_rod",
+    "item_special_fishing_rod_radar_part",
+    "item_special_fishing_rod_with_radar",
+    "item_stapler",
+    "item_stash_grenade",
+    "item_steel_beam",
+    "item_steel_beam_xmas",
+    "item_stellarsword_blue",
+    "item_stellarsword_gold",
+    "item_stick_armbones",
+    "item_stick_bone",
+    "item_sticker_dispenser",
+    "item_sticky_dynamite",
+    "item_stinky_cheese",
+    "item_tablet",
+    "item_tapedispenser",
+    "item_tele_grenade",
+    "item_tele_pearl",
+    "item_teleport_gun",
+    "item_theremin",
+    "item_timebomb",
+    "item_toilet_paper",
+    "item_toilet_paper_mega",
+    "item_toilet_paper_roll_empty",
+    "item_token_circus",
+    "item_trampoline",
+    "item_treestick",
+    "item_tripwire_explosive",
+    "item_trophy",
+    "item_truss",
+    "item_truss_xmas",
+    "item_turkey_leg",
+    "item_turkey_whole",
+    "item_ukulele",
+    "item_ukulele_gold",
+    "item_umbrella",
+    "item_umbrella_clover",
+    "item_umbrella_squirrel",
+    "item_unidentified",
+    "item_upsidedown_loot",
+    "item_uranium_chunk_l",
+    "item_uranium_chunk_m",
+    "item_uranium_chunk_s",
+    "item_viking_hammer",
+    "item_viking_hammer_twilight",
+    "item_war_fan",
+    "item_wheelhandle",
+    "item_wheelhandle_big",
+    "item_whoopie",
+    "item_wood_log",
+    "item_wood_pallet",
+    "item_wyrmpiercer",
+    "item_zipline_gun",
+    "item_zombie_meat"
+];
+const VFXTypes = {
+    None: 255,
+    MuzzleFlash_Shotgun: 0,
+    MuzzleFlash_FlareGun: 1,
+    CrateBreak: 2,
+    MuzzleFlash_SmallGun: 3,
+    MuzzleFlash_GoldRevolver: 4,
+    MuzzleFlash_DragonPistol: 5,
+    MuzzleFlash_ViperShotgun: 6,
+    Explosion_FlareGun: 32,
+    Explosion_Coins: 33,
+    Explosion_Nuts: 34,
+    Explosion_Keys: 35,
+    Explosion_Balloon: 36,
+    Explosion_TeleGrenadeSrc: 37,
+    Player_Touch_Lava: 38,
+    Portal_Teleport: 39,
+    Explosion_Coins_Vertical: 40,
+    Autumn_Leaves_Burst: 41,
+    Explosion_Feathers: 42,
+    Explosion_Popcorn: 43,
+    Electricity_Small: 44,
+    Impact_Flaregun: 64,
+    Impact_Snowball: 65,
+    Impact_GoldRevolver: 66,
+    Impact_MeleeHit: 67,
+    Impact_BigGroundHit: 68,
+    Impact_MeleeHit_CriticalSmall: 69,
+    Impact_MeleeHit_CriticalLarge: 70,
+    Impact_MeleeHit_AoE: 71,
+    Research_ZiplineAttachDetach: 96,
+    Research_Purchase1RP: 97,
+    Research_Purchase5RP: 98,
+    Research_Purchase10RP: 99,
+    Research_PurchaseRPBundle: 100,
+    Rope_ZiplineAttachDetach: 110,
+    MeatExplosion_1: 128,
+    MeatExplosion_2: 129,
+    MeatExplosion_Headshot: 130,
+    ServerRoomSplash_Small: 160,
+    ServerRoomSplash_Big: 161,
+    RAMActivationSparks: 162,
+    GreenBlink: 170,
+    ConfettiBurst: 174,
+    Ethereal_Void: 180,
+    MomBoss_NailBreak: 181,
+    MidAirJump_Fart: 182,
+    FuelExplosion: 183
+};
+const mobIDs = [
+    "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20",
+    "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40",
+];
+const flareGunPrefabs = [
+    "ChristmasBox",
+    "ItemSellingMachineController",
+    "Vehicle_Buggy",
+];
+const newflareGunPrefabs = [
+    "item_crate",
+];
+let currentFlareGunPrefabIndex = 0;
+const allPrefabs = flareGunPrefabs;
+const itemPrefabs = itemIDs;
+const worldPrefabs = allPrefabs.filter(n => !n.startsWith("item_"));
+let currentItemIndex = 0;
+let currentWorldPrefabIndex = 0;
+let itemIndex = 0;
+let mobIndex = 0;
+let huespawner = 0.0;
+let saturationspawner = 0.0;
+let sizespawner = 0.0;
+let jellyspawner = 0.0;
+Il2Cpp.perform(() => {
+    const images = {
+        "AnimalCompany": Il2Cpp.domain.assembly("AnimalCompany").image,
+        "UnityEngine.CoreModule": Il2Cpp.domain.assembly("UnityEngine.CoreModule").image,
+        "UnityEngine.PhysicsModule": Il2Cpp.domain.assembly("UnityEngine.PhysicsModule").image,
+        "UnityEngine.UIModule": Il2Cpp.domain.assembly("UnityEngine.UIModule").image,
+        "UnityEngine.UI": Il2Cpp.domain.assembly("UnityEngine.UI").image,
+        "UnityEngine.TextRenderingModule": Il2Cpp.domain.assembly("UnityEngine.TextRenderingModule").image,
+        //"PhotonUnityNetworking": Il2Cpp.domain.assembly("PhotonUnityNetworking").image,
+        "PhotonFusionNetworking": Il2Cpp.domain.assembly("Fusion.Runtime").image,
+        "PhotonFusionNetworkingRealtime": Il2Cpp.domain.assembly("Fusion.Realtime").image,
+        "Unity.TextMeshPro": Il2Cpp.domain.assembly("Unity.TextMeshPro").image,
+        "UnityEngine.XRModule": Il2Cpp.domain.assembly("UnityEngine.XRModule").image,
+        "UnityEngine.UnityWebRequestModule": Il2Cpp.domain.assembly("UnityEngine.UnityWebRequestModule").image, // do you really think im just gonna send you files to put in ur ac folder? HELL NAH!
+        "UnityEngine.AudioModule": Il2Cpp.domain.assembly("UnityEngine.AudioModule").image
+    };
+    const AssemblyCSharp = images["AnimalCompany"];
+    const QuiverClass = AssemblyCSharp.class("AnimalCompany.Quiver");
+    const UnityEngineCore = images["UnityEngine.CoreModule"];
+    const UnityEnginePhysics = images["UnityEngine.PhysicsModule"];
+    const UnityEngineUI = images["UnityEngine.UI"];
+    const ParticleManager = AssemblyCSharp.class("AnimalCompany.ParticleManager");
+    const ParticleManagerClass = ParticleManager;
+    const BackpackItemClass = AssemblyCSharp.class("AnimalCompany.BackpackItem");
+    const UnityEngineUIModule = images["UnityEngine.UIModule"];
+    const UnityEngineTextRendering = images["UnityEngine.TextRenderingModule"];
+    //const PhotonUnityNetworking = images["PhotonUnityNetworking"];
+    const PhotonFusionNetworking = images["PhotonFusionNetworking"];
+    const PhotonFusionNetworkingRealtime = images["PhotonFusionNetworkingRealtime"];
+    const Fusion = images["Fusion"];
+    const UnityTextMeshPro = images["Unity.TextMeshPro"];
+    const UnityEngineXR = images["UnityEngine.XRModule"];
+    const UnityEngineWebRequestModule = images["UnityEngine.UnityWebRequestModule"]; // again im not sending u files just use my damn webiste
+    const UnityEngineAudio = images["UnityEngine.AudioModule"];
+    //const ControllerInputPoller = AssemblyCSharp.class("ControllerInputPoller").field("instance").value;
+    //const GorillaTaggerClass = AssemblyCSharp.class("GorillaTagger");
+    const GTPlayerClass = AssemblyCSharp.class("AnimalCompany.GorillaLocomotion");
+    const PickupManager = AssemblyCSharp.class("AnimalCompany.PickupManager");
+    const ItemSellingMachineController = AssemblyCSharp.class("AnimalCompany.ItemSellingMachineController");
+    const PCClass = AssemblyCSharp.class("AnimalCompany.PlayerController");
+    const GBOClass = AssemblyCSharp.class("AnimalCompany.GrabbableObject");
+    const GBIClass = AssemblyCSharp.class("AnimalCompany.GrabbableItem");
+    const GIECClass = AssemblyCSharp.class("AnimalCompany.GameplayItemEquippingConfig");
+    const NetPlayer = AssemblyCSharp.class("AnimalCompany.NetPlayer");
+    const PrefabGen = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+    const SFXManager = AssemblyCSharp.class("AnimalCompany.SFXManager");
+    const NetworkObjectClass = PhotonFusionNetworking.class("Fusion.NetworkObject");
+    const NetworkTransformClass = PhotonFusionNetworking.class("Fusion.NetworkTransform");
+    const FusionPlayerClass = PhotonFusionNetworking.class("Fusion.PlayerRef");
+    //const NetworkPlayer = Fusion.class("NetworkPlayer");
+    const NManager = AssemblyCSharp.class("AnimalCompany.NetworkManager");
+    //const VRRig = AssemblyCSharp.class("VRRig");
+    //const GorillaNot = AssemblyCSharp.class("GorillaNot");
+    //const GorillaParentClass = AssemblyCSharp.class("GorillaParent");
+    //const NetworkSystemClass = AssemblyCSharp.class("NetworkSystem");
+    const GorillaReportButton = AssemblyCSharp.class("AnimalCompany.ComputerTerminalKey");
+    const ACTerminal = AssemblyCSharp.class("AnimalCompany.ComputerTerminalView");
+    //const FreeHoverboardManager = AssemblyCSharp.class("FreeHoverboardManager").method("get_instance").invoke();
+    //const GameMode = AssemblyCSharp.class("GorillaGameModes.GameMode");
+    //const FriendshipGroupDetection = AssemblyCSharp.class("GorillaTagScripts.FriendshipGroupDetection").method("get_Instance").invoke();
+    //const GorillaVelocityTracker = AssemblyCSharp.class("GorillaLocomotion.Climbing.GorillaVelocityTracker");
+    //const PhotonNetwork = PhotonUnityNetworking.class("Photon.Pun.PhotonNetwork");
+    //const RpcTarget = PhotonUnityNetworking.class("Photon.Pun.RpcTarget");
+    const InputDevices = UnityEngineXR.class("UnityEngine.XR.InputDevices");
+    const CommonUsages = UnityEngineXR.class("UnityEngine.XR.CommonUsages");
+    const israpidfire = false;
+    const itemGunDelay = 0;
+    const time = 0;
+    const GameObject = UnityEngineCore.class("UnityEngine.GameObject");
+    const Object = UnityEngineCore.class("UnityEngine.Object");
+    const SystemObject = Il2Cpp.corlib.class("System.Object");
+    const NullableDef = Il2Cpp.corlib.class("System.Nullable`1"); // Generic Nullable<T>
+    const Int32Type = Il2Cpp.corlib.class("System.Int32"); // The T in Nullable<T>
+    const null2 = NullableDef.inflate(Int32Type); // Nullable<Int32>
+    const Thread = Il2Cpp.corlib.class("System.Threading.Thread");
+    const Vector3 = UnityEngineCore.class("UnityEngine.Vector3");
+    const Quaternion = UnityEngineCore.class("UnityEngine.Quaternion");
+    const Time = UnityEngineCore.class("UnityEngine.Time");
+    const Resources = UnityEngineCore.class("UnityEngine.Resources");
+    const Material = UnityEngineCore.class("UnityEngine.Material");
+    const Renderer = UnityEngineCore.class("UnityEngine.Renderer");
+    const Shader = UnityEngineCore.class("UnityEngine.Shader");
+    const Color = UnityEngineCore.class("UnityEngine.Color");
+    const RectTransform = UnityEngineCore.class("UnityEngine.RectTransform");
+    const LineRenderer = UnityEngineCore.class("UnityEngine.LineRenderer");
+    const PlayerPrefs = UnityEngineCore.class("UnityEngine.PlayerPrefs");
+    const Light = UnityEngineCore.class("UnityEngine.Light");
+    const AudioSource = UnityEngineAudio.class("UnityEngine.AudioSource");
+    const MeshCollider = UnityEnginePhysics.class("UnityEngine.MeshCollider");
+    const BoxCollider = UnityEnginePhysics.class("UnityEngine.BoxCollider");
+    const Collider = UnityEnginePhysics.class("UnityEngine.Collider");
+    const Rigidbody = UnityEnginePhysics.class("UnityEngine.Rigidbody");
+    const Physics = UnityEnginePhysics.class("UnityEngine.Physics");
+    const Ray = UnityEngineCore.class("UnityEngine.Ray");
+    const RaycastHit = UnityEnginePhysics.class("UnityEngine.RaycastHit");
+    const Canvas = UnityEngineUIModule.class("UnityEngine.Canvas");
+    const CanvasScaler = UnityEngineUI.class("UnityEngine.UI.CanvasScaler");
+    const GraphicRaycaster = UnityEngineUI.class("UnityEngine.UI.GraphicRaycaster");
+    const Text = UnityEngineUI.class("UnityEngine.UI.Text");
+    const Font = UnityEngineTextRendering.class("UnityEngine.Font");
+    const TextMeshPro = UnityTextMeshPro.class("TMPro.TextMeshPro");
+    const UnityWebRequest = UnityEngineWebRequestModule.class("UnityEngine.Networking.UnityWebRequest"); // if ur still reading dont ddos me :(
+    const DownloadHandlerBuffer = UnityEngineWebRequestModule.class("UnityEngine.Networking.DownloadHandlerBuffer"); // okay bye EDIT: how dare you ac devs, you stripped DownloadHandlerAudioClip and ruined my genius idea :(
+    //const GorillaTagger = GorillaTaggerClass.field("_instance").value;
+    //const GorillaParent = GorillaParentClass.field("instance").value;
+    //const GorillaNotInst = GorillaNot.field("instance").value;
+    //const NetworkSystem = NetworkSystemClass.field("Instance").value;
+    //const LocalRig = GorillaTagger.field("offlineVRRig").value;
+    let myNP = null;
+    const GTPlayer = GTPlayerClass.field("<Instance>k__BackingField").value;
+    const rigidbody = GTPlayer.field("_playerRigidBody").value;
+    //const GorillaComputer = Il2Cpp.domain.assembly("Assembly-CSharp").image.class("GorillaNetworking.GorillaComputer").field("instance").value;
+    const UberShader = Shader.method("Find").invoke(Il2Cpp.string("Universal Render Pipeline/Unlit"));
+    const TextShader = Shader.method("Find").invoke(Il2Cpp.string("UI/Default"));
+    //const GorillaSurfaceOverride = AssemblyCSharp.class("GorillaSurfaceOverride");
+    const zeroVector = Vector3.field("zeroVector").value;
+    const oneVector = Vector3.field("oneVector").value;
+    const identityQuaternion = Quaternion.field("identityQuaternion").value;
+    const instanceField = GTPlayerClass.fields.find(f => f.name.includes("Instance"));
+    const instance = instanceField ? instanceField.value : null;
+    const rightHandTransform = instance ? instance.field("rightHandTransform").value : null;
+    const leftHandTransform = instance ? instance.field("leftHandTransform").value : null;
+    const headCollider = instance.field("headCollider").value;
+    const bodyCollider = instance.field("bodyCollider").value;
+    const leftHandFollower = instance.field("leftHandFollower").value;
+    const rightHandFollower = instance.field("rightHandFollower").value;
+    const playerRigidBody = instance.field("_playerRigidBody").value;
+    const whatnumber = 0;
+    const punchLastLeft = [
+        zeroVector, zeroVector, zeroVector, zeroVector, zeroVector,
+        zeroVector, zeroVector, zeroVector, zeroVector, zeroVector
+    ];
+    const punchLastRight = [
+        zeroVector, zeroVector, zeroVector, zeroVector, zeroVector,
+        zeroVector, zeroVector, zeroVector, zeroVector, zeroVector
+    ];
+    let LPrev = Vector3.field("zeroVector").value;
+    let RPrev = Vector3.field("zeroVector").value;
+    let LVel = Vector3.field("zeroVector").value;
+    let RVel = Vector3.field("zeroVector").value;
+    let AvgVel = Vector3.field("zeroVector").value;
+    let righthand = false;
+    const arial = Resources
+        .method("GetBuiltinResource", 1)
+        .inflate(Font)
+        .invoke(Il2Cpp.string("Arial.ttf"));
+    const prefabList = [
+        'InflatedBalloon', 'InflatedHeartBalloon', 'ChristmasBox', 'ChristmasBoxManager',
+        'RPGRocket', 'RPGRocketEgg', 'RPGRocketSpear', 'item_randombox_base',
+        'StickyAnchor', 'SpawnableZipline', 'NetLootSpawnGroup', 'Vehicle_Buggy',
+        'TeleportationManager', 'FlareGunProjectile', 'AutoDestroyItem_DeadBody_Poop',
+        'AutoDestroyItem_Splash (0)', 'AutoDestroyItem_Splash (1)', 'AutoDestroyItem_Splash (2)',
+        'AutoDestroyItem_Splash (3)', 'AutoDestroyItem_Splash (4)', 'AutoDestroyItem_Splash (5)',
+        'SlenderMonster', 'SpaceshipTeleporter', 'MazeManager', 'ThunderController',
+        'Explosion_AntiGravity', 'Explosion_Bomb', 'Explosion_Bomber', 'Explosion_BroccoliGrenade',
+        'Explosion_ClusterGrenade', 'Explosion_Dynamite', 'Explosion_Egg', 'Explosion_Flashbang',
+        'Explosion_FlyingSwarm', 'Explosion_Grenade', 'Explosion_Heart_Gun',
+        'Explosion_ImpulseGrenade', 'Explosion_Landmine', 'Explosion_RPG', 'Explosion_RPG_Spear',
+        'Explosion_SellingMachine', 'Explosion_StashGrenade', 'Explosion_TeleGrenade',
+        'Explosion_Tripwire', 'Explosion_Vehicle', 'ExplosiveEgg', 'ExplosiveEggClustered',
+        'ItemSellingMachineController', 'Landmine', 'GiantRockObject',
+        'HordeMobController', 'HordeMobLobbyHandler', 'LongAisleController',
+        'Duplicator', 'HH_LockedDoor', 'HingedDoorNetworked', 'ScaffoldTrap',
+        'Pillar_Arched_Broken_01', 'RuinTower_FloatingPlatform', 'RuinTower_FloatingSmall'
+    ];
+    function UnlockAll() {
+        // Get class references
+        const appClass = Il2Cpp.domain.assembly("AnimalCompany").image.class("AnimalCompany.App");
+        const appStateClass = Il2Cpp.domain.assembly("AnimalCompany").image.class("AnimalCompany.AppState");
+        const netSessionStateClass = Il2Cpp.domain.assembly("AnimalCompany").image.class("AnimalCompany.UserState");
+        const netSessionStateClass2 = Il2Cpp.domain.assembly("AnimalCompany").image.class("AnimalCompany.UserInventoryState");
+        const stateObject = appClass.method("get_state").invoke();
+        const netSessionObject = appStateClass.method("get_user").bind(stateObject).invoke();
+        // Get UserState.inventory property
+        const invObject = netSessionStateClass.method("get_inventory").bind(netSessionObject).invoke();
+        const moderateRoomObject = netSessionStateClass.method("get_isDeveloper").bind(netSessionObject).invoke();
+        const devallitemsObject = netSessionStateClass2.method("get_devOwnAllAvatarItemsOverride").bind(invObject).invoke();
+        const statePrimitiveClass = Il2Cpp.domain.assembly("SpatialSys.ObservableState").image.class("SpatialSys.ObservableState.StatePrimitive`1");
+        const boolType = Il2Cpp.corlib.class("System.Boolean");
+        const genericStatePrimitiveClass = statePrimitiveClass.inflate(boolType);
+        moderateRoomObject.method("set_value").invoke(true);
+        devallitemsObject.method("set_value").invoke(true);
+    }
+    function Destroy(object) {
+        Object.method("Destroy", 1).invoke(object);
+    }
+    function getComponent(obj, type) {
+        return obj.method("GetComponent", 1).inflate(type).invoke();
+    }
+    function getComponentInParent(obj, type) {
+        return obj.method("GetComponentInParent", 0).inflate(type).invoke();
+    }
+    function addComponent(obj, type) {
+        return obj.method("AddComponent", 1).inflate(type).invoke();
+    }
+    function getRightFingers(rig) {
+        try {
+            const view = rig.method("get_view").invoke();
+            if (!view || view.isNull())
+                return null;
+            const fingerViews = view.field("_fingerViews").value;
+            if (!fingerViews || fingerViews.isNull() || fingerViews.length < 2)
+                return null;
+            return fingerViews.get(1);
+        }
+        catch (_) {
+            return null;
+        }
+    }
+    function getOrAddComponent(obj, type) {
+        let returnType = getComponent(obj, type);
+        if (returnType != null && returnType != undefined) {
+            return returnType;
+        }
+        return addComponent(obj, type);
+    }
+    function getObject(obj) {
+        return GameObject.method("Find", 1).invoke(Il2Cpp.string(obj));
+    }
+    function playerIsLocal(player) {
+        return player.method("get_IsMine").invoke();
+    }
+    //function spawnItemHelper(item, pos, rot){
+    //    PrefabGen.method("SpawnItem", 4).invoke(
+    //    Il2Cpp.string("item_" + item),
+    //    pos,
+    //    rot,
+    //    null
+    //    )
+    //}
+    //function setPlayerName(name) {
+    //    GorillaComputer.field("currentName").value = Il2Cpp.string(name);
+    //    GorillaComputer.field("savedName").value = Il2Cpp.string(name);
+    //
+    //    PlayerPrefs.method("SetString").invoke(Il2Cpp.string("playerName"), Il2Cpp.string(name))
+    //    PlayerPrefs.method("Save").invoke();
+    //
+    //    PhotonNetwork.method("get_LocalPlayer").invoke().method("set_NickName").invoke(Il2Cpp.string(name));
+    //}
+    //
+    //function setPlayerColor(color) {
+    //    PlayerPrefs.method("SetFloat").invoke(Il2Cpp.string("redValue"), color[0]);
+    //    PlayerPrefs.method("SetFloat").invoke(Il2Cpp.string("greenValue"), color[1]);
+    //    PlayerPrefs.method("SetFloat").invoke(Il2Cpp.string("blueValue"), color[2]);
+    //    PlayerPrefs.method("Save").invoke();
+    //
+    //    GorillaTagger.method("UpdateColor").invoke(color[0], color[1], color[2]);
+    //    const objectArray = Il2Cpp.array(SystemObject, [
+    //        Il2Cpp.reference(color[0], Il2Cpp.Type.Enum.FLOAT),
+    //        Il2Cpp.reference(color[1], Il2Cpp.Type.Enum.FLOAT),
+    //        Il2Cpp.reference(color[2], Il2Cpp.Type.Enum.FLOAT)
+    //    ]);
+    //
+    //    const method = GorillaTagger.method("get_myVRRig").invoke().method("SendRPC", 3).overload(
+    //        "System.String",
+    //        "Photon.Pun.RpcTarget",
+    //        "System.Object[]");
+    //
+    //    method.invoke(Il2Cpp.string("RPC_InitializeNoobMaterial"), 0, objectArray);
+    //}
+    function getTransform(obj) {
+        return obj.method("get_transform").invoke();
+    }
+    function world2Player(position) {
+        position = Vector3.method("op_Subtraction", 2).invoke(position, getTransform(bodyCollider).method("get_position").invoke());
+        position = Vector3.method("op_Addition", 2).invoke(position, getTransform(GTPlayer).method("get_position").invoke());
+        return position;
+    }
+    function teleportPlayer(position) {
+        //GTPlayer.method("TeleportTo", 3).invoke(world2Player(position), getTransform(GTPlayer).method("get_rotation").invoke(), false);
+        //netPlayer.method("RPC_Teleport").invoke(checkpoint.method("get_transform").invoke().method("get_position").invoke());
+        const player = NetPlayer.method("get_localPlayer").invoke();
+        if (!player)
+            return;
+        player.method("RPC_Teleport").invoke(world2Player(position));
+    }
+    function getMyPlayer() {
+        //GTPlayer.method("TeleportTo", 3).invoke(world2Player(position), getTransform(GTPlayer).method("get_rotation").invoke(), false);
+        //netPlayer.method("RPC_Teleport").invoke(checkpoint.method("get_transform").invoke().method("get_position").invoke());
+        const player = NetPlayer.method("get_localPlayer").invoke();
+        if (!player)
+            return;
+        return player;
+        //player.method("RPC_Teleport").invoke(world2Player(position))
+    }
+    const AssetBundle = Il2Cpp.domain.assembly("UnityEngine.AssetBundleModule").image.class("UnityEngine.AssetBundle");
+    // Cache for loaded bundles and clips
+    const loadedBundles = {};
+    const loadedClips = {};
+    // Cleanup function to call when restarting the script
+    function CleanupAssetBundles() {
+        console.log("Cleaning up AssetBundles...");
+        // Unload all cached bundles
+        for (const bundlePath in loadedBundles) {
+            const bundle = loadedBundles[bundlePath];
+            if (bundle && !bundle.isNull()) {
+                console.log("Unloading bundle:", bundlePath);
+                bundle.method("Unload", 1).invoke(true); // true = unload all loaded objects
+            }
+        }
+        // Clear caches using basic loops
+        for (const key in loadedBundles) {
+            delete loadedBundles[key];
+        }
+        for (const key in loadedClips) {
+            delete loadedClips[key];
+        }
+        console.log("AssetBundle cleanup complete");
+    }
+    // Auto-cleanup on script reload (call this at the start of your script)
+    CleanupAssetBundles();
+    function LoadClipFromAssetBundle(bundlePath, clipName, callback) {
+        const key = `${bundlePath}/${clipName}`;
+        // If clip is already cached, return it immediately
+        if (loadedClips[key]) {
+            callback(loadedClips[key]);
+            return;
+        }
+        // If bundle is already in our cache, just load the asset
+        if (loadedBundles[bundlePath]) {
+            loadAssetFromBundle(loadedBundles[bundlePath], clipName, key, callback);
+            return;
+        }
+        // Check if bundle is already loaded by Unity (but not in our cache)
+        const existingBundle = findAlreadyLoadedBundle(bundlePath, clipName);
+        if (existingBundle) {
+            console.log("Found already loaded AssetBundle:", bundlePath);
+            loadedBundles[bundlePath] = existingBundle; // Add to our cache
+            loadAssetFromBundle(existingBundle, clipName, key, callback);
+            return;
+        }
+        // Load bundle asynchronously
+        console.log("Loading AssetBundle:", bundlePath);
+        const bundleRequest = AssetBundle.method("LoadFromFileAsync", 1).invoke(Il2Cpp.string(bundlePath));
+        if (bundleRequest == null || bundleRequest.isNull()) {
+            console.log("Failed to create AssetBundle load request:", bundlePath);
+            callback(null);
+            return;
+        }
+        // Wait for bundle to load
+        waitForAssetBundleRequest(bundleRequest, (bundle) => {
+            if (bundle == null || bundle.isNull()) {
+                console.log("Failed to load AssetBundle:", bundlePath);
+                callback(null);
+                return;
+            }
+            loadedBundles[bundlePath] = bundle;
+            loadAssetFromBundle(bundle, clipName, key, callback);
+        });
+    }
+    function findAlreadyLoadedBundle(bundlePath, clipName) {
+        var _a;
+        try {
+            const allBundles = AssetBundle.method("GetAllLoadedAssetBundles").invoke();
+            if (allBundles == null || allBundles.isNull()) {
+                return null;
+            }
+            // Get the bundle filename from the full path
+            const bundleFileName = ((_a = bundlePath.split('/').pop()) === null || _a === void 0 ? void 0 : _a.split('\\').pop()) || '';
+            console.log("Looking for bundle with filename:", bundleFileName);
+            // Convert IEnumerable to array-like iteration
+            const bundleEnum = allBundles.method("GetEnumerator").invoke();
+            while (bundleEnum.method("MoveNext").invoke()) {
+                const bundle = bundleEnum.method("get_Current").invoke();
+                if (bundle && !bundle.isNull()) {
+                    // First priority: Try to verify this bundle contains our target asset
+                    let hasTargetAsset = false;
+                    try {
+                        const testAsset = bundle.method("Contains", 1).invoke(Il2Cpp.string("assets/" + clipName));
+                        if (testAsset) {
+                            console.log("Bundle contains our target asset! Using existing bundle");
+                            return bundle;
+                        }
+                    }
+                    catch (e) {
+                        // Contains method might not exist or might fail, continue with name matching
+                    }
+                    // Second priority: Try exact name matching
+                    try {
+                        let bundleName = null;
+                        if (bundle.method("get_name")) {
+                            bundleName = bundle.method("get_name").invoke();
+                        }
+                        if (bundleName) {
+                            const nameStr = bundleName.toString();
+                            console.log("Found loaded bundle with name:", nameStr);
+                            // Only match if the names are exactly equal (avoid partial matches like "1" matching everything)
+                            if (nameStr === ("\"" + bundleFileName + "\"")) {
+                                console.log("Bundle name matches exactly! Verifying it contains target asset...");
+                                // Double-check by trying to load the asset
+                                try {
+                                    const AudioClip = Il2Cpp.domain.assembly("UnityEngine.AudioModule").image.class("UnityEngine.AudioClip");
+                                    const testLoadRequest = bundle.method("LoadAssetAsync", 2).invoke(Il2Cpp.string("assets/" + clipName), AudioClip.type.object);
+                                    if (testLoadRequest && !testLoadRequest.isNull()) {
+                                        console.log("Asset load test successful, this is the correct bundle");
+                                        return bundle;
+                                    }
+                                }
+                                catch (e) {
+                                    console.log("Asset load test failed, this might not be the right bundle");
+                                }
+                            }
+                        }
+                    }
+                    catch (e) {
+                        // Name method doesn't exist, skip this bundle
+                    }
+                }
+            }
+            console.log("No matching already-loaded bundle found");
+            return null;
+        }
+        catch (e) {
+            console.log("Error checking for already loaded bundles:", e);
+            return null;
+        }
+    }
+    function loadAssetFromBundle(bundle, clipName, cacheKey, callback) {
+        console.log("Loading asset:", clipName);
+        const AudioClip = Il2Cpp.domain.assembly("UnityEngine.AudioModule").image.class("UnityEngine.AudioClip");
+        const assetRequest = bundle.method("LoadAssetAsync", 2).invoke(Il2Cpp.string("assets/" + clipName), AudioClip.type.object);
+        if (assetRequest == null || assetRequest.isNull()) {
+            console.log("Failed to create asset load request:", clipName);
+            callback(null);
+            return;
+        }
+        // Wait for asset to load
+        waitForAssetRequest(assetRequest, (clip) => {
+            if (clip == null || clip.isNull()) {
+                console.log("Clip not found:", clipName);
+                callback(null);
+                return;
+            }
+            loadedClips[cacheKey] = clip;
+            callback(clip);
+        });
+    }
+    function waitForAssetBundleRequest(request, callback) {
+        const checkComplete = () => {
+            const isDone = request.method("get_isDone").invoke();
+            if (isDone) {
+                const bundle = request.method("get_assetBundle").invoke();
+                callback(bundle);
+            }
+            else {
+                setTimeout(checkComplete, 10); // Check again in 10ms
+            }
+        };
+        checkComplete();
+    }
+    function waitForAssetRequest(request, callback) {
+        const checkComplete = () => {
+            const isDone = request.method("get_isDone").invoke();
+            if (isDone) {
+                const asset = request.method("get_asset").invoke();
+                callback(asset);
+            }
+            else {
+                setTimeout(checkComplete, 10); // Check again in 10ms
+            }
+        };
+        checkComplete();
+    }
+    function PlayAudioFromFile(filePath, audioName) {
+        const PrefabGenerator = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+        const NetowrkRunner = PrefabGenerator.field("_instance").value.method("get_runner").invoke();
+        if (NetowrkRunner.field("_cloudServices").value.method("get_IsInRoom").invoke()) {
+            // Load clip from AssetBundle asynchronously
+            LoadClipFromAssetBundle(filePath, audioName, (sound) => {
+                if (sound == null) {
+                    console.log("Could not load AudioClip at path:", filePath);
+                    return;
+                }
+                playAudioClip(sound, filePath);
+            });
+        }
+    }
+    function playAudioClip(sound, path, extraDelay = 0) {
+        // Get PrimaryRecorder
+        const localPlayer = AssemblyCSharp.class("AnimalCompany.NetPlayer").method("get_localPlayer").invoke();
+        const myRecorder = localPlayer.field("_recorder").value;
+        if (myRecorder == null) {
+            console.log("PrimaryRecorder is null, can't play audio");
+            return;
+        }
+        // Set up audio clip playback
+        myRecorder.method("set_SourceType", 1).invoke(1); // 1 = AudioClip source
+        myRecorder.method("set_AudioClip", 1).invoke(sound);
+        myRecorder.method("set_DebugEchoMode", 1).invoke(true);
+        // Start recording and transmission
+        myRecorder.method("RestartRecording", 0).invoke();
+        console.log(`Playing AudioClip '${path}' through PrimaryRecorder`);
+        const length = sound.method("get_length").invoke();
+        setTimeout(() => {
+            console.log("done waiting!");
+            FixMic();
+        }, (length * 1000) + extraDelay);
+    }
+    function FixMic() {
+        const PrefabGenerator = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+        const NetowrkRunner = PrefabGenerator.field("_instance").value.method("get_runner").invoke();
+        if (NetowrkRunner.field("_cloudServices").value.method("get_IsInRoom").invoke()) {
+            // Get PrimaryRecorder
+            const localPlayer = AssemblyCSharp.class("AnimalCompany.NetPlayer").method("get_localPlayer").invoke();
+            const myRecorder = localPlayer.field("_recorder").value;
+            if (myRecorder == null) {
+                console.log("PrimaryRecorder is null, can't fix mic");
+                return;
+            }
+            myRecorder.method("set_SourceType", 1).invoke(0); // 1 = AudioClip source
+            myRecorder.method("set_AudioClip", 1).invoke(null);
+            myRecorder.method("set_DebugEchoMode", 1).invoke(false);
+            myRecorder.method("RestartRecording", 0).invoke();
+        }
+    }
+    //function sendAllOutgoing() {
+    //    GorillaNotInst.field("rpcErrorMax").value = Number.MAX_SAFE_INTEGER;
+    //    GorillaNotInst.field("rpcCallLimit").value = Number.MAX_SAFE_INTEGER;
+    //    GorillaNotInst.field("logErrorMax").value = Number.MAX_SAFE_INTEGER;
+    //    PhotonNetwork.method("set_MaxResendsBeforeDisconnect").invoke(Number.MAX_SAFE_INTEGER);
+    //    PhotonNetwork.method("set_QuickResends").invoke(Number.MAX_SAFE_INTEGER);
+    //    PhotonNetwork.method("SendAllOutgoingCommands").invoke();
+    //}
+    //
+    //function serialize() {
+    //    PhotonNetwork.method("RunViewUpdate").invoke();
+    //}
+    // 10000% skidded from iis.stupid.menu
+    /// <summary>
+    /// Plays a 2D audio clip at the specified volume using a singleton audio manager.
+    /// </summary>
+    /// <param name="sound">The audio clip to play.</param>
+    /// <param name="volume">The volume at which to play the audio clip. Defaults to 1f.</param>
+    //public static void Play2DAudio(AudioClip sound, float volume = 1f)
+    //{
+    //    if (audioManager == null)
+    //    {
+    //        audioManager = new GameObject("2DAudioMgr");
+    //        AudioSource temp = audioManager.AddComponent<AudioSource>();
+    //        temp.spatialBlend = 0f;
+    //    }
+    //    AudioSource ausrc = audioManager.GetComponent<AudioSource>();
+    //    ausrc.volume = volume;
+    //    ausrc.PlayOneShot(sound);
+    //}
+    function Play2DAudio(clip, volume) {
+        if (audioManager == null) {
+            audioManager = GameObject.new("2DAudioMgr");
+            let temp = addComponent(audioManager, AudioSource);
+            temp.method("set_spatialBlend").invoke(0);
+        }
+        let ausrc = getComponent(audioManager, AudioSource);
+        ausrc.method("set_volume").invoke(volume);
+        ausrc.method("PlayOneShot", 1).invoke(clip);
+    }
+    function kickPlayer(player) {
+        const PrefabGenerator = AssemblyCSharp.class("AnimalCompany.NetSessionRPCs");
+        console.log("starting kick...");
+        console.log("get net session rpc instance");
+        const netinst = PrefabGenerator.field("_instance").value;
+        if (!netinst)
+            return null;
+        console.log("not null, get method and call");
+        const kickplr = PrefabGenerator.method("KickPlayer");
+        if (!kickplr)
+            return null;
+        const rpckickplr = netinst.method("RPC_KickPlayer");
+        if (!rpckickplr)
+            return null;
+        console.log("methods valid, prepare player");
+        const plruserID = player.field("_userID").value;
+        if (!plruserID)
+            return null;
+        console.log("player user id is valid, call parse of guid");
+        const parsedid = Il2Cpp.corlib.class("System.Guid").method("Parse").invoke(plruserID);
+        console.log("parse user id: " + parsedid + " calling kick");
+        rpckickplr.invoke(parsedid);
+        console.log("rpc kick success, call local kick");
+        kickplr.invoke(plruserID);
+        console.log("success kick player");
+        console.log("end kick player");
+    }
+    function executeFullGhostCycle() {
+        if (waitingForRoom || isGhostFollowingActive)
+            return;
+        console.log("[+] Starting full ghost cycle: Join room -> Follow players -> Kick all -> Repeat");
+        // First, join a new room
+        if (joinNewRoom()) {
+            waitingForRoom = true;
+            roomJoinAttempted = true;
+            waitForNewRoomAndStartGhost();
+        }
+        else {
+            console.log("[-] Failed to join new room");
+        }
+    }
+    function joinNewRoom() {
+        console.log("[+] Attempting to join new room...");
+        try {
+            // Find ComputerTerminalMediator instance
+            const ComputerTerminalMediator = AssemblyCSharp.class("AnimalCompany.ComputerTerminalMediator");
+            // Find the mediator object
+            const mediatorInstance = Object.method("FindObjectOfType").inflate(ComputerTerminalMediator).invoke();
+            if (mediatorInstance.isNull()) {
+                console.log("[-] ComputerTerminalMediator instance is null");
+                return false;
+            }
+            // Call HandleJoinRandomPressed
+            console.log("[+] Calling HandleJoinRandomPressed...");
+            mediatorInstance.method("HandleJoinRandomPressed").invoke();
+            console.log("[+] Join random room request sent");
+            return true;
+        }
+        catch (e) {
+            console.log(`[-] Error joining new room: ${e}`);
+            return false;
+        }
+    }
+    function checkIfInNewRoom() {
+        try {
+            const PrefabGenerator = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+            const instance = PrefabGenerator.field("_instance").value;
+            if (instance.isNull()) {
+                console.log("[-] PrefabGenerator instance is null");
+                return false;
+            }
+            const NetworkRunner = instance.method("get_runner").invoke();
+            if (NetworkRunner.isNull()) {
+                console.log("[-] NetworkRunner is null");
+                return false;
+            }
+            // Use the cleaner IsInRoom check
+            const cloudServices = NetworkRunner.field("_cloudServices").value;
+            if (cloudServices.isNull()) {
+                console.log("[-] CloudServices is null");
+                return false;
+            }
+            const isInRoom = cloudServices.method("get_IsInRoom").invoke();
+            console.log(`[+] IsInRoom status: ${isInRoom}`);
+            if (!isInRoom) {
+                return false;
+            }
+            return isInRoom;
+        }
+        catch (e) {
+            console.log(`[-] Error in checkIfInNewRoom: ${e}`);
+            return false;
+        }
+    }
+    function waitForNewRoomAndStartGhost() {
+    }
+    function startGhostFollowing() {
+        if (isGhostFollowingActive) {
+            console.log("[!] Ghost following already active");
+            return;
+        }
+        PlayAudioFromFile("/sdcard/Android/data/woosterGames.animalCompany/files/1", "1/do.mp3");
+        isGhostFollowingActive = true;
+        currentPlayerIndex = 0;
+        lastSwitchTime = Date.now();
+        console.log("[+] Starting ghost following...");
+        // Find all NetPlayer objects
+        const NetPlayer = AssemblyCSharp.class("AnimalCompany.NetPlayer");
+        const findObjectsOfTypeMethod = Object.method("FindObjectsOfType").inflate(NetPlayer);
+        const netPlayersArray = findObjectsOfTypeMethod.invoke();
+        if (netPlayersArray.isNull()) {
+            console.log("[-] No NetPlayer objects found");
+            isGhostFollowingActive = false;
+            return;
+        }
+        // Convert array to JavaScript array
+        netPlayers = [];
+        console.log(`[+] Found ${netPlayersArray.length} NetPlayer objects`);
+        for (let i = 0; i < netPlayersArray.length; i++) {
+            const player = netPlayersArray.get(i);
+            if (!player.isNull()) {
+                netPlayers.push(player);
+            }
+        }
+        if (netPlayers.length === 0) {
+            console.log("[-] No valid NetPlayer objects found");
+            isGhostFollowingActive = false;
+            return;
+        }
+        console.log(`[+] Tracking ${netPlayers.length} players`);
+    }
+    function updateGhostFollowing() {
+        if (!isGhostFollowingActive || netPlayers.length === 0) {
+            return;
+        }
+        const currentTime = Date.now();
+        // Check if it's time to switch to next player (every 2 seconds)
+        if (currentTime - lastSwitchTime >= 700) {
+            currentPlayerIndex++;
+            // If we've gone through all players, kick them all and reset
+            if (currentPlayerIndex >= netPlayers.length) {
+                console.log("[+] Finished following all players, kicking everyone...");
+                kickAllPlayers();
+                return;
+            }
+            lastSwitchTime = currentTime;
+            console.log(`[+] Switching to player ${currentPlayerIndex + 1}/${netPlayers.length}`);
+        }
+        // Follow current player
+        const currentPlayer = netPlayers[currentPlayerIndex];
+        if (currentPlayer && !currentPlayer.isNull()) {
+            try {
+                // Get player position
+                const transform = currentPlayer.method("get_transform").invoke();
+                if (!transform.isNull()) {
+                    const position = transform.method("get_position").invoke();
+                    // Get your player's transform to move it
+                    const localPlayer = getLocalPlayer();
+                    if (localPlayer && !localPlayer.isNull()) {
+                        const localTransform = localPlayer.method("get_transform").invoke();
+                        if (!localTransform.isNull()) {
+                            // Set position
+                            localTransform.method("set_position").invoke(position);
+                        }
+                    }
+                }
+            }
+            catch (e) {
+                console.log(`[-] Error following player ${currentPlayerIndex}: ${e}`);
+            }
+        }
+    }
+    function kickAllPlayers() {
+        console.log("[+] Getting NetworkRunner instance for kicking...");
+        const PrefabGenerator = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+        try {
+            let kickCount = 0;
+            const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+            for (let i = 0; i < rigs.length; i++) {
+                const rig = rigs.get(i);
+                if (playerIsLocal(rig))
+                    continue;
+                kickPlayer(rig);
+                kickCount++;
+            }
+            console.log(`[+] Kicked ${kickCount} players`);
+            console.log("=============================");
+            // Reset and start new cycle after 3 seconds
+            resetGhostFollowing();
+            rightPrimary = false;
+            setTimeout(() => {
+                if (rightPrimary) { // Only restart if still holding the button
+                    executeFullGhostCycle();
+                }
+            }, 3000);
+        }
+        catch (e) {
+            console.log(`[-] Error in kickAllPlayers: ${e}`);
+            resetGhostFollowing();
+            rightPrimary = false;
+        }
+    }
+    function getLocalPlayer() {
+        try {
+            const PlayerController = AssemblyCSharp.class("AnimalCompany.PlayerController");
+            const player = PlayerController.method("get_instance").invoke();
+            if (!player.isNull()) {
+                const playerView = player.method("get_playerView").invoke();
+                if (!playerView.isNull()) {
+                    return playerView.field("_cameraTransform").value;
+                }
+            }
+        }
+        catch (e) {
+            console.log(`[-] Error getting local player: ${e}`);
+        }
+        return null;
+    }
+    function resetGhostFollowing() {
+        isGhostFollowingActive = false;
+        currentPlayerIndex = 0;
+        netPlayers = [];
+        waitingForRoom = false;
+        roomJoinAttempted = false;
+        if (roomCheckInterval) {
+            clearInterval(roomCheckInterval);
+            roomCheckInterval = null;
+        }
+        console.log("[+] Ghost following reset");
+    }
+    function stopGhostFollowing() {
+        resetGhostFollowing();
+        console.log("[+] Ghost following stopped");
+    }
+    function renderMenuText(canvasObject, text = "", color = [1, 1, 1, 1], pos = zeroVector, size = oneVector) {
+        const title = addComponent(createObject(zeroVector, identityQuaternion, oneVector, 3, [0, 0, 0, 0], getTransform(canvasObject)), Text);
+        title.method("set_text").invoke(Il2Cpp.string(text));
+        title.method("set_font").invoke(arial);
+        title.method("set_fontSize").invoke(1);
+        title.method("set_color").invoke(color);
+        title.method("set_fontStyle").invoke(2);
+        title.method("set_alignment").invoke(4);
+        title.method("set_resizeTextForBestFit").invoke(true);
+        title.method("set_resizeTextMinSize").invoke(0);
+        const rectTransform = getComponent(title, RectTransform);
+        rectTransform.method("set_sizeDelta").invoke(size);
+        rectTransform.method("set_position").invoke(pos);
+        rectTransform.method("set_rotation").invoke(Quaternion.method("Euler").invoke(180.0, 90.0, 90.0));
+    }
+    function createMaterial(shader) {
+        const material = Material.new();
+        return Material.method("CreateWithShader").invoke(material, shader);
+    }
+    function createObject(pos = zeroVector, rot = identityQuaternion, scale = oneVector, primitiveType = 3, colorArr = [1, 1, 1, 1], parent = null) {
+        const obj = GameObject.method("CreatePrimitive").invoke(primitiveType);
+        const renderer = getComponent(obj, Renderer);
+        if (colorArr[3] == 0) {
+            renderer.method("set_enabled").invoke(false);
+        }
+        else {
+            const material = renderer.method("get_material").invoke();
+            material.method("set_shader").invoke(UberShader);
+            material.method("set_color").invoke(colorArr);
+        }
+        const transform = getTransform(obj);
+        if (parent != null) {
+            transform.method("SetParent", 2).invoke(parent, false);
+        }
+        transform.method("set_position").invoke(pos);
+        transform.method("set_rotation").invoke(rot);
+        transform.method("set_localScale").invoke(scale);
+        return obj;
+    }
+    function sendNotification(NotificationText = "", requiresReload = true, clearTime = 5) {
+        const isOld = (currentNotification == NotificationText);
+        notifactionResetTime = time + clearTime;
+        currentNotification = NotificationText;
+        if (requiresReload && !isOld)
+            reloadMenu();
+    }
+    function renderMenu() {
+        menu = createObject(zeroVector, identityQuaternion, [0.1, 0.3, 0.3825], 3, [0, 0, 0, 0]);
+        Destroy(getComponent(menu, BoxCollider));
+        const menuBackground = createObject([0.1, 0, 0], identityQuaternion, [0.1, 1, 1], 3, bgColor, getTransform(menu));
+        Destroy(getComponent(menuBackground, BoxCollider));
+        const canvasObject = createObject(zeroVector, identityQuaternion, oneVector, 3, [0, 0, 0, 0], getTransform(menu));
+        const canvas = addComponent(canvasObject, Canvas);
+        Destroy(getComponent(canvasObject, BoxCollider));
+        const canvasScaler = addComponent(canvasObject, CanvasScaler);
+        addComponent(canvasObject, GraphicRaycaster);
+        canvas.method("set_renderMode").invoke(2);
+        canvasScaler.method("set_dynamicPixelsPerUnit").invoke(1000.0);
+        renderMenuText(canvasObject, "ii's Stupid Menu" + `<color=grey>[</color><color=white>${currentPage + 1}</color><color=grey>]</color>`, textColor, [0.11, 0, 0.175], [1, 0.1]);
+        if (time > notifactionResetTime)
+            currentNotification = "";
+        renderMenuText(canvasObject, currentNotification, textColor, [0.11, 0, 0.275], [1, 0.1]);
+        const disconnectButton = createObject([0.1, 0.0, 0.225], identityQuaternion, [0.09, 0.9, 0.08], 3, buttonColor, getTransform(menu));
+        disconnectButton.method("set_name").invoke(Il2Cpp.string("@Disconnect"));
+        addComponent(disconnectButton, GorillaReportButton);
+        getComponent(disconnectButton, BoxCollider).method("set_isTrigger").invoke(true);
+        renderMenuText(canvasObject, "Disconnect", textColor, [0.11, 0, 0.225], [1, 0.1]);
+        const returnButton = createObject([0.1, -0.175, -0.225], identityQuaternion, [0.09, 0.09, 0.09], 3, buttonColor, getTransform(menu));
+        returnButton.method("set_name").invoke(Il2Cpp.string("@GlobalReturn"));
+        addComponent(returnButton, GorillaReportButton);
+        getComponent(returnButton, BoxCollider).method("set_isTrigger").invoke(true);
+        renderMenuText(canvasObject, "<", textColor, [0.11, -0.175, -0.225], [1, 0.1]);
+        {
+            const pageButton = createObject([0.1, 0.2, 0], identityQuaternion, [0.09, 0.2, 0.9], 3, buttonColor, getTransform(menu));
+            pageButton.method("set_name").invoke(Il2Cpp.string("@PreviousPage"));
+            addComponent(pageButton, GorillaReportButton);
+            getComponent(pageButton, BoxCollider).method("set_isTrigger").invoke(true);
+            renderMenuText(canvasObject, "<", textColor, [0.11, 0.2, 0], [1, 0.1]);
+        }
+        {
+            const pageButton = createObject([0.1, -0.2, 0], identityQuaternion, [0.09, 0.2, 0.9], 3, buttonColor, getTransform(menu));
+            pageButton.method("set_name").invoke(Il2Cpp.string("@NextPage"));
+            addComponent(pageButton, GorillaReportButton);
+            getComponent(pageButton, BoxCollider).method("set_isTrigger").invoke(true);
+            renderMenuText(canvasObject, ">", textColor, [0.11, -0.2, 0], [1, 0.1]);
+        }
+        let i = 0;
+        const targetMods = buttons[currentCategory]
+            .slice(currentPage * 8)
+            .slice(0, 8);
+        targetMods.forEach((buttonData, index) => {
+            const button = createObject([0.105, 0, 0.13 - (i * 0.04)], identityQuaternion, [0.09, 0.9, 0.08], 3, buttonColor, getTransform(menu));
+            button.method("set_name").invoke(Il2Cpp.string("@" + buttonData.buttonText));
+            addComponent(button, GorillaReportButton);
+            getComponent(button, BoxCollider).method("set_isTrigger").invoke(true);
+            renderMenuText(canvasObject, buttonData.buttonText, textColor, [0.11, 0, 0.13 - (i * 0.04)], [1, 0.1]);
+            updateButtonColor(button, buttonData);
+            i++;
+        });
+        getTransform(menu).method("set_localScale").invoke(Vector3.method("op_Multiply").invoke(Vector3.method("op_Multiply").invoke(getTransform(menu).method("get_localScale").invoke(), GTPlayer.field("<playerScale>k__BackingField").value), menuscale));
+        //getTransform(menu).method("set_localScale").invoke(
+        //    Vector3.method("op_Multiply").invoke(
+        //        getTransform(menu).method("get_localScale").invoke(),
+        //        menuscale
+        //    )
+        //);
+        recenterMenu();
+    }
+    function renderReference() {
+        if (righthand) {
+            reference = createObject(zeroVector, identityQuaternion, [0.01, 0.01, 0.01], 0, bgColor, leftHandTransform);
+            referenceCollider = getComponent(reference, Collider);
+            getTransform(reference).method("set_localPosition").invoke([0.01, -0.117, 0.05]);
+            reference.method("set_layer").invoke(2);
+            addComponent(reference, Rigidbody).method("set_isKinematic").invoke(true);
+        }
+        else {
+            reference = createObject(zeroVector, identityQuaternion, [0.01, 0.01, 0.01], 0, bgColor, rightHandTransform);
+            referenceCollider = getComponent(reference, Collider);
+            getTransform(reference).method("set_localPosition").invoke([0.01, -0.117, 0.05]);
+            reference.method("set_layer").invoke(2);
+            addComponent(reference, Rigidbody).method("set_isKinematic").invoke(true);
+        }
+    }
+    let gunLocked = false;
+    let lockTarget = null;
+    let GunPointer = null;
+    let GunLine = null;
+    // Lagged visual positions — smoothly trail behind real hand/target positions
+    let lagSX = 0, lagSY = 0, lagSZ = 0; // origin (near hand)
+    let lagEX = 0, lagEY = 0, lagEZ = 0; // endpoint (target)
+    let lagInit = false;
+    function renderGun(overrideLayerMask = null) {
+        const StartPosition = rightHandTransform.method("get_position").invoke();
+        const Direction = rightHandTransform.method("get_forward").invoke();
+        const DirectionDivided = Vector3.method("op_Division").invoke(Direction, 4);
+        const rayStartPosition = Vector3.method("op_Addition").invoke(StartPosition, DirectionDivided);
+        const layerMask = overrideLayerMask || ~0;
+        const hits = Physics.method("RaycastAll", 4).invoke(rayStartPosition, Direction, 512.0, layerMask);
+        let finalDistance = Infinity;
+        let finalRay = null;
+        for (const hit of hits) {
+            const distance = Vector3.method("Distance").invoke(hit.method("get_point").invoke(), StartPosition);
+            try {
+                if (referenceCollider != null &&
+                    hit.method("get_collider").invoke().handle.equals(referenceCollider.handle)) {
+                    continue;
+                }
+            }
+            catch { }
+            if (distance < finalDistance) {
+                finalRay = hit;
+                finalDistance = distance;
+            }
+        } // closes for loop
+        if (GunPointer == null) {
+            GunPointer = createObject(zeroVector, identityQuaternion, [0.05, 0.05, 0.05], 0, bgColor);
+            Destroy(getComponent(GunPointer, BoxCollider));
+        }
+        GunPointer.method("SetActive").invoke(true);
+        if (finalRay != null) {
+            getTransform(GunPointer).method("set_position").invoke(finalRay.method("get_point").invoke());
+        }
+        else {
+            const fallback = Vector3.method("op_Addition").invoke(StartPosition, Vector3.method("op_Multiply").invoke(Direction, 10.0));
+            getTransform(GunPointer).method("set_position").invoke(fallback);
+        }
+        if (GunLine == null) {
+            const lineHolder = GameObject.new("GunLine");
+            GunLine = addComponent(lineHolder, LineRenderer);
+            const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("UI/Default"));
+            GunLine.method("get_material").invoke().method("set_shader").invoke(shader);
+            GunLine.method("set_startWidth").invoke(0.01);
+            GunLine.method("set_endWidth").invoke(0.01);
+            GunLine.method("set_useWorldSpace").invoke(true);
+            GunLine.method("set_startColor").invoke(bgColor);
+            GunLine.method("set_endColor").invoke(bgColor);
+        }
+        GunLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+        GunLine.method("SetPosition").invoke(0, StartPosition);
+        GunLine.method("SetPosition").invoke(1, getTransform(GunPointer).method("get_position").invoke());
+        return { gunPointer: GunPointer, ray: finalRay };
+    }
+    function recenterMenu() {
+        const menuTransform = getTransform(menu);
+        let targetPos, targetRot;
+        if (righthand) {
+            targetPos = rightHandTransform.method("get_position").invoke();
+            targetRot = rightHandTransform.method("get_rotation").invoke();
+            targetRot = Quaternion.method("op_Multiply").invoke(targetRot, Quaternion.method("Euler").invoke(0, 0, 180));
+        }
+        else {
+            targetPos = leftHandTransform.method("get_position").invoke();
+            targetRot = leftHandTransform.method("get_rotation").invoke();
+            targetRot = Quaternion.method("op_Multiply").invoke(targetRot, Quaternion.method("Euler").invoke(0, 0, 0));
+        }
+        if (LerpMenu) {
+            const menuPos = menuTransform.method("get_position").invoke();
+            const distance = Vector3.method("Distance").invoke(menuPos, zeroVector);
+            if (distance < 1) {
+                menuTransform.method("set_position").invoke(targetPos);
+                menuTransform.method("set_rotation").invoke(targetRot);
+            }
+            else {
+                const newPos = Vector3.method("Lerp").invoke(menuPos, targetPos, deltaTime * 15);
+                menuTransform.method("set_position").invoke(newPos);
+                const newRot = Quaternion.method("Slerp").invoke(menuTransform.method("get_rotation").invoke(), targetRot, deltaTime * 15);
+                menuTransform.method("set_rotation").invoke(newRot);
+            }
+        }
+        else {
+            menuTransform.method("set_position").invoke(targetPos);
+            menuTransform.method("set_rotation").invoke(targetRot);
+        }
+    }
+    function spawnNetworkPrefab(prefabName, pos, rot) {
+        try {
+            const runner = PrefabGen.field("_instance")
+                .value.method("get_runner")
+                .invoke();
+            if (!runner || runner.isNull())
+                return null;
+            const sources = runner
+                .field("_config")
+                .value.field("PrefabTable")
+                .value.field("_sources").value;
+            const count = sources.method("get_Count").invoke();
+            for (let i = 0; i < count; i++) {
+                try {
+                    const source = sources.method("get_Item").invoke(i);
+                    const desc = source
+                        .method("get_Description")
+                        .invoke()
+                        .toString();
+                    if (desc.includes(prefabName)) {
+                        const no = source.method("WaitForResult").invoke();
+                        if (!no || no.isNull())
+                            return null;
+                        const makeZeroForType = type => {
+                            if (type.class.isEnum || type.isPrimitive)
+                                return 0;
+                            if (!type.class.isValueType)
+                                return null;
+                            const fields = type.class.fields.filter(f => !f.isStatic);
+                            if (fields.length === 0)
+                                return 0;
+                            return fields.map(f => makeZeroForType(f.type));
+                        };
+                        const buildNullableArg = (nullableType, hasValue, value) => {
+                            const fields = nullableType.class.fields.filter(f => !f.isStatic);
+                            return fields.map(f => {
+                                const lname = f.name.toLowerCase();
+                                if (lname.includes("hasvalue"))
+                                    return hasValue ? 1 : 0;
+                                if (lname === "value")
+                                    return hasValue ? value : makeZeroForType(f.type);
+                                return makeZeroForType(f.type);
+                            });
+                        };
+                        const normalizeValue = (type, value) => {
+                            if (typeof value === "boolean")
+                                return value ? 1 : 0;
+                            if (value instanceof Il2Cpp.ValueType) {
+                                const fields = type.class.fields.filter(f => !f.isStatic);
+                                if (fields.length === 0)
+                                    return 0;
+                                return fields.map(f => normalizeValue(f.type, f.bind(value).value));
+                            }
+                            if (Array.isArray(value))
+                                return value.map(v => normalizeValue(type, v));
+                            return value;
+                        };
+                        const buildNullableFromValueType = (nullableType, valueType) => {
+                            return buildNullableArg(nullableType, true, normalizeValue(valueType.type, valueType));
+                        };
+                        let spawnMethod = null;
+                        for (const m of runner.method("Spawn").overloads()) {
+                            if (m.parameterCount !== 6 || m.isGeneric)
+                                continue;
+                            const p = m.parameters;
+                            if (p[0].type.name.includes("Fusion.NetworkObject") &&
+                                p[1].type.name.startsWith("System.Nullable") &&
+                                p[1].type.name.includes("Vector3") &&
+                                p[2].type.name.startsWith("System.Nullable") &&
+                                p[2].type.name.includes("Quaternion") &&
+                                p[3].type.name.startsWith("System.Nullable") &&
+                                p[3].type.name.includes("PlayerRef") &&
+                                p[4].type.name.includes("OnBeforeSpawned") &&
+                                p[5].type.name.includes("NetworkSpawnFlags")) {
+                                spawnMethod = m;
+                                break;
+                            }
+                        }
+                        if (!spawnMethod)
+                            return null;
+                        const posArg = buildNullableFromValueType(spawnMethod.parameters[1].type, pos);
+                        const rotArg = buildNullableFromValueType(spawnMethod.parameters[2].type, rot);
+                        const authArg = buildNullableArg(spawnMethod.parameters[3].type, false, makeZeroForType(spawnMethod.parameters[3].type));
+                        const onBeforeArg = spawnMethod.parameters[4].type.class.isValueType ?
+                            makeZeroForType(spawnMethod.parameters[4].type) :
+                            null;
+                        return spawnMethod
+                            .bind(runner)
+                            .invoke(no, posArg, rotArg, authArg, onBeforeArg, 0);
+                    }
+                }
+                catch (_) { }
+            }
+        }
+        catch (e) {
+            console.error("spawnNetworkPrefab error:", e);
+        }
+        return null;
+    }
+    function reloadMenu() {
+        if (menu != null) {
+            Object.method("Destroy", 1).invoke(menu);
+            menu = null;
+        }
+    }
+    function updateButtonColor(button, buttonData) {
+        const RendererClass = Il2Cpp.domain
+            .assembly("UnityEngine.CoreModule")
+            .image
+            .class("UnityEngine.Renderer");
+        const renderer = getComponent(button, RendererClass);
+        if (!renderer) {
+            return;
+        }
+        const material = renderer.method("get_material").invoke();
+        material.method("set_color").invoke(buttonData.enabled ? buttonPressedColor : buttonColor);
+    }
+    function playButtonSound() {
+        //LocalRig.method("PlayHandTapLocal").invoke(buttonSound, false, 0.3);
+        //if (righthand) {
+        //    GorillaTagger.method("StartVibration").invoke(true, 0.5, 0.075);
+        //}
+        //else {
+        //    GorillaTagger.method("StartVibration").invoke(false, 0.5, 0.075);
+        //}
+        //            AnimalCompany::SFXManager::RPC_PlaySFX(AnimalCompany::SFXManager::get__currentRunner(), Settings::sfxIndex, tran->GetPosition(), 1.0f);
+        const sound = buttonSound;
+        const NetworkRunner = SFXManager.method("get__currentRunner").invoke();
+        SFXManager.method("RPC_PlaySFX").invoke(NetworkRunner, sound, 1, leftHandTransform.method("get_position").invoke(), 1.0);
+        //if(!localButtonSounds) { SFXManager.method("RPC_PlaySFX").invoke(NetworkRunner, sound, 1, leftHandTransform.method("get_position").invoke(), 1.0); }
+        //else { SFXManager.method("PlaySFXLocal", ["Int16", "Vector3", "Single", "Single", "Single"]).invoke(sound, leftHandTransform.method("get_position").invoke(), 1.0, 1.0, 1.0); }
+        //	public static Void PlaySFXLocal(Int16 sfxID, Vector3 position, Single volume, Single spatialBlend, Single basePitch) { }
+        //plop 19
+        //elevator? 44
+        //magma (sounds clean and cool) 67! SIX SEVEN
+        //tech world glass (cuts off) 68
+        //arrow hit 75
+        //86 fart
+        //100 fart 2?
+        //hookshot (sounds good ig?) 119
+        //unloaded revolver (good button sound?) 138
+        //snowball ill keep it in cuz it has potential 160
+        //ore pickup like magma again 172
+        //that one vending machine thing button 178
+        //computer key or stash key whatev (cuts out) 180
+        //friend machine 182
+        //ducky 191
+    }
+    function toggleColliders(enabled) {
+        const meshColliders = Object.method("FindObjectsOfType").inflate(MeshCollider).invoke();
+        for (let i = 0; i < meshColliders.length; i++) {
+            const meshCollider = meshColliders.get(i);
+            meshCollider.method("set_enabled").invoke(enabled);
+        }
+    }
+    class ButtonInfo {
+        constructor(config) {
+            var _a, _b, _c;
+            this.buttonText = config.buttonText;
+            this.method = config.method;
+            this.enableMethod = config.enableMethod;
+            this.disableMethod = config.disableMethod;
+            this.isTogglable = (_a = config.isTogglable) !== null && _a !== void 0 ? _a : true;
+            this.toolTip = (_b = config.toolTip) !== null && _b !== void 0 ? _b : null;
+            this.enabled = (_c = config.enabled) !== null && _c !== void 0 ? _c : false;
+        }
+    }
+    let currentCategory = 0;
+    let currentPage = 0;
+    const buttons = [
+        [
+            new ButtonInfo({
+                buttonText: "Settings",
+                method: () => { currentCategory = 2; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the settings category."
+            }),
+            new ButtonInfo({
+                buttonText: "Movement Mods",
+                method: () => { currentCategory = 3; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the movement category."
+            }),
+            new ButtonInfo({
+                buttonText: "Fun Mods",
+                method: () => { currentCategory = 4; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the fun category."
+            }),
+            new ButtonInfo({
+                buttonText: "Advantage Mods",
+                method: () => { currentCategory = 5; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the advantage category."
+            }),
+            new ButtonInfo({
+                buttonText: "Rig Mods",
+                method: () => { currentCategory = 6; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the rig category."
+            }),
+            new ButtonInfo({
+                buttonText: "Misc Mods",
+                method: () => { currentCategory = 7; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the misc category."
+            }),
+            new ButtonInfo({
+                buttonText: "Visual Mods",
+                method: () => { currentCategory = 8; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the visual category."
+            }),
+            new ButtonInfo({
+                buttonText: "Overpowered Mods",
+                method: () => { currentCategory = 9; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the op category."
+            }),
+            new ButtonInfo({
+                buttonText: "Item Mods",
+                method: () => { currentCategory = 10; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the items category."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Mods",
+                method: () => { currentCategory = 11; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the mob category."
+            }),
+            new ButtonInfo({
+                buttonText: "<color=red>♥</color> BLTH",
+                method: () => { currentCategory = 12; currentPage = 0; },
+                isTogglable: false,
+                toolTip: "Opens the BLTH category."
+            }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Disconnect",
+                method: () => {
+                    const networkrunner = SFXManager.method("get__currentRunner").invoke();
+                    const NManagerInst = NManager.method("get_instance").invoke();
+                    NManagerInst.method("OnPlayerLeft").invoke(networkrunner, networkrunner.method("get_LocalPlayer").invoke());
+                }, //sendNotification("stripped"),//NetworkSystem.method("ReturnToSinglePlayer").invoke(),
+                isTogglable: false,
+                toolTip: "Disconnects you from the room. "
+            }),
+            new ButtonInfo({
+                buttonText: "PreviousPage",
+                method: () => {
+                    const lastPage = Math.ceil(buttons[currentCategory].length / 8) - 1;
+                    currentPage--;
+                    if (currentPage < 0)
+                        currentPage = lastPage;
+                },
+                isTogglable: false
+            }),
+            new ButtonInfo({
+                buttonText: "NextPage",
+                method: () => {
+                    const lastPage = Math.ceil(buttons[currentCategory].length / 8) - 1;
+                    currentPage++;
+                    currentPage %= lastPage + 1;
+                },
+                isTogglable: false
+            }),
+            new ButtonInfo({
+                buttonText: "GlobalReturn",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            })
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Settings",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Change Menu Theme",
+                method: () => {
+                    themeIndex++;
+                    themeIndex %= 10;
+                    switch (themeIndex) {
+                        case 0:
+                            bgColor = [1.0, 0.5, 0.0, 1.0];
+                            textColor = [1.0, 0.7450981, 0.4901961, 1.0];
+                            buttonColor = [0.666, 0.333, 0.0, 1.0];
+                            buttonPressedColor = [0.333, 0.150, 0.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 1:
+                            bgColor = [1.0, 0.0, 0.0, 1.0];
+                            textColor = [1.0, 1.0, 1.0, 1.0];
+                            buttonColor = [0.0, 0.0, 0.0, 1.0];
+                            buttonPressedColor = [1.0, 0.0, 0.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 2:
+                            bgColor = [0.0, 1.0, 0.0, 1.0];
+                            textColor = [1.0, 1.0, 1.0, 1.0];
+                            buttonColor = [0.0, 0.0, 0.0, 1.0];
+                            buttonPressedColor = [0.0, 1.0, 0.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 3:
+                            bgColor = [0.0, 0.0, 1.0, 1.0];
+                            textColor = [1.0, 1.0, 1.0, 1.0];
+                            buttonColor = [0.0, 0.0, 0.0, 1.0];
+                            buttonPressedColor = [0.0, 0.0, 1.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 4:
+                            bgColor = [0.5, 0.0, 0.5, 1.0];
+                            textColor = [1.0, 0.9, 1.0, 1.0];
+                            buttonColor = [0.25, 0.0, 0.25, 1.0];
+                            buttonPressedColor = [0.7, 0.0, 0.7, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 5:
+                            bgColor = [0.0, 0.7, 0.7, 1.0];
+                            textColor = [1.0, 0.2, 0.8, 1.0];
+                            buttonColor = [0.0, 0.3, 0.3, 1.0];
+                            buttonPressedColor = [1.0, 0.0, 0.7, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 6:
+                            bgColor = [0.9, 0.7, 0.1, 1.0];
+                            textColor = [0.0, 0.0, 0.0, 1.0];
+                            buttonColor = [0.2, 0.2, 0.2, 1.0];
+                            buttonPressedColor = [1.0, 0.84, 0.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 7:
+                            bgColor = [0.7, 0.9, 1.0, 1.0];
+                            textColor = [0.1, 0.2, 0.4, 1.0];
+                            buttonColor = [0.5, 0.7, 0.9, 1.0];
+                            buttonPressedColor = [0.2, 0.4, 0.8, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 8:
+                            bgColor = [0.6, 0.0, 0.0, 1.0];
+                            textColor = [1.0, 0.7, 0.2, 1.0];
+                            buttonColor = [0.2, 0.0, 0.0, 1.0];
+                            buttonPressedColor = [1.0, 0.3, 0.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                        case 9:
+                            bgColor = [0.05, 0.05, 0.1, 1.0];
+                            textColor = [0.6, 0.8, 1.0, 1.0];
+                            buttonColor = [0.1, 0.1, 0.2, 1.0];
+                            buttonPressedColor = [0.4, 0.6, 1.0, 1.0];
+                            //boardMaterial.method("set_color").invoke(bgColor);
+                            break;
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes the theme of the menu."
+            }),
+            new ButtonInfo({
+                buttonText: "Change Eject Dupe Amount",
+                method: () => {
+                    ejectDupeIndex++;
+                    ejectDupeIndex %= ejectDupeValues.length;
+                    ejectDupeAmount = ejectDupeValues[ejectDupeIndex];
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New eject dupe amount: " + ejectDupeAmount, false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles through preset dupe amounts."
+            }),
+            new ButtonInfo({
+                buttonText: "Jelly Time & duration",
+                method: () => {
+                    jellywowes++;
+                    if (jellywowes > 1.0) {
+                        jellywowes = 1.0;
+                    }
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New jelly time & duration: " + jellywowes, false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles through preset dupe amounts."
+            }),
+            new ButtonInfo({
+                buttonText: "Change Head Size Amount",
+                method: () => {
+                    headSizeIndex++;
+                    headSizeIndex %= headSizeValues.length;
+                    headSizeAmount = headSizeValues[headSizeIndex];
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New head size amount: " + headSizeAmount, false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles through preset head size amounts."
+            }),
+            new ButtonInfo({
+                buttonText: "Change Sound File",
+                method: () => {
+                    soundFileIndex++;
+                    soundFileIndex %= soundFileFiles.length;
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New head size amount: " + soundFileFiles[soundFileIndex], false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles through preset head size amounts."
+            }),
+            new ButtonInfo({
+                buttonText: "Play Sound",
+                method: () => {
+                    if (rightSecondary && !previousSoundKey) {
+                        PlayAudioFromFile("/sdcard/Android/data/woosterGames.animalCompany/files/1", soundFileFiles[soundFileIndex]);
+                    }
+                    //if (!rightSecondary && previousSoundKey) {
+                    //    toggleColliders(true);
+                    //}
+                    previousSoundKey = rightSecondary;
+                },
+                isTogglable: true,
+                toolTip: "Changes the theme of the menu."
+            }),
+            new ButtonInfo({
+                buttonText: "Fix Mic",
+                method: () => {
+                    FixMic();
+                },
+                isTogglable: false,
+                toolTip: "Fixes your player mic."
+            }),
+            new ButtonInfo({
+                buttonText: "Negative Head Size",
+                method: () => negativeHeadSize = true,
+                disableMethod: () => negativeHeadSize = false,
+                isTogglable: true,
+                toolTip: "Makes the current set head size amount negative to make your head inside out."
+            }),
+            new ButtonInfo({
+                buttonText: "Local Button Sounds",
+                enabled: true,
+                enableMethod: () => localButtonSounds = true,
+                disableMethod: () => localButtonSounds = false,
+                toolTip: "Makes players not be able to hear your button sounds."
+            }),
+            new ButtonInfo({
+                buttonText: "Change Button Sound",
+                method: () => {
+                    //if(rightGrab){
+                    //   buttonIndex--;
+                    //}
+                    //else{
+                    //    buttonIndex++;
+                    //}
+                    //console.log(buttonIndex);
+                    buttonIndex++;
+                    buttonIndex %= 5;
+                    switch (buttonIndex) {
+                        case 0:
+                            buttonSound = 44;
+                            break;
+                        case 1:
+                            buttonSound = 67;
+                            break;
+                        case 2:
+                            buttonSound = 68;
+                            break;
+                        case 3:
+                            buttonSound = 75;
+                            break;
+                        case 4:
+                            buttonSound = 100;
+                            break;
+                        case 5:
+                            buttonSound = 119;
+                            break;
+                    }
+                    //sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New sound index: " + buttonIndex, false);
+                    // plop
+                    //plop 19
+                    //elevator? 44
+                    //magma (sounds clean and cool) 67! SIX SEVEN
+                    //tech world glass (cuts off) 68
+                    //arrow hit 75
+                    //86 fart
+                    //100 fart 2?
+                    //hookshot (sounds good ig?) 119
+                    //unloaded revolver (good button sound?) 138
+                    //snowball ill keep it in cuz it has potential 160
+                    //ore pickup like magma again 172
+                    //that one vending machine thing button 178
+                    //computer key or stash key whatev (cuts out) 180
+                    //friend machine 182
+                    //ducky 191
+                },
+                isTogglable: false,
+                toolTip: "Changes the button sound."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "button that does nothing",
+            //    method: () => {
+            //        return;
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Changes the button sound."
+            //}),
+            new ButtonInfo({
+                buttonText: "Change Item ID",
+                method: () => {
+                    if (rightGrab) {
+                        itemIndex--;
+                    }
+                    else {
+                        itemIndex++;
+                    }
+                    console.log(itemIDs[itemIndex]);
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New item index: " + itemIDs[itemIndex], false);
+                    //buttonIndex %= 5;
+                    //switch (buttonIndex) {
+                    //    case 0:
+                    //        buttonSound = 8;
+                    //        break;
+                    //    case 1:
+                    //        buttonSound = 66;
+                    //        break;
+                    //    case 2:
+                    //        buttonSound = 67;
+                    //        break;
+                    //    case 3:
+                    //        buttonSound = 84;
+                    //        break;
+                    //    case 4:
+                    //        buttonSound = 106;
+                    //        break;
+                    //    case 5:
+                    //        buttonSound = 189;
+                    //        break;
+                    //}
+                },
+                isTogglable: false,
+                toolTip: "Changes the item ID. Hold right grip to go down"
+            }),
+            new ButtonInfo({
+                buttonText: "Change hue",
+                method: () => {
+                    if (rightGrab) {
+                        huespawner += 1.0;
+                    }
+                    else if (!rightGrab) {
+                        huespawner -= 1.0;
+                    }
+                    if (huespawner > 170.0) {
+                        huespawner = 170.0;
+                    }
+                    else if (huespawner < -27.0) {
+                        huespawner = 0.0;
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes the hue. Hold right grip to go up"
+            }),
+            new ButtonInfo({
+                buttonText: "Change saturation",
+                method: () => {
+                    if (rightGrab) {
+                        saturationspawner += 1.0;
+                    }
+                    else if (!rightGrab) {
+                        saturationspawner -= 1.0;
+                    }
+                    if (saturationspawner > 120.0) {
+                        saturationspawner = 120.0;
+                    }
+                    else if (saturationspawner < 0.0) {
+                        saturationspawner = 0.0;
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes the saturation. Hold right grip to go up"
+            }),
+            new ButtonInfo({
+                buttonText: "Custom Scale Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        if (rightGrab) {
+                            scaleVal++;
+                            if (scaleVal > 127)
+                                scaleVal = -127;
+                        }
+                        if (leftGrab) {
+                            scaleVal--;
+                            if (scaleVal < -127)
+                                scaleVal = 127;
+                        }
+                        grabbable.method("set_scaleModifier").invoke(scaleVal);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease scale of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Snowball minigun [huge]",
+                isTogglable: true,
+                method: (() => {
+                    // IIFE — sexyassdelay lives in this closure, persists across frames
+                    let sexyassdelay = 0;
+                    function rand(min, max) {
+                        return Math.floor(Math.random() * (max - min + 1)) + min;
+                    }
+                    return () => {
+                        try {
+                            if (!rightGrab)
+                                return;
+                            if (!rightTrigger)
+                                return;
+                            // call Time directly — module-level `time` is shadowed by a const 0 inside perform()
+                            const now = Time.method("get_time").invoke();
+                            if (now < sexyassdelay)
+                                return;
+                            sexyassdelay = now + 0.00;
+                            const pos = rightHandTransform.method("get_position").invoke();
+                            const forward = rightHandTransform.method("get_forward").invoke();
+                            const result = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("item_snowball"), pos, identityQuaternion, null);
+                            if (!result || result.handle.isNull())
+                                return;
+                            const g = result.method("GetComponent", 1).inflate(GBOClass).invoke();
+                            if (g && !g.isNull()) {
+                                g.method("set_colorHue").invoke(rand(-120, 120));
+                                g.method("set_colorSaturation").invoke(rand(-127, 127));
+                                g.method("set_scaleModifier").invoke(127);
+                                g.method("AddExternalForceVelocity", 1).invoke(Vector3.method("op_Multiply", 2).invoke(forward, 100));
+                            }
+                        }
+                        catch (e) {
+                            console.error("sperm error:", e);
+                        }
+                    };
+                })(),
+                toolTip: "Spawns white snowballs in a stream (hold right grip)."
+            }),
+            new ButtonInfo({
+                buttonText: "Change jelly",
+                method: () => {
+                    if (rightGrab) {
+                        jellyspawner += 1.0;
+                    }
+                    else if (!rightGrab) {
+                        jellyspawner -= 1.0;
+                    }
+                    if (jellyspawner > 10.0) {
+                        jellyspawner = 10.0;
+                    }
+                    else if (jellyspawner < 0.0) {
+                        jellyspawner = 0.0;
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes the jelly. Hold right grip to go up"
+            }),
+            new ButtonInfo({
+                buttonText: "Change Mob ID",
+                method: () => {
+                    if (rightGrab) {
+                        mobIndex--;
+                    }
+                    else {
+                        mobIndex++;
+                    }
+                    console.log(mobIDs[mobIndex]);
+                    sendNotification("<color=grey>[</color><color=#8000ff>MENU</color><color=grey>]</color> " + "New mob index: " + mobIDs[mobIndex], false);
+                    //buttonIndex %= 5;
+                    //switch (buttonIndex) {
+                    //    case 0:
+                    //        buttonSound = 8;
+                    //        break;
+                    //    case 1:
+                    //        buttonSound = 66;
+                    //        break;
+                    //    case 2:
+                    //        buttonSound = 67;
+                    //        break;
+                    //    case 3:
+                    //        buttonSound = 84;
+                    //        break;
+                    //    case 4:
+                    //        buttonSound = 106;
+                    //        break;
+                    //    case 5:
+                    //        buttonSound = 189;
+                    //        break;
+                    //}
+                },
+                isTogglable: false,
+                toolTip: "Changes the mob ID. Hold right grip to go down"
+            }),
+            new ButtonInfo({
+                buttonText: "Change Menu Scale",
+                method: () => {
+                    menuscale += 0.1;
+                    if (menuscale > 1.5) {
+                        menuscale = 0.3;
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes the button sound."
+            }),
+            new ButtonInfo({
+                buttonText: "Freeze Player in Menu",
+                enabled: false,
+                method: () => {
+                    if (menu != null) {
+                        if (closePosition == null) {
+                            closePosition = getTransform(rigidbody).method("get_position").invoke();
+                        }
+                        else {
+                            getTransform(rigidbody).method("set_position").invoke(closePosition);
+                            rigidbody.method("set_linearVelocity").invoke(zeroVector);
+                        }
+                    }
+                    else {
+                        closePosition = null;
+                    }
+                },
+                toolTip: "Freezes your character while in the menu."
+            }),
+            new ButtonInfo({
+                buttonText: "Button Notifications",
+                enabled: true,
+                method: () => buttonNotifications = true,
+                disableMethod: () => buttonNotifications = false,
+                toolTip: "Shows notifications when clicking menu buttons, may cause lag."
+            }),
+            new ButtonInfo({
+                buttonText: "Right Hand",
+                method: () => righthand = true,
+                disableMethod: () => righthand = true,
+                toolTip: "Lets you switch menu hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Lerp Menu",
+                method: () => LerpMenu = true,
+                disableMethod: () => LerpMenu = false,
+                toolTip: "Makes the menu Lerped."
+            }),
+            new ButtonInfo({
+                buttonText: "High Punch Power",
+                enableMethod: () => highPunchPower = true,
+                disableMethod: () => highPunchPower = false,
+                toolTip: "Makes punch mod more powerful."
+            }),
+            new ButtonInfo({
+                buttonText: "+ prefab",
+                method: () => {
+                    currentWorldPrefabIndex =
+                        (currentWorldPrefabIndex + 1) % worldPrefabs.length;
+                    sendNotification(`Prefab: ${worldPrefabs[currentWorldPrefabIndex]}`);
+                },
+                isTogglable: false,
+                toolTip: "Next non-item prefab"
+            }),
+            new ButtonInfo({
+                buttonText: "- prefab",
+                method: () => {
+                    currentWorldPrefabIndex =
+                        (currentWorldPrefabIndex - 1 + worldPrefabs.length) % worldPrefabs.length;
+                    sendNotification(`Prefab: ${worldPrefabs[currentWorldPrefabIndex]}`);
+                },
+                isTogglable: false,
+                toolTip: "Previous non-item prefab"
+            }),
+            new ButtonInfo({
+                buttonText: "prefab spawnling",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const NetworkPrefabSheet = Il2Cpp
+                            .domain
+                            .assembly("AnimalCompany")
+                            .image
+                            .class("AnimalCompany.NetworkPrefabSheet");
+                        const globalRefs = NetworkPrefabSheet.method("get_globalRefs").invoke();
+                        if (!globalRefs)
+                            return;
+                        const prefabName = worldPrefabs[currentWorldPrefabIndex];
+                        const prefabNetObj = globalRefs.field(prefabName).value;
+                        if (!prefabNetObj)
+                            return;
+                        const prefabGameObject = prefabNetObj.method("get_gameObject").invoke();
+                        const FlareGun = Il2Cpp
+                            .domain
+                            .assembly("AnimalCompany")
+                            .image
+                            .class("AnimalCompany.FlareGun");
+                        for (let handIndex = 0; handIndex <= 1; handIndex++) {
+                            const interactor = player.method("GetHandInteractor", 1).invoke(handIndex);
+                            if (!interactor)
+                                continue;
+                            const itemAnchor = interactor.field("_itemAnchor").value;
+                            if (!itemAnchor)
+                                continue;
+                            const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                            if (!grabbable)
+                                continue;
+                            const gameObject = grabbable.method("get_gameObject").invoke();
+                            if (!gameObject)
+                                continue;
+                            const flareGun = gameObject
+                                .method("GetComponent", 1)
+                                .inflate(FlareGun)
+                                .invoke();
+                            if (!flareGun)
+                                continue;
+                            flareGun.field("_projectilePrefab").value = prefabGameObject;
+                            flareGun.field("_sfxShoot").value = null;
+                            flareGun.field("_sfxShootEmpty").value = null;
+                        }
+                        sendNotification(`prefab: ${prefabName}`);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Load selected non-item prefab into flare gun"
+            }),
+            new ButtonInfo({
+                buttonText: "+ item",
+                method: () => {
+                    currentItemIndex =
+                        (currentItemIndex + 1) % itemPrefabs.length;
+                    sendNotification(`Item: ${itemPrefabs[currentItemIndex]}`);
+                },
+                isTogglable: false,
+                toolTip: "Next item_ prefab"
+            }),
+            new ButtonInfo({
+                buttonText: "- item",
+                method: () => {
+                    currentItemIndex =
+                        (currentItemIndex - 1 + itemPrefabs.length) % itemPrefabs.length;
+                    sendNotification(`Item: ${itemPrefabs[currentItemIndex]}`);
+                },
+                isTogglable: false,
+                toolTip: "Previous item_ prefab"
+            }),
+            new ButtonInfo({
+                buttonText: "item spawnling",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const NetworkPrefabSheet = Il2Cpp
+                            .domain
+                            .assembly("AnimalCompany")
+                            .image
+                            .class("AnimalCompany.NetworkPrefabSheet");
+                        const globalRefs = NetworkPrefabSheet.method("get_globalRefs").invoke();
+                        if (!globalRefs)
+                            return;
+                        const prefabName = itemPrefabs[currentItemIndex];
+                        const prefabNetObj = globalRefs.field(prefabName).value;
+                        if (!prefabNetObj)
+                            return;
+                        const prefabGameObject = prefabNetObj.method("get_gameObject").invoke();
+                        const FlareGun = Il2Cpp
+                            .domain
+                            .assembly("AnimalCompany")
+                            .image
+                            .class("AnimalCompany.FlareGun");
+                        for (let handIndex = 0; handIndex <= 1; handIndex++) {
+                            const interactor = player.method("GetHandInteractor", 1).invoke(handIndex);
+                            if (!interactor)
+                                continue;
+                            const itemAnchor = interactor.field("_itemAnchor").value;
+                            if (!itemAnchor)
+                                continue;
+                            const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                            if (!grabbable)
+                                continue;
+                            const gameObject = grabbable.method("get_gameObject").invoke();
+                            if (!gameObject)
+                                continue;
+                            const flareGun = gameObject
+                                .method("GetComponent", 1)
+                                .inflate(FlareGun)
+                                .invoke();
+                            if (!flareGun)
+                                continue;
+                            flareGun.field("_projectilePrefab").value = prefabGameObject;
+                            flareGun.field("_sfxShoot").value = null;
+                            flareGun.field("_sfxShootEmpty").value = null;
+                        }
+                        sendNotification(`item: ${prefabName}`);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Load selected item_ prefab into flare gun"
+            }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Movement Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Joystick Fly",
+                method: (() => {
+                    let lx = 0, ly = 0, rx = 0, ry = 0;
+                    return () => {
+                        try {
+                            // read axes fresh each frame
+                            const leftDevice = InputDevices.method("GetDeviceAtXRNode", 1).invoke(4);
+                            const rightDevice = InputDevices.method("GetDeviceAtXRNode", 1).invoke(5);
+                            const leftAxisOut = Il2Cpp.alloc(8);
+                            const rightAxisOut = Il2Cpp.alloc(8);
+                            leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primary2DAxis").value, leftAxisOut);
+                            rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primary2DAxis").value, rightAxisOut);
+                            lx = leftAxisOut.readFloat();
+                            ly = leftAxisOut.add(4).readFloat();
+                            rx = rightAxisOut.readFloat();
+                            ry = rightAxisOut.add(4).readFloat();
+                            // only fly if any stick is being used
+                            if (Math.abs(lx) < 0.1 && Math.abs(ly) < 0.1 &&
+                                Math.abs(rx) < 0.1 && Math.abs(ry) < 0.1)
+                                return;
+                            const speed = 8.0;
+                            // get head directions so flight feels natural
+                            const headForward = getTransform(headCollider).method("get_forward").invoke();
+                            const headRight = getTransform(headCollider).method("get_right").invoke();
+                            const up = Vector3.field("upVector").value;
+                            // flatten forward/right so you dont fly into the ground when looking down
+                            const flatForward = Vector3.method("Normalize").invoke(Vector3.method("op_Subtraction").invoke(headForward, Vector3.method("op_Multiply").invoke(up, Vector3.method("Dot").invoke(headForward, up))));
+                            const flatRight = Vector3.method("Normalize").invoke(Vector3.method("op_Subtraction").invoke(headRight, Vector3.method("op_Multiply").invoke(up, Vector3.method("Dot").invoke(headRight, up))));
+                            // right stick = forward/back and strafe
+                            const forwardVec = Vector3.method("op_Multiply").invoke(flatForward, ry * speed * deltaTime);
+                            const rightVec = Vector3.method("op_Multiply").invoke(flatRight, rx * speed * deltaTime);
+                            // left stick Y = up/down, left stick X = yaw (optional strafe)
+                            const upVec = Vector3.method("op_Multiply").invoke(up, ly * speed * deltaTime);
+                            // combine all movement
+                            let combined = Vector3.method("op_Addition").invoke(forwardVec, rightVec);
+                            combined = Vector3.method("op_Addition").invoke(combined, upVec);
+                            // kill gravity and apply movement
+                            rigidbody.method("set_linearVelocity").invoke(zeroVector);
+                            const currentPos = getTransform(GTPlayer).method("get_position").invoke();
+                            const newPos = Vector3.method("op_Addition").invoke(currentPos, combined);
+                            getTransform(GTPlayer).method("set_position").invoke(newPos);
+                        }
+                        catch (e) {
+                            console.error("joystick fly error:", e);
+                        }
+                    };
+                })(),
+                isTogglable: true,
+                toolTip: "Right stick forward/back/strafe, left stick Y up/down. Flattened so looking down doesn't send you into the ground."
+            }),
+            new ButtonInfo({
+                buttonText: "Platforms",
+                method: () => {
+                    const adjustamount = -0.2;
+                    if (leftGrab) {
+                        if (leftPlatform == null) {
+                            const handTransform = leftHandTransform;
+                            leftPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+                            getTransform(leftPlatform).method("set_localPosition").invoke([0, adjustamount, 0]);
+                        }
+                    }
+                    else {
+                        if (leftPlatform != null) {
+                            Destroy(leftPlatform);
+                            leftPlatform = null;
+                        }
+                    }
+                    if (rightGrab) {
+                        if (rightPlatform == null) {
+                            const handTransform = rightHandTransform;
+                            rightPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+                            getTransform(rightPlatform).method("set_localPosition").invoke([0, adjustamount, 0]);
+                        }
+                    }
+                    else {
+                        if (rightPlatform != null) {
+                            Destroy(rightPlatform);
+                            rightPlatform = null;
+                        }
+                    }
+                },
+                toolTip: "Spawns platforms when pressing grip."
+            }),
+            new ButtonInfo({
+                buttonText: "Trigger Platforms",
+                method: () => {
+                    if (leftTrigger) {
+                        if (leftPlatform == null) {
+                            const handTransform = leftHandTransform;
+                            leftPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+                        }
+                    }
+                    else {
+                        if (leftPlatform != null) {
+                            Destroy(leftPlatform);
+                            leftPlatform = null;
+                        }
+                    }
+                    if (rightTrigger) {
+                        if (rightPlatform == null) {
+                            const handTransform = rightHandTransform;
+                            rightPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+                        }
+                    }
+                    else {
+                        if (rightPlatform != null) {
+                            Destroy(rightPlatform);
+                            rightPlatform = null;
+                        }
+                    }
+                },
+                toolTip: "Spawns platforms when pressing trigger."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Frozone",
+            //    method: () => {
+            //        if (leftGrab) {
+            //            if (leftPlatform == null) {
+            //                const handTransform = leftHandTransform;
+            //                leftPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+            //                addComponent(leftPlatform, GorillaSurfaceOverride).field("overrideIndex").value = 61;
+            //            }
+            //        } else {
+            //            if (leftPlatform != null) {
+            //                Destroy(leftPlatform);
+            //                leftPlatform = null;
+            //            }
+            //        }
+            //
+            //        if (rightGrab) {
+            //            if (rightPlatform == null) {
+            //                const handTransform = rightHandTransform;
+            //                rightPlatform = createObject(handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), [0.025, 0.15, 0.2], 3, bgColor);
+            //                addComponent(rightPlatform, GorillaSurfaceOverride).field("overrideIndex").value = 61;
+            //            }
+            //        } else {
+            //            if (rightPlatform != null) {
+            //                Destroy(rightPlatform);
+            //                rightPlatform = null;
+            //            }
+            //        }
+            //    },
+            //    toolTip: "Spawns slippy platforms when pressing grip."
+            //}),
+            new ButtonInfo({
+                buttonText: "Fly",
+                method: () => {
+                    if (rightPrimary) {
+                        rigidbody.method("set_linearVelocity").invoke(Vector3.field("zeroVector").value);
+                        const transform = getTransform(GTPlayer);
+                        let forward = getTransform(headCollider).method("get_forward").invoke();
+                        let position = transform.method("get_position").invoke();
+                        forward = Vector3.method("op_Multiply", 2).invoke(forward, 25.0 * deltaTime);
+                        position = Vector3.method("op_Addition", 2).invoke(position, forward);
+                        transform.method("set_position").invoke(position);
+                    }
+                },
+                toolTip: "Lets you fly around while holding A."
+            }),
+            new ButtonInfo({
+                buttonText: "Trigger Fly",
+                method: () => {
+                    if (rightTrigger) {
+                        rigidbody.method("set_linearVelocity").invoke(Vector3.field("zeroVector").value);
+                        const transform = getTransform(GTPlayer);
+                        let forward = getTransform(headCollider).method("get_forward").invoke();
+                        let position = transform.method("get_position").invoke();
+                        forward = Vector3.method("op_Multiply", 2).invoke(forward, 25.0 * deltaTime);
+                        position = Vector3.method("op_Addition", 2).invoke(position, forward);
+                        transform.method("set_position").invoke(position);
+                    }
+                },
+                toolTip: "Lets you fly around while holding trigger."
+            }),
+            new ButtonInfo({
+                buttonText: "Up And Down",
+                method: () => {
+                    if (rightTrigger && rightGrab) {
+                        rigidbody.method("set_linearVelocity").invoke(Vector3.field("zeroVector").value);
+                    }
+                    if (rightTrigger && !rightGrab) {
+                        rigidbody.method("AddForce").invoke(Vector3.field("upVector").value, 175 * deltaTime);
+                    }
+                    if (!rightTrigger && rightGrab) {
+                        rigidbody.method("AddForce").invoke(Vector3.field("downVector").value, 175 * deltaTime);
+                    }
+                },
+                toolTip: "Makes you go up when holding trigger, and down when holding grip."
+            }),
+            new ButtonInfo({
+                buttonText: "Size Changer",
+                disableMethod: () => {
+                    GTPlayer.field("<playerScale>k__BackingField").value = 1;
+                    //getTransform(LocalRig).method("set_localScale").invoke(Vector3.field("one").value.method("op_Multiply").invoke(LocalRig.field("NativeScale").value));
+                },
+                method: () => {
+                    if (rightTrigger) {
+                        GTPlayer.field("<playerScale>k__BackingField").value += 0.01;
+                        //getTransform(LocalRig).method("set_localScale").invoke(Vector3.field("one").value.method("op_Multiply").invoke(LocalRig.field("NativeScale").value));
+                    }
+                    if (leftTrigger) {
+                        GTPlayer.field("<playerScale>k__BackingField").value -= 0.01;
+                        //getTransform(LocalRig).method("set_localScale").invoke(Vector3.field("one").value.method("op_Multiply").invoke(LocalRig.field("NativeScale").value));
+                    }
+                },
+                toolTip: "Makes you able to change size with triggers."
+            }),
+            new ButtonInfo({
+                buttonText: "Checkpoint",
+                disableMethod: () => {
+                    if (checkpoint != null) {
+                        Destroy(checkpoint);
+                        checkpoint = null;
+                    }
+                },
+                method: () => {
+                    if (rightGrab && rightPrimary && leftPrimary) {
+                        if (checkpoint == null) {
+                            const handTransform = rightHandTransform;
+                            checkpoint = createObject(handTransform.method("get_position").invoke(), identityQuaternion, [0.2, 0.2, 0.2], 3, bgColor);
+                            Destroy(getComponent(checkpoint, BoxCollider));
+                        }
+                        else {
+                            const handTransform = rightHandTransform;
+                            checkpoint.method("get_transform").invoke().method("set_position").invoke(handTransform.method("get_position").invoke());
+                        }
+                    }
+                    if (rightPrimary && leftPrimary) {
+                        if (checkpoint != null) {
+                            teleportPlayer(checkpoint.method("get_transform").invoke().method("get_position").invoke());
+                            rigidbody.method("set_linearVelocity").invoke(zeroVector);
+                        }
+                    }
+                },
+                toolTip: "Place a checkpoint with grip and teleport to it with A."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "No Tag Freeze",
+            //    method: () => GTPlayer.field("disableMovement").value = false,
+            //    toolTip: "Disables tag freeze on your character.",
+            //}),
+            new ButtonInfo({
+                buttonText: "Low Gravity",
+                method: () => {
+                    const force = Vector3.method("op_Multiply", 2).invoke(Vector3.field("upVector").value, (deltaTime * (6.66 / deltaTime)));
+                    rigidbody.method("AddForce", 2).invoke(force, 5);
+                },
+                toolTip: "Makes gravity lower on your character."
+            }),
+            new ButtonInfo({
+                buttonText: "Zero Gravity",
+                method: () => {
+                    const force = Vector3.method("op_Multiply", 2).invoke(Vector3.field("upVector").value, (deltaTime * (9.81 / deltaTime)));
+                    rigidbody.method("AddForce", 2).invoke(force, 5);
+                },
+                toolTip: "Makes gravity lower on your character."
+            }),
+            new ButtonInfo({
+                buttonText: "High Gravity",
+                method: () => {
+                    const force = Vector3.method("op_Multiply", 2).invoke(Vector3.field("downVector").value, (deltaTime * (7.77 / deltaTime)));
+                    rigidbody.method("AddForce", 2).invoke(force, 5);
+                },
+                toolTip: "Makes gravity higher on your character."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Weak Wall Walk",
+            //    method: () => {
+            //        if (GTPlayer.method("IsHandTouching").invoke(true) || GTPlayer.method("IsHandTouching").invoke(false)) {
+            //            const ray = GTPlayer.field("lastHitInfoHand").value;
+            //            walkPos = ray.method("get_point").invoke();
+            //            walkNormal = ray.method("get_normal").invoke();
+            //        }
+            //        if (walkPos != Vector3.field("zeroVector").value && rightGrab) {
+            //            const force = Vector3.method("op_Multiply", 2).invoke(walkNormal, -5);
+            //            rigidbody.method("AddForce").invoke(force, 5);
+            //            const zeroForce = Vector3.method("op_Multiply", 2).invoke(Vector3.field("upVector").value, (deltaTime * (9.81 / deltaTime)));
+            //            rigidbody.method("AddForce", 2).invoke(zeroForce, 5);
+            //        }
+            //    },
+            //    toolTip: "Makes you get brought towards any wall you touch when holding grip, but weaker."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Wall Walk",
+            //    method: () => {
+            //        if (GTPlayer.method("IsHandTouching").invoke(true) || GTPlayer.method("IsHandTouching").invoke(false)) {
+            //            const ray = GTPlayer.field("lastHitInfoHand").value;
+            //            walkPos = ray.method("get_point").invoke();
+            //            walkNormal = ray.method("get_normal").invoke();
+            //        }
+            //        if (walkPos != Vector3.field("zeroVector").value && rightGrab) {
+            //            const force = Vector3.method("op_Multiply", 2).invoke(walkNormal, -9.81);
+            //            rigidbody.method("AddForce").invoke(force, 5);
+            //            const zeroForce = Vector3.method("op_Multiply", 2).invoke(Vector3.field("upVector").value, (deltaTime * (9.81 / deltaTime)));
+            //            rigidbody.method("AddForce", 2).invoke(zeroForce, 5);
+            //        }
+            //    },
+            //    toolTip: "Makes you get brought towards any wall you touch when holding grip."
+            //}),
+            new ButtonInfo({
+                buttonText: "Teleport Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const gunPointer = gunData.gunPointer;
+                        if (rightTrigger && !perviousTeleportKey) {
+                            teleportPlayer(getTransform(gunPointer).method("get_position").invoke());
+                            rigidbody.method("set_linearVelocity").invoke(zeroVector);
+                        }
+                        perviousTeleportKey = rightTrigger;
+                    }
+                },
+                toolTip: "Teleports you to wherever your hand desires."
+            }),
+            new ButtonInfo({
+                buttonText: "Teleport To Random",
+                method: () => {
+                    //const vrrigs = GorillaParent.field("vrrigs").value;
+                    //const vrrigtotal = vrrigs.method("get_Count").invoke();
+                    //const playerRig = vrrigs.method("get_Item").invoke(Math.floor(Math.random() * vrrigtotal));
+                    const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (!rigs)
+                        return null;
+                    const otherRigs = [];
+                    for (let i = 0; i < rigs.length; i++) {
+                        const rig = rigs.get(i);
+                        if (playerIsLocal(rig))
+                            continue;
+                        otherRigs.push(rig);
+                    }
+                    if (otherRigs.length === 0)
+                        return null;
+                    const playerRig = otherRigs[Math.floor(Math.random() * otherRigs.length)];
+                    teleportPlayer(getTransform(playerRig).method("get_position").invoke());
+                    rigidbody.method("set_linearVelocity").invoke(zeroVector);
+                },
+                isTogglable: false,
+                toolTip: "Teleports you to a random player."
+            }),
+            new ButtonInfo({
+                buttonText: "Iron Man",
+                method: () => {
+                    if (leftPrimary) {
+                        const leftRightVector = leftHandTransform.method("get_right").invoke();
+                        const leftForce = Vector3.method("op_Multiply", 2).invoke(leftRightVector, -15.0 * deltaTime);
+                        rigidbody.method("AddForce", 2).invoke(leftForce, 2);
+                    }
+                    if (rightPrimary) {
+                        const leftRightVector = rightHandTransform.method("get_right").invoke();
+                        const leftForce = Vector3.method("op_Multiply", 2).invoke(leftRightVector, 15.0 * deltaTime);
+                        rigidbody.method("AddForce", 2).invoke(leftForce, 2);
+                    }
+                },
+                toolTip: "Turns you into iron man. Use A and X to fly."
+            }),
+            new ButtonInfo({
+                buttonText: "Noclip",
+                method: () => {
+                    if (rightTrigger && !previousNoclipKey) {
+                        toggleColliders(false);
+                    }
+                    if (!rightTrigger && previousNoclipKey) {
+                        toggleColliders(true);
+                    }
+                    previousNoclipKey = rightTrigger;
+                },
+                toolTip: "Lets you clip through objects while holding right trigger."
+            }),
+            new ButtonInfo({
+                buttonText: "Noclip V2",
+                method: () => {
+                    if (rightTrigger && !previousNoclipKey) {
+                        //toggleColliders(false);
+                        //GTPlayer.field("<bodyColliderEnabled>k__BackingField").value = false;
+                        GTPlayer.field("<ignoreHeadCollisions>k__BackingField").value = true;
+                        //console.log(GTPlayer.field("<handSlideFriction>k__BackingField").value);
+                        //GTPlayer.field("<handSlideFriction>k__BackingField").value = 0;
+                    }
+                    if (!rightTrigger && previousNoclipKey) {
+                        //toggleColliders(true);
+                        //GTPlayer.field("<bodyColliderEnabled>k__BackingField").value = true;
+                        GTPlayer.field("<ignoreHeadCollisions>k__BackingField").value = false;
+                        //<handSlideFriction>k__BackingField
+                        //GTPlayer.field("<handSlideFriction>k__BackingField").value = 1.2000000476837158;
+                    }
+                    previousNoclipKey = rightTrigger;
+                },
+                toolTip: "Lets you clip through objects while holding right trigger."
+            }),
+            new ButtonInfo({
+                buttonText: "Legit Long Arms",
+                method: () => {
+                    getTransform(GTPlayer).method("set_localScale").invoke([1.08, 1.08, 1.08]);
+                },
+                disableMethod: () => {
+                    getTransform(GTPlayer).method("set_localScale").invoke(oneVector);
+                },
+                toolTip: "Gives you Slightly longer arms."
+            }),
+            new ButtonInfo({
+                buttonText: "Long Arms",
+                method: () => {
+                    getTransform(GTPlayer).method("set_localScale").invoke([1.25, 1.25, 1.25]);
+                },
+                disableMethod: () => {
+                    getTransform(GTPlayer).method("set_localScale").invoke(oneVector);
+                },
+                toolTip: "Gives you longer arms."
+            }),
+            new ButtonInfo({
+                buttonText: "Speed Boost",
+                method: () => {
+                    //GTPlayer.field("maxJumpSpeed").value = 9.0;
+                    GTPlayer.method("SetJumpVelocityMultiplier").invoke(2);
+                },
+                toolTip: "Gives you a speed boost."
+            }),
+            new ButtonInfo({
+                buttonText: "weird rotation mod",
+                method: () => {
+                    if (!GTPlayer || !rigidbody)
+                        return;
+                    const setConstraints = rigidbody.method("set_constraints");
+                    const getConstraints = rigidbody.method("get_constraints");
+                    const setLocalRotation = getTransform(GTPlayer).method("set_localRotation");
+                    const setVelocity = rigidbody.method("set_linearVelocity");
+                    const getVelocity = rigidbody.method("get_linearVelocity");
+                    const addForce = rigidbody.method("AddForce");
+                    if (rightStick) {
+                        setConstraints.invoke(0);
+                    }
+                    if (!rightStick) {
+                        if (getConstraints.invoke().field("value__").value === 0) {
+                            setConstraints.invoke(112);
+                            setLocalRotation.invoke(identityQuaternion);
+                        }
+                    }
+                },
+                toolTip: "Turns you into super man. Use X to fly."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Slide Control",
+            //    enableMethod: () => {
+            //        oldSlide = GTPlayer.field("slideControl").value;
+            //        GTPlayer.field("slideControl").value = 1;
+            //    },
+            //    disableMethod: () => GTPlayer.field("slideControl").value = oldSlide,
+            //    toolTip: "Lets you control yourself on ice perfectly."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Predictions",
+            //    enableMethod: () => {
+            //        lvT = createObject(zeroVector, identityQuaternion, zeroVector, 0, [0.0, 0.0, 0.0, 0.0]);
+            //        Destroy(getComponent(lvT, BoxCollider))
+            //        addComponent(lvT, GorillaVelocityTracker);
+            //
+            //        rvT = createObject(zeroVector, identityQuaternion, zeroVector, 0, [0.0, 0.0, 0.0, 0.0]);
+            //        Destroy(getComponent(rvT, BoxCollider))
+            //        addComponent(rvT, GorillaVelocityTracker);
+            //    },
+            //    method: () => {
+            //        let predCount = 0.02;
+            //
+            //        getTransform(lvT).method("set_position").invoke(Vector3.method("op_Subtraction", 2).invoke(getTransform(headCollider).method("get_position").invoke(), leftHandTransform.method("get_position").invoke()));
+            //        getTransform(rvT).method("set_position").invoke(Vector3.method("op_Subtraction", 2).invoke(getTransform(headCollider).method("get_position").invoke(), rightHandTransform.method("get_position").invoke()));
+            //
+            //        let leftHandPosition = leftHandTransform.method("get_position").invoke();
+            //        let rightHandPosition = rightHandTransform.method("get_position").invoke();
+            //
+            //        let leftHandVelocity = getComponent(lvT, GorillaVelocityTracker).method("GetAverageVelocity").invoke(true, 0.0, false);
+            //        let rightHandVelocity = getComponent(rvT, GorillaVelocityTracker).method("GetAverageVelocity").invoke(true, 0.0, false);
+            //
+            //        leftHandVelocity = Vector3.method("op_Multiply", 2).invoke(leftHandVelocity, predCount);
+            //        rightHandVelocity = Vector3.method("op_Multiply", 2).invoke(rightHandVelocity, predCount);
+            //
+            //        leftHandPosition = Vector3.method("op_Subtraction", 2).invoke(leftHandPosition, leftHandVelocity);
+            //        rightHandPosition = Vector3.method("op_Subtraction", 2).invoke(rightHandPosition, rightHandVelocity);
+            //
+            //        leftHandTransform.method("set_position").invoke(leftHandPosition);
+            //        rightHandTransform.method("set_position").invoke(rightHandPosition);
+            //    },
+            //    disableMethod: () => {
+            //        Destroy(lvT);
+            //        Destroy(rvT);
+            //    },
+            //    toolTip: "Gives your controllers higher predictions."
+            //}),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Fun Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Next Item",
+                method: () => {
+                    currentItemIndex = (currentItemIndex + 1) % itemIDs.length;
+                    sendNotification("Prefab: " + itemIDs[currentItemIndex], false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles to the next item."
+            }),
+            new ButtonInfo({
+                buttonText: "Prev Item",
+                method: () => {
+                    currentItemIndex = (currentItemIndex - 1 + itemIDs.length) % itemIDs.length;
+                    sendNotification("Prefab: " + itemIDs[currentItemIndex], false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles to the previous item."
+            }),
+            new ButtonInfo({
+                buttonText: "Item Orbit",
+                isTogglable: true,
+                method: (() => {
+                    let orbitAngle = 0;
+                    let spawnedItems = [];
+                    let lastSpawnIndex = -1;
+                    const ORBIT_RADIUS = 1.5;
+                    const ORBIT_SPEED = 90.0;
+                    return () => {
+                        try {
+                            // respawn items if the selected item changed
+                            if (lastSpawnIndex !== currentItemIndex) {
+                                // destroy old items
+                                for (const item of spawnedItems) {
+                                    try {
+                                        if (item && !item.isNull()) {
+                                            const no = item.method("GetComponent", 1)
+                                                .inflate(NetworkObjectClass).invoke();
+                                            if (no && !no.isNull()) {
+                                                const runner = PrefabGen.field("_instance")
+                                                    .value.method("get_runner").invoke();
+                                                runner.method("Despawn", 1).invoke(no);
+                                            }
+                                        }
+                                    }
+                                    catch (_) { }
+                                }
+                                spawnedItems = [];
+                                // spawn new items
+                                const spawnPos = getTransform(headCollider).method("get_position").invoke();
+                                for (let i = 0; i < 5; i++) {
+                                    try {
+                                        const spawned = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(itemIDs[currentItemIndex]), spawnPos, identityQuaternion, null);
+                                        if (spawned && !spawned.isNull()) {
+                                            spawnedItems.push(spawned);
+                                        }
+                                    }
+                                    catch (_) { }
+                                }
+                                lastSpawnIndex = currentItemIndex;
+                            }
+                            orbitAngle += ORBIT_SPEED * deltaTime;
+                            if (orbitAngle > 360)
+                                orbitAngle -= 360;
+                            const centerPos = getTransform(headCollider).method("get_position").invoke();
+                            for (let i = 0; i < spawnedItems.length; i++) {
+                                const item = spawnedItems[i];
+                                if (!item || item.isNull())
+                                    continue;
+                                const angleOffset = (360 / spawnedItems.length) * i;
+                                const rad = (orbitAngle + angleOffset) * (Math.PI / 180);
+                                const offsetX = Math.cos(rad) * ORBIT_RADIUS;
+                                const offsetZ = Math.sin(rad) * ORBIT_RADIUS;
+                                const offsetVec = Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, offsetX), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, offsetZ));
+                                const targetPos = Vector3.method("op_Addition").invoke(centerPos, offsetVec);
+                                try {
+                                    const gbo = item.method("GetComponent", 1).inflate(GBOClass).invoke();
+                                    if (gbo && !gbo.isNull()) {
+                                        gbo.method("RPC_Teleport", 2).invoke(targetPos, identityQuaternion, zeroVector, zeroVector, false, false);
+                                    }
+                                }
+                                catch (_) {
+                                    // fallback: move transform directly
+                                    try {
+                                        getTransform(item).method("set_position").invoke(targetPos);
+                                    }
+                                    catch (_) { }
+                                }
+                            }
+                        }
+                        catch (e) {
+                            console.error("item orbit error:", e);
+                        }
+                    };
+                })(),
+                disableMethod: (() => {
+                    // need a shared ref to clean up spawned items on disable
+                    return () => { };
+                })(),
+                toolTip: "Uh item orbit."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn item",
+                isTogglable: true,
+                method: () => {
+                    if (!rightGrab)
+                        return;
+                    try {
+                        const pos = rightHandTransform.method("get_position").invoke();
+                        const rot = rightHandTransform.method("get_rotation").invoke();
+                        const spawned = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(itemIDs[currentItemIndex]), pos, rot, null);
+                        // apply scale after spawn
+                        if (spawned && !spawned.isNull()) {
+                            try {
+                                const gbo = spawned.method("GetComponent", 1)
+                                    .inflate(GBOClass).invoke();
+                                if (gbo && !gbo.isNull()) {
+                                    gbo.method("set_scaleModifier").invoke(Math.floor(sizespawner));
+                                }
+                            }
+                            catch (_) { }
+                        }
+                    }
+                    catch (e) {
+                        console.error("Grip spawn error:", e);
+                    }
+                },
+                toolTip: "Item spawn lol."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Spawn Hoverboard",
+            //    method: () => {
+            //        GTPlayer.method("SetHoverAllowed").invoke(true, true)
+            //        FreeHoverboardManager.method("SendDropBoardRPC").invoke(rightHandTransform.method("get_position").invoke(), identityQuaternion, zeroVector, zeroVector, bgColor);
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Spawns you in a hoverboard."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Become Goldentrophy",
+            //    method: () => {
+            //        setPlayerName("goldentrophy");
+            //        setPlayerColor([1.0, 0.5, 0.0]);
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Turns you into goldentrophy."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Water Splash Hands",
+            //    method: () => {
+            //        if (leftGrab && time > splashDelay) {
+            //            splashDelay = time + 0.1;
+            //            const objectArray = Il2Cpp.array(SystemObject, [leftHandTransform.method("get_position").invoke(), leftHandTransform.method("get_rotation").invoke(), 1.0, 0.5, true, false]);
+            //
+            //            const method = GorillaTagger.method("get_myVRRig").invoke().method("SendRPC", 3).overload(
+            //                "System.String",
+            //                "Photon.Pun.RpcTarget",
+            //                "System.Object[]");
+            //
+            //            method.invoke(Il2Cpp.string("RPC_PlaySplashEffect"), 0, objectArray);
+            //        }
+            //        if (rightGrab && time > splashDelay) {
+            //            splashDelay = time + 0.1;
+            //            const objectArray = Il2Cpp.array(SystemObject, [rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke(), 1.0, 0.5, true, false]);
+            //
+            //            const method = GorillaTagger.method("get_myVRRig").invoke().method("SendRPC", 3).overload(
+            //                "System.String",
+            //                "Photon.Pun.RpcTarget",
+            //                "System.Object[]");
+            //
+            //            method.invoke(Il2Cpp.string("RPC_PlaySplashEffect"), 0, objectArray);
+            //        }
+            //    },
+            //    toolTip: "Splashes water on your hands when pressing your grips."
+            //}),
+            new ButtonInfo({
+                buttonText: "Get ID Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), FusionPlayerClass);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > idGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    idGunDelay = time + 0.5;
+                                    //const id = gunTarget.method("get_Creator").invoke().method("get_UserId").invoke();
+                                    const id = gunTarget.method("get_PlayerId").invoke();
+                                    sendNotification("ID: " + String(id));
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Logs the ID of whoever your hand desires."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Grab Players",
+            //    disableMethod: () => {
+            //        Destroy(mylittleSphere);
+            //        mylittleSphere = null;
+            //    },
+            //    enableMethod: () => {
+            //        const handTransform = rightHandTransform;
+            //
+            //        // create visual ghost sphere
+            //        mylittleSphere = createObject(
+            //            handTransform.method("get_position").invoke(),
+            //            handTransform.method("get_rotation").invoke(),
+            //            [0.3, 0.3, 0.3],
+            //            0,
+            //            bgColor
+            //        );
+            //
+            //        // destroy collider for purely visual
+            //        Destroy(getComponent(mylittleSphere, Collider));
+            //
+            //        // parent to hand
+            //        getTransform(mylittleSphere).method("set_parent").invoke(getTransform(handTransform));
+            //
+            //        if (rightGrab && mylittleSphere) {
+            //            const handPos = getTransform(rightHandTransform).method("get_position").invoke();
+            //            const handForward = getTransform(rightHandTransform).method("get_forward").invoke();
+            //                            
+            //            const sphereScale = getTransform(mylittleSphere).method("get_localScale").invoke();
+            //            const maxDistance = 0.5 * sphereScale[0]; // match visual sphere radius
+            //                            
+            //            // tiny raycast like ID Gun
+            //            const hits = Physics.method("RaycastAll", 4).invoke(
+            //                handPos,
+            //                handForward,
+            //                maxDistance,
+            //                -1 // all layers
+            //            );
+            //        
+            //            let finalHit = null;
+            //            let closestDistance = Infinity;
+            //            for (const hit of hits) {
+            //                const hitPoint = hit.method("get_point").invoke();
+            //                const distance = Vector3.method("Distance").invoke(handPos, hitPoint);
+            //                if (distance < closestDistance) {
+            //                    finalHit = hit;
+            //                    closestDistance = distance;
+            //                }
+            //            }
+            //        
+            //            if (finalHit) {
+            //                const netPlayer = getComponentInParent(finalHit.method("get_collider").invoke(), NetPlayer);
+            //                if (netPlayer && !playerIsLocal(netPlayer)) {
+            //                    console.log("NetPlayer touching ghost sphere via ray");
+            //                }
+            //            }
+            //        }
+            //
+            //
+            //
+            //
+            //        //new ButtonInfo({
+            ////    buttonText: "Cosmetic Tracers",
+            ////    disableMethod: () => {
+            ////        for (let line of linePool) {
+            ////            line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+            ////        }
+            ////    },
+            ////    method: () => {
+            ////        if (frameCount % 5 != 0) {
+            ////            for (let line of linePool) {
+            ////                line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+            ////            }
+            ////            const vrrigs = GorillaParent.field("vrrigs").value;
+            ////            const vrrigtotal = vrrigs.method("get_Count").invoke();
+            ////            const rigs = [];
+            ////            const cosmeticRigs = [];
+            ////            for (let i = 0; i < vrrigtotal; i++) {
+            ////                const playerRig = vrrigs.method("get_Item").invoke(i);
+            ////                rigs.push(playerRig);
+            ////                if (playerIsLocal(playerRig)) continue;
+            ////                const concat = String(playerRig.field("concatStringOfCosmeticsAllowed").value);
+            ////                if (concat.includes("LBAAD.")) { cosmeticRigs.push(i); continue; }; // Admin
+            ////                if (concat.includes("LBAAK.")) { cosmeticRigs.push(i); continue; }; // Stick
+            ////                if (concat.includes("LMAPY.")) { cosmeticRigs.push(i); continue; }; // Forest Guide
+            ////                if (concat.includes("LBAGS.")) { cosmeticRigs.push(i); continue; }; // Illustrator
+            ////                if (concat.includes("LBADE.")) { cosmeticRigs.push(i); continue; }; // Finger Painter
+            ////                if (concat.includes("LBANI.")) { cosmeticRigs.push(i); continue; }; // AA Creator
+            ////            }
+            ////            for (let i = 0; i < vrrigtotal; i++) {
+            ////                if (cosmeticRigs.includes(i) == false) continue;
+            ////                const playerRig = rigs[i];
+            ////                if (!playerIsLocal(playerRig)) {
+            ////                    const color = playerRig.field("playerColor").value;
+            ////                    if (lineRenderHolder == null) {
+            ////                        lineRenderHolder = GameObject.new("LineRender_Holder");
+            ////                    }
+            ////                    let finalRender = null;
+            ////                    let nl = false;
+            ////                    for (let line of linePool) {
+            ////                        if (finalRender != null) continue;
+            ////                        if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+            ////                            line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+            ////                            finalRender = line;
+            ////                            break;
+            ////                        }
+            ////                    }
+            ////                    if (finalRender == null) {
+            ////                        nl = true;
+            ////                        const lineHolder = GameObject.new("LineObject");
+            ////                        getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+            ////                        const newLine = addComponent(lineHolder, LineRenderer);
+            ////                        const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("GUI/Text Shader"));
+            ////                        newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+            ////                        newLine.method("set_startWidth").invoke(0.025);
+            ////                        newLine.method("set_endWidth").invoke(0.025);
+            ////                        newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+            ////                        newLine.method("set_useWorldSpace").invoke(true);
+            ////                        newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+            ////                        linePool.push(newLine);
+            ////                        finalRender = newLine;
+            ////                    }
+            ////                    finalRender.method("set_startColor").invoke(color);
+            ////                    finalRender.method("set_endColor").invoke(color);
+            ////                    finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+            ////                    finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+            ////                }
+            ////            }
+            ////        }
+            ////    },
+            ////    isTogglable: true,
+            ////    toolTip: "Puts tracers on your right hand. Only shows players with rare cosmetics."
+            ////}),
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Logs the ID of whoever your hand desires."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Get Platform Gun",
+            //    method: () => {
+            //        if (rightGrab) {
+            //            const gunData = renderGun();
+            //            const ray = gunData.ray;
+            //
+            //            if (rightTrigger) {
+            //                const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+            //                if (gunTarget && !gunTarget.handle.isNull() && time > idGunDelay) {
+            //                    if (!playerIsLocal(gunTarget)) {
+            //                        idGunDelay = time + 0.5;
+            //                        const player = gunTarget.method("get_Creator").invoke();
+            //                        const concat = String(gunTarget.field("concatStringOfCosmeticsAllowed").value);
+            //                        const isSteam = (concat.includes("S. FIRST LOGIN") || concat.includes("FIRST LOGIN")) && !concat.includes("LMAKT.");
+            //                        sendNotification(isSteam ? "PLATFORM: Steam" : "PLATFORM: Meta");
+            //                    }
+            //                }
+            //            }
+            //        }
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Logs the platform of whoever your hand desires."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Punch Mod",
+            //    method: () => {
+            //        // This is MORE optimized (BY A LOT) than the one in the steam menu.
+            //        const vrrigs = GorillaParent.field("vrrigs").value;
+            //        const vrrigtotal = vrrigs.method("get_Count").invoke();
+            //        let index = 0;
+            //        for (let i = 0; i < vrrigtotal; i++) {
+            //            const vrrig = vrrigs.method("get_Item").invoke(i);
+            //            index++;
+            //            let they = vrrig.field("rightHandTransform").value.method("get_position").invoke();
+            //            const notthem = getTransform(headCollider).method("get_position").invoke();
+            //            let distance = Vector3.method("Distance").invoke(they, notthem);
+            //            if (distance < 0.25) {
+            //                const vel = Vector3.method("op_Addition", 2).invoke(Vector3.method("op_Multiply").invoke(Vector3.method("Normalize").invoke(Vector3.method("op_Subtraction", 2).invoke(they, punchLastRight[index])), highPunchPower ? 10 : 5), rigidbody.method("get_velocity").invoke());
+            //                rigidbody.method("set_velocity").invoke(vel);
+            //            }
+            //            punchLastRight[index] = they;
+            //            they = vrrig.field("leftHandTransform").value.method("get_position").invoke();
+            //            distance = Vector3.method("Distance").invoke(they, notthem);
+            //            if (distance < 0.25) {
+            //                const vel = Vector3.method("op_Addition", 2).invoke(Vector3.method("op_Multiply").invoke(Vector3.method("Normalize").invoke(Vector3.method("op_Subtraction", 2).invoke(they, punchLastLeft[index])), highPunchPower ? 10 : 5), rigidbody.method("get_velocity").invoke());
+            //                rigidbody.method("set_velocity").invoke(vel);
+            //            }
+            //            punchLastLeft[index] = they;
+            //        }
+            //    },
+            //    toolTip: "Lets people punch you across the map."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Max Quest Score",
+            //    method: () => {
+            //        LocalRig.method("SetQuestScore")?.invoke(999999)
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Sets Your Quest Score To Max"
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Max Ranked Level",
+            //    method: () => {
+            //        LocalRig.method("SetRankedInfo", 4)?.invoke(4000.0, 7, 7, true);
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Sets Your Ranked Level To Max"
+            //}),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Advantage Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Stinky Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_TagAsStinky").invoke();
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Stinkies whoever your hand desires."
+            }),
+            new ButtonInfo({
+                buttonText: "Stinky All",
+                isTogglable: false,
+                method: () => {
+                    const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (!rigs)
+                        return null;
+                    for (let i = 0; i < rigs.length; i++) {
+                        const rig = rigs.get(i);
+                        if (rig.method("get_IsMine").invoke())
+                            continue;
+                        rig.method("RPC_TagAsStinky").invoke();
+                    }
+                },
+                toolTip: "Stinkies everyone"
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Get all player names",
+            //    isTogglable: false,
+            //    method: () => {
+            //        const rigs = Object.method("FindObjectsOfType").inflate(NetworkTransformClass).invoke();
+            //        if (!rigs) return null;
+            //
+            //    },
+            //    toolTip: "Stinkies everyone"
+            //}),
+            new ButtonInfo({
+                buttonText: "72 FPS",
+                method: () => {
+                    const targetDelta = 1 / 72;
+                    const elapsed = Time.method("get_realtimeSinceStartup").invoke() - lastTime;
+                    if (elapsed < targetDelta) {
+                        const sleepMs = Math.floor((targetDelta - elapsed) * 1000);
+                        if (sleepMs > 0)
+                            Thread.method("Sleep").invoke(sleepMs);
+                    }
+                    lastTime = Time.method("get_realtimeSinceStartup").invoke();
+                },
+                isTogglable: true,
+                toolTip: "Caps your FPS at 72 frames per second."
+            }),
+            new ButtonInfo({
+                buttonText: "60 FPS",
+                method: () => {
+                    const targetDelta = 1 / 60;
+                    const elapsed = Time.method("get_realtimeSinceStartup").invoke() - lastTime;
+                    if (elapsed < targetDelta) {
+                        const sleepMs = Math.floor((targetDelta - elapsed) * 1000);
+                        if (sleepMs > 0)
+                            Thread.method("Sleep").invoke(sleepMs);
+                    }
+                    lastTime = Time.method("get_realtimeSinceStartup").invoke();
+                },
+                isTogglable: true,
+                toolTip: "Caps your FPS at 60 frames per second."
+            }),
+            new ButtonInfo({
+                buttonText: "45 FPS",
+                method: () => {
+                    const targetDelta = 1 / 45;
+                    const elapsed = Time.method("get_realtimeSinceStartup").invoke() - lastTime;
+                    if (elapsed < targetDelta) {
+                        const sleepMs = Math.floor((targetDelta - elapsed) * 1000);
+                        if (sleepMs > 0)
+                            Thread.method("Sleep").invoke(sleepMs);
+                    }
+                    lastTime = Time.method("get_realtimeSinceStartup").invoke();
+                },
+                isTogglable: true,
+                toolTip: "Caps your FPS at 45 frames per second."
+            }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Rig Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Ghost",
+            //    method: () => {
+            //        if (rightPrimary && !previousGhostKey) {
+            //            //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+            //            const player = PCClass.method("get_instance").invoke();
+            //            const RIGTESTBETA = player.method("get_playerView").invoke()
+            //            if(!RIGTESTBETA) return null;
+            //
+            //            const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+            //            if (!bodyRootTF) return null;
+            //
+            //            const bodyRootTFOld = bodyRootTF.method("get_position").invoke()
+            //
+            //            bodyRootTF.method("set_position").invoke(bodyRootTFOld)
+            //        }
+            //        else if (!rightPrimary && previousGhostKey) {
+            //            const player = PCClass.method("get_instance").invoke();
+            //            const RIGTESTBETA = player.method("get_playerView").invoke()
+            //            if(!RIGTESTBETA) return null;
+            //
+            //            const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+            //            if (!bodyRootTF) return null;
+            //
+            //            bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke())
+            //        }
+            //        previousGhostKey = rightPrimary;
+            //    },
+            //    toolTip: "Freezes your rig when pressing A."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Ghost",
+            //    method: () => {
+            //        const player = PCClass.method("get_instance").invoke();
+            //        if (!player) return null;
+            //    
+            //        const rig = player.method("get_playerView").invoke();
+            //        if (!rig) return null;
+            //    
+            //        const bodyRootTF = rig.field("_cameraTransform").value;
+            //        const handLeftTF = rig.field("_handTargetLeft").value;
+            //        const handRightTF = rig.field("_handTargetRight").value;
+            //    
+            //        if (rightPrimary && !previousGhostKey) {
+            //            // Cache positions
+            //            if (bodyRootTF) cachedGhostPos.head = bodyRootTF.method("get_position").invoke();
+            //            if (handLeftTF) cachedGhostPos.leftHand = handLeftTF.method("get_position").invoke();
+            //            if (handRightTF) cachedGhostPos.rightHand = handRightTF.method("get_position").invoke();
+            //        }
+            //    
+            //        if (rightPrimary) {
+            //            // Keep freezing positions
+            //            if (bodyRootTF && cachedGhostPos.head) bodyRootTF.method("set_position").invoke(cachedGhostPos.head);
+            //            if (handLeftTF && cachedGhostPos.leftHand) handLeftTF.method("set_position").invoke(cachedGhostPos.leftHand);
+            //            if (handRightTF && cachedGhostPos.rightHand) handRightTF.method("set_position").invoke(cachedGhostPos.rightHand);
+            //        } else if (!rightPrimary && previousGhostKey) {
+            //            // On release, restore head to headCollider
+            //            if (bodyRootTF) bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+            //            cachedGhostPos = { head: null, leftHand: null, rightHand: null };
+            //        }
+            //    
+            //        previousGhostKey = rightPrimary;
+            //    },
+            //    toolTip: "Freezes your rig positions when pressing A."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "nothing here",
+            //    method: () => {
+            //    },
+            //    toolTip: ""
+            //}),
+            //
+            new ButtonInfo({
+                buttonText: "Invisible",
+                method: () => {
+                    if (rightPrimary && !previousInvisKey) { // && !previousInvisKey) {
+                        //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+                        const player = PCClass.method("get_instance").invoke();
+                        const RIGTESTBETA = player.method("get_playerView").invoke();
+                        if (!RIGTESTBETA)
+                            return null;
+                        const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                        if (!bodyRootTF)
+                            return null;
+                        bodyRootTF.method("set_position").invoke([0, -99999, 0]);
+                    }
+                    else if (!rightPrimary && previousInvisKey) {
+                        const player = PCClass.method("get_instance").invoke();
+                        const RIGTESTBETA = player.method("get_playerView").invoke();
+                        if (!RIGTESTBETA)
+                            return null;
+                        const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                        if (!bodyRootTF)
+                            return null;
+                        bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+                    }
+                    //if (!LocalRig.method("get_enabled").invoke()) {
+                    //    getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+                    //}
+                    //const player = NetPlayer.method("get_localPlayer").invoke();
+                    //if (!player) return;
+                    //if (rightSecondary && !previousInvisKey) {
+                    //    //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+                    //    //weird inverted giant head lol
+                    //    player.method("set_playerHeadSize").invoke(-50);
+                    //    //set_propBodyID is ss and number 8 is item_crate which is invis
+                    //    
+                    //}
+                    //if () {//(!LocalRig.method("get_enabled").invoke()) {
+                    //    //getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+                    //}
+                    previousInvisKey = rightPrimary;
+                },
+                toolTip: "Turns you invisible when holding right joystick." //pressing B."
+            }),
+            new ButtonInfo({
+                buttonText: "Ragdoll",
+                method: () => {
+                    if (rightStick && !previousInvisKey) { // && !previousInvisKey) {
+                        //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+                        const player = PCClass.method("get_instance").invoke();
+                        const RIGTESTBETA = player.method("get_playerView").invoke();
+                        if (!RIGTESTBETA)
+                            return null;
+                        //const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                        //if (!bodyRootTF) return null;
+                        RIGTESTBETA.method("SetRagdoll").invoke(true, [0, 0, 0], rigidbody, getTransform(headCollider));
+                    }
+                    else if (!rightStick && previousInvisKey) {
+                        const player = PCClass.method("get_instance").invoke();
+                        const RIGTESTBETA = player.method("get_playerView").invoke();
+                        if (!RIGTESTBETA)
+                            return null;
+                        //const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                        //if (!bodyRootTF) return null;
+                        //
+                        //bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke())
+                        RIGTESTBETA.method("SetRagdoll").invoke(false, [0, 0, 0], rigidbody, getTransform(headCollider));
+                    }
+                    //if (!LocalRig.method("get_enabled").invoke()) {
+                    //    getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+                    //}
+                    //const player = NetPlayer.method("get_localPlayer").invoke();
+                    //if (!player) return;
+                    //if (rightSecondary && !previousInvisKey) {
+                    //    //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+                    //    //weird inverted giant head lol
+                    //    player.method("set_playerHeadSize").invoke(-50);
+                    //    //set_propBodyID is ss and number 8 is item_crate which is invis
+                    //    
+                    //}
+                    //if () {//(!LocalRig.method("get_enabled").invoke()) {
+                    //    //getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+                    //}
+                    previousInvisKey = rightStick;
+                },
+                toolTip: "Ragdoll your rig when holding right joystick." //pressing B."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Third Person Cam?",
+            //    method: () => {
+            //        if (rightStick && !previousInvisKey) {// && !previousInvisKey) {
+            //            //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+            //            const player = PCClass.method("get_instance").invoke();
+            //            const RIGTESTBETA = player.method("get_playerView").invoke()
+            //            if(!RIGTESTBETA) return null;
+            //
+            //            //const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+            //            //if (!bodyRootTF) return null;
+            //
+            //            RIGTESTBETA.method("SetName").invoke(Il2Cpp.string("SetName"))
+            //            //                        const view = RIGTESTBETA.field("_mode").value;
+            //            //view.field("value__").value = 0;
+            //            
+            //        }
+            //        //else if (!rightStick && previousInvisKey) {
+            //        //    const player = PCClass.method("get_instance").invoke();
+            //        //    const RIGTESTBETA = player.method("get_playerView").invoke()
+            //        //    if(!RIGTESTBETA) return null;
+            ////
+            //        //    //const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+            //        //    //if (!bodyRootTF) return null;
+            //////
+            //        //    //bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke())
+            //        //    //const view = RIGTESTBETA.field("_mode").value;
+            //        //    //view.field("value__").value = 0;
+            //        //    RIGTESTBETA.method("SetName").invoke(1)
+            //        //}
+            //        //if (!LocalRig.method("get_enabled").invoke()) {
+            //        //    getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+            //        //}
+            //        //const player = NetPlayer.method("get_localPlayer").invoke();
+            //        //if (!player) return;
+            //        //if (rightSecondary && !previousInvisKey) {
+            //        //    //LocalRig.method("set_enabled").invoke(!LocalRig.method("get_enabled").invoke());
+            //        //    //weird inverted giant head lol
+            //        //    player.method("set_playerHeadSize").invoke(-50);
+            //        //    //set_propBodyID is ss and number 8 is item_crate which is invis
+            //        //    
+            //        //}
+            //        //if () {//(!LocalRig.method("get_enabled").invoke()) {
+            //        //    //getTransform(LocalRig).method("set_position").invoke([0, -99999, 0]);
+            //        //}
+            //        previousInvisKey = rightStick;
+            //
+            //    },
+            //    toolTip: "Turns you invisible when holding B." //pressing B."
+            //}),
+            new ButtonInfo({
+                buttonText: "Rig Gun",
+                //disableMethod: () => {
+                //    LocalRig.method("set_enabled").invoke(true);
+                //},
+                method: () => {
+                    const player = PCClass.method("get_instance").invoke();
+                    const RIGTESTBETA = player.method("get_playerView").invoke();
+                    if (!RIGTESTBETA)
+                        return null;
+                    const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                    if (!bodyRootTF)
+                        return null;
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const gunPointer = gunData.gunPointer;
+                        if (rightTrigger) {
+                            //LocalRig.method("set_enabled").invoke(false);
+                            const position = Vector3.method("op_Addition", 2).invoke([0, 1, 0], getTransform(gunPointer).method("get_position").invoke());
+                            bodyRootTF.method("set_position").invoke(position);
+                        }
+                        else {
+                            bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+                        }
+                    }
+                },
+                toolTip: "Moves your rig to wherever your hand desires."
+            }),
+            new ButtonInfo({
+                buttonText: "Grab Rig",
+                method: () => {
+                    const player = PCClass.method("get_instance").invoke();
+                    const RIGTESTBETA = player.method("get_playerView").invoke();
+                    if (!RIGTESTBETA)
+                        return null;
+                    const bodyRootTF = RIGTESTBETA.field("_cameraTransform").value;
+                    if (!bodyRootTF)
+                        return null;
+                    if (rightGrab) {
+                        //LocalRig.method("set_enabled").invoke(false);
+                        bodyRootTF.method("set_position").invoke(rightHandTransform.method("get_position").invoke());
+                        bodyRootTF.method("set_rotation").invoke(rightHandTransform.method("get_rotation").invoke());
+                    }
+                    else {
+                        bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+                        bodyRootTF.method("set_rotation").invoke(getTransform(headCollider).method("get_rotation").invoke());
+                    }
+                    if (leftGrab) {
+                        //LocalRig.method("set_enabled").invoke(false);
+                        bodyRootTF.method("set_position").invoke(leftHandTransform.method("get_position").invoke());
+                        bodyRootTF.method("set_rotation").invoke(leftHandTransform.method("get_rotation").invoke());
+                    }
+                    else {
+                        bodyRootTF.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+                        bodyRootTF.method("set_rotation").invoke(getTransform(headCollider).method("get_rotation").invoke());
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you grab your rig"
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Spaz Rig",
+            //    method: () => {
+            //        const trackingRotationOffset = LocalRig.field("head").value.field("trackingRotationOffset").value;
+            //        trackingRotationOffset.field("x").value = Math.random() * 360.0;
+            //        trackingRotationOffset.field("y").value = Math.random() * 360.0;
+            //        trackingRotationOffset.field("z").value = Math.random() * 360.0;
+            //    },
+            //    disableMethod: () => {
+            //        const trackingRotationOffset = LocalRig.field("head").value.field("trackingRotationOffset").value;
+            //        trackingRotationOffset.field("x").value = 0.0;
+            //        trackingRotationOffset.field("y").value = 0.0;
+            //        trackingRotationOffset.field("z").value = 0.0;
+            //    },
+            //    toolTip: "Spazzes your rig out."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Spin Head X",
+            //    method: () => {
+            //        const trackingRotationOffset = LocalRig.field("head").value.field("trackingRotationOffset").value;
+            //        trackingRotationOffset.field("x").value += 15.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("x").value = 0.0;
+            //    },
+            //    toolTip: "Rotate head around the X axis."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Spin Head Y",
+            //    method: () => {
+            //        const trackingRotationOffset = LocalRig.field("head").value.field("trackingRotationOffset").value;
+            //        trackingRotationOffset.field("y").value += 15.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("y").value = 0.0;
+            //    },
+            //    toolTip: "Rotate head around the Y axis."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Spin Head Z",
+            //    method: () => {
+            //        const trackingRotationOffset = LocalRig.field("head").value.field("trackingRotationOffset").value;
+            //        trackingRotationOffset.field("z").value += 15.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("z").value = 0.0;
+            //    },
+            //    toolTip: "Rotate head around the Z axis."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Upside Down Head",
+            //    method: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("z").value = 180.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("z").value = 0.0;
+            //    },
+            //    toolTip: "Flip your head upside down."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Broken Neck",
+            //    method: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("z").value = 90.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("z").value = 0.0;
+            //    },
+            //    toolTip: "Tilt your head sideways."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Backwards Head",
+            //    method: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("y").value = 180.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("y").value = 0.0;
+            //    },
+            //    toolTip: "Turn your head backwards."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Sideways Head",
+            //    method: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("y").value = 90.0;
+            //    },
+            //    disableMethod: () => {
+            //        LocalRig.field("head").value.field("trackingRotationOffset").value.field("y").value = 0.0;
+            //    },
+            //    toolTip: "Rotate your head sideways."
+            //}),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Misc Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Item In Stash???",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        // find the stash machine
+                        const StashMachine = AssemblyCSharp.class("AnimalCompany.StashMachine.StashMachineView");
+                        const stashes = Object.method("FindObjectsOfType").inflate(StashMachine).invoke();
+                        if (!stashes || stashes.length === 0) {
+                            sendNotification("No stash found in room!", false);
+                            return;
+                        }
+                        // use the first stash found
+                        const stash = stashes.get(0);
+                        if (!stash || stash.isNull()) {
+                            sendNotification("Stash is null!", false);
+                            return;
+                        }
+                        // get the stash transform to spawn at its position
+                        const stashTransform = getTransform(stash);
+                        const stashPos = stashTransform.method("get_position").invoke();
+                        // spawn the item at the stash position
+                        const spawned = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(itemIDs[currentItemIndex]), stashPos, identityQuaternion, null);
+                        if (!spawned || spawned.isNull()) {
+                            sendNotification("Spawn failed!", false);
+                            return;
+                        }
+                        // apply current scale
+                        try {
+                            const gbo = spawned.method("GetComponent", 1)
+                                .inflate(GBOClass).invoke();
+                            if (gbo && !gbo.isNull()) {
+                                if (sizespawner !== 0) {
+                                    gbo.method("set_scaleModifier").invoke(Math.floor(sizespawner));
+                                }
+                            }
+                        }
+                        catch (_) { }
+                        // try to add it directly into the stash slots
+                        try {
+                            const stashState = stash.field("_stashState").value;
+                            if (stashState && !stashState.isNull()) {
+                                const slots = stashState.field("_slots").value;
+                                if (slots && !slots.isNull()) {
+                                    const slotCount = slots.method("get_Count").invoke();
+                                    console.log("Stash slot count: " + slotCount);
+                                    // find first empty slot and put the item in it
+                                    for (let i = 0; i < slotCount; i++) {
+                                        try {
+                                            const slot = slots.method("get_Item").invoke(i);
+                                            if (!slot || slot.isNull())
+                                                continue;
+                                            const isEmpty = slot.method("get_isEmpty").invoke();
+                                            if (isEmpty) {
+                                                const networkObj = spawned.method("GetComponent", 1)
+                                                    .inflate(NetworkObjectClass).invoke();
+                                                if (networkObj && !networkObj.isNull()) {
+                                                    slot.method("RPC_SetItem").invoke(networkObj);
+                                                    sendNotification("Spawned in stash slot " + i + ": " + itemIDs[currentItemIndex], false);
+                                                    return;
+                                                }
+                                            }
+                                        }
+                                        catch (_) { }
+                                    }
+                                    sendNotification("No empty stash slots found, item spawned at stash!", false);
+                                }
+                            }
+                        }
+                        catch (e) {
+                            // fallback: item is still spawned at stash position even if slot insert fails
+                            sendNotification("Spawned at stash: " + itemIDs[currentItemIndex], false);
+                            console.log("slot insert failed, item still spawned at stash pos: " + e);
+                        }
+                    }
+                    catch (e) {
+                        console.error("spawn in stash error:", e);
+                        sendNotification("Error: " + e, false);
+                    }
+                },
+                toolTip: "Stash spawner lol."
+            }),
+            new ButtonInfo({
+                buttonText: "Shoot Flaregun Projectiles",
+                method: () => {
+                    const player = NetPlayer.method("get_localPlayer").invoke();
+                    if (!player)
+                        return;
+                    const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                    if (!interactor)
+                        return;
+                    const itemAnchor = interactor.field("_itemAnchor").value;
+                    if (!itemAnchor)
+                        return;
+                    const stick = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("item_treestick"), rightHandTransform.method("get_position").invoke(), identityQuaternion, null);
+                    const idofstick = stick.method("get_Id").invoke();
+                    //TryGrabObject
+                    //Destroy(stick);
+                },
+                isTogglable: false,
+                toolTip: "Lets you eject more times using your stash"
+            }),
+            new ButtonInfo({
+                buttonText: "Ding!",
+                method: () => {
+                    const File = Il2Cpp.corlib.class("System.IO.File");
+                    const Directory = Il2Cpp.corlib.class("System.IO.Directory");
+                    const url = API_URL + "/massets/ding.wav";
+                    const audioType = 20;
+                    const request = UnityWebRequest.alloc();
+                    request.method(".ctor", 2).invoke(Il2Cpp.string(url), Il2Cpp.string("GET"));
+                    const dh = DownloadHandlerBuffer.method(".ctor").invoke();
+                    request.method("set_downloadHandler").invoke(dh);
+                    const op = request.method("SendWebRequest").invoke();
+                    while (!request.method("get_isDone").invoke()) { }
+                    const bytes = dh.method("GetData").invoke();
+                    const basePath = Il2Cpp.application.persistentDataPath;
+                    const soundDir = Il2Cpp.string(basePath + "/skid_audio");
+                    if (!Directory.method("Exists").invoke(soundDir)) {
+                        Directory.method("CreateDirectory").invoke(soundDir);
+                    }
+                    const filePath = Il2Cpp.string(soundDir + "/ding.wav");
+                    File.method("WriteAllBytes")
+                        .invoke(filePath, bytes);
+                    //const clip = DownloadHandlerAudioClip.method("GetContent").invoke(request);
+                    //Play2DAudio(clip, 1.0)
+                },
+                isTogglable: false,
+                toolTip: ":)"
+            }),
+            new ButtonInfo({
+                buttonText: "Get Hand Position",
+                method: () => {
+                    if (rightGrab) {
+                        console.log(rightHandTransform.method("get_position").invoke());
+                    }
+                    //TryGrabObject
+                    //Destroy(stick);
+                },
+                isTogglable: false,
+                toolTip: "Lets you eject more times using your stash"
+            }),
+            new ButtonInfo({
+                buttonText: "XrInput Name",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        player.method("RPC_SetPlayerName").invoke(Il2Cpp.string("XrInput"));
+                    }
+                    catch (e) {
+                        console.error("name change error:", e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Changes your in game name."
+            }),
+            new ButtonInfo({
+                buttonText: "Stash Dupe",
+                method: () => stashDupeEnabled = true, //righthand = true,
+                disableMethod: () => stashDupeEnabled = false, //righthand = false,
+                toolTip: "Lets you eject more times using your stash"
+            }),
+            new ButtonInfo({
+                buttonText: "Backpack Dupe",
+                method: () => backpackDupeEnabled = true, //righthand = true,
+                disableMethod: () => backpackDupeEnabled = false, //righthand = false,
+                toolTip: "Any item you dump out of a backpack will stay in the bag"
+            }),
+            new ButtonInfo({
+                buttonText: "Stash Allow Move",
+                method: () => stashAllowMoves = true, //righthand = true,
+                disableMethod: () => stashAllowMoves = false, //righthand = false,
+                toolTip: "Lets you use any move in the stash (put anything in quivers, put black crates in bags, etc.)"
+            }),
+            new ButtonInfo({
+                buttonText: "Items in any slot",
+                method: () => allowPutGBO = true, //righthand = true,
+                disableMethod: () => allowPutGBO = false, //righthand = false,
+                toolTip: "Lets you put any item on your back, or hip slots"
+            }),
+            new ButtonInfo({
+                buttonText: "Infinite Ammo",
+                enabled: true,
+                method: () => infAmmo = true, //righthand = true,
+                disableMethod: () => infAmmo = false, //righthand = false,
+                toolTip: "Lets you use items infinitely! (IF OFF IT SPAMS ERRORS IN THE CONSOLE AND DOESNT LET YOU USE ITEMS.)"
+            }),
+            new ButtonInfo({
+                buttonText: "Head Size Self (SS) (NOT ON CS)",
+                method: () => {
+                    //if (rightGrab) {
+                    //    //const gunData = renderGun();
+                    //    //const ray = gunData.ray;
+                    ////
+                    //    //if (rightTrigger) {
+                    //    //    const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                    //    //    if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                    //    //        if (!playerIsLocal(gunTarget)) {
+                    //    //            //tagGunDelay = time + 0.5;
+                    //    //            //LocalRig.method("set_enabled").invoke(false);
+                    //    //            //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                    //    //            //serialize();
+                    //    //            //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                    //    //            //LocalRig.method("set_enabled").invoke(true);
+                    //    //            //sendAllOutgoing();
+                    //    //            gunTarget.method("set_playerHeadSize").invoke(-50);
+                    //    //            //set_playerHeadSize
+                    //    //        }
+                    //    //    }
+                    //    //}
+                    //}
+                    const player = getMyPlayer();
+                    if (negativeHeadSize) {
+                        player.method("set_playerHeadSize").invoke(-headSizeAmount);
+                    }
+                    else {
+                        player.method("set_playerHeadSize").invoke(headSizeAmount);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Sets your head size to the head size amount. (ONLY FOR OTHER PLAYERS) (NOT VISIBLE ON YOUR SCREEN)"
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Massive Inverted Head Gun",
+            //    method: () => {
+            //        if (rightGrab) {
+            //            const gunData = renderGun();
+            //            const ray = gunData.ray;
+            //
+            //            if (rightTrigger) {
+            //                const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+            //                if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+            //                    if (!playerIsLocal(gunTarget)) {
+            //                        //tagGunDelay = time + 0.5;
+            //                        //LocalRig.method("set_enabled").invoke(false);
+            //                        //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+            //                        //serialize();
+            //                        //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+            //                        //LocalRig.method("set_enabled").invoke(true);
+            //                        //sendAllOutgoing();
+            //                        gunTarget.method("set_playerHeadSize").invoke(-50);
+            //                        //set_playerHeadSize
+            //                    }
+            //                }
+            //            }
+            //        }
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Sets a players headsize to -50 which makes it big and inside out. (NW)"
+            //}),
+            new ButtonInfo({
+                buttonText: "Use Item Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), GBOClass);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                //if (!playerIsLocal(gunTarget)) {
+                                //tagGunDelay = time + 0.5;
+                                //LocalRig.method("set_enabled").invoke(false);
+                                //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                //serialize();
+                                //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                //LocalRig.method("set_enabled").invoke(true);
+                                //sendAllOutgoing();
+                                if (leftTrigger) {
+                                    gunTarget.method("HandleTriggerUse").invoke();
+                                }
+                                else if (leftPrimary) {
+                                    gunTarget.method("HandleUse").invoke();
+                                }
+                                else {
+                                    return null;
+                                }
+                                //}
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Uses an item, (flaregun, grenade, etc.)\nHold left trigger to trigger the trigger action on the item, hold left primary to trigger the use action on the item."
+            }),
+            new ButtonInfo({
+                buttonText: "Mic Echo (Photon Mic)",
+                disableMethod: () => {
+                    const player = NetPlayer.method("get_localPlayer").invoke();
+                    if (!player)
+                        return;
+                    const micobject = player.field("_recorder").value;
+                    if (!micobject)
+                        return;
+                    micobject.method("set_DebugEchoMode").invoke(false);
+                },
+                enableMethod: () => {
+                    const player = NetPlayer.method("get_localPlayer").invoke();
+                    if (!player)
+                        return;
+                    const micobject = player.field("_recorder").value;
+                    if (!micobject)
+                        return;
+                    micobject.method("set_DebugEchoMode").invoke(true);
+                    // PhotonVoice
+                    //                  class Photon.Voice.Unity.Recorder : Photon.Voice.Unity.VoiceComponent
+                    //                  {
+                    //                      static System.Int32 MIN_OPUS_BITRATE = 6000;
+                    //                      static System.Int32 MAX_OPUS_BITRATE = 510000;
+                    //                      System.Boolean voiceDetection; // 0x28
+                    //                      System.Single voiceDetectionThreshold; // 0x2c
+                    //                      System.Int32 voiceDetectionDelayMs; // 0x30
+                    //                      System.Object userData; // 0x38
+                    //                      Photon.Voice.LocalVoice voice; // 0x40
+                    //                      Photon.Voice.IAudioDesc inputSource; // 0x48
+                    //                      Photon.Voice.Unity.VoiceConnection voiceConnection; // 0x50
+                    //                      System.Byte interestGroup; // 0x58
+                    //                      System.Boolean useTargetPlayers; // 0x59
+                    //                      System.Int32[] targetPlayers; // 0x60
+                    //                      System.Boolean debugEchoMode; // 0x68
+                    //                      System.Boolean reliableMode; // 0x69
+                    //                      System.Boolean encrypt; // 0x6a
+                    //                      System.Boolean transmitEnabled; // 0x6b
+                    //                      POpusCodec.Enums.SamplingRate samplingRate; // 0x6c
+                    //                      Photon.Voice.OpusCodec.FrameDuration frameDuration; // 0x70
+                    //                      System.Int32 bitrate; // 0x74
+                    //                      Photon.Voice.Unity.Recorder.InputSourceType sourceType; // 0x78
+                    //                      Photon.Voice.Unity.Recorder.MicType microphoneType; // 0x7c
+                    //                      UnityEngine.AudioClip audioClip; // 0x80
+                    //                      System.Boolean loopAudioClip; // 0x88
+                    //                      System.Boolean recordingEnabled; // 0x89
+                    //                      System.Func<Photon.Voice.IAudioDesc> inputFactory; // 0x90
+                    //                      Photon.Voice.IOS.AudioSessionParameters audioSessionParameters; // 0x98
+                    //                      Photon.Voice.Unity.AndroidAudioInParameters androidMicrophoneSettings; // 0xa8
+                    //                      System.Boolean isPausedOrInBackground; // 0xab
+                    //                      System.Boolean stopRecordingWhenPaused; // 0xac
+                    //                      System.Boolean useOnAudioFilterRead; // 0xad
+                    //                      System.Boolean useMicrophoneTypeFallback; // 0xae
+                    //                      System.Boolean recordWhenJoined; // 0xaf
+                    //                      Photon.Voice.DeviceInfo microphoneDevice; // 0xb0
+                    //                      System.Int32 microphoneDeviceChangePending; // 0xd8
+                    //                      System.Int32 restartRecordingPending; // 0xdc
+                    //                      System.Void MicrophoneDeviceChangeDetected(); // 0x055dd008
+                    //                      System.Boolean get_TransmitEnabled(); // 0x055dd210
+                    //                      System.Void set_TransmitEnabled(System.Boolean value); // 0x055dd218
+                    //                      System.Boolean get_Encrypt(); // 0x055dd2c4
+                    //                      System.Void set_Encrypt(System.Boolean value); // 0x055dd2dc
+                    //                      System.Boolean get_DebugEchoMode(); // 0x055dd2fc
+                    //                      System.Void set_DebugEchoMode(System.Boolean value); // 0x055dd314
+                    //                      System.Boolean get_ReliableMode(); // 0x055dd34c
+                    //                      System.Void set_ReliableMode(System.Boolean value); // 0x055dd364
+                    //                      System.Boolean get_VoiceDetection(); // 0x055dd384
+                    //                      System.Void set_VoiceDetection(System.Boolean value); // 0x055dd38c
+                    //                      System.Single get_VoiceDetectionThreshold(); // 0x055dd52c
+                    //                      System.Void set_VoiceDetectionThreshold(System.Single value); // 0x055dd534
+                    //                      System.Int32 get_VoiceDetectionDelayMs(); // 0x055dd764
+                    //                      System.Void set_VoiceDetectionDelayMs(System.Int32 value); // 0x055dd76c
+                    //                      System.Object get_UserData(); // 0x055dd848
+                    //                      System.Void set_UserData(System.Object value); // 0x055dd850
+                    //                      System.Func<Photon.Voice.IAudioDesc> get_InputFactory(); // 0x055dd9e4
+                    //                      System.Void set_InputFactory(System.Func<Photon.Voice.IAudioDesc> value); // 0x055dd9ec
+                    //                      Photon.Voice.AudioUtil.IVoiceDetector get_VoiceDetector(); // 0x055dd46c
+                    //                      System.Byte get_InterestGroup(); // 0x055ddbc4
+                    //                      System.Void set_InterestGroup(System.Byte value); // 0x055ddbdc
+                    //                      System.Int32[] get_TargetPlayers(); // 0x055ddbf8
+                    //                      System.Void set_TargetPlayers(System.Int32[] value); // 0x055ddc10
+                    //                      System.Boolean get_IsCurrentlyTransmitting(); // 0x055ddc5c
+                    //                      Photon.Voice.AudioUtil.ILevelMeter get_LevelMeter(); // 0x055ddc8c
+                    //                      System.Boolean get_VoiceDetectorCalibrating(); // 0x055ddd50
+                    //                      Photon.Voice.ILocalVoiceAudio get_voiceAudio(); // 0x055ddb7c
+                    //                      Photon.Voice.Unity.Recorder.InputSourceType get_SourceType(); // 0x055dde20
+                    //                      System.Void set_SourceType(Photon.Voice.Unity.Recorder.InputSourceType value); // 0x055dde28
+                    //                      Photon.Voice.Unity.Recorder.MicType get_MicrophoneType(); // 0x055ddf94
+                    //                      System.Void set_MicrophoneType(Photon.Voice.Unity.Recorder.MicType value); // 0x055de000
+                    //                      UnityEngine.AudioClip get_AudioClip(); // 0x055de174
+                    //                      System.Void set_AudioClip(UnityEngine.AudioClip value); // 0x055de17c
+                    //                      System.Boolean get_LoopAudioClip(); // 0x055de334
+                    //                      System.Void set_LoopAudioClip(System.Boolean value); // 0x055de33c
+                    //                      POpusCodec.Enums.SamplingRate get_SamplingRate(); // 0x055de458
+                    //                      System.Void set_SamplingRate(POpusCodec.Enums.SamplingRate value); // 0x055de460
+                    //                      Photon.Voice.OpusCodec.FrameDuration get_FrameDuration(); // 0x055de5cc
+                    //                      System.Void set_FrameDuration(Photon.Voice.OpusCodec.FrameDuration value); // 0x055de5d4
+                    //                      System.Int32 get_Bitrate(); // 0x055de740
+                    //                      System.Void set_Bitrate(System.Int32 value); // 0x055de748
+                    //                      System.Boolean get_RecordingEnabled(); // 0x055dea90
+                    //                      System.Void set_RecordingEnabled(System.Boolean value); // 0x055dea98
+                    //                      System.Boolean get_StopRecordingWhenPaused(); // 0x055ded44
+                    //                      System.Void set_StopRecordingWhenPaused(System.Boolean value); // 0x055ded4c
+                    //                      System.Boolean get_UseOnAudioFilterRead(); // 0x055ded54
+                    //                      System.Void set_UseOnAudioFilterRead(System.Boolean value); // 0x055ded5c
+                    //                      System.Boolean get_UseMicrophoneTypeFallback(); // 0x055deedc
+                    //                      System.Void set_UseMicrophoneTypeFallback(System.Boolean value); // 0x055deee4
+                    //                      System.Boolean get_RecordWhenJoined(); // 0x055deeec
+                    //                      System.Void set_RecordWhenJoined(System.Boolean value); // 0x055deef4
+                    //                      Photon.Voice.DeviceInfo get_MicrophoneDevice(); // 0x055deefc
+                    //                      System.Void set_MicrophoneDevice(Photon.Voice.DeviceInfo value); // 0x055def10
+                    //                      System.Boolean get_AndroidMicrophoneAGC(); // 0x055df110
+                    //                      System.Boolean get_AndroidMicrophoneAEC(); // 0x055df118
+                    //                      System.Boolean get_AndroidMicrophoneNS(); // 0x055df120
+                    //                      System.Boolean Init(Photon.Voice.Unity.VoiceConnection connection); // 0x055df128
+                    //                      System.Boolean Deinit(Photon.Voice.Unity.VoiceConnection connection); // 0x055df3b0
+                    //                      System.Boolean RestartRecording(); // 0x055dd9c8
+                    //                      System.Void VoiceDetectorCalibrate(System.Int32 durationMs, System.Action<System.Single> detectionEndedCallback); // 0x055df3d8
+                    //                      System.Void StartRecording(); // 0x055df678
+                    //                      System.Void StopRecording(); // 0x055deac0
+                    //                      System.Boolean SetIosAudioSessionParameters(Photon.Voice.IOS.AudioSessionParameters asp); // 0x055e18c0
+                    //                      System.Boolean SetIosAudioSessionParameters(Photon.Voice.IOS.AudioSessionCategory category, Photon.Voice.IOS.AudioSessionMode mode, Photon.Voice.IOS.AudioSessionCategoryOption[] options); // 0x055e18d0
+                    //                      System.Boolean SetAndroidNativeMicrophoneSettings(System.Boolean aec, System.Boolean agc, System.Boolean ns); // 0x055e1b0c
+                    //                      System.Boolean ResetLocalAudio(); // 0x055e1d84
+                    //                      Photon.Voice.LocalVoice CreateLocalVoiceAudioAndSource(); // 0x055dfd38
+                    //                      System.Void SendPhotonVoiceCreatedMessage(); // 0x055e253c
+                    //                      System.Void Update(); // 0x055e25f8
+                    //                      System.Void OnDestroy(); // 0x055e2a40
+                    //                      System.Void HandleDeviceChange(); // 0x055e27c8
+                    //                      System.Void OnApplicationPause(System.Boolean paused); // 0x055e2cac
+                    //                      System.Void OnApplicationFocus(System.Boolean focused); // 0x055e3404
+                    //                      System.Void HandleApplicationPause(System.Boolean paused); // 0x055e2e64
+                    //                      System.Void .ctor(); // 0x055e35c0
+                    //                  }
+                },
+                isTogglable: true,
+                toolTip: "Be able to hear what other players hear from you."
+            }),
+            new ButtonInfo({
+                buttonText: "Good Mic Quality (Photon Mic)",
+                disableMethod: () => {
+                    const player = NetPlayer.method("get_localPlayer").invoke();
+                    if (!player)
+                        return;
+                    const micobject = player.field("_recorder").value;
+                    if (!micobject)
+                        return;
+                    //console.log("min opus bitrate: " + micobject.field("MIN_OPUS_BITRATE").value)
+                    //console.log("max opus bitrate: " + micobject.field("MAX_OPUS_BITRATE").value)
+                    micobject.method("set_Bitrate").invoke(20000);
+                    micobject.method("RestartRecording").invoke();
+                },
+                enableMethod: () => {
+                    const player = NetPlayer.method("get_localPlayer").invoke();
+                    if (!player)
+                        return;
+                    const micobject = player.field("_recorder").value;
+                    if (!micobject)
+                        return;
+                    //console.log("bitrate: " + micobject.field("bitrate").value)
+                    micobject.method("set_Bitrate").invoke(99999);
+                    micobject.method("RestartRecording").invoke();
+                    // PhotonVoice
+                    //                  class Photon.Voice.Unity.Recorder : Photon.Voice.Unity.VoiceComponent
+                    //                  {
+                    //                      static System.Int32 MIN_OPUS_BITRATE = 6000;
+                    //                      static System.Int32 MAX_OPUS_BITRATE = 510000;
+                    //                      System.Boolean voiceDetection; // 0x28
+                    //                      System.Single voiceDetectionThreshold; // 0x2c
+                    //                      System.Int32 voiceDetectionDelayMs; // 0x30
+                    //                      System.Object userData; // 0x38
+                    //                      Photon.Voice.LocalVoice voice; // 0x40
+                    //                      Photon.Voice.IAudioDesc inputSource; // 0x48
+                    //                      Photon.Voice.Unity.VoiceConnection voiceConnection; // 0x50
+                    //                      System.Byte interestGroup; // 0x58
+                    //                      System.Boolean useTargetPlayers; // 0x59
+                    //                      System.Int32[] targetPlayers; // 0x60
+                    //                      System.Boolean debugEchoMode; // 0x68
+                    //                      System.Boolean reliableMode; // 0x69
+                    //                      System.Boolean encrypt; // 0x6a
+                    //                      System.Boolean transmitEnabled; // 0x6b
+                    //                      POpusCodec.Enums.SamplingRate samplingRate; // 0x6c
+                    //                      Photon.Voice.OpusCodec.FrameDuration frameDuration; // 0x70
+                    //                      System.Int32 bitrate; // 0x74
+                    //                      Photon.Voice.Unity.Recorder.InputSourceType sourceType; // 0x78
+                    //                      Photon.Voice.Unity.Recorder.MicType microphoneType; // 0x7c
+                    //                      UnityEngine.AudioClip audioClip; // 0x80
+                    //                      System.Boolean loopAudioClip; // 0x88
+                    //                      System.Boolean recordingEnabled; // 0x89
+                    //                      System.Func<Photon.Voice.IAudioDesc> inputFactory; // 0x90
+                    //                      Photon.Voice.IOS.AudioSessionParameters audioSessionParameters; // 0x98
+                    //                      Photon.Voice.Unity.AndroidAudioInParameters androidMicrophoneSettings; // 0xa8
+                    //                      System.Boolean isPausedOrInBackground; // 0xab
+                    //                      System.Boolean stopRecordingWhenPaused; // 0xac
+                    //                      System.Boolean useOnAudioFilterRead; // 0xad
+                    //                      System.Boolean useMicrophoneTypeFallback; // 0xae
+                    //                      System.Boolean recordWhenJoined; // 0xaf
+                    //                      Photon.Voice.DeviceInfo microphoneDevice; // 0xb0
+                    //                      System.Int32 microphoneDeviceChangePending; // 0xd8
+                    //                      System.Int32 restartRecordingPending; // 0xdc
+                    //                      System.Void MicrophoneDeviceChangeDetected(); // 0x055dd008
+                    //                      System.Boolean get_TransmitEnabled(); // 0x055dd210
+                    //                      System.Void set_TransmitEnabled(System.Boolean value); // 0x055dd218
+                    //                      System.Boolean get_Encrypt(); // 0x055dd2c4
+                    //                      System.Void set_Encrypt(System.Boolean value); // 0x055dd2dc
+                    //                      System.Boolean get_DebugEchoMode(); // 0x055dd2fc
+                    //                      System.Void set_DebugEchoMode(System.Boolean value); // 0x055dd314
+                    //                      System.Boolean get_ReliableMode(); // 0x055dd34c
+                    //                      System.Void set_ReliableMode(System.Boolean value); // 0x055dd364
+                    //                      System.Boolean get_VoiceDetection(); // 0x055dd384
+                    //                      System.Void set_VoiceDetection(System.Boolean value); // 0x055dd38c
+                    //                      System.Single get_VoiceDetectionThreshold(); // 0x055dd52c
+                    //                      System.Void set_VoiceDetectionThreshold(System.Single value); // 0x055dd534
+                    //                      System.Int32 get_VoiceDetectionDelayMs(); // 0x055dd764
+                    //                      System.Void set_VoiceDetectionDelayMs(System.Int32 value); // 0x055dd76c
+                    //                      System.Object get_UserData(); // 0x055dd848
+                    //                      System.Void set_UserData(System.Object value); // 0x055dd850
+                    //                      System.Func<Photon.Voice.IAudioDesc> get_InputFactory(); // 0x055dd9e4
+                    //                      System.Void set_InputFactory(System.Func<Photon.Voice.IAudioDesc> value); // 0x055dd9ec
+                    //                      Photon.Voice.AudioUtil.IVoiceDetector get_VoiceDetector(); // 0x055dd46c
+                    //                      System.Byte get_InterestGroup(); // 0x055ddbc4
+                    //                      System.Void set_InterestGroup(System.Byte value); // 0x055ddbdc
+                    //                      System.Int32[] get_TargetPlayers(); // 0x055ddbf8
+                    //                      System.Void set_TargetPlayers(System.Int32[] value); // 0x055ddc10
+                    //                      System.Boolean get_IsCurrentlyTransmitting(); // 0x055ddc5c
+                    //                      Photon.Voice.AudioUtil.ILevelMeter get_LevelMeter(); // 0x055ddc8c
+                    //                      System.Boolean get_VoiceDetectorCalibrating(); // 0x055ddd50
+                    //                      Photon.Voice.ILocalVoiceAudio get_voiceAudio(); // 0x055ddb7c
+                    //                      Photon.Voice.Unity.Recorder.InputSourceType get_SourceType(); // 0x055dde20
+                    //                      System.Void set_SourceType(Photon.Voice.Unity.Recorder.InputSourceType value); // 0x055dde28
+                    //                      Photon.Voice.Unity.Recorder.MicType get_MicrophoneType(); // 0x055ddf94
+                    //                      System.Void set_MicrophoneType(Photon.Voice.Unity.Recorder.MicType value); // 0x055de000
+                    //                      UnityEngine.AudioClip get_AudioClip(); // 0x055de174
+                    //                      System.Void set_AudioClip(UnityEngine.AudioClip value); // 0x055de17c
+                    //                      System.Boolean get_LoopAudioClip(); // 0x055de334
+                    //                      System.Void set_LoopAudioClip(System.Boolean value); // 0x055de33c
+                    //                      POpusCodec.Enums.SamplingRate get_SamplingRate(); // 0x055de458
+                    //                      System.Void set_SamplingRate(POpusCodec.Enums.SamplingRate value); // 0x055de460
+                    //                      Photon.Voice.OpusCodec.FrameDuration get_FrameDuration(); // 0x055de5cc
+                    //                      System.Void set_FrameDuration(Photon.Voice.OpusCodec.FrameDuration value); // 0x055de5d4
+                    //                      System.Int32 get_Bitrate(); // 0x055de740
+                    //                      System.Void set_Bitrate(System.Int32 value); // 0x055de748
+                    //                      System.Boolean get_RecordingEnabled(); // 0x055dea90
+                    //                      System.Void set_RecordingEnabled(System.Boolean value); // 0x055dea98
+                    //                      System.Boolean get_StopRecordingWhenPaused(); // 0x055ded44
+                    //                      System.Void set_StopRecordingWhenPaused(System.Boolean value); // 0x055ded4c
+                    //                      System.Boolean get_UseOnAudioFilterRead(); // 0x055ded54
+                    //                      System.Void set_UseOnAudioFilterRead(System.Boolean value); // 0x055ded5c
+                    //                      System.Boolean get_UseMicrophoneTypeFallback(); // 0x055deedc
+                    //                      System.Void set_UseMicrophoneTypeFallback(System.Boolean value); // 0x055deee4
+                    //                      System.Boolean get_RecordWhenJoined(); // 0x055deeec
+                    //                      System.Void set_RecordWhenJoined(System.Boolean value); // 0x055deef4
+                    //                      Photon.Voice.DeviceInfo get_MicrophoneDevice(); // 0x055deefc
+                    //                      System.Void set_MicrophoneDevice(Photon.Voice.DeviceInfo value); // 0x055def10
+                    //                      System.Boolean get_AndroidMicrophoneAGC(); // 0x055df110
+                    //                      System.Boolean get_AndroidMicrophoneAEC(); // 0x055df118
+                    //                      System.Boolean get_AndroidMicrophoneNS(); // 0x055df120
+                    //                      System.Boolean Init(Photon.Voice.Unity.VoiceConnection connection); // 0x055df128
+                    //                      System.Boolean Deinit(Photon.Voice.Unity.VoiceConnection connection); // 0x055df3b0
+                    //                      System.Boolean RestartRecording(); // 0x055dd9c8
+                    //                      System.Void VoiceDetectorCalibrate(System.Int32 durationMs, System.Action<System.Single> detectionEndedCallback); // 0x055df3d8
+                    //                      System.Void StartRecording(); // 0x055df678
+                    //                      System.Void StopRecording(); // 0x055deac0
+                    //                      System.Boolean SetIosAudioSessionParameters(Photon.Voice.IOS.AudioSessionParameters asp); // 0x055e18c0
+                    //                      System.Boolean SetIosAudioSessionParameters(Photon.Voice.IOS.AudioSessionCategory category, Photon.Voice.IOS.AudioSessionMode mode, Photon.Voice.IOS.AudioSessionCategoryOption[] options); // 0x055e18d0
+                    //                      System.Boolean SetAndroidNativeMicrophoneSettings(System.Boolean aec, System.Boolean agc, System.Boolean ns); // 0x055e1b0c
+                    //                      System.Boolean ResetLocalAudio(); // 0x055e1d84
+                    //                      Photon.Voice.LocalVoice CreateLocalVoiceAudioAndSource(); // 0x055dfd38
+                    //                      System.Void SendPhotonVoiceCreatedMessage(); // 0x055e253c
+                    //                      System.Void Update(); // 0x055e25f8
+                    //                      System.Void OnDestroy(); // 0x055e2a40
+                    //                      System.Void HandleDeviceChange(); // 0x055e27c8
+                    //                      System.Void OnApplicationPause(System.Boolean paused); // 0x055e2cac
+                    //                      System.Void OnApplicationFocus(System.Boolean focused); // 0x055e3404
+                    //                      System.Void HandleApplicationPause(System.Boolean paused); // 0x055e2e64
+                    //                      System.Void .ctor(); // 0x055e35c0
+                    //                  }
+                },
+                isTogglable: true,
+                toolTip: "Enhances your mic quality for other players."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Connect to US",
+            //    method: () => {
+            //        PhotonNetwork.method("ConnectToRegion").invoke(Il2Cpp.string("us"));
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Connects you to the US region."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Connect to US West",
+            //    method: () => {
+            //        PhotonNetwork.method("ConnectToRegion").invoke(Il2Cpp.string("usw"));
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Connects you to the USW rwgion."
+            //}),
+            //
+            //new ButtonInfo({
+            //    buttonText: "Connect to EU",
+            //    method: () => {
+            //        PhotonNetwork.method("ConnectToRegion").invoke(Il2Cpp.string("eu"));
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Connects you to the EU region."
+            //}),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Visual Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Cosmetic Tracers",
+            //    disableMethod: () => {
+            //        for (let line of linePool) {
+            //            line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+            //        }
+            //    },
+            //    method: () => {
+            //        if (frameCount % 5 != 0) {
+            //            for (let line of linePool) {
+            //                line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+            //            }
+            //            const vrrigs = GorillaParent.field("vrrigs").value;
+            //            const vrrigtotal = vrrigs.method("get_Count").invoke();
+            //            const rigs = [];
+            //            const cosmeticRigs = [];
+            //            for (let i = 0; i < vrrigtotal; i++) {
+            //                const playerRig = vrrigs.method("get_Item").invoke(i);
+            //                rigs.push(playerRig);
+            //                if (playerIsLocal(playerRig)) continue;
+            //                const concat = String(playerRig.field("concatStringOfCosmeticsAllowed").value);
+            //                if (concat.includes("LBAAD.")) { cosmeticRigs.push(i); continue; }; // Admin
+            //                if (concat.includes("LBAAK.")) { cosmeticRigs.push(i); continue; }; // Stick
+            //                if (concat.includes("LMAPY.")) { cosmeticRigs.push(i); continue; }; // Forest Guide
+            //                if (concat.includes("LBAGS.")) { cosmeticRigs.push(i); continue; }; // Illustrator
+            //                if (concat.includes("LBADE.")) { cosmeticRigs.push(i); continue; }; // Finger Painter
+            //                if (concat.includes("LBANI.")) { cosmeticRigs.push(i); continue; }; // AA Creator
+            //            }
+            //            for (let i = 0; i < vrrigtotal; i++) {
+            //                if (cosmeticRigs.includes(i) == false) continue;
+            //                const playerRig = rigs[i];
+            //                if (!playerIsLocal(playerRig)) {
+            //                    const color = playerRig.field("playerColor").value;
+            //                    if (lineRenderHolder == null) {
+            //                        lineRenderHolder = GameObject.new("LineRender_Holder");
+            //                    }
+            //                    let finalRender = null;
+            //                    let nl = false;
+            //                    for (let line of linePool) {
+            //                        if (finalRender != null) continue;
+            //                        if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+            //                            line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+            //                            finalRender = line;
+            //                            break;
+            //                        }
+            //                    }
+            //                    if (finalRender == null) {
+            //                        nl = true;
+            //                        const lineHolder = GameObject.new("LineObject");
+            //                        getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+            //                        const newLine = addComponent(lineHolder, LineRenderer);
+            //                        const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("GUI/Text Shader"));
+            //                        newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+            //                        newLine.method("set_startWidth").invoke(0.025);
+            //                        newLine.method("set_endWidth").invoke(0.025);
+            //                        newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+            //                        newLine.method("set_useWorldSpace").invoke(true);
+            //                        newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+            //                        linePool.push(newLine);
+            //                        finalRender = newLine;
+            //                    }
+            //                    finalRender.method("set_startColor").invoke(color);
+            //                    finalRender.method("set_endColor").invoke(color);
+            //                    finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+            //                    finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+            //                }
+            //            }
+            //        }
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Puts tracers on your right hand. Only shows players with rare cosmetics."
+            //}),
+            new ButtonInfo({
+                buttonText: "Item Tracers",
+                disableMethod: () => {
+                    for (let line of linePool) {
+                        line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                },
+                method: () => {
+                    //if (frameCount % 5 != 0) {
+                    //                        const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    //if (!rigs) return null;
+                    //
+                    //for (let i = 0; i < rigs.length; i++) {
+                    //    const rig = rigs.get(i);
+                    //    if (!playerIsLocal(rig)) {
+                    //        rig.method("RPC_TagAsStinky").invoke();
+                    //    }
+                    //    break;
+                    //}
+                    if (frameCount % 5 != 0) {
+                        for (let line of linePool) {
+                            line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                        }
+                        const rigs = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                        if (!rigs)
+                            return null;
+                        const rigstotal = rigs.length;
+                        for (let i = 0; i < rigstotal; i++) {
+                            const playerRig = rigs.get(i);
+                            //if (!playerIsLocal(playerRig)) {
+                            //const color = playerRig.field("playerColor").value;
+                            if (lineRenderHolder == null) {
+                                lineRenderHolder = GameObject.new("LineRender_Holder");
+                            }
+                            let finalRender = null;
+                            let nl = false;
+                            for (let line of linePool) {
+                                if (finalRender != null)
+                                    continue;
+                                if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+                                    line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                    finalRender = line;
+                                    break;
+                                }
+                            }
+                            if (finalRender == null) {
+                                nl = true;
+                                const lineHolder = GameObject.new("LineObject");
+                                getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+                                const newLine = addComponent(lineHolder, LineRenderer);
+                                const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("UI/Default"));
+                                newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+                                newLine.method("set_startWidth").invoke(0.025);
+                                newLine.method("set_endWidth").invoke(0.025);
+                                newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                newLine.method("set_useWorldSpace").invoke(true);
+                                newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+                                linePool.push(newLine);
+                                finalRender = newLine;
+                            }
+                            finalRender.method("set_startColor").invoke(bgColor);
+                            finalRender.method("set_endColor").invoke(bgColor);
+                            finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+                            finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Puts tracers on your right hand. Shows all items."
+            }),
+            new ButtonInfo({
+                buttonText: "Nearest Item Tracer",
+                disableMethod: () => {
+                    for (let line of linePool) {
+                        line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                },
+                method: () => {
+                    if (frameCount % 5 != 0) {
+                        let lowestDistance = Number.MAX_SAFE_INTEGER;
+                        let closest = 0;
+                        for (let line of linePool) {
+                            line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                        }
+                        const vrrigs = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                        if (!vrrigs)
+                            return null;
+                        const vrrigtotal = vrrigs.length;
+                        const rigs = [];
+                        for (let i = 0; i < vrrigtotal; i++) {
+                            const playerRig = vrrigs.get(i);
+                            rigs.push(playerRig);
+                            const dist = Vector3.method("Distance").invoke(getTransform(headCollider).method("get_position").invoke(), getTransform(playerRig).method("get_position").invoke());
+                            if (lowestDistance > dist) {
+                                lowestDistance = dist;
+                                closest = i;
+                            }
+                        }
+                        for (let i = 0; i < vrrigtotal; i++) {
+                            if (i != closest)
+                                continue;
+                            const playerRig = rigs[i];
+                            //if (!playerIsLocal(playerRig)) {
+                            //const color = playerRig.field("playerColor").value;
+                            if (lineRenderHolder == null) {
+                                lineRenderHolder = GameObject.new("LineRender_Holder");
+                            }
+                            let finalRender = null;
+                            let nl = false;
+                            for (let line of linePool) {
+                                if (finalRender != null)
+                                    continue;
+                                if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+                                    line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                    finalRender = line;
+                                    break;
+                                }
+                            }
+                            if (finalRender == null) {
+                                nl = true;
+                                const lineHolder = GameObject.new("LineObject");
+                                getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+                                const newLine = addComponent(lineHolder, LineRenderer);
+                                const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("UI/Default"));
+                                newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+                                newLine.method("set_startWidth").invoke(0.025);
+                                newLine.method("set_endWidth").invoke(0.025);
+                                newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                newLine.method("set_useWorldSpace").invoke(true);
+                                newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+                                linePool.push(newLine);
+                                finalRender = newLine;
+                            }
+                            finalRender.method("set_startColor").invoke(bgColor);
+                            finalRender.method("set_endColor").invoke(bgColor);
+                            finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+                            finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+                            //}
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Puts tracers on your right hand. Shows only the nearest item to reduce lag."
+            }),
+            new ButtonInfo({
+                buttonText: "Casual Tracers",
+                disableMethod: () => {
+                    for (let line of linePool) {
+                        line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                },
+                method: () => {
+                    //if (frameCount % 5 != 0) {
+                    //                        const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    //if (!rigs) return null;
+                    //
+                    //for (let i = 0; i < rigs.length; i++) {
+                    //    const rig = rigs.get(i);
+                    //    if (!playerIsLocal(rig)) {
+                    //        rig.method("RPC_TagAsStinky").invoke();
+                    //    }
+                    //    break;
+                    //}
+                    for (let line of linePool) {
+                        line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                    const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (!rigs)
+                        return null;
+                    const rigstotal = rigs.length;
+                    for (let i = 0; i < rigstotal; i++) {
+                        const playerRig = rigs.get(i);
+                        if (!playerIsLocal(playerRig)) {
+                            //const color = playerRig.field("playerColor").value;
+                            if (lineRenderHolder == null) {
+                                lineRenderHolder = GameObject.new("LineRender_Holder");
+                            }
+                            let finalRender = null;
+                            let nl = false;
+                            for (let line of linePool) {
+                                if (finalRender != null)
+                                    continue;
+                                if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+                                    line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                    finalRender = line;
+                                    break;
+                                }
+                            }
+                            if (finalRender == null) {
+                                nl = true;
+                                const lineHolder = GameObject.new("LineObject");
+                                getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+                                const newLine = addComponent(lineHolder, LineRenderer);
+                                const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("UI/Default"));
+                                newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+                                newLine.method("set_startWidth").invoke(0.025);
+                                newLine.method("set_endWidth").invoke(0.025);
+                                newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                newLine.method("set_useWorldSpace").invoke(true);
+                                newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+                                linePool.push(newLine);
+                                finalRender = newLine;
+                            }
+                            finalRender.method("set_startColor").invoke(bgColor);
+                            finalRender.method("set_endColor").invoke(bgColor);
+                            finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+                            finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Puts tracers on your right hand. Shows everyone."
+            }),
+            new ButtonInfo({
+                buttonText: "Nearest Tracer",
+                disableMethod: () => {
+                    for (let line of linePool) {
+                        line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                },
+                method: () => {
+                    if (frameCount % 5 != 0) {
+                        let lowestDistance = Number.MAX_SAFE_INTEGER;
+                        let closest = 0;
+                        for (let line of linePool) {
+                            line.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                        }
+                        const vrrigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                        if (!vrrigs)
+                            return null;
+                        const vrrigtotal = vrrigs.length;
+                        const rigs = [];
+                        for (let i = 0; i < vrrigtotal; i++) {
+                            const playerRig = vrrigs.get(i);
+                            rigs.push(playerRig);
+                            if (playerIsLocal(playerRig))
+                                continue;
+                            const dist = Vector3.method("Distance").invoke(getTransform(headCollider).method("get_position").invoke(), getTransform(playerRig).method("get_position").invoke());
+                            if (lowestDistance > dist) {
+                                lowestDistance = dist;
+                                closest = i;
+                            }
+                        }
+                        for (let i = 0; i < vrrigtotal; i++) {
+                            if (i != closest)
+                                continue;
+                            const playerRig = rigs[i];
+                            if (!playerIsLocal(playerRig)) {
+                                //const color = playerRig.field("playerColor").value;
+                                if (lineRenderHolder == null) {
+                                    lineRenderHolder = GameObject.new("LineRender_Holder");
+                                }
+                                let finalRender = null;
+                                let nl = false;
+                                for (let line of linePool) {
+                                    if (finalRender != null)
+                                        continue;
+                                    if (line.method("get_gameObject").invoke().method("get_activeInHierarchy").invoke() == false) {
+                                        line.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                        finalRender = line;
+                                        break;
+                                    }
+                                }
+                                if (finalRender == null) {
+                                    nl = true;
+                                    const lineHolder = GameObject.new("LineObject");
+                                    getTransform(lineHolder).method("set_parent").invoke(getTransform(lineRenderHolder));
+                                    const newLine = addComponent(lineHolder, LineRenderer);
+                                    const shader = Shader.method("Find").overload("System.String").invoke(Il2Cpp.string("UI/Default"));
+                                    newLine.method("get_material").invoke().method("set_shader").invoke(shader);
+                                    newLine.method("set_startWidth").invoke(0.025);
+                                    newLine.method("set_endWidth").invoke(0.025);
+                                    newLine.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                                    newLine.method("set_useWorldSpace").invoke(true);
+                                    newLine.method("get_gameObject").invoke().method("set_layer").invoke(lineRenderHolder.method("get_layer").invoke());
+                                    linePool.push(newLine);
+                                    finalRender = newLine;
+                                }
+                                finalRender.method("set_startColor").invoke(bgColor);
+                                finalRender.method("set_endColor").invoke(bgColor);
+                                finalRender.method("SetPosition").invoke(1, getTransform(playerRig).method("get_position").invoke());
+                                finalRender.method("SetPosition").invoke(0, rightHandTransform.method("get_position").invoke());
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Puts tracers on your right hand. Shows only the nearest player to reduce lag."
+            }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Overpowered Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Player Orbit",
+                isTogglable: true,
+                method: (() => {
+                    let orbitAngle = 0;
+                    const ORBIT_RADIUS = 1.5;
+                    const ORBIT_SPEED = 90.0;
+                    return () => {
+                        try {
+                            orbitAngle += ORBIT_SPEED * deltaTime;
+                            if (orbitAngle > 360)
+                                orbitAngle -= 360;
+                            const centerPos = getTransform(headCollider).method("get_position").invoke();
+                            const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                            if (!players)
+                                return;
+                            const otherPlayers = [];
+                            for (let i = 0; i < players.length; i++) {
+                                const p = players.get(i);
+                                if (!playerIsLocal(p))
+                                    otherPlayers.push(p);
+                            }
+                            if (otherPlayers.length === 0)
+                                return;
+                            for (let i = 0; i < otherPlayers.length; i++) {
+                                const player = otherPlayers[i];
+                                if (!player || player.isNull())
+                                    continue;
+                                const angleOffset = (360 / otherPlayers.length) * i;
+                                const rad = (orbitAngle + angleOffset) * (Math.PI / 180);
+                                const offsetX = Math.cos(rad) * ORBIT_RADIUS;
+                                const offsetZ = Math.sin(rad) * ORBIT_RADIUS;
+                                const offsetVec = Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, offsetX), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, offsetZ));
+                                const targetPos = Vector3.method("op_Addition").invoke(centerPos, offsetVec);
+                                player.method("RPC_Teleport").invoke(targetPos);
+                            }
+                        }
+                        catch (e) {
+                            console.error("player orbit error:", e);
+                        }
+                    };
+                })(),
+                toolTip: "Orbits all other players around you. Adjust ORBIT_RADIUS and ORBIT_SPEED in code."
+            }),
+            new ButtonInfo({
+                buttonText: "TP All To Me",
+                method: () => {
+                    const myPos = getTransform(GTPlayer).method("get_position").invoke();
+                    const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (!players)
+                        return;
+                    for (let i = 0; i < players.length; i++) {
+                        const netPlayer = players.get(i);
+                        if (playerIsLocal(netPlayer))
+                            continue;
+                        netPlayer.method("RPC_Teleport").invoke(myPos);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Teleports all players to your position."
+            }),
+            new ButtonInfo({
+                buttonText: "Inf Sell Value",
+                enableMethod: () => {
+                    try {
+                        GBIClass.method("get_sellValue").implementation = function () { return 999999; };
+                        GBIClass.method("get_additionalSellValue").implementation = function () { return 999999; };
+                    }
+                    catch (e) {
+                        sendNotification("Inf Sell: " + e, false);
+                    }
+                },
+                disableMethod: () => {
+                    try {
+                        GBIClass.method("get_sellValue").implementation = null;
+                        GBIClass.method("get_additionalSellValue").implementation = null;
+                    }
+                    catch (e) { }
+                },
+                isTogglable: true,
+                toolTip: "Every item sells for 300k."
+            }),
+            new ButtonInfo({
+                buttonText: "Give Money",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        player.method("RPC_AddPlayerMoney").invoke(100000000);
+                    }
+                    catch (e) {
+                        console.error("give money failed:", e);
+                    }
+                },
+                isTogglable: false
+            }),
+            new ButtonInfo({
+                buttonText: "Flare Gun",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (leftGrab && leftTrigger) {
+                            spawnNetworkPrefab("FlareGunProjectile", leftHandTransform.method("get_position").invoke(), leftHandTransform.method("get_rotation").invoke());
+                        }
+                        if (rightGrab && rightTrigger) {
+                            spawnNetworkPrefab("FlareGunProjectile", rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke());
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "Spawns selected prefab at right hand with right hand rotation."
+            }),
+            new ButtonInfo({
+                buttonText: "Rocket Launcher",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (leftGrab && leftTrigger) {
+                            spawnNetworkPrefab("RPGRocket", leftHandTransform.method("get_position").invoke(), leftHandTransform.method("get_rotation").invoke());
+                        }
+                        if (rightGrab && rightTrigger) {
+                            spawnNetworkPrefab("RPGRocket", rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke());
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "Spawns selected prefab at right hand with right hand rotation."
+            }),
+            new ButtonInfo({
+                buttonText: "BoomSpear Launcher",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (leftGrab && leftTrigger) {
+                            spawnNetworkPrefab("RPGRocketSpear", leftHandTransform.method("get_position").invoke(), leftHandTransform.method("get_rotation").invoke());
+                        }
+                        if (rightGrab && rightTrigger) {
+                            spawnNetworkPrefab("RPGRocketSpear", rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke());
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "Spawns selected prefab at right hand with right hand rotation."
+            }),
+            new ButtonInfo({
+                buttonText: "Egg Launcher",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (!rightGrab)
+                            return;
+                        if (!rightTrigger)
+                            return;
+                        const pos = rightHandTransform.method("get_position").invoke();
+                        const rot = rightHandTransform.method("get_rotation").invoke();
+                        const name = prefabList[5];
+                        const result = spawnNetworkPrefab(name, pos, rot);
+                        if (result)
+                            sendNotification("Spawned: " + name, false);
+                        else
+                            sendNotification("Spawn failed: " + name, false);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "Spawns selected prefab at right hand with right hand rotation."
+            }),
+            new ButtonInfo({
+                buttonText: "Nut spam",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (!rightGrab)
+                            return;
+                        const pos = rightHandTransform.method("get_position").invoke();
+                        const rot = rightHandTransform.method("get_rotation").invoke();
+                        const result = PickupManager.method("SpawnPickup", 4).invoke(2, pos, 5, true);
+                        if (result)
+                            sendNotification("Spawned: ", false);
+                        else
+                            sendNotification("Spawn failed: ", false);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "Spawns selected prefab at right hand with right hand rotation."
+            }),
+            new ButtonInfo({
+                buttonText: "Ammo spam",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (!rightGrab)
+                            return;
+                        const pos = rightHandTransform.method("get_position").invoke();
+                        const rot = rightHandTransform.method("get_rotation").invoke();
+                        const result = PickupManager.method("SpawnPickup", 4).invoke(1, pos, 5, true);
+                        if (result)
+                            sendNotification("Spawned: ", false);
+                        else
+                            sendNotification("Spawn failed: ", false);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                toolTip: "idk."
+            }),
+            new ButtonInfo({
+                buttonText: "Nut Gun",
+                isTogglable: true,
+                method: () => {
+                    if (!rightGrab)
+                        return;
+                    const gunData = renderGun();
+                    const ray = gunData.ray;
+                    if (!ray || ray.handle.isNull())
+                        return;
+                    if (rightTrigger && time > lagGunDelay) {
+                        lagGunDelay = time + 0.0;
+                        try {
+                            const hitPoint = ray.method("get_point").invoke();
+                            PickupManager.method("SpawnPickup", 4).invoke(2, hitPoint, 5, true);
+                        }
+                        catch (e) {
+                            sendNotification("Nut Pickup Gun: " + e, false);
+                        }
+                    }
+                },
+                toolTip: "Spawns nut pickups where you aim (hold grip + trigger)."
+            }),
+            new ButtonInfo({
+                buttonText: "Ammo Gun",
+                isTogglable: true,
+                method: () => {
+                    if (!rightGrab)
+                        return;
+                    const gunData = renderGun();
+                    const ray = gunData.ray;
+                    if (!ray || ray.handle.isNull())
+                        return;
+                    if (rightTrigger && time > lagGunDelay) {
+                        lagGunDelay = time + 0.0;
+                        try {
+                            const hitPoint = ray.method("get_point").invoke();
+                            PickupManager.method("SpawnPickup", 4).invoke(1, hitPoint, 5, true);
+                        }
+                        catch (e) {
+                            sendNotification("Ammo Pickup Gun: " + e, false);
+                        }
+                    }
+                },
+                toolTip: "Spawns ammo pickups where you aim (hold grip + trigger)."
+            }),
+            new ButtonInfo({
+                buttonText: "Explode All Machines",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const machines = Object.method("FindObjectsByType", 1).inflate(ItemSellingMachineController).invoke(0);
+                        if (!machines)
+                            return;
+                        for (let i = 0; i < machines.length; i++) {
+                            try {
+                                const m = machines.get(i);
+                                if (!m || m.handle.isNull())
+                                    continue;
+                                m.method("RPC_ExplodeMachine").invoke();
+                            }
+                            catch (e) { }
+                        }
+                        sendNotification("Exploded all machines!", false);
+                    }
+                    catch (e) { }
+                },
+                toolTip: "Explodes every selling machine in the room."
+            }),
+            new ButtonInfo({
+                buttonText: "Recover All Machines",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const machines = Object.method("FindObjectsByType", 1).inflate(ItemSellingMachineController).invoke(0);
+                        if (!machines)
+                            return;
+                        for (let i = 0; i < machines.length; i++) {
+                            try {
+                                const m = machines.get(i);
+                                if (!m || m.handle.isNull())
+                                    continue;
+                                m.method("RPC_RecoverExplosion").invoke();
+                            }
+                            catch (e) { }
+                        }
+                        sendNotification("Recovered all machines!", false);
+                    }
+                    catch (e) { }
+                },
+                toolTip: "Recovers every exploded selling machine."
+            }),
+            new ButtonInfo({
+                buttonText: "Money All From Machines",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const machines = Object.method("FindObjectsByType", 1).inflate(ItemSellingMachineController).invoke(0);
+                        if (!machines)
+                            return;
+                        for (let i = 0; i < machines.length; i++) {
+                            try {
+                                const m = machines.get(i);
+                                if (!m || m.handle.isNull())
+                                    continue;
+                                m.method("RPC_AddPlayerMoneyToAll").invoke(100000000, [], Il2Cpp.reference(Il2Cpp.domain.assembly("Fusion.Runtime").image.class("Fusion.RpcInfo").alloc()));
+                            }
+                            catch (e) { }
+                        }
+                        sendNotification("Gave money from all machines!", false);
+                    }
+                    catch (e) {
+                        console.error("money machines:", e);
+                    }
+                },
+                toolTip: "Triggers money payout from all selling machines."
+            }),
+            new ButtonInfo({
+                buttonText: "Spam Start Selling",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (time < lagGunDelay)
+                            return;
+                        lagGunDelay = time + 0.5;
+                        const machines = Object.method("FindObjectsByType", 1).inflate(ItemSellingMachineController).invoke(0);
+                        if (!machines)
+                            return;
+                        for (let i = 0; i < machines.length; i++) {
+                            try {
+                                const m = machines.get(i);
+                                if (!m || m.handle.isNull())
+                                    continue;
+                                m.method("RPC_StartItemSelling").invoke(0.0);
+                            }
+                            catch (e) { }
+                        }
+                    }
+                    catch (e) { }
+                },
+                toolTip: "Spams start selling on all machines."
+            }),
+            new ButtonInfo({
+                buttonText: "Break Game Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > lagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    lagGunDelay = time + 2;
+                                    //const plRef = gunTarget.method("get_Creator").invoke().method("get_ActorNumber"/*GetPlayerRef"*/).invoke();
+                                    //const arr = Il2Cpp.array(SystemObject, 0);
+                                    //const rpc = FriendshipGroupDetection.field("photonView").value.method("RPC");
+                                    //for (let i = 0; i < 425; i++) {
+                                    //    rpc.invoke(Il2Cpp.string("NotifyPartyMerging"), plRef, arr);
+                                    //}
+                                    //sendAllOutgoing();
+                                    const transform = gunTarget.method("get_transform").invoke();
+                                    const forward = transform.method("get_forward").invoke();
+                                    const forceVec = Vector3.method("op_Multiply", 2).invoke(forward, 1500 * deltaTime);
+                                    gunTarget.method("RPC_Teleport").invoke([0, -9999999, 0]);
+                                    gunTarget.method("RPC_AddForce").invoke(forceVec);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Kick Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    //gunTarget.method("RPC_TagAsStinky").invoke();
+                                    kickPlayer(gunTarget);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Kicks whoever your hand desires."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Kick Gun V2",
+            //    method: () => {
+            //        if (rightGrab) {
+            //            const gunData = renderGun();
+            //            const ray = gunData.ray;
+            //
+            //            if (rightTrigger) {
+            //                const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), FusionPlayerClass);
+            //                if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+            //                    if (!playerIsLocal(gunTarget)) {
+            //                        const NetworkRunner = SFXManager.method("get__currentRunner").invoke();
+            //                        //tagGunDelay = time + 0.5;
+            //                        //LocalRig.method("set_enabled").invoke(false);
+            //                        //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+            //                        //serialize();
+            //                        //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+            //                        //LocalRig.method("set_enabled").invoke(true);
+            //                        //sendAllOutgoing();
+            //                        //gunTarget.method("RPC_TagAsStinky").invoke();
+            //                        //kickPlayer(gunTarget);
+            //                        const plrtoken = NManager.method("GetPlayerToken").invoke(NetworkRunner, gunTarget)
+            //
+            //                        NetworkRunner.method("Disconnect").invoke(gunTarget, plrtoken);
+            //
+            //                            //static System.Int32 GetPlayerToken(Fusion.NetworkRunner runner, Fusion.PlayerRef player); // 0x02ea0180
+            //                            //static System.Byte[] NewToken(); // 0x02e9ccf8
+            //                            //static System.Int32 HashToken(System.Byte[] token); // 0x02ea029c
+            //                            //static System.String TokenToString(System.Byte[] token); // 0x02ea02dc
+            //
+            //                        //token is byte[]!
+            //
+            //                        // Disconnect(gunTarget, the token)
+            //                    }
+            //                }
+            //            }
+            //        }
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Kicks whoever your hand desires."
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "BATS REBORN",
+            //    //enabled: true,
+            //    method: () => {
+            //        rightPrimary = true;
+            //        if (rightPrimary && !previousGhostKey) {
+            //            // Start ghost following cycle
+            //            if (!isGhostFollowingActive && !waitingForRoom) {
+            //                console.log("[+] Starting ghost following cycle...");
+            //                executeFullGhostCycle();
+            //            }
+            //        }
+            //        else if (!rightPrimary && previousGhostKey) {
+            //            // Stop ghost following
+            //            if (isGhostFollowingActive || waitingForRoom) {
+            //                console.log("[+] Stopping ghost following...");
+            //                stopGhostFollowing();
+            //            }
+            //        }
+            //    
+            //        // Update ghost following if active
+            //        if (isGhostFollowingActive && netPlayers.length > 0) {
+            //            updateGhostFollowing();
+            //        }
+            //    
+            //        previousGhostKey = rightPrimary;
+            //    },
+            //    isTogglable: true,
+            //    toolTip: "Lags whoever your hand desires. May be broken."
+            //}),
+            new ButtonInfo({
+                buttonText: "Gay Gun",
+                method: () => {
+                    //if (rightGrab) {
+                    //    const gunData = renderGun();
+                    //    const ray = gunData.ray;
+                    //
+                    //    if (rightTrigger) {
+                    //        const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                    //        if (gunTarget && !gunTarget.handle.isNull() && time > lagGunDelay) {
+                    //            if (!playerIsLocal(gunTarget)) {
+                    //                lagGunDelay = time + 2;
+                    //
+                    //                //const plRef = gunTarget.method("get_Creator").invoke().method("get_ActorNumber"/*GetPlayerRef"*/).invoke();
+                    //                //const arr = Il2Cpp.array(SystemObject, 0);
+                    //                //const rpc = FriendshipGroupDetection.field("photonView").value.method("RPC");
+                    //                //for (let i = 0; i < 425; i++) {
+                    //                //    rpc.invoke(Il2Cpp.string("NotifyPartyMerging"), plRef, arr);
+                    //                //}
+                    //                //sendAllOutgoing();
+                    //                const transform = gunTarget.method("get_transform").invoke();
+                    //                const forward = transform.method("get_forward").invoke();
+                    //                const forceVec = Vector3.method("op_Multiply", 2).invoke(forward, 1500 * deltaTime);
+                    //                gunTarget.method("RPC_Teleport").invoke([0, -9999999, 0]);
+                    //                gunTarget.method("RPC_AddForce").invoke(forceVec);
+                    //            }
+                    //        }
+                    //    }
+                    //}
+                    hue += 5;
+                    if (hue > 255)
+                        hue = 0.0;
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    gunTarget.method("RPC_SetColorHSV").invoke(5, hue, 1.0, 1.0);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Blind/BlackScreen Gun",
+                method: () => {
+                    //if (rightGrab) {
+                    //    const gunData = renderGun();
+                    //    const ray = gunData.ray;
+                    //
+                    //    if (rightTrigger) {
+                    //        const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                    //        if (gunTarget && !gunTarget.handle.isNull() && time > lagGunDelay) {
+                    //            if (!playerIsLocal(gunTarget)) {
+                    //                lagGunDelay = time + 2;
+                    //
+                    //                //const plRef = gunTarget.method("get_Creator").invoke().method("get_ActorNumber"/*GetPlayerRef"*/).invoke();
+                    //                //const arr = Il2Cpp.array(SystemObject, 0);
+                    //                //const rpc = FriendshipGroupDetection.field("photonView").value.method("RPC");
+                    //                //for (let i = 0; i < 425; i++) {
+                    //                //    rpc.invoke(Il2Cpp.string("NotifyPartyMerging"), plRef, arr);
+                    //                //}
+                    //                //sendAllOutgoing();
+                    //                const transform = gunTarget.method("get_transform").invoke();
+                    //                const forward = transform.method("get_forward").invoke();
+                    //                const forceVec = Vector3.method("op_Multiply", 2).invoke(forward, 1500 * deltaTime);
+                    //                gunTarget.method("RPC_Teleport").invoke([0, -9999999, 0]);
+                    //                gunTarget.method("RPC_AddForce").invoke(forceVec);
+                    //            }
+                    //        }
+                    //    }
+                    //}
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    gunTarget.method("RPC_SetColorHSV").invoke(NaN, NaN, NaN, NaN);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "getlayer Gun",
+                method: () => {
+                    //if (rightGrab) {
+                    //    const gunData = renderGun();
+                    //    const ray = gunData.ray;
+                    //
+                    //    if (rightTrigger) {
+                    //        const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                    //        if (gunTarget && !gunTarget.handle.isNull() && time > lagGunDelay) {
+                    //            if (!playerIsLocal(gunTarget)) {
+                    //                lagGunDelay = time + 2;
+                    //
+                    //                //const plRef = gunTarget.method("get_Creator").invoke().method("get_ActorNumber"/*GetPlayerRef"*/).invoke();
+                    //                //const arr = Il2Cpp.array(SystemObject, 0);
+                    //                //const rpc = FriendshipGroupDetection.field("photonView").value.method("RPC");
+                    //                //for (let i = 0; i < 425; i++) {
+                    //                //    rpc.invoke(Il2Cpp.string("NotifyPartyMerging"), plRef, arr);
+                    //                //}
+                    //                //sendAllOutgoing();
+                    //                const transform = gunTarget.method("get_transform").invoke();
+                    //                const forward = transform.method("get_forward").invoke();
+                    //                const forceVec = Vector3.method("op_Multiply", 2).invoke(forward, 1500 * deltaTime);
+                    //                gunTarget.method("RPC_Teleport").invoke([0, -9999999, 0]);
+                    //                gunTarget.method("RPC_AddForce").invoke(forceVec);
+                    //            }
+                    //        }
+                    //    }
+                    //}
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const collider = ray.method("get_collider").invoke();
+                            if (collider && !collider.handle.isNull()) {
+                                const go = collider.method("get_gameObject").invoke();
+                                if (go && !go.handle.isNull()) {
+                                    const layer = go.method("get_layer").invoke(); // <--- not field, it's a method
+                                    console.log("Collider layer:", layer);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Break Game All",
+                method: () => {
+                    const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (players) {
+                        for (let i = 0; i < players.length; i++) {
+                            const netPlayer = players.get(i);
+                            if (playerIsLocal(netPlayer))
+                                continue;
+                            //myNP = netPlayer; // cache it
+                            const transform = netPlayer.method("get_transform").invoke();
+                            const forward = transform.method("get_forward").invoke();
+                            const forceVec = Vector3.method("op_Multiply", 2).invoke(forward, 1500 * deltaTime);
+                            netPlayer.method("RPC_Teleport").invoke([0, -9999999, 0]);
+                            netPlayer.method("RPC_AddForce").invoke(forceVec);
+                        }
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Kick All",
+                method: () => {
+                    const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (players) {
+                        for (let i = 0; i < players.length; i++) {
+                            const netPlayer = players.get(i);
+                            if (playerIsLocal(netPlayer))
+                                continue;
+                            kickPlayer(netPlayer);
+                        }
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Gay All",
+                method: () => {
+                    hue += 5;
+                    if (hue > 255)
+                        hue = 0.0;
+                    if (rightGrab) {
+                        const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                        if (players) {
+                            for (let i = 0; i < players.length; i++) {
+                                const netPlayer = players.get(i);
+                                if (netPlayer.method("get_IsMine").invoke())
+                                    continue;
+                                //myNP = netPlayer; // cache it
+                                netPlayer.method("RPC_SetColorHSV").invoke(5, hue, 1.0, 1.0);
+                                //break; // stop once we found it
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Blind/BlackScreen All",
+                method: () => {
+                    if (rightGrab) {
+                        const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                        if (players) {
+                            for (let i = 0; i < players.length; i++) {
+                                const netPlayer = players.get(i);
+                                if (netPlayer.method("get_IsMine").invoke())
+                                    continue;
+                                //myNP = netPlayer; // cache it
+                                netPlayer.method("RPC_SetColorHSV").invoke(NaN, NaN, NaN, NaN);
+                                //break; // stop once we found it
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Blind/BlackScreen Self",
+                method: () => {
+                    if (rightGrab) {
+                        //const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                        //if (players) {
+                        //    for (let i = 0; i < players.length; i++) {
+                        //        const netPlayer = players.get(i);
+                        //        if (netPlayer.method("get_IsMine").invoke()) continue;
+                        //        //myNP = netPlayer; // cache it
+                        //        netPlayer.method("RPC_SetColorHSV").invoke(NaN, NaN, NaN, NaN)
+                        //        //break; // stop once we found it
+                        //    }
+                        //}
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        player.method("RPC_SetColorHSV").invoke(NaN, NaN, NaN, NaN);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lags whoever your hand desires. May be broken."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Items",
+                method: () => {
+                    const handTransform = rightHandTransform;
+                    if (rightSecondary && rightGrab) {
+                        PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("" + itemIDs[itemIndex]), 
+                        //Il2Cpp.string("GiantRockObject"),
+                        handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), null);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Item 4x4",
+                disableMethod: () => {
+                    // hide/destroy all visualizer cubes
+                    if (visualizer && visualizer.length) {
+                        for (const cube of visualizer) {
+                            if (cube) {
+                                cube.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                                // optionally destroy: Destroy(cube);
+                            }
+                        }
+                        // clear array if you destroyed them
+                        // visualizer = [];
+                    }
+                },
+                method: () => {
+                    const handTransform = rightHandTransform;
+                    const prefabName = Il2Cpp.string("item_" + itemIDs[itemIndex]);
+                    const basePos = handTransform.method("get_position").invoke();
+                    const rot = identityQuaternion;
+                    const spacing = 0.5;
+                    if (time > tagGunDelay) {
+                        tagGunDelay = time + 0.1;
+                        for (let i = 0; i < 4; i++) {
+                            for (let j = 0; j < 4; j++) {
+                                const offset = Vector3.method("op_Addition").invoke(basePos, Vector3.method("op_Multiply").invoke(Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, i), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, j)), spacing));
+                                // create visualizer cube if not exists
+                                if (!visualizer[i * 4 + j]) {
+                                    const cube = GameObject.method("CreatePrimitive").invoke(3); // cube
+                                    Destroy(getComponent(cube, Collider));
+                                    const renderer = getComponent(cube, Renderer);
+                                    const mat = renderer.method("get_material").invoke();
+                                    mat.method("set_shader").invoke(UberShader);
+                                    mat.method("set_color").invoke([0, 1, 0, 0.3]); // semi-transparent green
+                                    const t = getTransform(cube);
+                                    t.method("set_localScale").invoke([0.1, 0.1, 0.1]);
+                                    visualizer[i * 4 + j] = cube;
+                                }
+                                // update position and rotation every frame
+                                const t = getTransform(visualizer[i * 4 + j]);
+                                t.method("set_position").invoke(offset);
+                                t.method("set_rotation").invoke(rot);
+                                visualizer[i * 4 + j].method("get_gameObject").invoke().method("SetActive").invoke(true);
+                            }
+                        }
+                    }
+                    if (rightPrimary && !perviousSpawnKey) {
+                        for (let i = 0; i < 4; i++) {
+                            for (let j = 0; j < 4; j++) {
+                                const offset = Vector3.method("op_Addition").invoke(basePos, Vector3.method("op_Multiply").invoke(Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, i), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, j)), spacing));
+                                PrefabGen.method("SpawnItem", 4).invoke(prefabName, offset, rot, null);
+                            }
+                        }
+                    }
+                    perviousSpawnKey = rightPrimary;
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Item 4x4 (ABOVE HEAD)",
+                disableMethod: () => {
+                    // hide/destroy all visualizer cubes
+                    if (visualizer && visualizer.length) {
+                        for (const cube of visualizer) {
+                            if (cube) {
+                                cube.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                                // optionally destroy: Destroy(cube);
+                            }
+                        }
+                        // clear array if you destroyed them
+                        // visualizer = [];
+                    }
+                },
+                method: () => {
+                    const prefabName = Il2Cpp.string("item_" + itemIDs[itemIndex]);
+                    const headPos = getTransform(headCollider).method("get_position").invoke(); // top of head
+                    const rot = identityQuaternion;
+                    const spacing = 0.5;
+                    const heightOffset = Vector3.field("upVector").value; // Vector3.up equivalent
+                    const basePos = Vector3.method("op_Addition").invoke(headPos, Vector3.method("op_Multiply").invoke(heightOffset, 2)); // 2 units above head
+                    if (time > tagGunDelay) {
+                        tagGunDelay = time + 0.1;
+                        for (let i = 0; i < 4; i++) {
+                            for (let j = 0; j < 4; j++) {
+                                const offset = Vector3.method("op_Addition").invoke(basePos, Vector3.method("op_Multiply").invoke(Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, i), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, j)), spacing));
+                                // create visualizer cube if not exists
+                                if (!visualizer[i * 4 + j]) {
+                                    const cube = GameObject.method("CreatePrimitive").invoke(3); // cube
+                                    Destroy(getComponent(cube, Collider));
+                                    const renderer = getComponent(cube, Renderer);
+                                    const mat = renderer.method("get_material").invoke();
+                                    mat.method("set_shader").invoke(UberShader);
+                                    mat.method("set_color").invoke([0, 1, 0, 0.3]); // semi-transparent green
+                                    const t = getTransform(cube);
+                                    t.method("set_localScale").invoke([0.1, 0.1, 0.1]);
+                                    visualizer[i * 4 + j] = cube;
+                                }
+                                // update position and rotation every frame
+                                const t = getTransform(visualizer[i * 4 + j]);
+                                t.method("set_position").invoke(offset);
+                                t.method("set_rotation").invoke(rot);
+                                visualizer[i * 4 + j].method("get_gameObject").invoke().method("SetActive").invoke(true);
+                            }
+                        }
+                    }
+                    // spawn actual prefabs if right trigger pressed
+                    if (rightPrimary && !perviousSpawnKey) {
+                        for (let i = 0; i < 4; i++) {
+                            for (let j = 0; j < 4; j++) {
+                                const offset = Vector3.method("op_Addition").invoke(basePos, Vector3.method("op_Multiply").invoke(Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, i), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, j)), spacing));
+                                PrefabGen.method("SpawnItem", 4).invoke(prefabName, offset, rot, null);
+                            }
+                        }
+                    }
+                    perviousSpawnKey = rightPrimary;
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Items Gun",
+                method: () => {
+                    //const handTransform = rightHandTransform;
+                    //if(rightSecondary && rightGrab){
+                    //    PrefabGen.method("SpawnItem", 4).invoke(
+                    //    Il2Cpp.string("item_" + itemIDs[itemIndex]),
+                    //    //Il2Cpp.string("GiantRockObject"),
+                    //    handTransform.method("get_position").invoke(),
+                    //    handTransform.method("get_rotation").invoke(),
+                    //    null
+                    //    )
+                    //}
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const gunPointer = gunData.gunPointer;
+                        if (rightTrigger) {
+                            //if(rightSecondary && rightGrab){
+                            PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("item_" + itemIDs[itemIndex]), 
+                            //Il2Cpp.string("GiantRockObject"),
+                            getTransform(gunPointer).method("get_position").invoke(), identityQuaternion, null);
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Drop Items Gun",
+                method: () => {
+                    //const handTransform = rightHandTransform;
+                    //if(rightSecondary && rightGrab){
+                    //    PrefabGen.method("SpawnItem", 4).invoke(
+                    //    Il2Cpp.string("item_" + itemIDs[itemIndex]),
+                    //    //Il2Cpp.string("GiantRockObject"),
+                    //    handTransform.method("get_position").invoke(),
+                    //    handTransform.method("get_rotation").invoke(),
+                    //    null
+                    //    )
+                    //}
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), GBOClass);
+                            gunTarget.method("RPC_Release", 6).invoke(rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke(), zeroVector, zeroVector, true, false);
+                            gunTarget.method("RPC_Teleport", 2).invoke(rightHandTransform.method("get_position").invoke(), rightHandTransform.method("get_rotation").invoke(), zeroVector, zeroVector, true, false);
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "CRASH ALL",
+                method: () => {
+                    //const handTransform = rightHandTransform;
+                    //if(rightSecondary && rightGrab){
+                    //    PrefabGen.method("SpawnItem", 4).invoke(
+                    //    Il2Cpp.string("item_" + itemIDs[itemIndex]),
+                    //    //Il2Cpp.string("GiantRockObject"),
+                    //    handTransform.method("get_position").invoke(),
+                    //    handTransform.method("get_rotation").invoke(),
+                    //    null
+                    //    )
+                    //}
+                    if (rightGrab) {
+                        if (rightTrigger) {
+                            const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                            if (players) {
+                                for (let i = 0; i < players.length; i++) {
+                                    const netPlayer = players.get(i);
+                                    if (netPlayer.method("get_IsMine").invoke())
+                                        continue;
+                                    //myNP = netPlayer; // cache it
+                                    kickPlayer(netPlayer);
+                                    netPlayer.method("RPC_Teleport").invoke(new Vector3(-99999999, -99999999, -99999999), identityQuaternion);
+                                    //break; // stop once we found it
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "TP ALL Gun",
+                method: () => {
+                    //const handTransform = rightHandTransform;
+                    //if(rightSecondary && rightGrab){
+                    //    PrefabGen.method("SpawnItem", 4).invoke(
+                    //    Il2Cpp.string("item_" + itemIDs[itemIndex]),
+                    //    //Il2Cpp.string("GiantRockObject"),
+                    //    handTransform.method("get_position").invoke(),
+                    //    handTransform.method("get_rotation").invoke(),
+                    //    null
+                    //    )
+                    //}
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const gunPointer = gunData.gunPointer;
+                        if (rightTrigger) {
+                            const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                            if (players) {
+                                for (let i = 0; i < players.length; i++) {
+                                    const netPlayer = players.get(i);
+                                    if (netPlayer.method("get_IsMine").invoke())
+                                        continue;
+                                    //myNP = netPlayer; // cache it
+                                    netPlayer.method("RPC_Teleport").invoke(getTransform(gunPointer).method("get_position").invoke());
+                                    //break; // stop once we found it
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn items in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Mobs",
+                method: () => {
+                    const handTransform = rightHandTransform;
+                    if (rightSecondary && rightGrab) {
+                        PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("mob_prefab/" + mobIDs[mobIndex]), handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), null);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Lets you spawn mobs in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn ALL Mobs",
+                method: () => {
+                    const handTransform = rightHandTransform;
+                    for (let i = 0; i < mobIDs.length; i++) {
+                        PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("mob_prefab/" + mobIDs[i]), handTransform.method("get_position").invoke(), handTransform.method("get_rotation").invoke(), null);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Lets you spawn mobs in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Spoof developer mode",
+                method: () => {
+                    UnlockAll();
+                },
+                isTogglable: true,
+                toolTip: "Makes the game think you are a developer to unlock beta features."
+            }),
+            new ButtonInfo({
+                buttonText: "Developer mode for vending machine",
+                disableMethod: () => {
+                    try {
+                        const theclass = AssemblyCSharp.class("AnimalCompany.ItemVendingMachineView");
+                        if (!theclass)
+                            return;
+                        if (!devEnabled) {
+                            const vendingmachines = Object.method("FindObjectsOfType").inflate(theclass).invoke();
+                            for (let i = 0; i < vendingmachines.length; i++) {
+                                const vendingmachine = vendingmachines.get(i);
+                                vendingmachine.field("_devModeOn").value = false;
+                            }
+                            devEnabled = false;
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                method: () => {
+                    try {
+                        const theclass = AssemblyCSharp.class("AnimalCompany.ItemVendingMachineView");
+                        if (!theclass)
+                            return;
+                        if (!devEnabled) {
+                            const vendingmachines = Object.method("FindObjectsOfType").inflate(theclass).invoke();
+                            for (let i = 0; i < vendingmachines.length; i++) {
+                                const vendingmachine = vendingmachines.get(i);
+                                vendingmachine.field("_devModeOn").value = true;
+                            }
+                            devEnabled = true;
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Enables the developer mode for the vending machine so you can buy any item even if it isn't in the base game!"
+            }),
+            new ButtonInfo({
+                buttonText: "Rapid Fire",
+                method: () => {
+                    //UnlockAll();
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(1);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        const interactor2 = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor2)
+                            return;
+                        const itemAnchor2 = interactor2.field("_itemAnchor").value;
+                        if (!itemAnchor2)
+                            return;
+                        const grabbable2 = itemAnchor2.method("get_grabbableObject").invoke();
+                        if (!grabbable2)
+                            return;
+                        //const FlashlightClass = Il2Cpp.domain.assembly("AnimalCompany").image.class("AnimalCompany.ZiplineGun");
+                        //const flashlight = getComponent(grabbable, FlashlightClass);
+                        //if (rightPrimary && hueVal < 127) hueVal++;
+                        //if (rightGrab && hueVal > -127) hueVal--;
+                        if (rightTrigger) {
+                            //grabbable.method("UpdateReload").invoke();
+                            grabbable.method("HandleTriggerUse").invoke();
+                            //flashlight.method("Shoot").invoke();
+                        }
+                        if (leftTrigger) {
+                            //grabbable.method("UpdateReload").invoke();
+                            grabbable2.method("HandleTriggerUse").invoke();
+                        }
+                        //grabbable.method("set_colorHue").invoke(hueVal);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Rapid fire any item that is used with the trigger button"
+            }),
+            //new ButtonInfo({
+            //    buttonText: "BREAK THE GAME.",
+            //    method: () => {
+            //        //UnlockAll();
+            //      //  const theclass = AssemblyCSharp.class("AnimalCompany.ItemVendingMachineView");
+            //      //if (!theclass) return;
+            //        //if(!devEnabled){
+            //         const networkrunner = SFXManager.method("get__currentRunner").invoke();
+            //            //const vendingmachines = Object.method("FindObjectsOfType").inflate(NetworkObjectClass).invoke();
+            //            
+            //            //for (let i = 0; i < vendingmachines.length; i++) {
+            //            //  const vendingmachine = vendingmachines.get(i);
+            //            //  //vendingmachine.field("_devModeOn").value = true;
+            //            //  //vendingmachine.method("ReleaseStateAuthority").invoke();
+            //            //  //vendingmachine.method("RequestStateAuthority").invoke();
+            //            //  networkrunner.method("UnloadScene").invoke(0)
+            //            //  //networkrunner.method("Shutdown").invoke(vendingmachine)
+            //            //}
+            //            networkrunner.method("Spawn").invoke(
+            //                Il2Cpp.string("GameObject/NetSpectator"),
+            //                //Il2Cpp.string("GiantRockObject"),
+            //                null,
+            //                null,
+            //                null,
+            //                null,
+            //                1
+            //            )
+            //            //console.log(networkrunner.method("GetAllNetworkObjects").invoke())
+            //            //const lobbyinfo = networkrunner.method("get_LobbyInfo").invoke();
+            //            //console.log("VALID: " + lobbyinfo.method("get_IsValid").invoke() + " NAME: " + lobbyinfo.method("get_Name").invoke() + " REGION: " + lobbyinfo.method("get_Region").invoke());
+            //
+            //            //devEnabled = true;
+            //        //Despawn
+            //    },
+            //      isTogglable: false,
+            //      toolTip: "Makes the game think you are a developer to unlock beta features."
+            //    }),
+            new ButtonInfo({
+                buttonText: "Activate all robo-monkes",
+                method: () => {
+                    const networkrunner = SFXManager.method("get__currentRunner").invoke();
+                    const vendingmachines = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.RoboMonkeItem")).invoke();
+                    for (let i = 0; i < vendingmachines.length; i++) {
+                        const vendingmachine = vendingmachines.get(i);
+                        vendingmachine.method("RPC_Startup").invoke(networkrunner.method("get_LocalPlayer").invoke());
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Activates all robo-monke items."
+            }),
+            new ButtonInfo({
+                buttonText: "Grind ores",
+                method: () => {
+                    if (rightGrab) {
+                        const vendingmachines = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.Ore")).invoke();
+                        for (let i = 0; i < vendingmachines.length; i++) {
+                            const vendingmachine = vendingmachines.get(i);
+                            vendingmachine.method("Hit").invoke(999, 4, zeroVector, zeroVector);
+                        }
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Breaks every single ore. (right grip!)"
+            }),
+            new ButtonInfo({
+                buttonText: "Attach everyone to ogre hand (buggy!)",
+                method: () => {
+                    //UnlockAll();
+                    //  const theclass = AssemblyCSharp.class("AnimalCompany.ItemVendingMachineView");
+                    //if (!theclass) return;
+                    //if(!devEnabled){
+                    //const networkrunner = SFXManager.method("get__currentRunner").invoke();
+                    const vendingmachines = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.GiantController")).invoke();
+                    const rigs = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+                    if (!rigs)
+                        return null;
+                    PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("mob_prefab/GiantController"), rightHandTransform.method("get_position").invoke(), identityQuaternion, null);
+                    for (let i = 0; i < vendingmachines.length; i++) {
+                        const vendingmachine = vendingmachines.get(i);
+                        //vendingmachine.method("RPC_Startup").invoke(networkrunner.method("get_LocalPlayer").invoke());
+                        //console.log(vendingmachine.field("attachTransform").value.method("get_position").invoke());
+                        for (let i = 0; i < rigs.length; i++) {
+                            const rig = rigs.get(i);
+                            if (playerIsLocal(rig))
+                                continue;
+                            rig.method("RPC_AttachToGiantHand").invoke(true, vendingmachine, true, zeroVector);
+                        }
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Spawns a new ogre and attaches everyone to the hand of it."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Items Gun",
+                isTogglable: true,
+                method: () => {
+                    if (!rightGrab) {
+                        return;
+                    }
+                    const gunData = renderGun();
+                    const ray = gunData.ray;
+                    if (!ray)
+                        return;
+                    if (rightTrigger) {
+                        try {
+                            const hitPoint = ray.method("get_point").invoke();
+                            const PrefabGen2 = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+                            const itemPrefab = PrefabGen2.method("GetItemPrefab").invoke(Il2Cpp.string(itemIDs[itemIndex]));
+                            if (!itemPrefab || itemPrefab.handle.isNull()) {
+                                sendNotification("Item prefab not found!", false);
+                                console.error("Failed to get prefab for:", itemIDs[itemIndex]);
+                                return;
+                            }
+                            //const component = itemPrefab.method("GetComponent").invoke(GBOClass.type);
+                            //component.method("SetColorHue").invoke(huespawner);
+                            //component.method("SetColorSaturation").invoke(saturationspawner);
+                            //component.method("SetNormalizedScaleModifier").invoke(sizespawner);
+                            //component.method("SetJellyStrength").invoke(jellyspawner);
+                            //if (!component || component.handle.isNull()) {
+                            // console.error("Component not found on prefab");
+                            // return;
+                            //   }
+                            PrefabGen2.method("SpawnItemAsync", 4).overload("AnimalCompany.GrabbableItemPrefab", "UnityEngine.Vector3", "UnityEngine.Quaternion", 
+                            // @ts-ignore
+                            "Fusion.NetworkObjectSpawnDelegate").invoke(itemPrefab, hitPoint, identityQuaternion, null);
+                            console.log("\u2713 Spawned item:", itemIDs[itemIndex]);
+                            sendNotification("Spawned: " + itemIDs[itemIndex], false);
+                        }
+                        catch (e) {
+                            console.error("Item spawn error:", e);
+                            sendNotification("Spawn failed: " + e, false);
+                        }
+                    }
+                },
+                toolTip: "Spawns items where you aim (hold grip, pull trigger)."
+            }),
+            new ButtonInfo({
+                buttonText: "Spawn Mobs Gun",
+                isTogglable: true,
+                method: () => {
+                    if (!rightGrab) {
+                        return;
+                    }
+                    const gunData = renderGun();
+                    const ray = gunData.ray;
+                    if (!ray)
+                        return;
+                    if (rightTrigger) {
+                        try {
+                            const hitPoint = ray.method("get_point").invoke();
+                            const PrefabGen2 = AssemblyCSharp.class("AnimalCompany.PrefabGenerator");
+                            const itemPrefab = PrefabGen2.method("GetMobPrefab").invoke(Il2Cpp.string(mobIDs[mobIndex]));
+                            if (!itemPrefab || itemPrefab.handle.isNull()) {
+                                sendNotification("Item prefab not found!", false);
+                                console.error("Failed to get prefab for:", mobIDs[mobIndex]);
+                                return;
+                            }
+                            PrefabGen2.method("SpawnMobAsync", 4).overload("AnimalCompany.MobID", "UnityEngine.Vector3", "UnityEngine.Quaternion", 
+                            // @ts-ignore
+                            "Fusion.NetworkObjectSpawnDelegate").invoke(mobIDs[mobIndex], hitPoint, identityQuaternion, null);
+                            console.log("\u2713 Spawned item:", mobIDs[mobIndex]);
+                            sendNotification("Spawned: " + mobIDs[mobIndex], false);
+                        }
+                        catch (e) {
+                            console.error("Item spawn error:", e);
+                            sendNotification("Spawn failed: " + e, false);
+                        }
+                    }
+                },
+                toolTip: "Spawns items where you aim (hold grip, pull trigger)."
+            }),
+            new ButtonInfo({
+                buttonText: "Use All Cameras",
+                method: () => {
+                    //UnlockAll();
+                    //  const theclass = AssemblyCSharp.class("AnimalCompany.ItemVendingMachineView");
+                    //if (!theclass) return;
+                    //if(!devEnabled){
+                    //const networkrunner = SFXManager.method("get__currentRunner").invoke();
+                    //const vendingmachines = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.GiantController")).invoke();
+                    //const rigs = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.DisposableCamera")).invoke();
+                    //if (!rigs) return null;
+                    //const head = getTransform(headCollider);
+                    //if(!head) return null;
+                    //PrefabGen.method("SpawnItem", 4).invoke(
+                    //    Il2Cpp.string("mob_prefab/GiantController"),
+                    //    rightHandTransform.method("get_position").invoke(),
+                    //    identityQuaternion,
+                    //    null
+                    //)
+                    //
+                    //for (let i = 0; i < vendingmachines.length; i++) {
+                    //  const vendingmachine = vendingmachines.get(i);
+                    //  //vendingmachine.method("RPC_Startup").invoke(networkrunner.method("get_LocalPlayer").invoke());
+                    //  //console.log(vendingmachine.field("attachTransform").value.method("get_position").invoke());
+                    //System.Void RPC_CameraShoot(UnityEngine.Vector3 cameraPosition, UnityEngine.Quaternion cameraRotation, UnityEngine.Vector3 cameraForward);
+                    //for (let i = 0; i < rigs.length; i++) {
+                    //        const rig = rigs.get(i);
+                    //        //if (rig.method("get_IsMine").invoke()) continue;
+                    //        rig.method("RPC_CameraShoot").invoke(head.method("get_position").invoke(), head.method("get_rotation").invoke(), head.method("get_forward").invoke());//getTransform(headCollider).method("get_position").invoke(), getTransform(headCollider).method("get_rotation").invoke(), getTransform(headCollider).method("get_forward").invoke());
+                    //}
+                    if (rightStick && !perviousShootKey) {
+                        const rigs = Object.method("FindObjectsOfType").inflate(AssemblyCSharp.class("AnimalCompany.DisposableCamera")).invoke();
+                        if (!rigs)
+                            return null;
+                        const head = getTransform(headCollider);
+                        if (!head)
+                            return null;
+                        for (let i = 0; i < rigs.length; i++) {
+                            const rig = rigs.get(i);
+                            //if (rig.method("get_IsMine").invoke()) continue;
+                            rig.method("RPC_CameraShoot").invoke(head.method("get_position").invoke(), head.method("get_rotation").invoke(), head.method("get_forward").invoke()); //getTransform(headCollider).method("get_position").invoke(), getTransform(headCollider).method("get_rotation").invoke(), getTransform(headCollider).method("get_forward").invoke());
+                        }
+                    }
+                    //if (rightTrigger && !previousNoclipKey) {
+                    //    toggleColliders(false);
+                    //}
+                    //
+                    //if (!rightTrigger && previousNoclipKey) {
+                    //    toggleColliders(true);
+                    //}
+                    //
+                    //previousNoclipKey = rightTrigger;
+                    perviousShootKey = rightStick;
+                },
+                isTogglable: true,
+                toolTip: "Press right joystick to use every camera object in the room. (DOESNT WORK FOR SOME CAMERAS DUE TO STATE AUTHORITY)"
+            }),
+            new ButtonInfo({
+                buttonText: "Fullbright",
+                disableMethod: () => {
+                    lightEnabled = false;
+                    if (fullbirhgtobject != null) {
+                        fullbirhgtobject.method("get_gameObject").invoke().method("SetActive").invoke(false);
+                    }
+                },
+                enableMethod: () => {
+                    lightEnabled = true;
+                    if (fullbirhgtobject != null) {
+                        fullbirhgtobject.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                    }
+                },
+                method: () => {
+                    if (!lightEnabled)
+                        return;
+                    if (fullbirhgtobject == null) {
+                        fullbirhgtobject = createObject(getTransform(headCollider).method("get_position").invoke(), getTransform(headCollider).method("get_rotation").invoke(), [0, 0, 0], 3, bgColor);
+                        Destroy(getComponent(fullbirhgtobject, Collider));
+                        addComponent(fullbirhgtobject, Light);
+                        getTransform(fullbirhgtobject).method("SetParent", 2).invoke(getTransform(headCollider), false);
+                    }
+                    else {
+                        // update position/rotation every frame to follow head
+                        const t = getTransform(fullbirhgtobject);
+                        t.method("set_position").invoke(getTransform(headCollider).method("get_position").invoke());
+                        t.method("set_rotation").invoke(getTransform(headCollider).method("get_rotation").invoke());
+                        const lightComp = getComponent(fullbirhgtobject, Light);
+                        if (lightComp != null) {
+                            lightComp.method("set_intensity").invoke(5.0);
+                            lightComp.method("set_range").invoke(999.0); // <— crank it up! change 5.0 to whatever you want
+                        }
+                        fullbirhgtobject.method("get_gameObject").invoke().method("SetActive").invoke(true);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Press right joystick to toggle a light on your head."
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Spoof stash mode",
+            //    method: () => {
+            //        UnlockAll2();
+            //    },
+            //      isTogglable: true,
+            //      toolTip: "Makes the game think you are a developer to unlock beta features."
+            //    }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Item Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "No Gravity On Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        grabbable.method("set_useGravity").invoke(false);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Disables gravity on the item in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Add Gravity To Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        grabbable.method("set_useGravity").invoke(true);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Enables gravity on the item in your right hand."
+            }),
+            new ButtonInfo({
+                buttonText: "Custom Scale Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        if (rightPrimary && scaleVal < 127)
+                            scaleVal++;
+                        if (rightGrab && scaleVal > -127)
+                            scaleVal--;
+                        grabbable.method("set_scaleModifier").invoke(scaleVal);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease scale of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Custom Hue Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        if (rightPrimary && hueVal < 127)
+                            hueVal++;
+                        if (rightGrab && hueVal > -127)
+                            hueVal--;
+                        grabbable.method("set_colorHue").invoke(hueVal);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease hue of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Custom Sat Held Item",
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        if (rightPrimary && satVal < 127)
+                            satVal++;
+                        if (rightGrab && satVal > -127)
+                            satVal--;
+                        grabbable.method("set_colorSaturation").invoke(satVal);
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease sat of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Bypass adding to containers held item",
+                //enableMethod: () => {
+                //  throwvelocityTest = true;
+                //},
+                //disableMethod: () => {
+                //  throwvelocityTest = false;
+                //},
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        //if (rightPrimary && hueVal < 127) hueVal++;
+                        //if (rightGrab && hueVal > -127) hueVal--;
+                        const GIECInstance = grabbable.field("equippingConfig").value;
+                        GIECInstance.field("allowAddToQuiver").value = true;
+                        GIECInstance.field("allowAddToBag").value = true;
+                        sendNotification("success!");
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Allows the item you are currently holding to be put in bags, quivers, your back, your hip, etc."
+            }),
+            new ButtonInfo({
+                buttonText: "Allow grabbing anywhere in held item",
+                //enableMethod: () => {
+                //  throwvelocityTest = true;
+                //},
+                //disableMethod: () => {
+                //  throwvelocityTest = false;
+                //},
+                method: () => {
+                    try {
+                        const player = NetPlayer.method("get_localPlayer").invoke();
+                        if (!player)
+                            return;
+                        const interactor = player.method("GetHandInteractor", 1).invoke(0);
+                        if (!interactor)
+                            return;
+                        const itemAnchor = interactor.field("_itemAnchor").value;
+                        if (!itemAnchor)
+                            return;
+                        const grabbable = itemAnchor.method("get_grabbableObject").invoke();
+                        if (!grabbable)
+                            return;
+                        //if (rightPrimary && hueVal < 127) hueVal++;
+                        //if (rightGrab && hueVal > -127) hueVal--;
+                        //const GIECInstance = grabbable.field("equippingConfig").value;
+                        //GIECInstance.field("allowAddToQuiver").value = true;
+                        //GIECInstance.field("allowAddToBag").value = true;
+                        grabbable.field("_allowGrabAnywhere").value = true;
+                        sendNotification("success!");
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: false,
+                toolTip: "Lets you grab on any point for the held item. Some items lock where you hold them (eg. Revolver, RPG) This mod removes the limitation!"
+            }),
+            new ButtonInfo({
+                buttonText: "Rainbow all items",
+                method: () => {
+                    try {
+                        //grabbable.method("set_colorSaturation").invoke(satVal);
+                        hueVal += 15;
+                        if (hueVal > 127)
+                            hueVal = -127;
+                        if (rightGrab) {
+                            const players = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                            if (players) {
+                                for (let i = 0; i < players.length; i++) {
+                                    const netPlayer = players.get(i);
+                                    //if (netPlayer.method("get_IsMine").invoke()) continue;
+                                    //myNP = netPlayer; // cache it
+                                    netPlayer.method("set_colorHue").invoke(hueVal);
+                                    //break; // stop once we found it
+                                }
+                            }
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease sat of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Jelly Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_SetJellyEffect").invoke(jellywowes, jellywowes);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "jellifies whoever your hand desires."
+            }),
+            new ButtonInfo({
+                buttonText: "Poor Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_AddPlayerMoney").invoke(-100);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "makes whoever your hand desires POOR."
+            }),
+            new ButtonInfo({
+                buttonText: "Rich Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_AddPlayerMoney").invoke(9999999);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "makes whoever your hand desires rich."
+            }),
+            new ButtonInfo({
+                buttonText: "Fling Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        const yes = Il2Cpp.UnityEngine.Vector3.new(1000.0, 1000.0, 1000.0);
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_AddForce").invoke(yes);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "flings whoever your hands desires"
+            }),
+            new ButtonInfo({
+                buttonText: "Kill Gun",
+                method: () => {
+                    if (rightGrab) {
+                        const gunData = renderGun();
+                        const ray = gunData.ray;
+                        const yes = Il2Cpp.UnityEngine.Vector3.new(1000.0, 1000.0, 1000.0);
+                        if (rightTrigger && ray) {
+                            const gunTarget = getComponentInParent(ray.method("get_collider").invoke(), NetPlayer);
+                            if (gunTarget && !gunTarget.handle.isNull() && time > tagGunDelay) {
+                                if (!playerIsLocal(gunTarget)) {
+                                    //tagGunDelay = time + 0.5;
+                                    //LocalRig.method("set_enabled").invoke(false);
+                                    //getTransform(LocalRig).method("set_position").invoke(getTransform(gunTarget).method("get_position").invoke());
+                                    //serialize();
+                                    //GameMode.method("ReportTag").invoke(gunTarget.method("get_Creator").invoke());
+                                    //LocalRig.method("set_enabled").invoke(true);
+                                    //sendAllOutgoing();
+                                    gunTarget.method("RPC_Teleport").invoke(yes);
+                                }
+                            }
+                        }
+                    }
+                },
+                isTogglable: true,
+                toolTip: "kills whoever your hands desires"
+            }),
+            new ButtonInfo({
+                buttonText: "Scale all items",
+                method: () => {
+                    try {
+                        //grabbable.method("set_colorSaturation").invoke(satVal);
+                        scaleVal += 15;
+                        if (scaleVal > 127)
+                            scaleVal = -127;
+                        if (rightGrab) {
+                            const players = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                            if (players) {
+                                for (let i = 0; i < players.length; i++) {
+                                    const netPlayer = players.get(i);
+                                    //if (netPlayer.method("get_IsMine").invoke()) continue;
+                                    //myNP = netPlayer; // cache it
+                                    netPlayer.method("set_scaleModifier").invoke(scaleVal);
+                                    //break; // stop once we found i
+                                }
+                            }
+                        }
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease sat of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Nuke",
+                method: () => {
+                    try {
+                        const handPos = getTransform(headCollider).method("get_position").invoke();
+                        // Upward offset
+                        const upwardOffset = Vector3.method("op_Multiply").invoke(Vector3.field("upVector").value, 10.0);
+                        // Apply upward offset to hand position
+                        const arrowsss = Vector3.method("op_Addition").invoke(handPos, upwardOffset);
+                        // Rightward offset
+                        const rightOffset = Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, 0.5 // tweak distance
+                        );
+                        // Final arrow spawn position: hand + up + right
+                        const arrowSpawnPos = Vector3.method("op_Addition").invoke(arrowsss, rightOffset);
+                        // Also spawn RPG ammo slightly lower
+                        const upwardOffsetv2 = Vector3.method("op_Multiply").invoke(Vector3.field("upVector").value, 5.0);
+                        const spawnPosv2 = Vector3.method("op_Addition").invoke(handPos, upwardOffsetv2);
+                        // Assign final position for arrow (fix: no extra add!)
+                        const spawnPos = arrowSpawnPos;
+                        if (rightPrimary && !previoussaaakey) {
+                            PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("item_rpg_ammo"), spawnPosv2, identityQuaternion, null);
+                            PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string("item_arrow_bomb"), spawnPos, identityQuaternion, null);
+                        }
+                        previoussaaakey = rightPrimary;
+                    }
+                    catch (e) {
+                        console.error(e);
+                    }
+                },
+                isTogglable: true,
+                toolTip: "Hold A to increase, grip to decrease sat of held item."
+            }),
+            new ButtonInfo({
+                buttonText: "Text Test",
+                isTogglable: true, // now it’s a toggle
+                method: () => {
+                    if (handTextObj == null) {
+                        const handPos = rightHandTransform.method("get_position").invoke();
+                        const handRot = rightHandTransform.method("get_rotation").invoke();
+                        // create tiny world-space canvas
+                        handTextObj = createObject(handPos, handRot, [0.05, 0.05, 0.05], 3, [0, 0, 0, 0]);
+                        const canvas = addComponent(handTextObj, Canvas);
+                        canvas.method("set_renderMode").invoke(2); // world space
+                        const scaler = addComponent(handTextObj, CanvasScaler);
+                        scaler.method("set_dynamicPixelsPerUnit").invoke(1000.0);
+                        // parent to hand so it follows
+                        getTransform(handTextObj).method("SetParent", 2).invoke(rightHandTransform, true);
+                        const transform = getTransform(handTextObj);
+                        transform.method("SetParent", 2).invoke(rightHandTransform, true);
+                        transform.method("set_localRotation").invoke(Quaternion.method("Euler").invoke(90, 0, 0)); // tilt to face player
+                        transform.method("set_localPosition").invoke(zeroVector); // tilt to face player
+                        // render the text
+                        renderMenuText(handTextObj, "Floating Text", handRot, handPos, [200, 50]);
+                        // destroy collider so it doesn’t block
+                        const col = getComponent(handTextObj, Collider);
+                        if (col)
+                            Destroy(col);
+                    }
+                },
+                disableMethod: () => {
+                    if (handTextObj != null) {
+                        Object.method("Destroy", 1).invoke(handTextObj);
+                        handTextObj = null;
+                    }
+                },
+                toolTip: "Toggles floating hand text"
+            }),
+            //new ButtonInfo({
+            //    buttonText: "Loader Test",
+            //    //enableMethod: () => {
+            //    //  throwvelocityTest = true;
+            //    //},
+            //    //disableMethod: () => {
+            //    //  throwvelocityTest = false;
+            //    //},
+            //    method: () => {
+            //        try {
+            //            
+            //      } catch (e) { console.error(e); }
+            //    },
+            //    isTogglable: false,
+            //    toolTip: "Lets you grab on any point for the held item. Some items lock where you hold them (eg. Revolver, RPG) This mod removes the limitation!"
+            //}),
+            //new ButtonInfo({
+            //    buttonText: "Anti Moderator",
+            //    isTogglable: true,
+            //    method: () => {
+            //        if (frameCount % 5 != 0) {
+            //            const vrrigs = GorillaParent.field("vrrigs").value;
+            //            const vrrigtotal = vrrigs.method("get_Count").invoke();
+            //            let shouldLeave = false;
+            //            for (let i = 0; i < vrrigtotal; i++) {
+            //                const playerRig = vrrigs.method("get_Item").invoke(i);
+            //                if (playerIsLocal(playerRig)) continue;
+            //                const concat = String(playerRig.field("concatStringOfCosmeticsAllowed").value);
+            //                if (concat.includes("LBAAD.")) { shouldLeave = true; break; }; // Admin
+            //                if (concat.includes("LBAAK.")) { shouldLeave = true; break; }; // Stick
+            //                if (concat.includes("LMAPY.")) { shouldLeave = true; break; }; // Forest Guide
+            //            }
+            //            if (shouldLeave == true) {
+            //                let room = "";
+            //                try {
+            //                    room = String(PhotonNetwork.method("get_CurrentRoom").invoke().method("get_Name").invoke());
+            //                } finally {
+            //                    NetworkSystem.method("ReturnToSinglePlayer").invoke();
+            //                }
+            //                for (let i = 0; i < 10; i++) {
+            //                    console.log("Moderator in code " + room);
+            //                }
+            //                sendNotification("Moderator in code " + room, true, 20);
+            //            }
+            //        }
+            //    },
+            //    toolTip: "When someone with the stick joins, you get disconnected.",
+            //}),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit Prefab Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Next Prefab",
+                method: () => {
+                    currentWorldPrefabIndex = (currentWorldPrefabIndex + 1) % prefabList.length;
+                    sendNotification("Prefab: " + prefabList[currentWorldPrefabIndex], false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles to the next prefab."
+            }),
+            new ButtonInfo({
+                buttonText: "Prev Prefab",
+                method: () => {
+                    currentWorldPrefabIndex = (currentWorldPrefabIndex - 1 + prefabList.length) % prefabList.length;
+                    sendNotification("Prefab: " + prefabList[currentWorldPrefabIndex], false);
+                },
+                isTogglable: false,
+                toolTip: "Cycles to the previous mob."
+            }),
+            new ButtonInfo({
+                buttonText: "Scale Prefab Up",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        sizespawner += 10;
+                        if (sizespawner > 1000.0)
+                            sizespawner = 1000.0;
+                        const items = Object.method("FindObjectsOfType").inflate(NetworkObjectClass).invoke();
+                        if (!items)
+                            return;
+                        const playerPos = getTransform(headCollider).method("get_position").invoke();
+                        for (let i = 0; i < items.length; i++) {
+                            const item = items.get(i);
+                            if (!item || item.isNull())
+                                continue;
+                            try {
+                                const dist = Vector3.method("Distance").invoke(playerPos, getTransform(item).method("get_position").invoke());
+                                if (dist < 1000.0) {
+                                    getTransform(item).method("set_localScale").invoke([sizespawner, sizespawner, sizespawner]);
+                                }
+                            }
+                            catch (_) { }
+                        }
+                        const gbos = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                        if (gbos) {
+                            for (let i = 0; i < gbos.length; i++) {
+                                const gbo = gbos.get(i);
+                                if (!gbo || gbo.isNull())
+                                    continue;
+                                try {
+                                    const dist = Vector3.method("Distance").invoke(playerPos, getTransform(gbo).method("get_position").invoke());
+                                    if (dist < 1000.0) {
+                                        try {
+                                            gbo.method("set_scaleModifier").invoke(Math.floor(sizespawner * 12));
+                                        }
+                                        catch (_) {
+                                            getTransform(gbo).method("set_localScale").invoke([sizespawner, sizespawner, sizespawner]);
+                                        }
+                                    }
+                                }
+                                catch (_) { }
+                            }
+                        }
+                        sendNotification("Prefab scale: " + sizespawner.toFixed(2), false);
+                    }
+                    catch (e) {
+                        console.error("scale up error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Scale Prefab Down",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        sizespawner -= 10;
+                        if (sizespawner < 0)
+                            sizespawner = 0;
+                        const items = Object.method("FindObjectsOfType").inflate(NetworkObjectClass).invoke();
+                        if (!items)
+                            return;
+                        const playerPos = getTransform(headCollider).method("get_position").invoke();
+                        for (let i = 0; i < items.length; i++) {
+                            const item = items.get(i);
+                            if (!item || item.isNull())
+                                continue;
+                            try {
+                                const dist = Vector3.method("Distance").invoke(playerPos, getTransform(item).method("get_position").invoke());
+                                if (dist < 1000.0) {
+                                    getTransform(item).method("set_localScale").invoke([sizespawner, sizespawner, sizespawner]);
+                                }
+                            }
+                            catch (_) { }
+                        }
+                        const gbos = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                        if (gbos) {
+                            for (let i = 0; i < gbos.length; i++) {
+                                const gbo = gbos.get(i);
+                                if (!gbo || gbo.isNull())
+                                    continue;
+                                try {
+                                    const dist = Vector3.method("Distance").invoke(playerPos, getTransform(gbo).method("get_position").invoke());
+                                    if (dist < 1000.0) {
+                                        try {
+                                            gbo.method("set_scaleModifier").invoke(Math.floor(sizespawner * 12));
+                                        }
+                                        catch (_) {
+                                            getTransform(gbo).method("set_localScale").invoke([sizespawner, sizespawner, sizespawner]);
+                                        }
+                                    }
+                                }
+                                catch (_) { }
+                            }
+                        }
+                        sendNotification("Prefab scale: " + sizespawner.toFixed(2), false);
+                    }
+                    catch (e) {
+                        console.error("scale down error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Reset Prefab Scale",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        sizespawner = 1.0;
+                        const playerPos = getTransform(headCollider).method("get_position").invoke();
+                        const items = Object.method("FindObjectsOfType").inflate(NetworkObjectClass).invoke();
+                        if (items) {
+                            for (let i = 0; i < items.length; i++) {
+                                const item = items.get(i);
+                                if (!item || item.isNull())
+                                    continue;
+                                try {
+                                    const dist = Vector3.method("Distance").invoke(playerPos, getTransform(item).method("get_position").invoke());
+                                    if (dist < 1000.0) {
+                                        getTransform(item).method("set_localScale").invoke([1.0, 1.0, 1.0]);
+                                    }
+                                }
+                                catch (_) { }
+                            }
+                        }
+                        const gbos = Object.method("FindObjectsOfType").inflate(GBOClass).invoke();
+                        if (gbos) {
+                            for (let i = 0; i < gbos.length; i++) {
+                                const gbo = gbos.get(i);
+                                if (!gbo || gbo.isNull())
+                                    continue;
+                                try {
+                                    const dist = Vector3.method("Distance").invoke(playerPos, getTransform(gbo).method("get_position").invoke());
+                                    if (dist < 1000.0) {
+                                        try {
+                                            gbo.method("set_scaleModifier").invoke(0);
+                                        }
+                                        catch (_) {
+                                            getTransform(gbo).method("set_localScale").invoke([1.0, 1.0, 1.0]);
+                                        }
+                                    }
+                                }
+                                catch (_) { }
+                            }
+                        }
+                        sendNotification("Prefab scale reset to 1.0", false);
+                    }
+                    catch (e) {
+                        console.error("scale reset error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Spiral",
+                isTogglable: true,
+                method: (() => {
+                    let orbitAngle = 0;
+                    let spawnedPrefabs = [];
+                    let lastPrefabIndex = -1;
+                    const TOTAL_PREFABS = 50;
+                    const RADIUS = 5;
+                    const HEIGHT_STEP = 7;
+                    const ORBIT_SPEED = 60.0;
+                    const REVOLUTIONS = 2.0;
+                    return () => {
+                        try {
+                            // respawn if prefab changed or not spawned yet
+                            if (lastPrefabIndex !== currentWorldPrefabIndex || spawnedPrefabs.length === 0) {
+                                // despawn old prefabs
+                                for (const p of spawnedPrefabs) {
+                                    try {
+                                        if (p && !p.isNull()) {
+                                            const runner = PrefabGen.field("_instance")
+                                                .value.method("get_runner").invoke();
+                                            const no = p.method("GetComponent", 1)
+                                                .inflate(NetworkObjectClass).invoke();
+                                            if (no && !no.isNull()) {
+                                                runner.method("Despawn", 1).invoke(no);
+                                            }
+                                        }
+                                    }
+                                    catch (_) { }
+                                }
+                                spawnedPrefabs = [];
+                                // spawn new prefabs
+                                const spawnPos = getTransform(headCollider).method("get_position").invoke();
+                                const prefabName = prefabList[currentWorldPrefabIndex];
+                                for (let i = 0; i < TOTAL_PREFABS; i++) {
+                                    try {
+                                        let spawned = null;
+                                        try {
+                                            spawned = spawnNetworkPrefab(prefabName, spawnPos, identityQuaternion);
+                                        }
+                                        catch (_) {
+                                            spawned = PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), spawnPos, identityQuaternion, null);
+                                        }
+                                        if (spawned && !spawned.isNull()) {
+                                            spawnedPrefabs.push(spawned);
+                                        }
+                                    }
+                                    catch (_) { }
+                                }
+                                lastPrefabIndex = currentWorldPrefabIndex;
+                                sendNotification("Spiral: " + prefabList[currentWorldPrefabIndex], false);
+                            }
+                            // update rotation angle
+                            orbitAngle += ORBIT_SPEED * deltaTime;
+                            if (orbitAngle > 360)
+                                orbitAngle -= 360;
+                            const centerPos = getTransform(headCollider).method("get_position").invoke();
+                            // offset the spiral so it starts at feet level
+                            const heightOffset = Vector3.method("op_Multiply").invoke(Vector3.field("upVector").value, -(TOTAL_PREFABS * HEIGHT_STEP) / 2);
+                            const basePos = Vector3.method("op_Addition").invoke(centerPos, heightOffset);
+                            for (let i = 0; i < spawnedPrefabs.length; i++) {
+                                const prefab = spawnedPrefabs[i];
+                                if (!prefab || prefab.isNull())
+                                    continue;
+                                // each prefab gets its own angle offset based on position in spiral
+                                const angleOffset = (i / TOTAL_PREFABS) * (360 * REVOLUTIONS);
+                                const rad = (orbitAngle + angleOffset) * (Math.PI / 180);
+                                const offsetX = Math.cos(rad) * RADIUS;
+                                const offsetZ = Math.sin(rad) * RADIUS;
+                                const offsetY = i * HEIGHT_STEP;
+                                const xPart = Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, offsetX);
+                                const yPart = Vector3.method("op_Multiply").invoke(Vector3.field("upVector").value, offsetY);
+                                const zPart = Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, offsetZ);
+                                const offset = Vector3.method("op_Addition").invoke(Vector3.method("op_Addition").invoke(xPart, yPart), zPart);
+                                const targetPos = Vector3.method("op_Addition").invoke(basePos, offset);
+                                // try RPC_Teleport on GBO first, fallback to transform
+                                try {
+                                    const gbo = prefab.method("GetComponent", 1).inflate(GBOClass).invoke();
+                                    if (gbo && !gbo.isNull()) {
+                                        gbo.method("RPC_Teleport", 2).invoke(targetPos, identityQuaternion, zeroVector, zeroVector, false, false);
+                                    }
+                                    else {
+                                        getTransform(prefab).method("set_position").invoke(targetPos);
+                                    }
+                                }
+                                catch (_) {
+                                    try {
+                                        getTransform(prefab).method("set_position").invoke(targetPos);
+                                    }
+                                    catch (_) { }
+                                }
+                            }
+                        }
+                        catch (e) {
+                            console.error("prefab spiral orbit error:", e);
+                        }
+                    };
+                })(),
+                disableMethod: (() => {
+                    return () => {
+                    };
+                })(),
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Cross",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const centerPos = getTransform(headCollider).method("get_position").invoke();
+                        const prefabName = prefabList[currentWorldPrefabIndex];
+                        const armLength = 5; // how many prefabs per arm
+                        const spacing = 0.6; // distance between each prefab
+                        const directions = [
+                            Vector3.field("forwardVector").value,
+                            Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, -1),
+                            Vector3.field("rightVector").value,
+                            Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, -1),
+                        ];
+                        // center piece
+                        try {
+                            spawnNetworkPrefab(prefabName, centerPos, identityQuaternion);
+                        }
+                        catch (_) {
+                            try {
+                                PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), centerPos, identityQuaternion, null);
+                            }
+                            catch (_) { }
+                        }
+                        for (const dir of directions) {
+                            for (let i = 1; i <= armLength; i++) {
+                                const offset = Vector3.method("op_Multiply").invoke(dir, i * spacing);
+                                const spawnPos = Vector3.method("op_Addition").invoke(centerPos, offset);
+                                try {
+                                    spawnNetworkPrefab(prefabName, spawnPos, identityQuaternion);
+                                }
+                                catch (_) {
+                                    try {
+                                        PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), spawnPos, identityQuaternion, null);
+                                    }
+                                    catch (_) { }
+                                }
+                            }
+                        }
+                        sendNotification("Spawned cross of: " + prefabName, false);
+                    }
+                    catch (e) {
+                        console.error("prefab cross error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab DNA",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const centerPos = getTransform(headCollider).method("get_position").invoke();
+                        const prefabName = prefabList[currentWorldPrefabIndex];
+                        const stepsPerRevolution = 12;
+                        const totalSteps = 36;
+                        const radius = 4;
+                        const heightStep = 0.25;
+                        const rungEvery = 3;
+                        for (let i = 0; i < totalSteps; i++) {
+                            const angle = (i / stepsPerRevolution) * (Math.PI * 2);
+                            const height = i * heightStep;
+                            const x1 = Math.cos(angle) * radius;
+                            const z1 = Math.sin(angle) * radius;
+                            const x2 = Math.cos(angle + Math.PI) * radius;
+                            const z2 = Math.sin(angle + Math.PI) * radius;
+                            const yPart = Vector3.method("op_Multiply").invoke(Vector3.field("upVector").value, height);
+                            const xPart1 = Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, x1);
+                            const zPart1 = Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, z1);
+                            const offset1 = Vector3.method("op_Addition").invoke(Vector3.method("op_Addition").invoke(xPart1, yPart), zPart1);
+                            const spawnPos1 = Vector3.method("op_Addition").invoke(centerPos, offset1);
+                            try {
+                                spawnNetworkPrefab(prefabName, spawnPos1, identityQuaternion);
+                            }
+                            catch (_) {
+                                try {
+                                    PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), spawnPos1, identityQuaternion, null);
+                                }
+                                catch (_) { }
+                            }
+                            // spawn strand 2
+                            const xPart2 = Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, x2);
+                            const zPart2 = Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, z2);
+                            const offset2 = Vector3.method("op_Addition").invoke(Vector3.method("op_Addition").invoke(xPart2, yPart), zPart2);
+                            const spawnPos2 = Vector3.method("op_Addition").invoke(centerPos, offset2);
+                            try {
+                                spawnNetworkPrefab(prefabName, spawnPos2, identityQuaternion);
+                            }
+                            catch (_) {
+                                try {
+                                    PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), spawnPos2, identityQuaternion, null);
+                                }
+                                catch (_) { }
+                            }
+                            if (i % rungEvery === 0) {
+                                const rungSteps = 3;
+                                for (let r = 1; r < rungSteps; r++) {
+                                    const t = r / rungSteps;
+                                    // lerp between strand 1 and strand 2 positions
+                                    const rx = x1 + (x2 - x1) * t;
+                                    const rz = z1 + (z2 - z1) * t;
+                                    const rxPart = Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, rx);
+                                    const rzPart = Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, rz);
+                                    const rungOffset = Vector3.method("op_Addition").invoke(Vector3.method("op_Addition").invoke(rxPart, yPart), rzPart);
+                                    const rungPos = Vector3.method("op_Addition").invoke(centerPos, rungOffset);
+                                    try {
+                                        spawnNetworkPrefab(prefabName, rungPos, identityQuaternion);
+                                    }
+                                    catch (_) {
+                                        try {
+                                            PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), rungPos, identityQuaternion, null);
+                                        }
+                                        catch (_) { }
+                                    }
+                                }
+                            }
+                        }
+                        sendNotification("Spawned DNA of: " + prefabName, false);
+                    }
+                    catch (e) {
+                        console.error("prefab DNA error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Sphere",
+                isTogglable: false,
+                method: () => {
+                    try {
+                        const centerPos = getTransform(headCollider).method("get_position").invoke();
+                        const prefabName = prefabList[currentWorldPrefabIndex];
+                        const rings = 6;
+                        const countPerRing = 8;
+                        const radius = 2.0;
+                        for (let r = 0; r < rings; r++) {
+                            const phi = (Math.PI / (rings - 1)) * r;
+                            for (let i = 0; i < countPerRing; i++) {
+                                const theta = ((2 * Math.PI) / countPerRing) * i;
+                                // spherical to cartesian
+                                const offsetX = radius * Math.sin(phi) * Math.cos(theta);
+                                const offsetY = radius * Math.cos(phi);
+                                const offsetZ = radius * Math.sin(phi) * Math.sin(theta);
+                                const rightVec = Vector3.field("rightVector").value;
+                                const upVec = Vector3.field("upVector").value;
+                                const fwdVec = Vector3.field("forwardVector").value;
+                                const xPart = Vector3.method("op_Multiply").invoke(rightVec, offsetX);
+                                const yPart = Vector3.method("op_Multiply").invoke(upVec, offsetY);
+                                const zPart = Vector3.method("op_Multiply").invoke(fwdVec, offsetZ);
+                                const offset = Vector3.method("op_Addition").invoke(Vector3.method("op_Addition").invoke(xPart, yPart), zPart);
+                                const spawnPos = Vector3.method("op_Addition").invoke(centerPos, offset);
+                                try {
+                                    spawnNetworkPrefab(prefabName, spawnPos, identityQuaternion);
+                                }
+                                catch (_) {
+                                    try {
+                                        PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), spawnPos, identityQuaternion, null);
+                                    }
+                                    catch (_) { }
+                                }
+                            }
+                        }
+                        sendNotification("Spawned sphere of: " + prefabName, false);
+                    }
+                    catch (e) {
+                        console.error("prefab sphere error:", e);
+                    }
+                },
+                toolTip: "Larp :)."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Orbit",
+                isTogglable: true,
+                method: (() => {
+                    let orbitObjects = [];
+                    let orbitAngle = 0;
+                    let orbitInitialized = false;
+                    const ORBIT_COUNT = 3;
+                    const ORBIT_RADIUS = 6.3;
+                    const ORBIT_SPEED = 90.0;
+                    const disable = () => {
+                        orbitObjects = [];
+                        orbitInitialized = false;
+                    };
+                    const update = () => {
+                        try {
+                            if (!orbitInitialized) {
+                                orbitObjects = [];
+                                for (let i = 0; i < ORBIT_COUNT; i++) {
+                                    const spawned = spawnNetworkPrefab(prefabList[currentWorldPrefabIndex], rightHandTransform.method("get_position").invoke(), identityQuaternion);
+                                    if (spawned)
+                                        orbitObjects.push(spawned);
+                                }
+                                orbitInitialized = true;
+                            }
+                            orbitAngle += ORBIT_SPEED * deltaTime;
+                            if (orbitAngle > 360)
+                                orbitAngle -= 360;
+                            const centerPos = getTransform(headCollider).method("get_position").invoke();
+                            for (let i = 0; i < orbitObjects.length; i++) {
+                                const obj = orbitObjects[i];
+                                if (!obj || obj.isNull())
+                                    continue;
+                                const angleOffset = (360 / orbitObjects.length) * i;
+                                const rad = (orbitAngle + angleOffset) * (Math.PI / 180);
+                                const offsetX = Math.cos(rad) * ORBIT_RADIUS;
+                                const offsetZ = Math.sin(rad) * ORBIT_RADIUS;
+                                const offsetVec = Vector3.method("op_Addition").invoke(Vector3.method("op_Multiply").invoke(Vector3.field("rightVector").value, offsetX), Vector3.method("op_Multiply").invoke(Vector3.field("forwardVector").value, offsetZ));
+                                const targetPos = Vector3.method("op_Addition").invoke(centerPos, offsetVec);
+                                getTransform(obj).method("set_position").invoke(targetPos);
+                            }
+                        }
+                        catch (e) {
+                            console.error("orbit error:", e);
+                        }
+                    };
+                    update._disable = disable;
+                    return update;
+                })(),
+                disableMethod: function () {
+                    var _a, _b;
+                    // call the shared disable via the attached reference
+                    const d = (_b = (_a = buttons.flat().find(b => b.buttonText === "Prefab Orbit")) === null || _a === void 0 ? void 0 : _a.method) === null || _b === void 0 ? void 0 : _b._disable;
+                    if (d)
+                        d();
+                },
+                toolTip: "Orbit lol."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab thing spawn",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (!rightGrab)
+                            return;
+                        if (!rightTrigger)
+                            return;
+                        const pos = rightHandTransform.method("get_position").invoke();
+                        const rot = rightHandTransform.method("get_rotation").invoke();
+                        const prefabName = prefabList[currentWorldPrefabIndex];
+                        try {
+                            spawnNetworkPrefab(prefabName, pos, rot);
+                        }
+                        catch (_) {
+                            try {
+                                PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), pos, rot, null);
+                            }
+                            catch (_) { }
+                        }
+                    }
+                    catch (e) {
+                        console.error("prefab spawn hand error:", e);
+                    }
+                },
+                toolTip: "Prefab lol."
+            }),
+            new ButtonInfo({
+                buttonText: "Prefab Gun",
+                isTogglable: true,
+                method: () => {
+                    try {
+                        if (!rightGrab)
+                            return;
+                        const gunData = renderGun();
+                        const gunPointer = gunData.gunPointer;
+                        if (!gunPointer)
+                            return;
+                        if (rightTrigger && time > tagGunDelay) {
+                            tagGunDelay = time + 0.3;
+                            const pos = getTransform(gunPointer).method("get_position").invoke();
+                            const rot = identityQuaternion;
+                            const prefabName = prefabList[currentWorldPrefabIndex];
+                            try {
+                                spawnNetworkPrefab(prefabName, pos, rot);
+                            }
+                            catch (_) {
+                                try {
+                                    PrefabGen.method("SpawnItem", 4).invoke(Il2Cpp.string(prefabName), pos, rot, null);
+                                }
+                                catch (_) { }
+                            }
+                            sendNotification("Spawned: " + prefabName, false);
+                        }
+                    }
+                    catch (e) {
+                        console.error("prefab gun error:", e);
+                    }
+                },
+                toolTip: "Prefab gun lol."
+            }),
+        ],
+        [
+            new ButtonInfo({
+                buttonText: "Exit BLTH Mods",
+                method: () => {
+                    currentCategory = 0;
+                    currentPage = 0;
+                },
+                isTogglable: false,
+                toolTip: "Returns you back to the main category."
+            }),
+            new ButtonInfo({
+                buttonText: "Big",
+                isTogglable: false,
+                method: () => {
+                },
+                toolTip: "Big."
+            }),
+            new ButtonInfo({
+                buttonText: "Love",
+                isTogglable: false,
+                method: () => {
+                },
+                toolTip: "Love."
+            }),
+            new ButtonInfo({
+                buttonText: "To",
+                isTogglable: false,
+                method: () => {
+                },
+                toolTip: "To."
+            }),
+            new ButtonInfo({
+                buttonText: "Harmony",
+                isTogglable: false,
+                method: () => {
+                },
+                toolTip: "Harmony."
+            }),
+            new ButtonInfo({
+                buttonText: "<color=red>♥</color>",
+                isTogglable: false,
+                method: () => {
+                },
+                toolTip: "<color=red>♥</color>"
+            }),
+        ],
+    ];
+    let buttonMap = new Map();
+    buttons.flat().forEach(button => {
+        buttonMap.set(button.buttonText, button);
+    });
+    function getIndex(buttonText) {
+        return buttonMap.get(buttonText);
+    }
+    const ButtonActivation = GorillaReportButton.method("OnTriggerEnter");
+    ButtonActivation.implementation = function (collider) {
+        var _a, _b, _c;
+        const rawName = this.method("get_name").invoke().toString();
+        if (rawName.length > 1 && rawName[1] == "@") {
+            if (collider.handle.equals(referenceCollider.handle)) {
+                const goName = rawName.substring(2, rawName.length - 1);
+                const _time = Time.method("get_time").invoke();
+                if (_time > buttonClickDelay) {
+                    buttonClickDelay = _time + 0.2;
+                    const button = getIndex(goName);
+                    playButtonSound();
+                    if (button) {
+                        if (button.isTogglable) {
+                            button.enabled = !button.enabled;
+                            reloadMenu();
+                            if (button === null || button === void 0 ? void 0 : button.enabled) {
+                                if (button.toolTip && buttonNotifications)
+                                    sendNotification("<color=grey>[</color><color=green>ENABLE</color><color=grey>]</color> " + button.toolTip, false);
+                                (_a = button.enableMethod) === null || _a === void 0 ? void 0 : _a.call(button);
+                            }
+                            else {
+                                if (button.toolTip && buttonNotifications)
+                                    sendNotification("<color=grey>[</color><color=red>DISABLE</color><color=grey>]</color> " + button.toolTip, false);
+                                (_b = button === null || button === void 0 ? void 0 : button.disableMethod) === null || _b === void 0 ? void 0 : _b.call(button);
+                            }
+                        }
+                        else {
+                            reloadMenu();
+                            if (button.toolTip && buttonNotifications)
+                                sendNotification("<color=grey>[</color><color=green>ENABLE</color><color=grey>]</color> " + button.toolTip, false);
+                            (_c = button === null || button === void 0 ? void 0 : button.method) === null || _c === void 0 ? void 0 : _c.call(button);
+                        }
+                    }
+                }
+            }
+            return;
+        }
+        return this.method("OnTriggerEnter").invoke(collider);
+    };
+    //const VRRigOnDisable = VRRig.method("OnDisable");
+    //VRRigOnDisable.implementation = function () {
+    //    if (this.handle.equals(LocalRig.handle)) {
+    //        return;
+    //    }
+    //
+    //    return this.method("OnDisable").invoke();
+    //};
+    //
+    //const SendReport = GorillaNot.method("SendReport");
+    //SendReport.implementation = function () {
+    //    return;
+    //}
+    // Custom boards
+    //{
+    //    let boardIndex = 0;
+    //    const forest = getTransform(getObject("Environment Objects/LocalObjects_Prefab/TreeRoom"));
+    //    const childCount = forest.method("get_childCount").invoke();
+    //
+    //    for (let i = 0; i < childCount; i++) {
+    //        const child = forest.method("GetChild").invoke(i);
+    //        const gameObject = child.method("get_gameObject").invoke();
+    //        if (gameObject.method("get_name").invoke().toString().includes("UnityTempFile")) {
+    //            boardIndex++;
+    //            if (boardIndex == 5) {
+    //                boardMaterial = Material.new();
+    //                Material.method("CreateWithShader").invoke(boardMaterial, UberShader);
+    //
+    //                getComponent(gameObject, Renderer).method("set_material").invoke(boardMaterial);
+    //                boardMaterial.method("set_color").invoke(bgColor);
+    //                break;
+    //            }
+    //        }
+    //    }
+    //
+    //    const motdTitle = getComponent(getObject("Environment Objects/LocalObjects_Prefab/TreeRoom/motdHeadingText"), TextMeshPro);
+    //    motdTitle.method("set_text").invoke(Il2Cpp.string("Thanks for using ii's Stupid Menu!"));
+    //
+    //    const motdText = getComponent(getObject("Environment Objects/LocalObjects_Prefab/TreeRoom/motdBodyText"), TextMeshPro);
+    //    motdText.method("set_fontSize").invoke(100);
+    //    motdText.method("set_text").invoke(Il2Cpp.string(`You are currently using build ${version}. Thank you for supporting me on Patreon, it means a lot! This menu runs completely standalone. I, iiDk, am not responsible for any bans using this menu. If you get banned while using this, it's your responsibility.`));
+    //}
+    // Stash and Object stuff
+    {
+        const GBOAnywhere1 = AssemblyCSharp.class("AnimalCompany.GrabbableObject").method("get_allowAttachToBack");
+        GBOAnywhere1.implementation = function () {
+            const originalValue = this.method("get_allowAttachToBack").invoke(); // call OG method
+            return allowPutGBO ? true : originalValue;
+        };
+        const GBOAnywhere2 = AssemblyCSharp.class("AnimalCompany.GrabbableObject").method("get_allowAttachToHip");
+        GBOAnywhere2.implementation = function () {
+            const originalValue = this.method("get_allowAttachToHip").invoke(); // call OG method
+            return allowPutGBO ? true : originalValue;
+        };
+        const GBOAnywhere3 = AssemblyCSharp.class("AnimalCompany.StashMachine.StashMachineActionsUtility").method("CanPerformMove");
+        GBOAnywhere3.implementation = function (_state, _src, _dest) {
+            if (stashAllowMoves) {
+                return true;
+            }
+            else {
+                return GBOAnywhere3.invoke(_state, _src, _dest);
+            }
+        };
+        const EjectItem = AssemblyCSharp.class("AnimalCompany.StashMachine.StashMachineTrashChuteView").method("EjectItem");
+        EjectItem.implementation = function (item) {
+            if (stashDupeEnabled) {
+                for (let i = 0; i < ejectDupeAmount; i++) {
+                    this.method("EjectItem").invoke(item);
+                }
+            }
+            else {
+                this.method("EjectItem").invoke(item);
+            }
+        };
+        const StashQOL = AssemblyCSharp.class("AnimalCompany.StashMachineSecurityKeypad").method("HandleKeyPressed");
+        StashQOL.implementation = function (key) {
+            if (stashQOLFix) {
+                for (let i = 0; i < 4; i++) {
+                    this.method("HandleKeyPressed").invoke(key);
+                }
+            }
+            else {
+                this.method("HandleKeyPressed").invoke(key);
+            }
+        };
+    }
+    // Infinite stuff
+    {
+        const InfJetpack = AssemblyCSharp.class("AnimalCompany.JetpackHandy").method("RPC_UseJetpack");
+        InfJetpack.implementation = function () {
+            if (infAmmo) {
+                this.method("RPC_UseJetpack").invoke();
+                this.field("_isUsed").value = false;
+            }
+            else {
+                this.method("RPC_UseJetpack").invoke();
+            }
+        };
+        const InfFlare = AssemblyCSharp.class("AnimalCompany.FlareGun").method("get_hasAmmo");
+        InfFlare.implementation = function () {
+            if (infAmmo) {
+                return true;
+            }
+        };
+        const InfZipline = AssemblyCSharp.class("AnimalCompany.ZiplineGun").method("get_isLoaded");
+        InfZipline.implementation = function () {
+            if (infAmmo) {
+                return true;
+            }
+        };
+        const InfAmmoRevolver = AssemblyCSharp.class("AnimalCompany.Revolver").method("get_ammoLoaded");
+        InfAmmoRevolver.implementation = function () {
+            if (infAmmo) {
+                return 159;
+            }
+        };
+        const CockedRevolver = AssemblyCSharp.class("AnimalCompany.Revolver").method("get_isHammerCocked");
+        CockedRevolver.implementation = function () {
+            if (infAmmo) {
+                return true;
+            }
+        };
+        const InfAmmoRevolverArena = AssemblyCSharp.class("AnimalCompany.AutoReloadGun").method("get__ammoLeft");
+        InfAmmoRevolverArena.implementation = function () {
+            if (infAmmo) {
+                return 159;
+            }
+        };
+        const ShotgunInfAmmo = AssemblyCSharp.class("AnimalCompany.Shotgun").method("get__ammoLeft");
+        ShotgunInfAmmo.implementation = function () {
+            if (infAmmo) {
+                return 159;
+            }
+        };
+        //const ShotgunInfAmmo2 = AssemblyCSharp.class("AnimalCompany.Shotgun").method("ResetHeldReload");
+        //ShotgunInfAmmo2.implementation = function () {
+        //    if(infAmmo){
+        //        return false;
+        //    }
+        //}
+        const RPGInfAmmo = AssemblyCSharp.class("AnimalCompany.RPG").method("get_loadedState");
+        RPGInfAmmo.implementation = function () {
+            if (infAmmo) {
+                return [1, 2];
+            }
+        };
+    }
+    // Misc
+    {
+        const ArenaItemKillerGoByeBye = AssemblyCSharp.class("AnimalCompany.ArenaItemKiller").method("DespawnIfNecessary");
+        ArenaItemKillerGoByeBye.implementation = function () {
+            return false;
+        };
+        const BackpackDupe = AssemblyCSharp.class("AnimalCompany.BackpackItem").method("RemoveItem");
+        BackpackDupe.implementation = function (key) {
+            if (backpackDupeEnabled) {
+                return false;
+            }
+            else {
+                this.method("RemoveItem").invoke(key);
+            }
+        };
+    }
+    function updateInput() {
+        const leftDevice = InputDevices.method("GetDeviceAtXRNode", 1).invoke(4); // LeftHand
+        const rightDevice = InputDevices.method("GetDeviceAtXRNode", 1).invoke(5); // RightHand
+        const outBool = Il2Cpp.alloc(1);
+        leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primaryButton").value, outBool);
+        leftPrimary = outBool.readU8() !== 0;
+        leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("secondaryButton").value, outBool);
+        leftSecondary = outBool.readU8() !== 0;
+        leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("gripButton").value, outBool);
+        leftGrab = outBool.readU8() !== 0;
+        leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("triggerButton").value, outBool);
+        leftTrigger = outBool.readU8() !== 0;
+        leftDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primary2DAxisClick").value, outBool);
+        leftStick = outBool.readU8() !== 0;
+        rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primaryButton").value, outBool);
+        rightPrimary = outBool.readU8() !== 0;
+        rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("secondaryButton").value, outBool);
+        rightSecondary = outBool.readU8() !== 0;
+        rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("triggerButton").value, outBool);
+        rightTrigger = outBool.readU8() !== 0;
+        rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("gripButton").value, outBool);
+        rightGrab = outBool.readU8() !== 0;
+        rightDevice.method("TryGetFeatureValue", 2).invoke(CommonUsages.field("primary2DAxisClick").value, outBool);
+        rightStick = outBool.readU8() !== 0;
+    }
+    const LateUpdate = GTPlayer.method("OnLateUpdate");
+    LateUpdate.implementation = function () {
+        deltaTime = Time.method("get_deltaTime").invoke();
+        frameCount++;
+        if (!instance) {
+            console.log("GorillaLocomotion instance not initialized yet");
+        }
+        //  if (whatnumber == 0) {
+        //      const fields = GTPlayer.class.fields;
+        //      fields.forEach(f => console.log(f.name + " | static=" + f.isStatic)); 
+        //      whatnumber + 1;
+        //  }
+        updateInput();
+        if ((righthand && rightSecondary) || (!righthand && leftSecondary)) {
+            if (currentNotification != "" && time > notifactionResetTime)
+                reloadMenu();
+            if (menu == null) {
+                renderMenu();
+            }
+            else {
+                recenterMenu();
+            }
+        }
+        else {
+            if (menu != null) {
+                Destroy(menu);
+                menu = null;
+            }
+        }
+        if (menu == null) {
+            if (reference != null) {
+                Destroy(reference);
+                reference = null;
+            }
+        }
+        else {
+            if (reference == null) {
+                renderReference();
+            }
+        }
+        try {
+            if (GunPointer != null) {
+                if (!(GunPointer.method("get_activeSelf").invoke())) {
+                    Destroy(GunPointer);
+                    GunPointer = null;
+                }
+                else
+                    GunPointer.method("SetActive").invoke(false);
+            }
+            let lineObj = GunLine.method("get_gameObject").invoke();
+            if (lineObj != null) {
+                if (!(lineObj.method("get_activeSelf").invoke())) {
+                    Destroy(lineObj);
+                    GunLine = null;
+                }
+                else
+                    lineObj.method("SetActive").invoke(false);
+            }
+        }
+        catch { }
+        buttons.flat()
+            .filter(button => button.enabled)
+            .forEach(button => {
+            if (button.method) {
+                try {
+                    button.method();
+                }
+                catch (error) {
+                    console.error(`Error executing method for button '${button.buttonText || 'unnamed'}':`, error);
+                    console.error('Error stack:', error.stack);
+                    console.error('Button object:', button);
+                    if (error.stack) {
+                        const stackLines = error.stack.split('\n');
+                        if (stackLines.length > 1) {
+                            console.error('Error occurred at:', stackLines[1].trim());
+                        }
+                    }
+                }
+            }
+        });
+        //if (myNP == null) {
+        //    const players = Object.method("FindObjectsOfType").inflate(NetPlayer).invoke();
+        //    if (players) {
+        //        for (let i = 0; i < players.length; i++) {
+        //            const netPlayer = players.get(i);
+        //            if (!netPlayer.method("get_IsMine").invoke()) continue;
+        //            myNP = netPlayer; // cache it
+        //            break; // stop once we found it
+        //        }
+        //    }
+        //}
+        return LateUpdate.invoke();
+    };
+    stashAllowMoves = true;
+    stashQOLFix = true;
+    UnlockAll();
+    console.log(`
+
+     ••╹   ┏┓     • ┓  ┳┳┓      
+     ┓┓ ┏  ┗┓╋┓┏┏┓┓┏┫  ┃┃┃┏┓┏┓┓┏
+     ┗┗ ┛  ┗┛┗┗┻┣┛┗┗┻  ┛ ┗┗ ┛┗┗┻
+                ┛               
+    ii's Stupid Menu Quest ${version}
+    Compiled ${new Date().toISOString()}
+`);
+}, "main");
