@@ -5,10 +5,11 @@
         "noEmit": false,
         "skipLibCheck": true,
         "noImplicitAny": false,
-        "outDir": "./out"
+        "outDir": "./out",
+        "allowJs": true
     },
     "include": [
-        "acshit.ts"
+        ".cache/**/*"
     ],
     "exclude": [
         "poopy.ts"
