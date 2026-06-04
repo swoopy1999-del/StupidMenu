@@ -9,9 +9,10 @@
         "allowJs": true
     },
     "include": [
-        ".cache/**/*"
+        "**/*"
     ],
     "exclude": [
-        "poopy.ts"
+        "poopy.ts",
+        "out"
     ]
 }
